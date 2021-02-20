@@ -24,7 +24,7 @@
   --tag-extra-padding-left: calc(var(--tag-actual-padding-horizontal) + var(--hash-blocking-bg-width) - var(--hashtag-width));
 }```
 - 
-- #[[Tweeted]]
+- #Tweeted, #Retweeted, #[[Tweet draft]]
     ```css
 span.rm-page-ref[data-tag="Tweeted"],
 span.rm-page-ref[data-tag="Retweeted"],

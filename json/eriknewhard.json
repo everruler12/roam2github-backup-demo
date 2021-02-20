@@ -341,7 +341,7 @@
         }
       },
       {
-        "edit-time": 1602796198872,
+        "edit-time": 1613861070626,
         "children": [
           {
             "string": "```css\nspan.rm-page-ref[data-tag=\"Tweeted\"],\nspan.rm-page-ref[data-tag=\"Retweeted\"],\nspan.rm-page-ref[data-tag=\"Tweet draft\"] {\n  color: rgb(29, 161, 242) !important;\n  font-weight: 700;\n  background-color: white !important;\n\n  position: relative;\n  padding-left: var(--tag-extra-padding-left);\n  padding-right: var(--tag-actual-padding-horizontal);\n}\n\nspan.rm-page-ref[data-tag=\"Tweeted\"]:before,\nspan.rm-page-ref[data-tag=\"Retweeted\"]:before,\nspan.rm-page-ref[data-tag=\"Tweet draft\"]:before {\n  background: white;\n\n  content: '';\n  width: var(--hash-blocking-bg-width);\n  height: var(--tag-icon-height);\n  position: absolute;\n  left: var(--tag-actual-padding-horizontal);\n  top: var(--tag-icon-padding);\n}\n\nspan.rm-page-ref[data-tag=\"Tweeted\"]:after,\nspan.rm-page-ref[data-tag=\"Retweeted\"]:after,\nspan.rm-page-ref[data-tag=\"Tweet draft\"]:after {\n  background: url('https://twitter.com/favicon.ico') no-repeat;\n  \n  content: '';\n  width: var(--tag-icon-width);\n  height: var(--tag-icon-height);\n  position: absolute;\n  left: var(--tag-actual-padding-horizontal);\n  top: 0;\n  margin-top: var(--tag-icon-padding);\n  background-size: var(--tag-icon-width) var(--tag-icon-height);\n}\n\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweeted\"],\n.rm-reference-item span.rm-page-ref[data-tag=\"Retweeted\"],\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweet draft\"] {\n  background-color: var(--reference-bg-color) !important;\n}\n\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweeted\"]::before,\n.rm-reference-item span.rm-page-ref[data-tag=\"Retweeted\"]::before,\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweet draft\"]::before {\n  background-color: var(--reference-bg-color) !important;\n}\n\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweeted\"],\n.rm-embed-container span.rm-page-ref[data-tag=\"Retweeted\"],\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweet draft\"], {\n  background-color: var(--embed-bg-color) !important;\n}\n\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweeted\"]::before,\n.rm-embed-container span.rm-page-ref[data-tag=\"Retweeted\"]::before,\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweet draft\"]::before {\n  background-color: var(--embed-bg-color) !important;\n}```",
@@ -359,15 +359,27 @@
         "refs": [
           {
             "uid": "Zkb5SGmuZ"
+          },
+          {
+            "uid": "8dVen_MLG"
+          },
+          {
+            "uid": "v96bl4e5D"
           }
         ],
         "uid": "KQffDy5OH",
         ":block/refs": [
           {
             ":block/uid": "Zkb5SGmuZ"
+          },
+          {
+            ":block/uid": "8dVen_MLG"
+          },
+          {
+            ":block/uid": "v96bl4e5D"
           }
         ],
-        "string": "#[[Tweeted]]",
+        "string": "#Tweeted, #Retweeted, #[[Tweet draft]]",
         ":create/user": {
           ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
         },
@@ -4290,11 +4302,93 @@
   {
     "create-time": 1611880064942,
     "title": "January 29th, 2021",
-    "uid": "01-29-2021",
-    "edit-time": 1611880064943,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
+    "children": [
+      {
+        "edit-time": 1613859619041,
+        "children": [
+          {
+            "string": "Roam-to-git automatic backups are failing every hour. I'm learning puppeteer to roll my own solution. I got the Roam JSON export extracted. Now need to learn how to create GitHub Actions...",
+            "create-time": 1613859484981,
+            "uid": "aK33IxhzC",
+            "edit-time": 1613859486668,
+            ":create/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            },
+            ":edit/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            }
+          },
+          {
+            "string": "{{embed: ((dTA4URUDC))}}",
+            "create-time": 1613859488494,
+            ":block/refs": [
+              {
+                ":block/uid": "dTA4URUDC"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "dTA4URUDC"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            },
+            "uid": "yClQUUxdb",
+            "edit-time": 1613859497309,
+            ":edit/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            }
+          },
+          {
+            "string": "{{embed: ((duQ96JjY8))}}",
+            "create-time": 1613859492858,
+            ":block/refs": [
+              {
+                ":block/uid": "duQ96JjY8"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "duQ96JjY8"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            },
+            "uid": "dl5igBB5C",
+            "edit-time": 1613859534476,
+            ":edit/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Zkb5SGmuZ"
+          }
+        ],
+        "uid": "cyhLs_60K",
+        ":block/refs": [
+          {
+            ":block/uid": "Zkb5SGmuZ"
+          }
+        ],
+        "string": "#Tweeted https://twitter.com/ErikNewhard/status/1355208343510388737?s=20",
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        "create-time": 1613859485979,
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      }
+    ],
+    "uid": "01-29-2021",
+    "edit-time": 1611880064943,
     ":edit/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     }
@@ -4320,7 +4414,7 @@
                 "string": "https://github.com/everruler12/roam2github-demo",
                 "create-time": 1612034902181,
                 "uid": "_lrifq7Rx",
-                "edit-time": 1612034942565,
+                "edit-time": 1613859444855,
                 ":create/user": {
                   ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
                 },
@@ -4947,11 +5041,33 @@
     },
     "children": [
       {
-        "string": "#Tweeted",
-        "create-time": 1613859392557,
-        ":block/refs": [
+        "edit-time": 1613859421365,
+        "children": [
           {
-            ":block/uid": "Zkb5SGmuZ"
+            "string": "Major update: it's now possible to set up a public repo to run the Actions and save to a private repo. The advantage of this is not being limited to 2000 minutes of private Action runtime.",
+            "create-time": 1613859501867,
+            ":create/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            },
+            "children": [
+              {
+                "string": "https://www.notion.so/Roam2Github-Backup-Guide-650925859a4a42cf940e3fb74f5189f9",
+                "create-time": 1613859398520,
+                "uid": "PMY1VaGNC",
+                "edit-time": 1613859503587,
+                ":create/user": {
+                  ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+                },
+                ":edit/user": {
+                  ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+                }
+              }
+            ],
+            "uid": "duQ96JjY8",
+            "edit-time": 1613859501867,
+            ":edit/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            }
           }
         ],
         "refs": [
@@ -4959,23 +5075,17 @@
             "uid": "Zkb5SGmuZ"
           }
         ],
-        ":create/user": {
-          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
-        },
         "uid": "0sjKW20YE",
-        "edit-time": 1613859398534,
-        ":edit/user": {
-          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
-        }
-      },
-      {
-        "string": "https://www.notion.so/Roam2Github-Backup-Guide-650925859a4a42cf940e3fb74f5189f9",
-        "create-time": 1613859398520,
-        "uid": "PMY1VaGNC",
-        "edit-time": 1613859399942,
+        ":block/refs": [
+          {
+            ":block/uid": "Zkb5SGmuZ"
+          }
+        ],
+        "string": "#Tweeted https://twitter.com/ErikNewhard/status/1363251177106804738?s=20",
         ":create/user": {
           ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
         },
+        "create-time": 1613859392557,
         ":edit/user": {
           ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
         }
