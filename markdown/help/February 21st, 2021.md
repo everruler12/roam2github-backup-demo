@@ -159,20 +159,84 @@ opacity: 1;
   padding: 8px 0px;
  
 }``` [*](((WD92x3LBi)))
+            - Taken further
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FXhumF0SsBB.png?alt=media&token=130a1fe5-29b5-44da-9da8-6a820a68a166)
+                    - Result of::
+                        - ```css
+.mindmap {
+  overflow: scroll;
+background-color: rgba(211,211,211,0.31);
+ min-width: 70vw;
+  
+  margin: 0px !important;
+  padding: 8px !important;
+}
+
+.mindmap > .rm-block__children {
+  min-width: 100%;
+}
+
+.mindmap .rm-block__children .rm-block {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.mindmap .rm-block__children .rm-block__input {
+  border-left: 1px solid grey;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  padding: 8px;
+}
+.mindmap .rm-block__children .rm-block__self {
+  flex-grow: 0.1;
+}
+.mindmap .rm-block__children .rm-block__children .rm-block__controls {
+opacity: 1;
+  position: relative;
+}
+
+
+.mindmap:hover .rm-block__children .rm-block__controls {
+opacity: 1;
+}
+
+.mindmap:hover .rm-block__children .rm-block__controls {
+opacity: 1;
+}
+
+
+.mindmap .rm-block__children .rm-block__children .block-expand  {
+  opacity: 1;
+  background-color: green;
+  height: 4px;
+  align-self: center;
+  min-width: 80%;
+  margin-left: -4px;
+}
+
+.mindmap .rm-block__children .rm-block__children {
+   flex-grow: 1;
+  margin: 12px 4px;
+  padding: 8px 0px;
+ 
+}``` [*](((WD92x3LBi)))
         - Workspace 
             - test
                 - 
-                    - #.mindmap
+                - 1
+                    - 2 #.mindmap
                         - This is not going to be quite right
                             - A "C"
-                                - B
-                                - C
                                 - C
                                     - D
+                            - {{[[embed]]: ((dr7PdJAjs))}}
+                                - B
+                            - In another context {{[[embed]]: ((tGuGzjThB))}}
+                                - 
+                            - X
+                                - C
                                     - "B"
                                         - E
-                                        - {{[[embed]]: ((dr7PdJAjs))}}
-                                            - 
             - Editor
                 - {{[[embed]]: ((WD92x3LBi))}}
             - #.mindmap
@@ -182,11 +246,62 @@ opacity: 1;
                         - Z
                             - 
         - Testing with an embedded page or block
-        - {{[[video]]: https://www.loom.com/share/a49deee0d918461ba7c26208056c188c}}
-            - #.mindmap
-                - {{[[embed]]: [[Roam White Paper]]}}
-                - {{[[embed]]: [[It's Time To Build]]}}
+        - Video of me writing it
+            - {{[[video]]: https://www.loom.com/share/a49deee0d918461ba7c26208056c188c}}
+                - 
             - #.mindmap
                 - {{embed: [[How can we develop transformative tools for thought?]]}}
             - #.mindmap
                 - {{[[embed]]: ((LDz19VdCH))}} 
+            - #.mindmap
+                - {{[[embed]]: [[Roam White Paper]]}}
+                - {{[[embed]]: [[It's Time To Build]]}}
+            - 
+- 00:25 - 00:44
+    - Thinking about how to use `[[.mindmap]]` with real content 
+        - #.mindmap
+            - [[Tangent]]s
+            - Starting Questions
+                - What Needs to Improve
+                    - It's way way too hard to make Roam full width 
+                        - Particularly as a block level setting
+                            - Who might I ask for help?::
+                                - #[[From]] [[Roam Team]]
+                                    - [[Adam]]
+                                - #From #RoamCult
+                                    - Creators of [[Roamcult Themes]]
+                    - Drawing the line that connects children of a block to their parents
+                        - Specific Problems
+                            - The height is calculated relative to all nested items - but we really only want it to be positioned 
+                                - Who might I ask for help?::
+                                    - [[Azlen Elza]]
+                - Who might I ask for help - Query
+                    - {{[[query]]: {and: ((pg17vClzH)) [[Who might I ask for help?]]}}}
+                - All Question tags
+                    - {{[[query]]: {and: ((pg17vClzH)) [[Question]]}}}
+            - [[Highest Priority]] [[Problems]] to Solve
+                - "It's way way too hard to make Roam full width "
+                    - This feels especially Aggravating When trying to do more visual stuff
+                    - Potential Solutions::
+                        - Use CSS Grid top level
+                        - Remove the default calculated padding outright
+                            - Limitations::
+                                - Will create problems with overlapping sidebar
+                                - "[[Tangent]]s"
+                                    - Noticed that Block Refs here are much nicer than Queries
+                                    - Block Embeds are even more counterintuitive than normal though
+                        - Move it into a theme
+                    - [[Question]]
+                        - Do I have the original constraints written down for when I initially decided to use that calculated inline style?
+    - {{[[embed]]: ((PZFg4yFBW))}}
+    - {{[[embed]]: ((rFhnd5dbi))}}
+- 00:44 - 00:59
+    - Challenges right now - every block is position relative
+        - Ā Ė 
+            - test{{[[embed]]: ((3DXwUyiy0))}}
+        - 
+            - {{[[embed]]: [[roam/css]]}}
+            - {{embed: ((V6fuEaI8V))}}
+        - #.bp3-card #.full-width
+            - 
+            - {{[[embed]]: ((V6fuEaI8V))}}

@@ -1,12 +1,20 @@
 - [[Conor]]
     - ```css
+.test-full-width {	
+  position: fixed;
+  left: 0px;
+  right: 100px;
+  bottom: 0px;
+  z-index: -1;
+  opacity: 0.4;
+}```
+    - ```css
 .mindmap {
   overflow: scroll;
 background-color: rgba(211,211,211,0.31);
-  min-width: 60vw;
+ min-width: 70vw;
   
   margin: 0px !important;
-  margin-left: -40px !important;
   padding: 8px !important;
 }
 
@@ -31,16 +39,11 @@ background-color: rgba(211,211,211,0.31);
 .mindmap .rm-block__children .rm-block__children .rm-block__controls {
 opacity: 1;
   position: relative;
+  align-self: center;
 }
 
 
-.mindmap:hover .rm-block__children .rm-block__controls {
-opacity: 1;
-}
 
-.mindmap:hover .rm-block__children .rm-block__controls {
-opacity: 1;
-}
 
 
 .mindmap .rm-block__children .rm-block__children .block-expand  {
@@ -50,6 +53,19 @@ opacity: 1;
   align-self: center;
   min-width: 80%;
   margin-left: -4px;
+  position: relative;
+}
+
+.mindmap .rm-block__children .rm-block__children .block-expand span {
+  opacity: 1;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: green;
+  color: transparent;
+  transform: none !important;
 }
 
 .mindmap .rm-block__children .rm-block__children {
@@ -62,8 +78,8 @@ opacity: 1;
 
 .mindmap .rm-block__children .rm-block__children .rm-multibar {
   opacity: 1;
-  top: 30%;
-  bottom: 30%;
+  top: 1em;
+  bottom: 1em;
   background-color: green;
   width: 4px;
 }```
