@@ -1,4 +1,75 @@
 - [[Conor]]
+    - New Document Mode
+        - 
+            - ```css
+.doc-mode  .rm-block__self:not(:hover)  .rm-block__controls {
+opacity: 0.1;
+}
+
+
+.path-highlighted {
+  opacity: 1 !important;
+ 
+}
+
+.doc-mode :not(.rm-block--open) > .rm-block__children {
+  margin-left: 0px;
+}
+
+.doc-mode .rm-block--open :not(.rm-heading-level-1,.rm-heading-level-2,.rm-heading-level-3) .rm-block__children:not(:hover) .rm-multibar {
+  opacity: 0;
+}
+
+
+
+.doc-mode .rm-block--open > .rm-block__children > .rm-block 
+.rm-block__controls {
+opacity: 1 !important;
+ 
+}
+
+.doc-mode :not(.rm-heading-level-1,.rm-heading-level-2,.rm-heading-level-3) 
+.rm-block__children
+.rm-block__self:not(:hover)
+.rm-block__controls {
+  opacity: 0 !important;
+}
+
+.doc-mode .rm-block--open :not(.rm-heading-level-1,.rm-heading-level-2,.rm-heading-level-3,.rm-heading-level-4) > .rm-block__children {
+  margin-left: 16px;
+}
+
+.doc-mode  .rm-block__children {
+
+  margin-left: 0px;
+ 
+}
+
+.rm-heading-level-1:hover > .rm-block__children {
+  background-color: rgba(211,211,211,0.11);
+  border-top: 1px solid grey;
+  margin-left: 8px;
+}
+
+.rm-heading-level-2:hover > .rm-block__children {
+  background-color: rgba(211,211,211,0.11);
+  border-top: 1px solid grey;
+  margin-left: 8px;
+}
+
+.rm-heading-level-3:hover > .rm-block__children {
+  background-color: rgba(211,211,211,0.11);
+  border-top: 1px solid grey;
+  margin-left: 8px;
+}
+```
+                - ```css
+
+.doc-mode > .rm-block__children:not(.rm-heading-level-1)  .rm-multibar {
+  border-color: transparent;
+}
+
+```
     - ```css
 .test-full-width {	
   position: fixed;
