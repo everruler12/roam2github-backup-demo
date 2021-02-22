@@ -42,10 +42,6 @@ opacity: 1;
   align-self: center;
 }
 
-
-
-
-
 .mindmap .rm-block__children .rm-block__children .block-expand  {
   opacity: 1;
   background-color: green;
