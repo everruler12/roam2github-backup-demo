@@ -1,17 +1,34 @@
 - [[Conor]]
     - ```css
 .mindmap {
+  overflow: scroll;
+background-color: rgba(211,211,211,0.31);
+  min-width: 60vw;
+  
+  margin: 0px !important;
+  margin-left: -40px !important;
+  padding: 8px !important;
+}
+
+.mindmap > .rm-block__children {
+  min-width: 100%;
+}
+
+.mindmap .rm-block__children .rm-block {
   display: flex;
   align-items: center;
   flex-direction: row;
 }
-.mindmap .rm-block__input {
-  border: 1px solid grey;
+.mindmap .rm-block__children .rm-block__input {
+  border-left: 1px solid grey;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  padding: 8px;
 }
-.mindmap > .rm-block__self {
+.mindmap .rm-block__children .rm-block__self {
   flex-grow: 0.1;
 }
-.mindmap .rm-block__children .rm-block__controls {
+.mindmap .rm-block__children .rm-block__children .rm-block__controls {
 opacity: 1;
   position: relative;
 }
@@ -26,16 +43,29 @@ opacity: 1;
 }
 
 
-.mindmap .block-expand .rm-caret {
+.mindmap .rm-block__children .rm-block__children .block-expand  {
   opacity: 1;
+  background-color: green;
+  height: 4px;
+  align-self: center;
+  min-width: 80%;
+  margin-left: -4px;
 }
-.mindmap > .rm-block__children {
+
+.mindmap .rm-block__children .rm-block__children {
    flex-grow: 1;
   margin: 12px 4px;
   padding: 8px 0px;
-  border-top: 1px solid green;
-  border-bottom: 1px solid green;
-  border-left: 1px solid green;
+ 
+}```
+        - ```css
+
+.mindmap .rm-block__children .rm-block__children .rm-multibar {
+  opacity: 1;
+  top: 30%;
+  bottom: 30%;
+  background-color: green;
+  width: 4px;
 }```
     - ```css
 .group {

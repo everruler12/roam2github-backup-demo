@@ -1,4 +1,4 @@
-- Sections that [[Conor]] cared about
+- Sections that [[Conor]] cared about 
     - ### How to Invent Hindu-Arabic Numerals
         - source:: https://numinous.productions/ttft/#how-to-invent-hindu-arabic-numerals
         - Key Questions::
