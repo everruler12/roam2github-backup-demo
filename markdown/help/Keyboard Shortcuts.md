@@ -225,6 +225,7 @@ Code Block```
         - Toggle block preview
             - Windows:: Ctrl+c ⇒ Ctrl+p
             - Mac:: Ctrl+c ⇒ Ctrl+p
+            - "You can use control-c control-p to get a preview of the block you're looking at"
         - Cycle [[name/spaces]]
             - Windows:: Ctrl+c ⇒ Ctrl+l 
             - Mac:: Ctrl+c ⇒ Ctrl+l
