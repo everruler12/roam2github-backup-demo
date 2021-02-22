@@ -1,5 +1,43 @@
 - [[Conor]]
     - ```css
+.mindmap {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.mindmap .rm-block__input {
+  border: 1px solid grey;
+}
+.mindmap > .rm-block__self {
+  flex-grow: 0.1;
+}
+.mindmap .rm-block__children .rm-block__controls {
+opacity: 1;
+  position: relative;
+}
+
+
+.mindmap:hover .rm-block__children .rm-block__controls {
+opacity: 1;
+}
+
+.mindmap:hover .rm-block__children .rm-block__controls {
+opacity: 1;
+}
+
+
+.mindmap .block-expand .rm-caret {
+  opacity: 1;
+}
+.mindmap > .rm-block__children {
+   flex-grow: 1;
+  margin: 12px 4px;
+  padding: 8px 0px;
+  border-top: 1px solid green;
+  border-bottom: 1px solid green;
+  border-left: 1px solid green;
+}```
+    - ```css
 .group {
   display: flex;
   align-items: center;
