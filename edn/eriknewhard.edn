@@ -277,7 +277,7 @@
        :value " Daily Note Descending"}]}
    536874254]
   [1134 :node/title "Tweeted" 536874181]
-  [1134 :page/sidebar 2 536874537]
+  [1134 :page/sidebar 3 536876019]
   [1135 :block/children 1136 536873984]
   [1135 :block/uid "10-13-2020" 536873983]
   [1135 :edit/time 1602601154956 536873983]
@@ -1036,7 +1036,7 @@
   [1288 :edit/time 1603561800204 536874426]
   [1288 :edit/user 1 536875710]
   [1288 :node/title "Tweet draft" 536874426]
-  [1288 :page/sidebar 3 536874537]
+  [1288 :page/sidebar 2 536876019]
   [1289 :block/children 1290 536874442]
   [1289 :block/uid "10-25-2020" 536874441]
   [1289 :edit/time 1603605602735 536874441]
@@ -3819,8 +3819,8 @@
   [1708 :version/id "0.8.2" 536875900]
   [1708
    :version/nonce
-   "uuidccb2601d-90bd-4172-8cda-fcb0348d2a4d"
-   536876016]
+   "uuid3dcfe2ef-4d0f-4c9a-aa6e-2c51ddfba14f"
+   536876019]
   [1709 :block/children 1707 536875905]
   [1709 :block/open true 536875903]
   [1709 :block/order 0 536875903]
@@ -4053,4 +4053,11 @@
   [1732 :edit/time 1614127186680 536876016]
   [1732 :edit/user 1 536876016]
   [1732 :log/id 1614127186679 536876016]
-  [1732 :node/title "February 24th, 2021" 536876016]]}
+  [1732 :node/title "February 24th, 2021" 536876016]
+  [1733 :block/uid "DajRc5KbE" 536876018]
+  [1733 :user/display-name "Jules Violago" 536876017]
+  [1733
+   :user/photo-url
+   "https://lh4.googleusercontent.com/-ucThKy0Bspw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMYXWT6gqvTPv4vYqMywAtMpyCjw/s96-c/photo.jpg"
+   536876017]
+  [1733 :user/uid "4gUx2QjqGYcyVU22Gi5LGqA8ojq2" 536876017]]}
