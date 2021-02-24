@@ -1,8 +1,4 @@
 ## Complete Courses 
-    - [From Beginner to Superuser: A Complete Roam Tutorial Course](https://www.youtube.com/watch?v=cHzuPptZRe4&list=PLwXSqDdn_CpE934BjXMgmzHnlwXMy41TC&index=2)
-        - All the basics, plus [[Mobile Quick Capture]], [[Project Management]], and [[Task Management]]. 
-        - {{youtube: https://www.youtube.com/watch?v=cHzuPptZRe4&list=PLwXSqDdn_CpE934BjXMgmzHnlwXMy41TC&index=2}}
-            - by #roamcult 
     - [How to Use Roam Research: A Complete Guide](https://www.youtube.com/playlist?list=PLralmZwl_8jJuJMIebWFqm6K5I20a5Qve) 
         - Workflows for [[Task Management]], [[Journaling]], [[Spaced Repetition]], [[Roam for Zettlekasting]] and more. 
         - {{youtube: https://www.youtube.com/watch?v=iGQHEUV3PvM&list=PLralmZwl_8jJuJMIebWFqm6K5I20a5Qve&index=2&t=1s}}

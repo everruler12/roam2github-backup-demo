@@ -10,8 +10,6 @@
         - {{[[youtube]]: https://www.youtube.com/watch?v=X6OOos4met0&t}}
     - [Roam Research for Kids by Les Kristofs](https://www.youtube.com/watch?v=PMJL2cvmeeQ&list=PLS7Ix7BP1Vuoi3Hl46nUnDHukb52xQWx2)
         - {{[[youtube]]: https://www.youtube.com/watch?v=PMJL2cvmeeQ&list=PLS7Ix7BP1Vuoi3Hl46nUnDHukb52xQWx2}}
-    - [From Beginner to Superuser by Anonym.s](https://www.youtube.com/watch?v=cHzuPptZRe4&list=PLwXSqDdn_CpE934BjXMgmzHnlwXMy41TC)
-        - {{[[youtube]]: https://www.youtube.com/watch?v=cHzuPptZRe4&list=PLwXSqDdn_CpE934BjXMgmzHnlwXMy41TC}}
     - [Top 5 Roam Research Tips for Beginners by Zack Fan](https://www.youtube.com/watch?v=b2Q5bAhtV9Y)
         - {{[[youtube]]: https://www.youtube.com/watch?v=b2Q5bAhtV9Y}}
     - [How I Organise My Day with Roam by Shu Omi](https://www.youtube.com/watch?v=rYsghmH5Fno&list=PLralmZwl_8jJuJMIebWFqm6K5I20a5Qve)
@@ -61,3 +59,8 @@
     - [Open Impact](https://roamresearch.com/#/app/openimpact)
     - [RoamPublic](https://www.roampublic.com/)
         - {{iframe:https://www.roampublic.com/}}
+- Archive (link no longer working)
+    - [From Beginner to Superuser: A Complete Roam Tutorial Course](https://www.youtube.com/watch?v=cHzuPptZRe4&list=PLwXSqDdn_CpE934BjXMgmzHnlwXMy41TC&index=2)
+        - All the basics, plus [[Mobile Quick Capture]], [[Project Management]], and [[Task Management]]. 
+        - {{youtube: https://www.youtube.com/watch?v=cHzuPptZRe4&list=PLwXSqDdn_CpE934BjXMgmzHnlwXMy41TC&index=2}}
+            - by #roamcult 
