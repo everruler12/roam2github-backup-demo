@@ -1,5 +1,5 @@
 - [[Conor]]
-    - 17:43 - 
+    - 17:43 - 17:52
         - Proving that we can have a nested Table / Grid Structure using just [[roam/css]]
             - Steps::
                 - For each of the cases 
@@ -52,7 +52,7 @@
 flex: 1 1 60px;
 }``` [*](((wef_Hru74)))
             - 
-    - 18:11
+    - 18:11 - 18:20
         - [[Adam]] is making the assertion that 
             - We are __Sacrificing__ a block in order to represent rows in a table - and that this is enough of a problem that we would have to have a schema change in order to use tables
                 - Correction::
