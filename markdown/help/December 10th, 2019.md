@@ -18,9 +18,3 @@ Via @soenke_ahrens
         - Tweet text
             - author:: x
             - url:: y
-- 19:48
-    - [[[[Tiago Forte]] [[Tweet]] Import]]
-    - [[[[Andy Matuschak]][[Tweet]] Import]]
-        - "In a recent chat with @michael_nielsen and me about https://t.co/lnd5Z3zN1g, @delong suggested that the mnemonic medium is a new kind of catechism. We laughed, but… that's a pretty interesting lens! (thread) https://t.co/A6szlDLzri"
-            - similar to ideas I've heard from [[diviacaroline]]
-    - [[[[vgr]][[Tweet]] Import]]http://www.roamresearch.com/

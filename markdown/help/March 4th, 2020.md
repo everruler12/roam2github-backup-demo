@@ -18,9 +18,9 @@
     - 
 - 17:23
 - 21:14
-    - [[Gardens Need Walls]]
+    - Gardens Need Walls
         - {{[[TODO]]}} #[[to watch]] [[the five obstructions]] #Documentary
-            - "It is frequently observed that constraints and obstructions are precisely where great art comes from; far from limiting art, they allow it to happen and feed it – the more demanding the constraints, the better. This paradoxical relationship between constraint and expression is the subject of the movie __The Five Obstructions__ (which I highly recommend). An aesthetic is one form of a constraint, and aesthetics tend to be developed, elaborated, and enjoyed in small groups. Certain aspects of reality are excluded in order to focus on the ones within the aesthetic. An aesthetic also provides a context in which forms can exist, fit, and be beautiful (or fail to be)."
+            - ((1cM1KfP8q))
             - {{[[video]]: https://www.youtube.com/watch?v=0YPmRMipnSM}}
             - 21:26 - 21:29
                 - Control-O and Control-Shift-O are probably the most important key commands in Roam (for my usage)

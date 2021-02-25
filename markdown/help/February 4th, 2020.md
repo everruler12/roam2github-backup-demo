@@ -16,7 +16,7 @@
             - 46:29 
     - "Rules for Roam"
     - Reading [[Qur'an]] 
-        - [[Al-Fatihah]] and [[Al-Burah]]
-            - "6. As for those who disbelieve—it is the same for them, whether you have warned them, or have not warned them—they do not believe."
+        - [[Al-Fatihah]] and Al-Burah
+            - ((jBQL3gafc))
                 - This is interesting compared with the mindset of [[Evangelical Christians]] that they should spread the word to everyone.
 - 

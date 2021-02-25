@@ -1,12 +1,8 @@
 - 16:46
     - [[User Interview]] with [[Todd Nief]]
         - discovered through unlinked references that he had done a [[Podcast]] with [[Tiago Forte]]
-            - "Ever wondered if there are principles in common between fitness, productivity, and business?
-
-There are, and on the From Coach to Business podcast I talk to Todd Nief and Brandon Heavey all about them
-
-https://t.co/nSDAV9UECG"
-                - "https://twitter.com/fortelabs/status/1194458703446953986"
+            - ((-TfEzmFR-))
+                - ((wdZZTbUB0))
         - [[Crossfit]]
             - [[Use Cases]] for [[Roam]]
                 - [[WOD]] -- aka Workout of the Day

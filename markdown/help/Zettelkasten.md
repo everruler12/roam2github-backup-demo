@@ -3,4 +3,3 @@
 - Related Systems
     - [[Commonplace Book]]
     - Zibaldone -- 14th Century Version
-        - https://www.atlasobscura.com/articles/how-to-keep-a-zibaldone-a-13thcentury-answer-to-tumblr

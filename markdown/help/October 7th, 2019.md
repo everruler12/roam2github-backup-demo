@@ -44,7 +44,7 @@ see [[The Future of Programming]] {{youtube: https://www.youtube.com/watch?v=8pT
                                 - specifically thinking about the way we want to combine [[Associative Data Model]] with [[Graph Databases]] and [[Event Logs]]
                                 - Or the models of version control and sharing that are inspired by [[Federated Wiki]]
                     - Where did the [[Deep Insights]] in [[Roam]] come from?
-                        - [[Douglas Hofstadter]]'s [[Analogy as the Core of Cognition]] and the larger book [[Surfaces and Essences]]
+                        - [[Douglas Hofstadter]]'s Analogy as the Core of Cognition and the larger book [[Surfaces and Essences]]
                             - Open Question::
                                 - Do things like [[Word Vectors]] from ML capture any of the things that are expressed in analogy?
                                 - How would you stress test or expand an analogy with a tool like [[Roam]]?
