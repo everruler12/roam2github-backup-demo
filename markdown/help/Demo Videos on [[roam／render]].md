@@ -25,18 +25,21 @@
        {:draggable true
         :on-click (fn [evt] (swap! *count inc))}
        @*count])))```
-        - # Accessing Roam Data
-            - {{roam/render: ((kWQSWD-zX))}}
-                - ```clojure
+        - # Accessing Roam Data 
+            - {{[[video]]: https://www.loom.com/share/5f243343174f4782add9b5e07ca155bd}}
+            - [[roam/render]] Input + Reactive Datascript Query [[roam/templates]]
+                - {{roam/render: ((kWQSWD-zX))}}
+                    - ```clojure
 (ns starting-point-for-custom-roam
   (:require
    [reagent.core :as r]
    [datascript.core :as d]
    [roam.datascript.reactive :as dr]))```
-                - ```clojure
+                    - ```clojure
 
 
-(defn input-thing [x]
+
+(defn text-input [x]
    [:div 	
    [:input {:value @x
               :on-change 
@@ -45,13 +48,27 @@
              ]
           )
 ```
-                - ```clojure
+                    - ```clojure
+(defn query-off-string [x]
+  (let [y (dr/q '[:find ?x ?s
+                  :in $ ?title
+                  :where 
+                  [?e :node/title ?title]
+                  [?x :block/refs ?e]
+                  [?x :block/string ?s]
+                  ]
+                @x
+                )]
+    [:div (pr-str (take 10 @y))]
+  ))```
+                    - ```clojure
 (defn counter [_]
   (let [*count (r/atom 1)
         x (r/atom "TODO")]
     (fn [_]
       [:div 
-       [input-thing x]
+       [text-input x]
+       [query-off-string x]
        (pr-str @x)
       [:button
        {:draggable true

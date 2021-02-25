@@ -1,5 +1,5 @@
 - [[Conor]]
-    - 19:42
+    - 19:42 - 20:30 (48 min)
         - [[Demo Videos on [[roam/render]]]] [ ]([[Roam Demo Videos]])
             - - 19:47
                 - Setup
@@ -9,6 +9,8 @@
   [:h1 {:on-click #(js/alert "Hello As")}
    (apply str (repeat 20 "A"))]
   )```
+        - - 20:34 (4 min)
+            - https://twitter.com/Conaw/status/1364772643136700417?s=20
     - 19:28 - 19:41
         - [[roam/render]] examples
             - ```clojure
