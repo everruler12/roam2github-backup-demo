@@ -3819,8 +3819,8 @@
   [1708 :version/id "0.8.2" 536875900]
   [1708
    :version/nonce
-   "uuid3dcfe2ef-4d0f-4c9a-aa6e-2c51ddfba14f"
-   536876019]
+   "uuid737a68ea-cdee-46c6-8d80-32153bb4bcaa"
+   536876020]
   [1709 :block/children 1707 536875905]
   [1709 :block/open true 536875903]
   [1709 :block/order 0 536875903]
@@ -4060,4 +4060,11 @@
    :user/photo-url
    "https://lh4.googleusercontent.com/-ucThKy0Bspw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMYXWT6gqvTPv4vYqMywAtMpyCjw/s96-c/photo.jpg"
    536876017]
-  [1733 :user/uid "4gUx2QjqGYcyVU22Gi5LGqA8ojq2" 536876017]]}
+  [1733 :user/uid "4gUx2QjqGYcyVU22Gi5LGqA8ojq2" 536876017]
+  [1734 :block/uid "02-25-2021" 536876020]
+  [1734 :create/time 1614213581768 536876020]
+  [1734 :create/user 1 536876020]
+  [1734 :edit/time 1614213581768 536876020]
+  [1734 :edit/user 1 536876020]
+  [1734 :log/id 1614213581767 536876020]
+  [1734 :node/title "February 25th, 2021" 536876020]]}
