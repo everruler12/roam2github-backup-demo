@@ -179,7 +179,7 @@ window
                                 :order 0}
 					 :block {:string "Carthago delenda est"}}))}
      "create block"]))```
-                                        - {{roam/render: ((ZA34Gp1hp))}}
+                                        - {{[[roam/render]]: ((ZA34Gp1hp))}}
                             - `moveBlock`
                                 - description::
                                     - Move a block to a new location

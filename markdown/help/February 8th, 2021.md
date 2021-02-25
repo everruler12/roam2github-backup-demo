@@ -9,7 +9,7 @@
             - Roam allows you to write arbitrary CLJS code - and evaluate it in your graph - you can use this code - and the roam Alpha API to query your graph, and create mutations for it.
             - Submit your answer as a roam-graph
             - All code should be in the same Roam Graph as the working demo.
-            - {{roam/render: ((uP_2barEP)) ((cpgzSMTye))}}
+            - {{[[roam/render]]: ((uP_2barEP)) ((cpgzSMTye))}}
                 - ```clojure
 (ns starting-point-for-custom-roam
   (:require

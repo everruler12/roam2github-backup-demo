@@ -1,5 +1,5 @@
 - Example of using query in the roam/render component
-    - {{roam/render: ((Mfk6Jol2T))}}
+    - {{[[roam/render]]: ((Mfk6Jol2T))}}
     - ```clojure
 (ns myns
   (:require 

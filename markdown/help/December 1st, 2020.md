@@ -1,6 +1,6 @@
 - [[sci]]
-    - single block namespace
-        - ```clojure
+    - "single block namespace"
+        - "```clojure
 (ns my-stuff
   (:require
    [reagent.core :as r]))
@@ -11,54 +11,54 @@
       [:button
        {:draggable true
         :on-click (fn [evt] (swap! *count inc))}
-       @*count])))```
-        - {{roam/cljs-render: ((CQNCL76xL))}}
-    - multi block namespace (reference file)
-        - {{roam/cljs-render: ((leFTj1Tvl))}}
-        - code/my file
-            - ```clojure
+       @*count])))```"
+        - "{{roam/cljs-render: ((CQNCL76xL))}}"
+    - "multi block namespace (reference file)"
+        - "{{roam/cljs-render: ((leFTj1Tvl))}}"
+        - "code/my file"
+            - "```clojure
 (ns my-stuff
   (:require
-   [reagent.core :as r]))```
-            - ```clojure
+   [reagent.core :as r]))```"
+            - "```clojure
 (defn counter [_]
   (let [*count (r/atom 11)]
     (fn [_]
       [:button
        {:on-click (fn [evt] (swap! *count inc))}
-       @*count])))```
-    - multi block namespace (reference single fn)
-        - {{roam/cljs-render: ((PVrJu_Y8S))}}
-        - code/my file
-            - ```clojure
+       @*count])))```"
+    - "multi block namespace (reference single fn)"
+        - "{{roam/cljs-render: ((PVrJu_Y8S))}}"
+        - "code/my file"
+            - "```clojure
 (ns my-stuff
   (:require
-   [reagent.core :as r]))```
-            - ```clojure
+   [reagent.core :as r]))```"
+            - "```clojure
 (defn my-inc [n]
-  (* n 2))```
-            - ```clojure
+  (* n 2))```"
+            - "```clojure
 (defn counter2 [_]
   (let [*count (r/atom 2)]
     (fn [_]
       [:button
        {:on-click (fn [evt] (swap! *count my-inc))}
-       @*count])))```
-            - ```clojure
+       @*count])))```"
+            - "```clojure
 (defn counter [_]
   (let [*count (r/atom 0)]
     (fn [_]
       [:button
        {:on-click (fn [evt] (swap! *count inc))}
-       @*count])))```
-    - js window
-        - {{roam/cljs-render: ((UdliV2uud))}}
-        - ```clojure
+       @*count])))```"
+    - "js window"
+        - "{{roam/cljs-render: ((UdliV2uud))}}"
+        - "```clojure
 (defn my-comp [_]
-  [:div (pr-str (.. js/Number -MAX_VALUE))])```
-    - datascript reactive
+  [:div (pr-str (.. js/Number -MAX_VALUE))])```"
+    - "datascript reactive"
         - {{roam/cljs-render: ((yj2HtwWYh)) a b c}}
-        - ```clojure
+        - "```clojure
 (ns async-stuff
   (:require
    [datascript.core :as d]
@@ -71,20 +71,20 @@
       [:div "helo"
         (pr-str @*b)
 		(with-out-str (prn @*b))])))
-```
-        - Example 2
-            - ```clojure
+```"
+        - "Example 2"
+            - "```clojure
 ;; Me me me
 (ns example2
   (:require
    [datascript.core :as d]
    [roam.datascript.reactive :as dr]))
-```
-            - ```clojure
+```"
+            - "```clojure
 
 (def color ["#2EE115" "rgb(0,244,255)" "#F44336"])
-```
-            - ```clojure
+```"
+            - "```clojure
 (defn all-descendents-as-cards [block-entity]
 [:div 
         (doall (for [block (rest (tree-seq :block/uid :block/children block-entity))]
@@ -93,8 +93,8 @@
              :on-click (fn [e] (js/alert (:block/uid block)))}
            (:block/string block)]))
 		]
-)```
-            - ```clojure
+)```"
+            - "```clojure
 
 (defn test [{:keys [block-uid]} & args]
   (let [*my-children (dr/pull '[{:block/children ...} 
@@ -125,23 +125,23 @@
            	{:style {:background-color (rand-nth color)}
              :on-click (fn [e] (js/alert (:block/uid block)))}
            (:block/string block)]))
-		])))```
-            - {{roam/render: ((qz-VHQwBC))}}
-                - Block
-                    - A
-                    - B
-                    - C
-                - Me
-                    - me
-                    - me 
-                        - me
-            - {{[[TODO]]}} [[TODO]] this one
-                - a
-                - b
-            - 
-    - print lines
-        - {{roam/cljs-render: ((2Xwl-F2aT))}}
-        - ```clojure
+		])))```"
+            - "{{[[roam/render]]: ((qz-VHQwBC))}}"
+                - "Block"
+                    - "A"
+                    - "B"
+                    - "C"
+                - "Me"
+                    - "me"
+                    - "me "
+                        - "me"
+            - "{{[[TODO]]}} [[TODO]] this one"
+                - "a"
+                - "b"
+            - ""
+    - "print lines"
+        - "{{roam/cljs-render: ((2Xwl-F2aT))}}"
+        - "```clojure
 
 (println "asdf")
 (pr "asdf")
@@ -159,8 +159,8 @@
   (pr "asdf")
   (prn "asdf")
   (print "asdf")
-  [:div "test print"])```
-    - Summary of what you need to know
+  [:div "test print"])```"
+    - "Summary of what you need to know"
         - {{[[TODO]]}} Put this at the top of your file
             - Code
                 - ```clojure
@@ -352,7 +352,7 @@
 ``````
             - `r/atom` gives you a local variable
             - Final function in your namespace is what gets called with `roam-render`
-                - {{roam/render: ((77PX5-Y0t))}}
+                - {{[[roam/render]]: ((77PX5-Y0t))}}
                     - a
                     - {{[[TODO]]}} Show how to hide all child blocks
                     - {{[[TODO]]}} Inline components?
