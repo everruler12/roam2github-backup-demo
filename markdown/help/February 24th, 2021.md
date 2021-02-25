@@ -1,47 +1,4 @@
 - [[Conor]]
-    - 19:42 - 20:30 (48 min)
-        - [[Demo Videos on [[roam/render]]]] [ ]([[Roam Demo Videos]])
-            - - 19:47
-                - Setup
-            - {{roam/render: ((JlKbBtxUX))}}
-                - ```clojure
-(defn my-component []
-  [:h1 {:on-click #(js/alert "Hello As")}
-   (apply str (repeat 20 "A"))]
-  )```
-        - - 20:34 (4 min)
-            - https://twitter.com/Conaw/status/1364772643136700417?s=20
-    - 19:28 - 19:41
-        - [[roam/render]] examples
-            - ```clojure
-
-(defn show-refs [component n x]
-[:div  
- (doall (for [y (take @n (:block/_refs @x))]
-  [component y]))]
-  )
-
-(defn my-item [data]
-  	[:div.bp3-card (:block/string data)]
-  )
-
-(defn my-random-generator [{:keys [:block/uid] :as this-block} n v]  	
-  (let [my-local-string (r/atom v)
-          my-local-number (r/atom (js/parseInt n))]
-      (fn [this-block n v]
-        	[:div.bp3-card 
-             "I am a div"
-
-             ""
-             (pr-str v)
-             [counter my-local-number]
-             [controlled-input my-local-string]
-            
-             [show-refs my-item 
-              my-local-number 
-              (*pull-refs [:node/title @my-local-string])]
-             ])))
-````
     - 17:43 - 18:20 (40 min)
         - Tables thoughts
             - 17:43 - 17:52
@@ -106,6 +63,50 @@ flex: 1 1 60px;
                     - {{[[drawing]]}}
                     - {{[[drawing]]}}
                     - 
+    - 19:28 - 19:41
+        - [[roam/render]] examples
+            - ```clojure
+
+(defn show-refs [component n x]
+[:div  
+ (doall (for [y (take @n (:block/_refs @x))]
+  [component y]))]
+  )
+
+(defn my-item [data]
+  	[:div.bp3-card (:block/string data)]
+  )
+
+(defn my-random-generator [{:keys [:block/uid] :as this-block} n v]  	
+  (let [my-local-string (r/atom v)
+          my-local-number (r/atom (js/parseInt n))]
+      (fn [this-block n v]
+        	[:div.bp3-card 
+             "I am a div"
+
+             ""
+             (pr-str v)
+             [counter my-local-number]
+             [controlled-input my-local-string]
+            
+             [show-refs my-item 
+              my-local-number 
+              (*pull-refs [:node/title @my-local-string])]
+             ])))
+````
+    - 19:42 - 20:30 (48 min)
+        - [[Demo Videos on [[roam/render]]]] [ ]([[Roam Demo Videos]])
+            - - 19:47
+                - Setup
+            - {{roam/render: ((JlKbBtxUX))}}
+                - ```clojure
+(defn my-component []
+  [:h1 {:on-click #(js/alert "Hello As")}
+   (apply str (repeat 20 "A"))]
+  )```
+        - - 20:34 (4 min)
+            - https://twitter.com/Conaw/status/1364772643136700417?s=20
+    - 
 - [[Bardia]]
     - 19:29-19:29
         - "[[roam/render]] examples"

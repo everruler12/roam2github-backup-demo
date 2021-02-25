@@ -50,12 +50,14 @@
 ```
                     - ```clojure
 (defn query-off-string [x]
-  (let [y (dr/q '[:find ?x ?s
-                  :in $ ?title
+  (let [y (dr/q '[:find ?x ?title ?s
+                  :in $ ?title-string
                   :where 
                   [?e :node/title ?title]
+                  [(clojure.string/includes? ?title  ?title-string)]
                   [?x :block/refs ?e]
                   [?x :block/string ?s]
+                  
                   ]
                 @x
                 )]

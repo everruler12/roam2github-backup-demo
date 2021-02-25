@@ -44,6 +44,7 @@ opacity: 1 !important;
   margin-left: 0px;
  
 }
+/*
 
 .rm-heading-level-1:hover > .rm-block__children {
   background-color: rgba(211,211,211,0.11);
@@ -62,6 +63,7 @@ opacity: 1 !important;
   border-top: 1px solid grey;
   margin-left: 8px;
 }
+*/
 ```
                 - ```css
 
