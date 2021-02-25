@@ -70,6 +70,34 @@ opacity: 1 !important;
 }
 
 ```
+    - Test Table
+        - ```css
+.conor-table .rm-block__children {
+  display: contents;
+  
+}
+
+.conor-table > .rm-block__children .rm-block {
+  display: grid;
+  grid-template-columns: repeat(6, 100px);
+  grid-template-rows: 40px;
+}
+
+.conor-table {
+  border: 2px solid grey;
+  width: 50vw;
+}
+
+.conor-table .rm-block {
+  border: 0.5px solid grey;
+flex: 1 1 60px;
+}
+
+.conor-table  .a > .rm-block__self {
+  background-color: blue;
+  opacity: 0.4;
+  color: white;
+}```
     - ```css
 .test-full-width {	
   position: fixed;
