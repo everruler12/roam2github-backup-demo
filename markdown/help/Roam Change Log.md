@@ -4,6 +4,82 @@
         - [[Quality of Life Improvements]]
             - #roam/css
                 - [[BEM]] refactor for filters
+    - [[February 20th, 2021]]
+        - [[New Features]]
+            - [[Roam Alpha API]]
+                - New methods to interact with the [[Right Sidebar]]:
+                    - action parameter schema::
+                        - `window`
+                            - `type`
+                                - View type of window to open in the sidebar
+                                - Can be one of:
+                                    - "mentions"
+                                    - "block"
+                                    - "outline"
+                                    - "graph"
+                                - __string__
+                            - `block-uid`
+                                - Unique identifier for block to open in the right sidebar
+                                - __string__
+                            - `order`
+                                - Order of the window from $$0$$ to $$n$$
+                                - __integer__
+                    - actions::
+                        - `window.roamAlphAPI.ui.rightSidebar`
+                            - `open`
+                                - description::
+                                - parameters::
+                                - usage::
+                            - `close`
+                                - description::
+                                - parameters::
+                                - usage::
+                            - `getWindows`
+                                - description::
+                                - parameters::
+                                - usage::
+                            - `addWindow`
+                                - description::
+                                - parameters::
+                                - usage::
+                            - `removeWindow`
+                                - description::
+                                - parameters::
+                                - usage::
+                            - `expandWindow`
+                                - description::
+                                - parameters::
+                                - usage::
+                            - `collapseWindow`
+                                - description::
+                                - parameters::
+                                - usage::
+                            - `pinWindow`
+                                - description::
+                                - parameters::
+                                - usage::
+                            - `unpinWindow`
+                                - description::
+                                - parameters::
+                                - usage::
+                            - `setWindowOrder`
+                                - description::
+                                - parameters::
+                                - usage::
+            - [[roam/render]]
+                - 
+    - [[February 19th, 2021]]
+        - [[Bug Fixes]]
+            - Fixed bug where page rename was failing to add brackets when adding a namespace tag
+            - Fixed bug in which a slider with no children wasn't rendering
+            - Put more validation on API write actions
+    - [[February 18th, 2021]]
+        - [[Bug Fixes]]
+            - Fixed bug with Kanban where clicking on title of column would open two identical windows in the right sidebar
+        - [[Quality of Life Improvements]]
+            - Changed action to open Kanban cards in right sidebar from `click` to `shift+click` to be consistent with existing conventions for opening content in the right sidebar
+            - Updated help database URL in ? menu to redirect to [Welcome to Roam](https://roamresearch.com/#/app/help/page/1wnq-ZAAN) page instead of starting on Daily Notes
+            - Students, academics, researchers, and those with lower income can now apply for [[Roam Scholars]] through Intercom
     - [[February 17th, 2021]]
         - [[Quality of Life Improvements]]
             - Small improvement to the sorting of autocomplete dropdowns privileging string start
@@ -120,7 +196,7 @@
                                 - __string__
                             - `order`
                                 - Index where the block should be inserted under the parent.
-                                    - Starts at zero.
+                                    - Starts at 0
                                 - __string__
                         - `block`
                             - `uid`
@@ -307,6 +383,10 @@ window
     - [[January 1st, 2021]]
         - [[Bug Fixes]]
             - Fixed bug with nested bullets in templates being applied out of order
+- [[roam@0.8.2]]
+- [[roam@0.8.1]]
+- [[roam@0.8.0]]
+- [[roam@0.7.9]]
 - [[roam@0.7.8]]
     - [[December 30th, 2020]]
         - [[Bug Fixes]]

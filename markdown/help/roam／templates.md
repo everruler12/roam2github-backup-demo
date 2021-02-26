@@ -21,4 +21,7 @@
     - [≡]([[Definition]])
 - ! = Claim
     - [!]([[Claim]])
-    - 
+- API docs
+    - description::
+    - parameters::
+    - usage::
