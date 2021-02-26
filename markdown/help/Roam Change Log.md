@@ -4,6 +4,105 @@
         - [[Quality of Life Improvements]]
             - #roam/css
                 - [[BEM]] refactor for filters
+    - [[February 23rd, 2021]]
+        - [[New Features]]
+            - [[Roam Alpha API]]
+                - New method to create / edit users
+                    - `window.roamAlphaAPI.data.upsertUser`
+                        - description::
+                        - parameters::
+                            - Object
+                                - Keys
+                                    - `user-uid`
+                                        - Required
+                                        - __string__
+                                    - `display-name`
+                                        - Optional
+                                        - __string__
+                        - usage::
+                - New methods to add and remove watches for changes to datalog pull paterns
+                    - `window.roamAlphaAPI.data.addPullWatch`
+                        - description::
+                            - Watches for changes on pull patterns on blocks and pages and provides a callback to execute after changes are recorded, providing the before and after state to operate on
+                        - parameters::
+                            - pull pattern
+                                - {{[[TODO]]}} 
+                                - __string__
+                                - Required
+                            - entity-id
+                                - {{[[TODO]]}} 
+                                - __string__
+                                - Required
+                            - callback function
+                                - Takes two arguments, before and after state of the pull
+                                - __function__
+                                - Required
+                        - usage::
+                            - ```javascript
+window
+  .roamAlphaAPI
+  .data
+  .addPullWatch(
+  	"[:block/children :block/string {:block/children ...}]",
+    '[:block/uid "02-21-2021"]',
+     function a(before, after) { console.log("before", before, "after", after);)```
+                    - `window.roamAlphaAPI.data.removePullWatch`
+                        - description::
+                            - Removes pull watch
+                                - If no callback provided, clears all watches from pull pattern
+                                - If callback provided, only removes watch with that callback
+                        - parameters::
+                            - pull pattern
+                                - {{[[TODO]]}} 
+                                - __string__
+                                - Required
+                            - entity-id
+                                - {{[[TODO]]}} 
+                                - __string__
+                                - Required
+                            - callback function
+                                - __function__
+                                - Optional
+                        - usage::
+                            - ```javascript
+window
+  .roamAlphaAPI
+  .data
+  .removePullWatch(
+  	"[:block/children :block/string {:block/children ...}]",
+    '[:block/uid "02-21-2021"]',
+     function a(before, after) { console.log("before", before, "after", after);)```
+                - New methods for undo and redo
+                    - `window.roamAlphaAPI.data.undo`
+                        - description::
+                        - parameters::
+                            - None
+                        - usage::
+                    - `window.roamAlphaAPI.data.redo`
+                        - description::
+                        - parameters::
+                            - None
+                        - usage::
+                - New util method for generating block-uids
+                    - `window.roamAlphaAPI.util.generateblockUID`
+                        - description::
+                        - parameters::
+                            - None
+                        - usage::
+                - Added `user-uid` an optional argument under "`block`" and "`page`" props for "`createBlock`" "`updateBlock`"
+"`createPage`" "`updatePage`" methods
+        - [[Bug Fixes]]
+            - [[Roam Alpha API]]
+                - 
+        - [[Quality of Life Improvements]]
+            - Added https://grain.co support to inline video component
+    - [[February 22nd, 2021]]
+        - [[Bug Fixes]]
+            - Improved offline detection on slow connections
+            - Escape hatch for if/when drag n' drop dropzones take over the page and don't go away
+    - [[February 21st, 2021]]
+        - [[Quality of Life Improvements]]
+            - Added `data-page-title` attribute to block HTML nodes to allow for block-level styling based on current page
     - [[February 20th, 2021]]
         - [[New Features]]
             - [[Roam Alpha API]]
@@ -29,50 +128,95 @@
                             - `open`
                                 - description::
                                 - parameters::
+                                    - None
                                 - usage::
                             - `close`
                                 - description::
                                 - parameters::
+                                    - None
                                 - usage::
                             - `getWindows`
                                 - description::
                                 - parameters::
+                                    - None
                                 - usage::
                             - `addWindow`
                                 - description::
                                 - parameters::
+                                    - "`window`"
+                                        - "`type`"
+                                            - Required
+                                        - "`block-uid`"
+                                            - Required
                                 - usage::
                             - `removeWindow`
                                 - description::
                                 - parameters::
+                                    - "`window`"
+                                        - "`type`"
+                                            - Required
+                                        - "`block-uid`"
+                                            - Required
                                 - usage::
                             - `expandWindow`
                                 - description::
                                 - parameters::
+                                    - "`window`"
+                                        - "`type`"
+                                            - Required
+                                        - "`block-uid`"
+                                            - Required
                                 - usage::
                             - `collapseWindow`
                                 - description::
                                 - parameters::
+                                    - "`window`"
+                                        - "`type`"
+                                            - Required
+                                        - "`block-uid`"
+                                            - Required
                                 - usage::
                             - `pinWindow`
                                 - description::
                                 - parameters::
+                                    - "`window`"
+                                        - "`type`"
+                                            - Required
+                                        - "`block-uid`"
+                                            - Required
                                 - usage::
                             - `unpinWindow`
                                 - description::
                                 - parameters::
+                                    - "`window`"
+                                        - "`type`"
+                                            - Required
+                                        - "`block-uid`"
+                                            - Required
                                 - usage::
                             - `setWindowOrder`
                                 - description::
                                 - parameters::
+                                    - "`window`"
+                                        - "`type`"
+                                            - Required
+                                        - "`block-uid`"
+                                            - Required
+                                        - "`order`"
+                                            - Required
                                 - usage::
             - [[roam/render]]
                 - 
+        - [[Quality of Life Improvements]]
+            - New page delete modal showing a counter of the number of reference that will be lost upon page deletion
+                - ![](https://user-images.githubusercontent.com/25736/108563712-a61b9b80-72e0-11eb-9e3e-5df2ce08d497.png)
+        - [[Bug Fixes]]
+            - Fixed bug where right sidebar re-rendered all windows on any change to the set of open windows
     - [[February 19th, 2021]]
         - [[Bug Fixes]]
             - Fixed bug where page rename was failing to add brackets when adding a namespace tag
             - Fixed bug in which a slider with no children wasn't rendering
-            - Put more validation on API write actions
+            - Put more validation on [[Roam Alpha API]] write actions requiring that block uids provided are non-empty strings and only include URL-safe characters
     - [[February 18th, 2021]]
         - [[Bug Fixes]]
             - Fixed bug with Kanban where clicking on title of column would open two identical windows in the right sidebar
