@@ -93,7 +93,11 @@ window
 "`createPage`" "`updatePage`" methods
         - [[Bug Fixes]]
             - [[Roam Alpha API]]
-                - 
+                - Fixed pulling on a lookup ref ('[:block/uid "xzy"]')
+                - Fixed adding `roamDatomicAPI` to the window object
+                - Fixed security vulnerability where you could use the `roamAlphaAPI` write-fns on a read-only graph
+                - Fixes bug where you could create a block that already exists
+            - Fixed typo in kanban instructions
         - [[Quality of Life Improvements]]
             - Added https://grain.co support to inline video component
     - [[February 22nd, 2021]]
