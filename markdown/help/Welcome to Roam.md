@@ -52,7 +52,7 @@ Check the URL for your database name before adding content. "
                     - Conor
     - [RoamBrain](https://www.roambrain.com/), [RoamTips](https://www.roamtips.com/about), & [RoamHacks](https://roamhacks.com/)
         - Community-managed news and resources. 
-    - [Slack Community](https://roamresearch.slack.com/join/shared_invite/zt-h695qjav-Rnlz8GFolVzFl8z3~U3tog#/) & [Discussion Forum](https://forum.roamresearch.com/)
+    - [Slack Community](https://join.slack.com/t/roamresearch/shared_invite/zt-m99ey55e-UvbM9HdX4daewvzplqU8XA) & [Discussion Forum](https://forum.roamresearch.com/)
         - Search for answers, troubleshoot with expert Roam users, and share best practices, workflows, & general feedback. 
         - 
     - 
