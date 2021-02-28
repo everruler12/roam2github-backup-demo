@@ -16,8 +16,9 @@
         - {{[[youtube]]: https://www.youtube.com/watch?v=rYsghmH5Fno&list=PLralmZwl_8jJuJMIebWFqm6K5I20a5Qve}}
     - [Zettelkasten Method by The Upgraded Brain](https://www.youtube.com/watch?v=LDa8ljTjsGw&list=PLOBUbNWGPAg7-dRPTYDp8oQ7AbE5e6eyg)
         - {{[[youtube]]: https://www.youtube.com/watch?v=LDa8ljTjsGw&list=PLOBUbNWGPAg7-dRPTYDp8oQ7AbE5e6eyg}}
-    - [Roam Research: A tool for creative serendipity by Khe Hy](https://www.youtube.com/watch?v=3GG0Ck14ISM&t)
-        - {{[[youtube]]: https://www.youtube.com/watch?v=3GG0Ck14ISM&t}}
+    - **Roam Research: A tool for creative** [[Serendipity]] 
+        - by [[Khe Hy]]
+{{[[video]]: https://www.youtube.com/watch?v=3GG0Ck14ISM&t}}
     - [Navigating Roam by Conor White-Sullivan](https://www.youtube.com/watch?v=3SwQ4usbCX4&list=PLirPuSjy7wZAbEY6nLcyQC6HZXRDt_qEL)
         - {{[[youtube]]: https://www.youtube.com/watch?v=3SwQ4usbCX4&list=PLirPuSjy7wZAbEY6nLcyQC6HZXRDt_qEL}}
     - [How to Take Smart Notes Using Roam by Dalton Mabery](https://www.youtube.com/watch?v=zUPLJMnYw_M&list=PLnUTYxQTw_v_VIIv6jbD4rWP5VxIqGQrl)

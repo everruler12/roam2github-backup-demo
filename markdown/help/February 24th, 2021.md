@@ -121,7 +121,7 @@ flex: 1 1 60px;
     (fn [_]
       [:button
        {:draggable true
-        :on-click (fn [evt] (swap! *count inc))}
+        :on-click (fn [evt] (swap! *count (partial * 4)))}
        @*count])))```"
                 - "{{roam/cljs-render: ((CQNCL76xL))}}"
             - "multi block namespace (reference file)"

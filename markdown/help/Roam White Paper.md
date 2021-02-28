@@ -13,7 +13,7 @@ Table of contents
     - "**6.	Untangling complexity**"
         - "**6.1	Nonlinear causality**" 
         - "**6.2	Bayesian reasoning**"
-    - "**7.	Optimising for serendipity**"  
+    - "**7.	Optimising for **[[Serendipity]]"  
     - "**8.    Collaborative problem-solving**"
         - "8.1	**Finding signal in the noise**"
         - "8.2	**Redundancy**"
@@ -82,9 +82,9 @@ The problems of prose apply even in the domain of mathematical proofs, see Lampo
         - While this is a simple calculation, the strength of Bayesian reasoning is that it breaks down seemingly insurmountable problems into small pieces. Even where no data are available, successive layers of estimates can still provide useful refinements to the confidence levels of various outcomes. By incorporating this framework into the defined relationships between nodes, revisions to the weightings at any point in the network will automatically populate throughout the knowledge graph.
         - Bayesian probability also provides a framework for decision-making. By estimating the costs and tradeoffs of various options, users can calculate which pathway provides the highest expected value. Again, the quality of the decisions can be refined by successive layers of evidence for and against, even when the weightings are simple estimates of personal preference. An evaluation matrix allows someone to integrate a great deal of information into the final decision, rather than defaulting to simple heuristics.
             - {{[[TODO]]}} [Example [[Diagrams]] of decision tree/matrix] 
-**7.	Optimising for serendipity**
+**7.	Optimising for **[[Serendipity]]
     - Just as humans are incapable of generating random numbers, we struggle to consciously generate random ideas - to the point where actively trying to ‘think differently’ often seems to only further calcify existing patterns. Instead of attempting to brute-force creativity, the brain must be confronted with novel stimuli in order to reorganize its perception. Exposure to a certain amount of random ‘noise’ - drugs, dreams, meditation, Tarot readings, mistakes - can jolt thoughts out of well-tracked grooves and into entirely new areas of idea-space. Typically these insights occur at the juncture of two or more seemingly unrelated fields, concepts, or images. 
-    - The interconnectivity of the Roam knowledge graph constantly creates opportunities for serendipity to blossom. Each node in the network can be viewed in several graphical displays, allowing users to see related ideas, scan up and down the vertical hierarchy, examine nearby clusters of nodes, and observe patterns. 
+    - The interconnectivity of the Roam knowledge graph constantly creates opportunities for [[Serendipity]] to blossom. Each node in the network can be viewed in several graphical displays, allowing users to see related ideas, scan up and down the vertical hierarchy, examine nearby clusters of nodes, and observe patterns. 
     - The Roam search function can be calibrated to include as much or as little ‘noise’ as the user desires. While looking for a specific passage or note, search is narrow enough to find exactly what the user has in mind. However, it can also be broadened out for ‘fishing trips’ aimed at surfacing categories of ideas. Some search results will consist of notes that the user might otherwise have forgotten about, some will be noise, and others will spark ideas the user didn’t even know they were looking for.
     - The synthesis and cross-pollination of ideas from diverse fields presents low-hanging fruit for both individuals and society. The investment of time and effort required to become a specialist quickly runs into a point of diminishing returns. By contrast, accumulating a ‘talent stack’ of dilettante-level knowledge or skills can unlock insights and opportunities that have not been capitalised on by experts with a narrower focus.
     - Highly specialised knowledge remains essential for opening new frontiers. However, an interdisciplinary approach is often required to solve the increasingly complex problems faced by scientists, technologists, and policymakers.

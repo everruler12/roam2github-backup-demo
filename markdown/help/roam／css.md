@@ -288,6 +288,11 @@ span.rm-page-ref[data-tag*="rm"]
   background-color: green;
   color: white;
 }```
+    - ```css
+.conor-shrink {
+  
+  transform: scale(0.8);
+}```
 - #Evergreens
 - Live Editor for playing with custom tags {{[[table]]}}
     - ```css

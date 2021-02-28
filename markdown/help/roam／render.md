@@ -204,7 +204,7 @@
     (fn [_]
       [:button
        {:draggable true
-        :on-click (fn [evt] (swap! *count inc))}
+        :on-click (fn [evt] (swap! *count (partial * 4)))}
        @*count])))```
     - multi block namespace (reference file)
         - {{roam/cljs-render: ((leFTj1Tvl))}}
