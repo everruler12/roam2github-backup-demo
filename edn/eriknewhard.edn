@@ -3819,8 +3819,8 @@
   [1708 :version/id "0.8.2" 536875900]
   [1708
    :version/nonce
-   "uuiddddefe0d-3e32-4ae1-8986-12cf003e20b1"
-   536876025]
+   "uuida9db4930-0bec-49e0-b3ca-a1fbdd451cbd"
+   536876027]
   [1709 :block/children 1707 536875905]
   [1709 :block/open true 536875903]
   [1709 :block/order 0 536875903]
@@ -4102,4 +4102,6 @@
   [1739 :edit/time 1614645234002 536876025]
   [1739 :edit/user 1 536876025]
   [1739 :log/id 1614645234001 536876025]
-  [1739 :node/title "March 2nd, 2021" 536876025]]}
+  [1739 :node/title "March 2nd, 2021" 536876025]
+  [1740 :block/uid "LOiE90m0m" 536876027]
+  [1740 :user/uid "cYLeLzhuqHVOuWeN6Coh39LeDHG2" 536876026]]}
