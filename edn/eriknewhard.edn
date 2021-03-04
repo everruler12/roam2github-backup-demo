@@ -3819,8 +3819,8 @@
   [1708 :version/id "0.8.2" 536875900]
   [1708
    :version/nonce
-   "uuid1c65eab4-157d-46be-b173-a0422f614d1d"
-   536876029]
+   "uuid731ed7c0-be20-47af-839c-f86d822cb197"
+   536876031]
   [1709 :block/children 1707 536875905]
   [1709 :block/open true 536875903]
   [1709 :block/order 0 536875903]
@@ -4118,4 +4118,11 @@
   [1742 :edit/time 1614818419348 536876029]
   [1742 :edit/user 1 536876029]
   [1742 :log/id 1614818419346 536876029]
-  [1742 :node/title "March 4th, 2021" 536876029]]}
+  [1742 :node/title "March 4th, 2021" 536876029]
+  [1743 :block/uid "b_RgpJgFK" 536876031]
+  [1743 :user/display-name "Jeffrey Rappaport" 536876030]
+  [1743
+   :user/photo-url
+   "https://lh3.googleusercontent.com/a-/AOh14GgXo2YCm8k_JN9ahETE8w_0E-n9VGMVTRNH9EJYEQ=s96-c"
+   536876030]
+  [1743 :user/uid "QhSebM53lUNpD0TJAVC6q9rEzHl2" 536876030]]}
