@@ -500,15 +500,16 @@
   [1194 :block/refs 1134 536874156]
   [1194 :block/refs 1288 536876002]
   [1194 :block/refs 1341 536876000]
+  [1194 :block/refs 1749 536876049]
   [1194
    :block/string
-   "#Tweeted, #Retweeted, #[[Tweet draft]]"
-   536876004]
+   "#Tweeted, #Retweeted, #[[Tweet reply]], #[[Tweet draft]]"
+   536876051]
   [1194 :block/uid "KQffDy5OH" 536874149]
   [1194 :children/view-type :document 536874149]
   [1194 :create/time 1602787542480 536874149]
   [1194 :create/user 1 536875710]
-  [1194 :edit/time 1613861070626 536876004]
+  [1194 :edit/time 1615136613134 536876051]
   [1194 :edit/user 1 536875710]
   [1195 :block/open true 536874149]
   [1195 :block/order 0 536874149]
@@ -517,12 +518,12 @@
   [1195 :block/parents 1194 536874821]
   [1195
    :block/string
-   "```css\nspan.rm-page-ref[data-tag=\"Tweeted\"],\nspan.rm-page-ref[data-tag=\"Retweeted\"],\nspan.rm-page-ref[data-tag=\"Tweet draft\"] {\n  color: rgb(29, 161, 242) !important;\n  font-weight: 700;\n  background-color: white !important;\n\n  position: relative;\n  padding-left: var(--tag-extra-padding-left);\n  padding-right: var(--tag-actual-padding-horizontal);\n}\n\nspan.rm-page-ref[data-tag=\"Tweeted\"]:before,\nspan.rm-page-ref[data-tag=\"Retweeted\"]:before,\nspan.rm-page-ref[data-tag=\"Tweet draft\"]:before {\n  background: white;\n\n  content: '';\n  width: var(--hash-blocking-bg-width);\n  height: var(--tag-icon-height);\n  position: absolute;\n  left: var(--tag-actual-padding-horizontal);\n  top: var(--tag-icon-padding);\n}\n\nspan.rm-page-ref[data-tag=\"Tweeted\"]:after,\nspan.rm-page-ref[data-tag=\"Retweeted\"]:after,\nspan.rm-page-ref[data-tag=\"Tweet draft\"]:after {\n  background: url('https://twitter.com/favicon.ico') no-repeat;\n  \n  content: '';\n  width: var(--tag-icon-width);\n  height: var(--tag-icon-height);\n  position: absolute;\n  left: var(--tag-actual-padding-horizontal);\n  top: 0;\n  margin-top: var(--tag-icon-padding);\n  background-size: var(--tag-icon-width) var(--tag-icon-height);\n}\n\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweeted\"],\n.rm-reference-item span.rm-page-ref[data-tag=\"Retweeted\"],\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweet draft\"] {\n  background-color: var(--reference-bg-color) !important;\n}\n\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweeted\"]::before,\n.rm-reference-item span.rm-page-ref[data-tag=\"Retweeted\"]::before,\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweet draft\"]::before {\n  background-color: var(--reference-bg-color) !important;\n}\n\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweeted\"],\n.rm-embed-container span.rm-page-ref[data-tag=\"Retweeted\"],\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweet draft\"], {\n  background-color: var(--embed-bg-color) !important;\n}\n\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweeted\"]::before,\n.rm-embed-container span.rm-page-ref[data-tag=\"Retweeted\"]::before,\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweet draft\"]::before {\n  background-color: var(--embed-bg-color) !important;\n}```"
-   536876006]
+   "```css\nspan.rm-page-ref[data-tag=\"Tweeted\"],\nspan.rm-page-ref[data-tag=\"Retweeted\"],\nspan.rm-page-ref[data-tag=\"Tweet reply\"],\nspan.rm-page-ref[data-tag=\"Tweet draft\"] {\n  color: rgb(29, 161, 242) !important;\n  font-weight: 700;\n  background-color: white !important;\n\n  position: relative;\n  padding-left: var(--tag-extra-padding-left);\n  padding-right: var(--tag-actual-padding-horizontal);\n}\n\nspan.rm-page-ref[data-tag=\"Tweeted\"]:before,\nspan.rm-page-ref[data-tag=\"Retweeted\"]:before,\nspan.rm-page-ref[data-tag=\"Tweet reply\"]:before,\nspan.rm-page-ref[data-tag=\"Tweet draft\"]:before {\n  background: white;\n\n  content: '';\n  width: var(--hash-blocking-bg-width);\n  height: var(--tag-icon-height);\n  position: absolute;\n  left: var(--tag-actual-padding-horizontal);\n  top: var(--tag-icon-padding);\n}\n\nspan.rm-page-ref[data-tag=\"Tweeted\"]:after,\nspan.rm-page-ref[data-tag=\"Retweeted\"]:after,\nspan.rm-page-ref[data-tag=\"Tweet reply\"]:after,\nspan.rm-page-ref[data-tag=\"Tweet draft\"]:after {\n  background: url('https://twitter.com/favicon.ico') no-repeat;\n  \n  content: '';\n  width: var(--tag-icon-width);\n  height: var(--tag-icon-height);\n  position: absolute;\n  left: var(--tag-actual-padding-horizontal);\n  top: 0;\n  margin-top: var(--tag-icon-padding);\n  background-size: var(--tag-icon-width) var(--tag-icon-height);\n}\n\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweeted\"],\n.rm-reference-item span.rm-page-ref[data-tag=\"Retweeted\"],\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweet reply\"],\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweet draft\"] {\n  background-color: var(--reference-bg-color) !important;\n}\n\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweeted\"]::before,\n.rm-reference-item span.rm-page-ref[data-tag=\"Retweeted\"]::before,\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweet draft\"]::before {\n  background-color: var(--reference-bg-color) !important;\n}\n\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweeted\"],\n.rm-embed-container span.rm-page-ref[data-tag=\"Retweeted\"],\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweet draft\"], {\n  background-color: var(--embed-bg-color) !important;\n}\n\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweeted\"]::before,\n.rm-embed-container span.rm-page-ref[data-tag=\"Retweeted\"]::before,\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweet draft\"]::before {\n  background-color: var(--embed-bg-color) !important;\n}```"
+   536876046]
   [1195 :block/uid "S1f1WgbUj" 536874149]
   [1195 :create/time 1602787092626 536874149]
   [1195 :create/user 1 536875710]
-  [1195 :edit/time 1603925492132 536876006]
+  [1195 :edit/time 1615136596477 536876046]
   [1195 :edit/user 1 536875710]
   [1199 :block/children 1200 536874159]
   [1199 :block/open true 536874159]
@@ -3819,8 +3820,8 @@
   [1708 :version/id "0.8.2" 536875900]
   [1708
    :version/nonce
-   "uuid25ec66a4-8b45-4522-9f2a-18cdac4e6dda"
-   536876034]
+   "uuid0dce67c1-d38d-4da1-9f00-dd4a43deeb7b"
+   536876055]
   [1709 :block/children 1707 536875905]
   [1709 :block/open true 536875903]
   [1709 :block/order 0 536875903]
@@ -4133,6 +4134,7 @@
   [1744 :edit/user 1 536876032]
   [1744 :log/id 1614904877309 536876032]
   [1744 :node/title "March 5th, 2021" 536876032]
+  [1745 :block/children 1748 536876039]
   [1745 :block/uid "03-06-2021" 536876033]
   [1745 :create/time 1614991244038 536876033]
   [1745 :create/user 1 536876033]
@@ -4146,4 +4148,53 @@
   [1746 :edit/time 1615077805287 536876034]
   [1746 :edit/user 1 536876034]
   [1746 :log/id 1615077805285 536876034]
-  [1746 :node/title "March 7th, 2021" 536876034]]}
+  [1746 :node/title "March 7th, 2021" 536876034]
+  [1747 :block/open true 536876035]
+  [1747 :block/order 0 536876044]
+  [1747 :block/page 1745 536876036]
+  [1747 :block/parents 1745 536876036]
+  [1747 :block/parents 1748 536876045]
+  [1747 :block/refs 1750 536876053]
+  [1747 :block/refs 1751 536876055]
+  [1747
+   :block/string
+   "Love it!\n\n\"I didn't have time\" is a victim mentality about time scarcity - an excuse for poor [[time management]].\n\n\"I didn't make time (yet)\" takes [[responsibility]] for what you can control. The \"yet\" tagged on the end recognizes the potential for improvement without giving up."
+   536876054]
+  [1747 :block/uid "Py02D-MTc" 536876035]
+  [1747 :create/time 1615136512320 536876035]
+  [1747 :create/user 1 536876035]
+  [1747 :edit/time 1615136638351 536876054]
+  [1747 :edit/user 1 536876035]
+  [1748 :block/children 1747 536876044]
+  [1748 :block/open true 536876039]
+  [1748 :block/order 0 536876039]
+  [1748 :block/page 1745 536876040]
+  [1748 :block/parents 1745 536876040]
+  [1748 :block/refs 1749 536876043]
+  [1748
+   :block/string
+   "#[[Tweet reply]] https://twitter.com/julia_saxena/status/1368197229735972864?s=20"
+   536876051]
+  [1748 :block/uid "DrEEek25q" 536876039]
+  [1748 :create/time 1615136525591 536876039]
+  [1748 :create/user 1 536876039]
+  [1748 :edit/time 1615136613134 536876051]
+  [1748 :edit/user 1 536876039]
+  [1749 :block/uid "X_ogx0Iel" 536876043]
+  [1749 :create/time 1615136536901 536876043]
+  [1749 :create/user 1 536876043]
+  [1749 :edit/time 1615136613134 536876051]
+  [1749 :edit/user 1 536876043]
+  [1749 :node/title "Tweet reply" 536876051]
+  [1750 :block/uid "pSdQ_K19E" 536876053]
+  [1750 :create/time 1615136632174 536876053]
+  [1750 :create/user 1 536876053]
+  [1750 :edit/time 1615136632182 536876053]
+  [1750 :edit/user 1 536876053]
+  [1750 :node/title "time management" 536876053]
+  [1751 :block/uid "y4Cc8zJ9u" 536876055]
+  [1751 :create/time 1615136638393 536876055]
+  [1751 :create/user 1 536876055]
+  [1751 :edit/time 1615136638394 536876055]
+  [1751 :edit/user 1 536876055]
+  [1751 :node/title "responsibility" 536876055]]}

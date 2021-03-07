@@ -341,13 +341,13 @@
         }
       },
       {
-        "edit-time": 1613861070626,
+        "edit-time": 1615136613134,
         "children": [
           {
-            "string": "```css\nspan.rm-page-ref[data-tag=\"Tweeted\"],\nspan.rm-page-ref[data-tag=\"Retweeted\"],\nspan.rm-page-ref[data-tag=\"Tweet draft\"] {\n  color: rgb(29, 161, 242) !important;\n  font-weight: 700;\n  background-color: white !important;\n\n  position: relative;\n  padding-left: var(--tag-extra-padding-left);\n  padding-right: var(--tag-actual-padding-horizontal);\n}\n\nspan.rm-page-ref[data-tag=\"Tweeted\"]:before,\nspan.rm-page-ref[data-tag=\"Retweeted\"]:before,\nspan.rm-page-ref[data-tag=\"Tweet draft\"]:before {\n  background: white;\n\n  content: '';\n  width: var(--hash-blocking-bg-width);\n  height: var(--tag-icon-height);\n  position: absolute;\n  left: var(--tag-actual-padding-horizontal);\n  top: var(--tag-icon-padding);\n}\n\nspan.rm-page-ref[data-tag=\"Tweeted\"]:after,\nspan.rm-page-ref[data-tag=\"Retweeted\"]:after,\nspan.rm-page-ref[data-tag=\"Tweet draft\"]:after {\n  background: url('https://twitter.com/favicon.ico') no-repeat;\n  \n  content: '';\n  width: var(--tag-icon-width);\n  height: var(--tag-icon-height);\n  position: absolute;\n  left: var(--tag-actual-padding-horizontal);\n  top: 0;\n  margin-top: var(--tag-icon-padding);\n  background-size: var(--tag-icon-width) var(--tag-icon-height);\n}\n\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweeted\"],\n.rm-reference-item span.rm-page-ref[data-tag=\"Retweeted\"],\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweet draft\"] {\n  background-color: var(--reference-bg-color) !important;\n}\n\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweeted\"]::before,\n.rm-reference-item span.rm-page-ref[data-tag=\"Retweeted\"]::before,\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweet draft\"]::before {\n  background-color: var(--reference-bg-color) !important;\n}\n\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweeted\"],\n.rm-embed-container span.rm-page-ref[data-tag=\"Retweeted\"],\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweet draft\"], {\n  background-color: var(--embed-bg-color) !important;\n}\n\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweeted\"]::before,\n.rm-embed-container span.rm-page-ref[data-tag=\"Retweeted\"]::before,\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweet draft\"]::before {\n  background-color: var(--embed-bg-color) !important;\n}```",
+            "string": "```css\nspan.rm-page-ref[data-tag=\"Tweeted\"],\nspan.rm-page-ref[data-tag=\"Retweeted\"],\nspan.rm-page-ref[data-tag=\"Tweet reply\"],\nspan.rm-page-ref[data-tag=\"Tweet draft\"] {\n  color: rgb(29, 161, 242) !important;\n  font-weight: 700;\n  background-color: white !important;\n\n  position: relative;\n  padding-left: var(--tag-extra-padding-left);\n  padding-right: var(--tag-actual-padding-horizontal);\n}\n\nspan.rm-page-ref[data-tag=\"Tweeted\"]:before,\nspan.rm-page-ref[data-tag=\"Retweeted\"]:before,\nspan.rm-page-ref[data-tag=\"Tweet reply\"]:before,\nspan.rm-page-ref[data-tag=\"Tweet draft\"]:before {\n  background: white;\n\n  content: '';\n  width: var(--hash-blocking-bg-width);\n  height: var(--tag-icon-height);\n  position: absolute;\n  left: var(--tag-actual-padding-horizontal);\n  top: var(--tag-icon-padding);\n}\n\nspan.rm-page-ref[data-tag=\"Tweeted\"]:after,\nspan.rm-page-ref[data-tag=\"Retweeted\"]:after,\nspan.rm-page-ref[data-tag=\"Tweet reply\"]:after,\nspan.rm-page-ref[data-tag=\"Tweet draft\"]:after {\n  background: url('https://twitter.com/favicon.ico') no-repeat;\n  \n  content: '';\n  width: var(--tag-icon-width);\n  height: var(--tag-icon-height);\n  position: absolute;\n  left: var(--tag-actual-padding-horizontal);\n  top: 0;\n  margin-top: var(--tag-icon-padding);\n  background-size: var(--tag-icon-width) var(--tag-icon-height);\n}\n\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweeted\"],\n.rm-reference-item span.rm-page-ref[data-tag=\"Retweeted\"],\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweet reply\"],\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweet draft\"] {\n  background-color: var(--reference-bg-color) !important;\n}\n\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweeted\"]::before,\n.rm-reference-item span.rm-page-ref[data-tag=\"Retweeted\"]::before,\n.rm-reference-item span.rm-page-ref[data-tag=\"Tweet draft\"]::before {\n  background-color: var(--reference-bg-color) !important;\n}\n\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweeted\"],\n.rm-embed-container span.rm-page-ref[data-tag=\"Retweeted\"],\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweet draft\"], {\n  background-color: var(--embed-bg-color) !important;\n}\n\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweeted\"]::before,\n.rm-embed-container span.rm-page-ref[data-tag=\"Retweeted\"]::before,\n.rm-embed-container span.rm-page-ref[data-tag=\"Tweet draft\"]::before {\n  background-color: var(--embed-bg-color) !important;\n}```",
             "create-time": 1602787092626,
             "uid": "S1f1WgbUj",
-            "edit-time": 1603925492132,
+            "edit-time": 1615136596477,
             ":create/user": {
               ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
             },
@@ -365,6 +365,9 @@
           },
           {
             "uid": "v96bl4e5D"
+          },
+          {
+            "uid": "X_ogx0Iel"
           }
         ],
         "uid": "KQffDy5OH",
@@ -377,9 +380,12 @@
           },
           {
             ":block/uid": "v96bl4e5D"
+          },
+          {
+            ":block/uid": "X_ogx0Iel"
           }
         ],
-        "string": "#Tweeted, #Retweeted, #[[Tweet draft]]",
+        "string": "#Tweeted, #Retweeted, #[[Tweet reply]], #[[Tweet draft]]",
         ":create/user": {
           ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
         },
@@ -5256,11 +5262,65 @@
   {
     "create-time": 1614991244038,
     "title": "March 6th, 2021",
-    "uid": "03-06-2021",
-    "edit-time": 1614991244038,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
+    "children": [
+      {
+        "edit-time": 1615136613134,
+        "children": [
+          {
+            "string": "Love it!\n\n\"I didn't have time\" is a victim mentality about time scarcity - an excuse for poor [[time management]].\n\n\"I didn't make time (yet)\" takes [[responsibility]] for what you can control. The \"yet\" tagged on the end recognizes the potential for improvement without giving up.",
+            "create-time": 1615136512320,
+            ":block/refs": [
+              {
+                ":block/uid": "pSdQ_K19E"
+              },
+              {
+                ":block/uid": "y4Cc8zJ9u"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "pSdQ_K19E"
+              },
+              {
+                "uid": "y4Cc8zJ9u"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            },
+            "uid": "Py02D-MTc",
+            "edit-time": 1615136638351,
+            ":edit/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "X_ogx0Iel"
+          }
+        ],
+        "uid": "DrEEek25q",
+        ":block/refs": [
+          {
+            ":block/uid": "X_ogx0Iel"
+          }
+        ],
+        "string": "#[[Tweet reply]] https://twitter.com/julia_saxena/status/1368197229735972864?s=20",
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        "create-time": 1615136525591,
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      }
+    ],
+    "uid": "03-06-2021",
+    "edit-time": 1614991244038,
     ":edit/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     }
@@ -5270,6 +5330,42 @@
     "title": "March 7th, 2021",
     "uid": "03-07-2021",
     "edit-time": 1615077805287,
+    ":create/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    },
+    ":edit/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    }
+  },
+  {
+    "create-time": 1615136536901,
+    "title": "Tweet reply",
+    "uid": "X_ogx0Iel",
+    "edit-time": 1615136613134,
+    ":create/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    },
+    ":edit/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    }
+  },
+  {
+    "create-time": 1615136632174,
+    "title": "time management",
+    "uid": "pSdQ_K19E",
+    "edit-time": 1615136632182,
+    ":create/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    },
+    ":edit/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    }
+  },
+  {
+    "create-time": 1615136638393,
+    "title": "responsibility",
+    "uid": "y4Cc8zJ9u",
+    "edit-time": 1615136638394,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
