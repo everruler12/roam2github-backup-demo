@@ -1,4 +1,26 @@
 - [[Conor]]
+    - Spacer 
+        - ```css
+ 
+.rm-block__self > .rm-block-separator {
+  min-width: 100px 
+/  min-height: 10px;
+  background-color: blue;
+  flex: 1 0 100px;
+}
+
+.rm-block__self > .rm-block-separator {
+  min-width: 100px !important;
+/  min-height: 10px;
+  background-color: blue;
+  flex: 1 0 100px;
+}
+
+.rm-embed-container   .rm-block-separator {
+  min-width: 0px !important;
+    flex: 1 0 0px !important;
+}
+```
     - New Document Mode
         - 
             - ```css
