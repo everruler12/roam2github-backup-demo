@@ -4219,6 +4219,7 @@
   [1754 :edit/user 1 536876058]
   [1754 :log/id 1615336865403 536876058]
   [1754 :node/title "March 10th, 2021" 536876058]
+  [1755 :block/children 1760 536876064]
   [1755 :block/uid "03-11-2021" 536876059]
   [1755 :create/time 1615423282706 536876059]
   [1755 :create/user 1 536876059]
@@ -4229,8 +4230,9 @@
   [1756 :version/id "0.8.3" 536876059]
   [1756
    :version/nonce
-   "uuid8ee16d5f-00be-4d7e-95a9-7af467fe030e"
-   536876061]
+   "uuid4aec6a34-ce4e-4173-8b11-2317dddceabf"
+   536876108]
+  [1757 :block/children 1759 536876062]
   [1757 :block/uid "03-12-2021" 536876060]
   [1757 :create/time 1615509702811 536876060]
   [1757 :create/user 1 536876060]
@@ -4244,4 +4246,151 @@
   [1758 :edit/time 1615596038626 536876061]
   [1758 :edit/user 1 536876061]
   [1758 :log/id 1615596038625 536876061]
-  [1758 :node/title "March 13th, 2021" 536876061]]}
+  [1758 :node/title "March 13th, 2021" 536876061]
+  [1759 :block/open true 536876062]
+  [1759 :block/order 0 536876062]
+  [1759 :block/page 1757 536876063]
+  [1759 :block/parents 1757 536876063]
+  [1759 :block/string "" 536876062]
+  [1759 :block/uid "N8HYntROQ" 536876062]
+  [1759 :create/time 1615612741463 536876062]
+  [1759 :create/user 1 536876062]
+  [1759 :edit/time 1615612741463 536876062]
+  [1759 :edit/user 1 536876062]
+  [1760 :block/children 1761 536876070]
+  [1760 :block/children 1762 536876073]
+  [1760 :block/children 1763 536876077]
+  [1760 :block/children 1764 536876096]
+  [1760 :block/children 1765 536876084]
+  [1760 :block/open true 536876064]
+  [1760 :block/order 0 536876064]
+  [1760 :block/page 1755 536876065]
+  [1760 :block/parents 1755 536876065]
+  [1760 :block/refs 1134 536876069]
+  [1760
+   :block/string
+   "#Tweeted https://twitter.com/ErikNewhard/status/1370180134540505088?s=20"
+   536876068]
+  [1760 :block/uid "3tp3mJKBy" 536876064]
+  [1760 :create/time 1615612742948 536876064]
+  [1760 :create/user 1 536876064]
+  [1760 :edit/time 1615612746956 536876068]
+  [1760 :edit/user 1 536876064]
+  [1761 :block/children 1769 536876104]
+  [1761 :block/open true 536876066]
+  [1761 :block/order 2 536876077]
+  [1761 :block/page 1755 536876067]
+  [1761 :block/parents 1755 536876067]
+  [1761 :block/parents 1760 536876071]
+  [1761
+   :block/string
+   "1. Squatting on a stool\n\nThis puts you in a more natural posture for easier elimination."
+   536876080]
+  [1761 :block/uid "CRLdwMnoP" 536876066]
+  [1761 :create/time 1615612746946 536876066]
+  [1761 :create/user 1 536876066]
+  [1761 :edit/time 1615612784143 536876080]
+  [1761 :edit/user 1 536876066]
+  [1762 :block/open true 536876073]
+  [1762 :block/order 0 536876073]
+  [1762 :block/page 1755 536876074]
+  [1762 :block/parents 1755 536876074]
+  [1762 :block/parents 1760 536876074]
+  [1762
+   :block/string
+   "Riddle:\nWhen does it feel good to have a feeling of emptiness inside?"
+   536876073]
+  [1762 :block/uid "r-9-HuqNr" 536876073]
+  [1762 :create/time 1615612758346 536876073]
+  [1762 :create/user 1 536876073]
+  [1762 :edit/time 1615612758346 536876073]
+  [1762 :edit/user 1 536876073]
+  [1763 :block/open true 536876077]
+  [1763 :block/order 1 536876077]
+  [1763 :block/page 1755 536876078]
+  [1763 :block/parents 1755 536876078]
+  [1763 :block/parents 1760 536876078]
+  [1763
+   :block/string
+   "Answer:\nAfter a bowel movement.\n\nHere are 3 non-diet ways that have transformed my toilet routine into a more pleasant pooping experience in the past year..."
+   536876077]
+  [1763 :block/uid "b8LGCXcNd" 536876077]
+  [1763 :create/time 1615612774298 536876077]
+  [1763 :create/user 1 536876077]
+  [1763 :edit/time 1615612774298 536876077]
+  [1763 :edit/user 1 536876077]
+  [1764 :block/children 1768 536876100]
+  [1764 :block/open true 536876081]
+  [1764 :block/order 3 536876104]
+  [1764 :block/page 1755 536876082]
+  [1764 :block/parents 1755 536876082]
+  [1764 :block/parents 1760 536876082]
+  [1764
+   :block/string
+   "2. Using essential oil spray\n\nThis traps stinky smells on the surface of the water, leaving only fragrant scents in the air."
+   536876097]
+  [1764 :block/uid "lM22DPyMJ" 536876081]
+  [1764 :create/time 1615612786330 536876081]
+  [1764 :create/user 1 536876081]
+  [1764 :edit/time 1615612792627 536876097]
+  [1764 :edit/user 1 536876081]
+  [1765 :block/children 1766 536876089]
+  [1765 :block/open true 536876084]
+  [1765 :block/order 4 536876104]
+  [1765 :block/page 1755 536876085]
+  [1765 :block/parents 1755 536876085]
+  [1765 :block/parents 1760 536876085]
+  [1765
+   :block/string
+   "3. Washing with water\n\nDue to the \"Great Toilet Paper Shortage of 2020\", I did some researching for alternatives. This article convinced me to get a bidet bottle. It's way faster and cleaner than toilet paper. Never going back."
+   536876086]
+  [1765 :block/uid "oTcwMP8FA" 536876084]
+  [1765 :create/time 1615612793493 536876084]
+  [1765 :create/user 1 536876084]
+  [1765 :edit/time 1615612798340 536876086]
+  [1765 :edit/user 1 536876084]
+  [1766 :block/open true 536876087]
+  [1766 :block/order 0 536876089]
+  [1766 :block/page 1755 536876088]
+  [1766 :block/parents 1755 536876088]
+  [1766 :block/parents 1760 536876088]
+  [1766 :block/parents 1765 536876090]
+  [1766
+   :block/string
+   "https://iwangulenko.medium.com/toilet-paper-shortage-learn-how-to-hygienically-clean-your-butt-without-it-a875cbb06cbe"
+   536876108]
+  [1766 :block/uid "17lo1giQj" 536876087]
+  [1766 :create/time 1615612800171 536876087]
+  [1766 :create/user 1 536876087]
+  [1766 :edit/time 1615612847831 536876108]
+  [1766 :edit/user 1 536876087]
+  [1768 :block/open true 536876098]
+  [1768 :block/order 0 536876100]
+  [1768 :block/page 1755 536876099]
+  [1768 :block/parents 1755 536876099]
+  [1768 :block/parents 1760 536876099]
+  [1768 :block/parents 1764 536876101]
+  [1768
+   :block/string
+   "https://www.youtube.com/watch?v=ZKLnhuzh9uY"
+   536876107]
+  [1768 :block/uid "rBEIm1Z9N" 536876098]
+  [1768 :create/time 1615612805630 536876098]
+  [1768 :create/user 1 536876098]
+  [1768 :edit/time 1615612839262 536876107]
+  [1768 :edit/user 1 536876098]
+  [1769 :block/open true 536876102]
+  [1769 :block/order 0 536876104]
+  [1769 :block/page 1755 536876103]
+  [1769 :block/parents 1755 536876103]
+  [1769 :block/parents 1760 536876103]
+  [1769 :block/parents 1761 536876105]
+  [1769
+   :block/string
+   "https://www.youtube.com/watch?v=YbYWhdLO43Q"
+   536876106]
+  [1769 :block/uid "5QYl1urCd" 536876102]
+  [1769 :create/time 1615612809020 536876102]
+  [1769 :create/user 1 536876102]
+  [1769 :edit/time 1615612819000 536876106]
+  [1769 :edit/user 1 536876102]]}

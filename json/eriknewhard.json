@@ -5412,11 +5412,139 @@
   {
     "create-time": 1615423282706,
     "title": "March 11th, 2021",
-    "uid": "03-11-2021",
-    "edit-time": 1615423282706,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
+    "children": [
+      {
+        "edit-time": 1615612746956,
+        "children": [
+          {
+            "string": "Riddle:\nWhen does it feel good to have a feeling of emptiness inside?",
+            "create-time": 1615612758346,
+            "uid": "r-9-HuqNr",
+            "edit-time": 1615612758346,
+            ":create/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            },
+            ":edit/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            }
+          },
+          {
+            "string": "Answer:\nAfter a bowel movement.\n\nHere are 3 non-diet ways that have transformed my toilet routine into a more pleasant pooping experience in the past year...",
+            "create-time": 1615612774298,
+            "uid": "b8LGCXcNd",
+            "edit-time": 1615612774298,
+            ":create/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            },
+            ":edit/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            }
+          },
+          {
+            "string": "1. Squatting on a stool\n\nThis puts you in a more natural posture for easier elimination.",
+            "create-time": 1615612746946,
+            ":create/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            },
+            "children": [
+              {
+                "string": "https://www.youtube.com/watch?v=YbYWhdLO43Q",
+                "create-time": 1615612809020,
+                "uid": "5QYl1urCd",
+                "edit-time": 1615612819000,
+                ":create/user": {
+                  ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+                },
+                ":edit/user": {
+                  ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+                }
+              }
+            ],
+            "uid": "CRLdwMnoP",
+            "edit-time": 1615612784143,
+            ":edit/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            }
+          },
+          {
+            "string": "2. Using essential oil spray\n\nThis traps stinky smells on the surface of the water, leaving only fragrant scents in the air.",
+            "create-time": 1615612786330,
+            ":create/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            },
+            "children": [
+              {
+                "string": "https://www.youtube.com/watch?v=ZKLnhuzh9uY",
+                "create-time": 1615612805630,
+                "uid": "rBEIm1Z9N",
+                "edit-time": 1615612839262,
+                ":create/user": {
+                  ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+                },
+                ":edit/user": {
+                  ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+                }
+              }
+            ],
+            "uid": "lM22DPyMJ",
+            "edit-time": 1615612792627,
+            ":edit/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            }
+          },
+          {
+            "string": "3. Washing with water\n\nDue to the \"Great Toilet Paper Shortage of 2020\", I did some researching for alternatives. This article convinced me to get a bidet bottle. It's way faster and cleaner than toilet paper. Never going back.",
+            "create-time": 1615612793493,
+            ":create/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            },
+            "children": [
+              {
+                "string": "https://iwangulenko.medium.com/toilet-paper-shortage-learn-how-to-hygienically-clean-your-butt-without-it-a875cbb06cbe",
+                "create-time": 1615612800171,
+                "uid": "17lo1giQj",
+                "edit-time": 1615612847831,
+                ":create/user": {
+                  ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+                },
+                ":edit/user": {
+                  ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+                }
+              }
+            ],
+            "uid": "oTcwMP8FA",
+            "edit-time": 1615612798340,
+            ":edit/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Zkb5SGmuZ"
+          }
+        ],
+        "uid": "3tp3mJKBy",
+        ":block/refs": [
+          {
+            ":block/uid": "Zkb5SGmuZ"
+          }
+        ],
+        "string": "#Tweeted https://twitter.com/ErikNewhard/status/1370180134540505088?s=20",
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        "create-time": 1615612742948,
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      }
+    ],
+    "uid": "03-11-2021",
+    "edit-time": 1615423282706,
     ":edit/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     }
@@ -5424,11 +5552,25 @@
   {
     "create-time": 1615509702811,
     "title": "March 12th, 2021",
-    "uid": "03-12-2021",
-    "edit-time": 1615509702811,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1615612741463,
+        "uid": "N8HYntROQ",
+        "edit-time": 1615612741463,
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      }
+    ],
+    "uid": "03-12-2021",
+    "edit-time": 1615509702811,
     ":edit/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     }
