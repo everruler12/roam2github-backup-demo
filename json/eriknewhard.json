@@ -5590,11 +5590,49 @@
   {
     "create-time": 1615682635603,
     "title": "March 14th, 2021",
-    "uid": "03-14-2021",
-    "edit-time": 1615682635603,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
+    "children": [
+      {
+        "edit-time": 1615704003140,
+        "children": [
+          {
+            "string": "How would you spend your time differently in a money-free society with all your basic needs met?",
+            "create-time": 1615703953350,
+            "uid": "AcqR0xnKF",
+            "edit-time": 1615703963932,
+            ":create/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            },
+            ":edit/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Zkb5SGmuZ"
+          }
+        ],
+        "uid": "5fYWxmcWs",
+        ":block/refs": [
+          {
+            ":block/uid": "Zkb5SGmuZ"
+          }
+        ],
+        "string": "#[[Tweeted]] https://twitter.com/ErikNewhard/status/1370987805795487746?s=19",
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        "create-time": 1615703954361,
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      }
+    ],
+    "uid": "03-14-2021",
+    "edit-time": 1615682635603,
     ":edit/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     }

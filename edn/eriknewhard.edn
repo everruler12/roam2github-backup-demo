@@ -4230,8 +4230,8 @@
   [1756 :version/id "0.8.3" 536876059]
   [1756
    :version/nonce
-   "uuid31ae3988-64b0-4973-858f-392b292f75e3"
-   536876109]
+   "uuid8f5cc984-5453-4799-901f-09beaba65008"
+   536876122]
   [1757 :block/children 1759 536876062]
   [1757 :block/uid "03-12-2021" 536876060]
   [1757 :create/time 1615509702811 536876060]
@@ -4394,10 +4394,40 @@
   [1769 :create/user 1 536876102]
   [1769 :edit/time 1615612819000 536876106]
   [1769 :edit/user 1 536876102]
+  [1770 :block/children 1772 536876112]
   [1770 :block/uid "03-14-2021" 536876109]
   [1770 :create/time 1615682635603 536876109]
   [1770 :create/user 1 536876109]
   [1770 :edit/time 1615682635603 536876109]
   [1770 :edit/user 1 536876109]
   [1770 :log/id 1615682635602 536876109]
-  [1770 :node/title "March 14th, 2021" 536876109]]}
+  [1770 :node/title "March 14th, 2021" 536876109]
+  [1771 :block/open true 536876110]
+  [1771 :block/order 0 536876114]
+  [1771 :block/page 1770 536876111]
+  [1771 :block/parents 1770 536876111]
+  [1771 :block/parents 1772 536876115]
+  [1771
+   :block/string
+   "How would you spend your time differently in a money-free society with all your basic needs met?"
+   536876118]
+  [1771 :block/uid "AcqR0xnKF" 536876110]
+  [1771 :create/time 1615703953350 536876110]
+  [1771 :create/user 1 536876110]
+  [1771 :edit/time 1615703963932 536876118]
+  [1771 :edit/user 1 536876110]
+  [1772 :block/children 1771 536876114]
+  [1772 :block/open true 536876112]
+  [1772 :block/order 0 536876112]
+  [1772 :block/page 1770 536876113]
+  [1772 :block/parents 1770 536876113]
+  [1772 :block/refs 1134 536876120]
+  [1772
+   :block/string
+   "#[[Tweeted]] https://twitter.com/ErikNewhard/status/1370987805795487746?s=19"
+   536876122]
+  [1772 :block/uid "5fYWxmcWs" 536876112]
+  [1772 :create/time 1615703954361 536876112]
+  [1772 :create/user 1 536876112]
+  [1772 :edit/time 1615704003140 536876122]
+  [1772 :edit/user 1 536876112]]}
