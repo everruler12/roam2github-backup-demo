@@ -1,7 +1,7 @@
 - [[Conor]]
     - {{[[embed]]: ((UlnOVltlm))}}
     - ```css
-.rm-d >
+.rm-d.rm-block--open >
 .rm-block__children > .rm-block:nth-child(3) > div:first-child > div:first-child {
   background-color: blue !important;
   min-width: 60px;
@@ -14,10 +14,10 @@
 }```
     - ```css
 .rm-d >
-.rm-block__children > .rm-block:nth-child(2) > .rm-block__children  {
+.rm-block__children > .rm-block:nth-child(2) > .rm-block__children > div:last-child {
 \\ background-color: green !important;
- border-bottom: 3px solid green;
-  margin-left: 8px;
+ \\ border-bottom: 3px solid green;
+ \\ margin-left: 8px;
  \\ margin-top: -18px;
 
 }``` 
