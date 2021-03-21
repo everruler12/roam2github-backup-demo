@@ -1,4 +1,29 @@
 - [[Conor]]
+    - thread #.thread
+        - #.thread a
+            - b
+            - c
+    - ```css
+.thread .rm-block,.rm-block__children
+{display: contents;
+}
+.thread {
+  display: flex;
+  flex-direction: row;}```
+    - ```css
+.rm-block {
+max-width: 100vw !important;
+  min-width: 10px !important;
+}```
+    - ```css
+.contents {
+  color:blue;
+display: contents;}
+
+.center > .rm-block__children {
+  justify: content:center;
+align-items:  center;}
+```
     - Spacer 
         - ```clojure
  
@@ -267,9 +292,14 @@ span.rm-page-ref[data-tag="rm-h"] {
     display: none;
 }
 
-.roam-block-container[data-page-links*="rm-h"] .rm-block-children {
+.roam-block-container[data-page-links*="rm-h"]> .rm-block-children {
   display: flex;
+ 
   flex-direction: row;
+}
+.wrap { 
+flex-wrap: wrap;
+
 }
 ```
         - Grid #rm-grid
