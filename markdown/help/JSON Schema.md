@@ -7,7 +7,6 @@
             - "title"
             - "children"
             - "create-time"
-            - "create-email"
             - "edit-time"
             - "edit-email"
     - Block
@@ -17,7 +16,6 @@
             - "uid"
             - "children"
             - "create-time"
-            - "create-email"
             - "edit-time"
             - "edit-email"
             - "heading"
@@ -38,9 +36,6 @@
     - create-time
         - description:: The time the object was created, measured in ms since unix epoch. If not supplied, the create-time of the object will be filled in by either the edit-time, or now.
         - type:: integer
-    - create-email
-        - description:: The email of the user who created the object. If not supplied, will be filled in by the edit-email or the user who uploaded the JSON.
-        - type:: string
     - edit-time
         - description:: The time the object was last edited, measured in ms since unix epoch. If not supplied, the edit-time of the object will be filled in by either the create-time, or now.
         - type:: integer

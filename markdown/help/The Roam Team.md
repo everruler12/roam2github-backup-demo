@@ -1,0 +1,19 @@
+- #.doc-mode
+    - #.rm-grid
+        - # CEO
+            - ## [Conor]([[Conor White-Sullivan]])
+        - # CTO
+            - ## [Josh]([[Joshua Brown]])
+        - # COO
+            - ## [Michael]([[Michael Norman]])
+    - # Team #.rm-grid
+        - ## [Adam]([[Adam Sherwood]])
+        - ## [Bardia]([[Bardia Pourvakil]])
+        - ## [Clara]([[Clara Pastore]])
+        - ## [Filipe]([[Filipe Silva]])
+        - ## [Jessy]([[Jessy Huang]])
+        - ## [Kifah]([[Kifah Meeran]])
+        - ## [Mark]([[Mark Bastian]])
+        - ## [Matt]([[Matt McKinlay]])
+        - ## [Stian]([[Stian Håklev]])
+        - ## [Wilker]([[Wilker Lucio]]])

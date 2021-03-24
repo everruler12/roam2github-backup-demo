@@ -1,0 +1,6 @@
+- Version control helps you create different versions of of the same block, often used when you want to make multiple drafts of something
+    - This is an example with Roam's elevator pitch, click on the numbers to see the different versions
+        - Roam maps the world's knowledge and turns static knowledge alive and collaborative.
+- Key Commands::
+    - `Ctrl+,` for Windows
+    - `Cmd+,` for Mac

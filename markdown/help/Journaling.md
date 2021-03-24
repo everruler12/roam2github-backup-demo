@@ -1,0 +1,29 @@
+- #.doc-mode
+    - ## Community Videos::
+        - ### Using Roam as Your Daily Journal by [[Shu Omi]]
+            - {{[[video]]: https://www.youtube.com/watch?v=WTSHhj92pvM&ab_channel=ShuOmi}}
+
+            - #[[Templates]] | #[[Daily Notes]] | #[[Sidebar]] | #[[Page References]] | #[[Slider]]
+        - ### Easiest Daily Journal Practice using Roam by [[Parker Rex]]
+            - {{[[video]]: https://www.youtube.com/watch?v=of6eyDfUA9s&ab_channel=ParkerRex}}
+                - #[[Templates]] | #[[Daily Notes]] | #[[Pomodoro timer]] | #[[Word count]] | #[[Page References]] | #[[Linked References]]
+        - ### Interstitial Journaling with Roam Research by [[Mickey Mellen]]
+            - {{[[video]]: https://www.youtube.com/watch?v=W7nfntHh5Kc&ab_channel=MickeyMellen}}
+                - #[[Templates]] | #[[Task Management]] | #[[Page References]] | #[[Current time]]
+        - ### Roam Research for Daily Task Management using Bullet Journaling Method by [[The Upgraded Brain]]
+            - {{[[video]]: https://www.youtube.com/watch?v=ftv6ew7Tcbg&ab_channel=TheUpgradedBrain}}
+                - #[[Templates]] | #[[Daily Notes]] | #[[Slider]] | #[[Task Management]]
+        - ### How to journal and improve your thinking with Roam Research by [[Roman Rey]]
+            - {{[[video]]: https://www.youtube.com/watch?v=eZxK0ALsTfo&ab_channel=RomanRey}}
+                - #[[Daily Notes]] | #[[Page References]] | #[[Linked References]] | #[[Unlinked References]] | #[[Graph Overview]]
+    - ## Articles::
+        - ### [How to Keep a Journal in Roam Research](https://markmcelroy.com/how-to-keep-a-journal-in-roam-research/) by [[Mark McElroy]]
+            - #[[Daily Notes]] | #[[Page References]] | #[[Slider]]
+        - ### [How to use Roam Research for Interstitial Journaling](https://www.cortexfutura.com/interstitial-journaling-roam-research/) by [[Cortex Futura]]
+            - #[[Daily Notes]] | #[[Current time]] | #[[Page References]]
+        - ### [Atomic Journaling - Expanding Thoughts](https://brandontoner.substack.com/p/atomic-journaling) by [[Brandon Toner]]
+            - #[[Daily Notes]] | #[[Templates]] | #[[Block References]]
+        - ### [Interstitial journaling: combining notes, to-do & time tracking](https://nesslabs.com/interstitial-journaling) by [[Anne-Laure Le Cunff]]
+            - #[[Daily Notes]] | #[[Current time]] | #[[Task Management]] | #[[Page References]]
+        - ### [The Power of Roaman Journaling](https://www.roambrain.com/the-power-of-roaman-journaling/) by [[Tracy Winchell]]
+            - #[[Templates]] | #[[Daily Notes]] | #[[Current time]] | #[[Block Embed]]
