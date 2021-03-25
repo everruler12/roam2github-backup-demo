@@ -4497,12 +4497,49 @@
   [1782 :version/id "0.8.4" 536876131]
   [1782
    :version/nonce
-   "uuide0925d13-515d-4eed-bc38-79aa0e704912"
-   536876132]
+   "uuid63b37610-3e79-4b31-8d2a-02bb25174e7c"
+   536876143]
+  [1783 :block/children 1784 536876133]
   [1783 :block/uid "03-24-2021" 536876132]
   [1783 :create/time 1616546584243 536876132]
   [1783 :create/user 1 536876132]
   [1783 :edit/time 1616546584243 536876132]
   [1783 :edit/user 1 536876132]
   [1783 :log/id 1616546584242 536876132]
-  [1783 :node/title "March 24th, 2021" 536876132]]}
+  [1783 :node/title "March 24th, 2021" 536876132]
+  [1784 :block/children 1785 536876139]
+  [1784 :block/open true 536876133]
+  [1784 :block/order 0 536876133]
+  [1784 :block/page 1783 536876134]
+  [1784 :block/parents 1783 536876134]
+  [1784 :block/refs 1134 536876136]
+  [1784
+   :block/string
+   "#Tweeted https://twitter.com/ErikNewhard/status/1374881685444042759?s=20"
+   536876142]
+  [1784 :block/uid "tRqnFPoW0" 536876133]
+  [1784 :create/time 1616632818640 536876133]
+  [1784 :create/user 1 536876133]
+  [1784 :edit/time 1616632828952 536876142]
+  [1784 :edit/user 1 536876133]
+  [1785 :block/open true 536876137]
+  [1785 :block/order 0 536876139]
+  [1785 :block/page 1783 536876138]
+  [1785 :block/parents 1783 536876138]
+  [1785 :block/parents 1784 536876140]
+  [1785
+   :block/string
+   "WOP Zoom chats are like talking and joking with friends in class while the teacher is teaching without getting in trouble"
+   536876141]
+  [1785 :block/uid "4oh2kyPs7" 536876137]
+  [1785 :create/time 1616632821940 536876137]
+  [1785 :create/user 1 536876137]
+  [1785 :edit/time 1616632822619 536876141]
+  [1785 :edit/user 1 536876137]
+  [1786 :block/uid "03-25-2021" 536876143]
+  [1786 :create/time 1616635029574 536876143]
+  [1786 :create/user 1 536876143]
+  [1786 :edit/time 1616635029574 536876143]
+  [1786 :edit/user 1 536876143]
+  [1786 :log/id 1616635029573 536876143]
+  [1786 :node/title "March 25th, 2021" 536876143]]}

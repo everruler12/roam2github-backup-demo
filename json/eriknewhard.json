@@ -5748,8 +5748,58 @@
   {
     "create-time": 1616546584243,
     "title": "March 24th, 2021",
+    ":create/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    },
+    "children": [
+      {
+        "edit-time": 1616632828952,
+        "children": [
+          {
+            "string": "WOP Zoom chats are like talking and joking with friends in class while the teacher is teaching without getting in trouble",
+            "create-time": 1616632821940,
+            "uid": "4oh2kyPs7",
+            "edit-time": 1616632822619,
+            ":create/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            },
+            ":edit/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Zkb5SGmuZ"
+          }
+        ],
+        "uid": "tRqnFPoW0",
+        ":block/refs": [
+          {
+            ":block/uid": "Zkb5SGmuZ"
+          }
+        ],
+        "string": "#Tweeted https://twitter.com/ErikNewhard/status/1374881685444042759?s=20",
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        "create-time": 1616632818640,
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      }
+    ],
     "uid": "03-24-2021",
     "edit-time": 1616546584243,
+    ":edit/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    }
+  },
+  {
+    "create-time": 1616635029574,
+    "title": "March 25th, 2021",
+    "uid": "03-25-2021",
+    "edit-time": 1616635029574,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
