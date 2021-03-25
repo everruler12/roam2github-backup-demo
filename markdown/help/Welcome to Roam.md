@@ -1,18 +1,20 @@
 #.doc-mode
+    - ## It's **super** easy to get started with Roam, but it takes time to master. Get a head-start by skimming these docs! 
+    - 
     - # Getting started
-        - ## It's **super** easy to get started with Roam, but it takes time to master. Get a head-start by skimming these docs! 
-        - ### (hint... right-click the links below 😉)
-            - ### [How to link your notes]([[Bidirectional linking]])
-            - ### [How to format your text]([[Formatting]])
-            - ### [How to work with several notes at a time with the right sidebar]([[Right Sidebar]])
-            - ### Type `/` into a block to check out features available in the [[/ Commands]] menu
-                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Fvg4SUhgwIf.gif?alt=media&token=f4f682cb-e612-447a-83c1-9f4934818eaa)
-        - ## There are [several amazing and FREE video courses](((eEUXylm_o))) you should check out as well, if that's your style
+        - ### ℹ️ (hint... shift-click the links below 😉) #.box
+        - ### [How to link your notes]([[Bidirectional linking]])
+        - ### [How to format your text]([[Formatting]])
+        - ### [How to work with several notes at a time with the right sidebar]([[Right Sidebar]])
+        - ### Type `/` into a block to check out features available in the [[/ Commands]] menu
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Fvg4SUhgwIf.gif?alt=media&token=f4f682cb-e612-447a-83c1-9f4934818eaa)
+        - > Here are [several amazing and free courses](((eEUXylm_o))) you can check out as well
+    - 
     - # [Workflows]([[Workflows]])
-        - ### ℹ️ Shift-click any of the [links]([[Bidirectional linking]]) on this page to open them in the [[Right Sidebar]] #.box
         - ## Roam is a tool geared for [[Writing]], [[Research]], and [[Studying]]
         - ## It can also be used for [task]([[Task Management]]) and [project management]([[Project Management]]) or even as a [[Personal CRM]]
         - ## Roam is highly flexible and our community discovers new [workflows]([[Workflows]]) it can support every day
+    - 
     - # Still have questions?
         - ## Check out [this page]([[Features]]) to see an overview of all the **features** available in Roam
         - ## You should also join our [Slack](https://join.slack.com/t/roamresearch/shared_invite/zt-ni1vw9yf-HzeWr05ZJBt55j_zfddPsw), where our amazing community shares resources, workflows, tips, tricks, and more

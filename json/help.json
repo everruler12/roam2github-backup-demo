@@ -28911,145 +28911,166 @@
         "edit-time": 1615180695696,
         "children": [
           {
+            "string": "It's **super** easy to get started with Roam, but it takes time to master. Get a head-start by skimming these docs! ",
+            "create-time": 1616567952831,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "uid": "dhkERGJ56",
+            "edit-time": 1616567952831,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          },
+          {
+            "string": "",
+            "create-time": 1616649431054,
+            "uid": "hp-thgF5j",
+            "edit-time": 1616649431054,
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            }
+          },
+          {
             "string": "Getting started",
             "heading": 1,
             "children": [
               {
-                "string": "It's **super** easy to get started with Roam, but it takes time to master. Get a head-start by skimming these docs! ",
-                "create-time": 1616567952831,
-                "heading": 2,
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "uid": "dhkERGJ56",
-                "edit-time": 1616567952831,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "(hint... right-click the links below 😉)",
-                "create-time": 1614804182775,
-                "heading": 3,
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "children": [
+                "edit-time": 1616648935326,
+                "refs": [
                   {
-                    "edit-time": 1614804203117,
-                    "refs": [
-                      {
-                        "uid": "fJITY2nwZ"
-                      }
-                    ],
-                    "uid": "OnvSQzwhz",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "fJITY2nwZ"
-                      }
-                    ],
-                    "string": "[How to link your notes]([[Bidirectional linking]])",
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "create-time": 1614804168952,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "heading": 3
-                  },
-                  {
-                    "edit-time": 1614804203117,
-                    "refs": [
-                      {
-                        "uid": "ECVcN75g2"
-                      }
-                    ],
-                    "uid": "u2F8f6DvO",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "ECVcN75g2"
-                      }
-                    ],
-                    "string": "[How to format your text]([[Formatting]])",
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "create-time": 1614804168952,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "heading": 3
-                  },
-                  {
-                    "edit-time": 1614804203117,
-                    "refs": [
-                      {
-                        "uid": "JG_fewIU6"
-                      }
-                    ],
-                    "uid": "UCJizJJa6",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "JG_fewIU6"
-                      }
-                    ],
-                    "string": "[How to work with several notes at a time with the right sidebar]([[Right Sidebar]])",
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "create-time": 1614804168952,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "heading": 3
-                  },
-                  {
-                    "edit-time": 1614804203117,
-                    "children": [
-                      {
-                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Fvg4SUhgwIf.gif?alt=media&token=f4f682cb-e612-447a-83c1-9f4934818eaa)",
-                        "create-time": 1614804168952,
-                        "uid": "y58Z4HXFM",
-                        "edit-time": 1614804203117,
-                        ":create/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "y7RCW_g_0"
-                      }
-                    ],
-                    "uid": "HyHN1GpAi",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "y7RCW_g_0"
-                      }
-                    ],
-                    "string": "Type `/` into a block to check out features available in the [[/ Commands]] menu",
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "create-time": 1614804168952,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "heading": 3
+                    "uid": "klloAYliy"
                   }
                 ],
                 "uid": "ahhKayN1R",
-                "edit-time": 1616567995783,
+                ":block/refs": [
+                  {
+                    ":block/uid": "klloAYliy"
+                  }
+                ],
+                "string": "ℹ️ (hint... shift-click the links below 😉) #.box",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1614804182775,
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
+                },
+                "heading": 3
               },
               {
-                "edit-time": 1614808029484,
+                "edit-time": 1614804203117,
+                "refs": [
+                  {
+                    "uid": "fJITY2nwZ"
+                  }
+                ],
+                "uid": "OnvSQzwhz",
+                ":block/refs": [
+                  {
+                    ":block/uid": "fJITY2nwZ"
+                  }
+                ],
+                "string": "[How to link your notes]([[Bidirectional linking]])",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1614804168952,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "heading": 3
+              },
+              {
+                "edit-time": 1614804203117,
+                "refs": [
+                  {
+                    "uid": "ECVcN75g2"
+                  }
+                ],
+                "uid": "u2F8f6DvO",
+                ":block/refs": [
+                  {
+                    ":block/uid": "ECVcN75g2"
+                  }
+                ],
+                "string": "[How to format your text]([[Formatting]])",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1614804168952,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "heading": 3
+              },
+              {
+                "edit-time": 1614804203117,
+                "refs": [
+                  {
+                    "uid": "JG_fewIU6"
+                  }
+                ],
+                "uid": "UCJizJJa6",
+                ":block/refs": [
+                  {
+                    ":block/uid": "JG_fewIU6"
+                  }
+                ],
+                "string": "[How to work with several notes at a time with the right sidebar]([[Right Sidebar]])",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1614804168952,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "heading": 3
+              },
+              {
+                "edit-time": 1616648961626,
+                "children": [
+                  {
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Fvg4SUhgwIf.gif?alt=media&token=f4f682cb-e612-447a-83c1-9f4934818eaa)",
+                    "create-time": 1614804168952,
+                    "uid": "y58Z4HXFM",
+                    "edit-time": 1614804203117,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "y7RCW_g_0"
+                  }
+                ],
+                "uid": "HyHN1GpAi",
+                ":block/refs": [
+                  {
+                    ":block/uid": "y7RCW_g_0"
+                  }
+                ],
+                "string": "Type `/` into a block to check out features available in the [[/ Commands]] menu",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1614804168952,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "heading": 3
+              },
+              {
+                "edit-time": 1616648998301,
+                "text-align": "center",
                 "refs": [
                   {
                     "uid": "eEUXylm_o"
@@ -29061,21 +29082,32 @@
                     ":block/uid": "eEUXylm_o"
                   }
                 ],
-                "string": "There are [several amazing and FREE video courses](((eEUXylm_o))) you should check out as well, if that's your style",
+                "string": "> Here are [several amazing and free courses](((eEUXylm_o))) you can check out as well",
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
                 "create-time": 1614804252319,
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "heading": 2
+                }
               }
             ],
             "uid": "DTYzJNcdp",
             "edit-time": 1616398040243,
             ":edit/user": {
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          },
+          {
+            "string": "",
+            "create-time": 1616649267943,
+            "uid": "lYS-gnPfC",
+            "edit-time": 1616649267943,
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
             }
           },
           {
@@ -29092,42 +29124,6 @@
               }
             ],
             "children": [
-              {
-                "emojis": [],
-                "edit-time": 1616207312673,
-                "refs": [
-                  {
-                    "uid": "JG_fewIU6"
-                  },
-                  {
-                    "uid": "klloAYliy"
-                  },
-                  {
-                    "uid": "fJITY2nwZ"
-                  }
-                ],
-                "uid": "aFZu8Gf6_",
-                ":block/refs": [
-                  {
-                    ":block/uid": "JG_fewIU6"
-                  },
-                  {
-                    ":block/uid": "klloAYliy"
-                  },
-                  {
-                    ":block/uid": "fJITY2nwZ"
-                  }
-                ],
-                "string": "ℹ️ Shift-click any of the [links]([[Bidirectional linking]]) on this page to open them in the [[Right Sidebar]] #.box",
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1614686106775,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "heading": 3
-              },
               {
                 "edit-time": 1614819141935,
                 "refs": [
@@ -29225,11 +29221,23 @@
             }
           },
           {
+            "string": "",
+            "create-time": 1616649278157,
+            "uid": "XsP1g6My3",
+            "edit-time": 1616649278157,
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            }
+          },
+          {
             "string": "Still have questions?",
             "heading": 1,
             "children": [
               {
-                "edit-time": 1614819249582,
+                "edit-time": 1616649059938,
                 "refs": [
                   {
                     "uid": "s6pvNWMkE"
@@ -29247,7 +29255,7 @@
                 },
                 "create-time": 1614657923462,
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
                 "heading": 2
               },
@@ -38698,6 +38706,28 @@
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 }
+              },
+              {
+                "string": "[Kifah]([[Kifah Meeran]]) — [@maskys]([[Kifah Meeran]])",
+                "create-time": 1616649217407,
+                ":block/refs": [
+                  {
+                    ":block/uid": "w3-eryhFP"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "w3-eryhFP"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "uid": "LL6iZw2hT",
+                "edit-time": 1616649242650,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
               }
             ],
             "text-align": "left",
@@ -45000,25 +45030,108 @@
             ":create/user": {
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             },
-            "children": [
-              {
-                "string": "",
-                "create-time": 1616530575005,
-                "uid": "fQBuafvUp",
-                "edit-time": 1616530575005,
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
             "uid": "iC6e5W-IU",
             "edit-time": 1616530558952,
             ":edit/user": {
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             }
+          },
+          {
+            "edit-time": 1616649100657,
+            "children": [
+              {
+                "edit-time": 1616649157867,
+                "children": [
+                  {
+                    "string": "Added warning banner to experimental graphs",
+                    "create-time": 1616649157861,
+                    "uid": "qXtyuJRPb",
+                    "edit-time": 1616649169535,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "uid": "jGEM3qIny",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]]",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1616649122903,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "edit-time": 1616649183763,
+                "children": [
+                  {
+                    "string": "",
+                    "create-time": 1616649183755,
+                    "uid": "uvjCW0LwQ",
+                    "edit-time": 1616649183755,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "ukuo9Rg4X"
+                  }
+                ],
+                "uid": "9M2hTziYN",
+                ":block/refs": [
+                  {
+                    ":block/uid": "ukuo9Rg4X"
+                  }
+                ],
+                "string": "[[Bug Fixes]]",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1616649169528,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "03-24-2021"
+              }
+            ],
+            "uid": "kGZ-Vo8hJ",
+            ":block/refs": [
+              {
+                ":block/uid": "03-24-2021"
+              }
+            ],
+            "string": "[[March 24th, 2021]]",
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "create-time": 1616649091765,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "heading": 3
           }
         ],
         "refs": [
@@ -62559,13 +62672,51 @@
   {
     "create-time": 1616643512770,
     "title": "March 25th, 2021",
-    "uid": "03-25-2021",
-    "edit-time": 1616643512770,
     ":create/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1616649516498,
+        "uid": "YEAcZdCvH",
+        "edit-time": 1616649516498,
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        }
+      }
+    ],
+    "uid": "03-25-2021",
+    "edit-time": 1616643512770,
     ":edit/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1616649108219,
+    "title": "Bug Fixes",
+    "uid": "ukuo9Rg4X",
+    "edit-time": 1616649108220,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1616649157868,
+    "title": "Quality of Life Improvements",
+    "uid": "_EqbjQSAF",
+    "edit-time": 1616649157869,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     }
   }
 ]
