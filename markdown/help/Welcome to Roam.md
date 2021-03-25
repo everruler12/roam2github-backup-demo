@@ -8,7 +8,7 @@
         - ### [How to work with several notes at a time with the right sidebar]([[Right Sidebar]])
         - ### Type `/` into a block to check out features available in the [[/ Commands]] menu
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Fvg4SUhgwIf.gif?alt=media&token=f4f682cb-e612-447a-83c1-9f4934818eaa)
-        - > Here are [several amazing and free courses](((eEUXylm_o))) you can check out as well
+        - > Here are [some amazing free courses](((eEUXylm_o))) from our [community]([[Community]])
     - 
     - # [Workflows]([[Workflows]])
         - ## Roam is a tool geared for [[Writing]], [[Research]], and [[Studying]]

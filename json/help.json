@@ -29069,9 +29069,12 @@
                 "heading": 3
               },
               {
-                "edit-time": 1616648998301,
+                "edit-time": 1616654308153,
                 "text-align": "center",
                 "refs": [
+                  {
+                    "uid": "NyLiJKI6a"
+                  },
                   {
                     "uid": "eEUXylm_o"
                   }
@@ -29079,10 +29082,13 @@
                 "uid": "RYVfJ8JTC",
                 ":block/refs": [
                   {
+                    ":block/uid": "NyLiJKI6a"
+                  },
+                  {
                     ":block/uid": "eEUXylm_o"
                   }
                 ],
-                "string": "> Here are [several amazing and free courses](((eEUXylm_o))) you can check out as well",
+                "string": "> Here are [some amazing free courses](((eEUXylm_o))) from our [community]([[Community]])",
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
@@ -45071,42 +45077,6 @@
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
                 "create-time": 1616649122903,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "edit-time": 1616649183763,
-                "children": [
-                  {
-                    "string": "",
-                    "create-time": 1616649183755,
-                    "uid": "uvjCW0LwQ",
-                    "edit-time": 1616649183755,
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "ukuo9Rg4X"
-                  }
-                ],
-                "uid": "9M2hTziYN",
-                ":block/refs": [
-                  {
-                    ":block/uid": "ukuo9Rg4X"
-                  }
-                ],
-                "string": "[[Bug Fixes]]",
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1616649169528,
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 }
@@ -62693,18 +62663,6 @@
     "edit-time": 1616643512770,
     ":edit/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-    }
-  },
-  {
-    "create-time": 1616649108219,
-    "title": "Bug Fixes",
-    "uid": "ukuo9Rg4X",
-    "edit-time": 1616649108220,
-    ":create/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    },
-    ":edit/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     }
   },
   {
