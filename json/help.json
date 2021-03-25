@@ -750,7 +750,7 @@
             "uid": "dmQooXFj9"
           }
         ],
-        "uid": "S-rbNzyPM",
+        "uid": "0SfuQ2kNA",
         ":block/refs": [
           {
             ":block/uid": "dmQooXFj9"
@@ -19390,21 +19390,11 @@
               {
                 "string": "Website::",
                 "create-time": 1616601094315,
-                ":block/refs": [
-                  {
-                    ":block/uid": "kaDKYcGb1"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "kaDKYcGb1"
-                  }
-                ],
+                "uid": "LSsFGrTUz",
+                "edit-time": 1616601096736,
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "uid": "LSsFGrTUz",
-                "edit-time": 1616601096736,
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 }
@@ -19412,21 +19402,11 @@
               {
                 "string": "Areas of specialty::",
                 "create-time": 1616601096724,
-                ":block/refs": [
-                  {
-                    ":block/uid": "by608YM1l"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "by608YM1l"
-                  }
-                ],
+                "uid": "Y7uzarNYb",
+                "edit-time": 1616601100750,
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "uid": "Y7uzarNYb",
-                "edit-time": 1616601100750,
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 }
@@ -19434,21 +19414,11 @@
               {
                 "string": "Contact::",
                 "create-time": 1616601101779,
-                ":block/refs": [
-                  {
-                    ":block/uid": "pqG_FGg51"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "pqG_FGg51"
-                  }
-                ],
+                "uid": "J116WjGMO",
+                "edit-time": 1616601104749,
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "uid": "J116WjGMO",
-                "edit-time": 1616601104749,
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 }
@@ -19456,21 +19426,11 @@
               {
                 "string": "Price::",
                 "create-time": 1616601104733,
-                ":block/refs": [
-                  {
-                    ":block/uid": "aOxXHn8rh"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "aOxXHn8rh"
-                  }
-                ],
+                "uid": "hxPH_c9ay",
+                "edit-time": 1616601106692,
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "uid": "hxPH_c9ay",
-                "edit-time": 1616601106692,
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 }
@@ -37565,7 +37525,11 @@
                     }
                   },
                   {
-                    "edit-time": 1616400976363,
+                    "string": "Website:: ",
+                    "create-time": 1616251506729,
+                    ":create/user": {
+                      ":user/uid": "AqRW62PBL4WvKhblNaZHC3BsN873"
+                    },
                     "children": [
                       {
                         "string": "[roamcoaching.rjnestor.com](https://roamcoaching.rjnestor.com) [rjnestor.com](https://rjnestor.com) [youtube.com/c/rjnestorcoach](https://youtube.com/c/rjnestorcoach)",
@@ -37580,28 +37544,18 @@
                         }
                       }
                     ],
-                    "refs": [
-                      {
-                        "uid": "kaDKYcGb1"
-                      }
-                    ],
                     "uid": "GJcPIegZ0",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "kaDKYcGb1"
-                      }
-                    ],
-                    "string": "Website:: ",
-                    ":create/user": {
-                      ":user/uid": "AqRW62PBL4WvKhblNaZHC3BsN873"
-                    },
-                    "create-time": 1616251506729,
+                    "edit-time": 1616400976363,
                     ":edit/user": {
                       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                     }
                   },
                   {
-                    "edit-time": 1616400976363,
+                    "string": "Areas of specialty::",
+                    "create-time": 1616211751542,
+                    ":create/user": {
+                      ":user/uid": "AqRW62PBL4WvKhblNaZHC3BsN873"
+                    },
                     "children": [
                       {
                         "string": "[[Roam fundamentals]] ⬅ for ANY Roam skill level",
@@ -37716,28 +37670,18 @@
                         }
                       }
                     ],
-                    "refs": [
-                      {
-                        "uid": "by608YM1l"
-                      }
-                    ],
                     "uid": "-RMneE0y5",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "by608YM1l"
-                      }
-                    ],
-                    "string": "Areas of specialty::",
-                    ":create/user": {
-                      ":user/uid": "AqRW62PBL4WvKhblNaZHC3BsN873"
-                    },
-                    "create-time": 1616211751542,
+                    "edit-time": 1616400976363,
                     ":edit/user": {
                       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                     }
                   },
                   {
-                    "edit-time": 1616400976363,
+                    "string": "Contact::",
+                    "create-time": 1616211758375,
+                    ":create/user": {
+                      ":user/uid": "AqRW62PBL4WvKhblNaZHC3BsN873"
+                    },
                     "children": [
                       {
                         "string": "DM on [Twitter](https://twitter.com/rjnestor)",
@@ -37764,28 +37708,18 @@
                         }
                       }
                     ],
-                    "refs": [
-                      {
-                        "uid": "pqG_FGg51"
-                      }
-                    ],
                     "uid": "7lljPVXHA",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "pqG_FGg51"
-                      }
-                    ],
-                    "string": "Contact::",
-                    ":create/user": {
-                      ":user/uid": "AqRW62PBL4WvKhblNaZHC3BsN873"
-                    },
-                    "create-time": 1616211758375,
+                    "edit-time": 1616400976363,
                     ":edit/user": {
                       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                     }
                   },
                   {
-                    "edit-time": 1616400976363,
+                    "string": "Price::",
+                    "create-time": 1616211761149,
+                    ":create/user": {
+                      ":user/uid": "AqRW62PBL4WvKhblNaZHC3BsN873"
+                    },
                     "children": [
                       {
                         "string": "[Roam coaching packages](https://roamcoaching.rjnestor.com) start at $150",
@@ -37812,22 +37746,8 @@
                         }
                       }
                     ],
-                    "refs": [
-                      {
-                        "uid": "aOxXHn8rh"
-                      }
-                    ],
                     "uid": "aLJ6sVAfC",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "aOxXHn8rh"
-                      }
-                    ],
-                    "string": "Price::",
-                    ":create/user": {
-                      ":user/uid": "AqRW62PBL4WvKhblNaZHC3BsN873"
-                    },
-                    "create-time": 1616211761149,
+                    "edit-time": 1616400976363,
                     ":edit/user": {
                       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                     }
@@ -37918,7 +37838,11 @@
                     }
                   },
                   {
-                    "edit-time": 1616401144650,
+                    "string": "Website::",
+                    "create-time": 1616401144650,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
                     "children": [
                       {
                         "string": "[cortexfutura.com](https://t.co/m4nb5UicxD?amp=1)",
@@ -37933,28 +37857,18 @@
                         }
                       }
                     ],
-                    "refs": [
-                      {
-                        "uid": "kaDKYcGb1"
-                      }
-                    ],
                     "uid": "rtmoVxXeS",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "kaDKYcGb1"
-                      }
-                    ],
-                    "string": "Website::",
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "create-time": 1616401144650,
+                    "edit-time": 1616401144650,
                     ":edit/user": {
                       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                     }
                   },
                   {
-                    "edit-time": 1616401081950,
+                    "string": "Areas of specialty::",
+                    "create-time": 1616401081950,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
                     "children": [
                       {
                         "string": "[[Roam fundamentals]]",
@@ -38051,28 +37965,18 @@
                         }
                       }
                     ],
-                    "refs": [
-                      {
-                        "uid": "by608YM1l"
-                      }
-                    ],
                     "uid": "xVZ_07z7P",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "by608YM1l"
-                      }
-                    ],
-                    "string": "Areas of specialty::",
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "create-time": 1616401081950,
+                    "edit-time": 1616401081950,
                     ":edit/user": {
                       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                     }
                   },
                   {
-                    "edit-time": 1616401106529,
+                    "string": "Contact::",
+                    "create-time": 1616401106529,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
                     "children": [
                       {
                         "string": "[DM on Twitter](https://twitter.com/cortexfutura)",
@@ -38099,28 +38003,18 @@
                         }
                       }
                     ],
-                    "refs": [
-                      {
-                        "uid": "pqG_FGg51"
-                      }
-                    ],
                     "uid": "boEtJrG6i",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "pqG_FGg51"
-                      }
-                    ],
-                    "string": "Contact::",
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "create-time": 1616401106529,
+                    "edit-time": 1616401106529,
                     ":edit/user": {
                       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                     }
                   },
                   {
-                    "edit-time": 1616401134144,
+                    "string": "Price::",
+                    "create-time": 1616401134144,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
                     "children": [
                       {
                         "string": "Roam Coaching Packages starting at $150",
@@ -38147,22 +38041,8 @@
                         }
                       }
                     ],
-                    "refs": [
-                      {
-                        "uid": "aOxXHn8rh"
-                      }
-                    ],
                     "uid": "Nxks4SGVH",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "aOxXHn8rh"
-                      }
-                    ],
-                    "string": "Price::",
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "create-time": 1616401134144,
+                    "edit-time": 1616401134144,
                     ":edit/user": {
                       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                     }
@@ -40265,18 +40145,6 @@
     ],
     "uid": "BmWNzuNSG",
     "edit-time": 1614848186572,
-    ":edit/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    }
-  },
-  {
-    "create-time": 1614656567881,
-    "title": "Price",
-    "uid": "aOxXHn8rh",
-    "edit-time": 1614656567882,
-    ":create/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    },
     ":edit/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     }
@@ -42728,27 +42596,17 @@
                 "heading": 2
               },
               {
-                "edit-time": 1616531026285,
-                "refs": [
-                  {
-                    "uid": "OdN71FCo8"
-                  }
-                ],
-                "uid": "oRllguZ_B",
-                ":block/refs": [
-                  {
-                    ":block/uid": "OdN71FCo8"
-                  }
-                ],
                 "string": "[Jessy]([[Jessy Huang]])",
+                "create-time": 1616531026285,
+                "heading": 2,
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "create-time": 1616531026285,
+                "uid": "oRllguZ_B",
+                "edit-time": 1616531026285,
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "heading": 2
+                }
               },
               {
                 "edit-time": 1616531026292,
@@ -42797,27 +42655,17 @@
                 "heading": 2
               },
               {
-                "edit-time": 1616530930089,
-                "refs": [
-                  {
-                    "uid": "4rHt0Jyj5"
-                  }
-                ],
-                "uid": "5CrpFUuCS",
-                ":block/refs": [
-                  {
-                    ":block/uid": "4rHt0Jyj5"
-                  }
-                ],
                 "string": "[Matt]([[Matt McKinlay]])",
+                "create-time": 1614683679328,
+                "heading": 2,
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "create-time": 1614683679328,
+                "uid": "5CrpFUuCS",
+                "edit-time": 1616530930089,
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "heading": 2
+                }
               },
               {
                 "edit-time": 1616531016449,
@@ -42988,18 +42836,6 @@
     }
   },
   {
-    "create-time": 1614683670944,
-    "title": "Wilker Lucio",
-    "uid": "hG5Gu8JCJ",
-    "edit-time": 1614683670945,
-    ":create/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    },
-    ":edit/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    }
-  },
-  {
     "create-time": 1614683675262,
     "title": "Bardia Pourvakil",
     "uid": "evJ14QpsV",
@@ -43012,34 +42848,10 @@
     }
   },
   {
-    "create-time": 1614683693688,
-    "title": "Matt McKinlay",
-    "uid": "4rHt0Jyj5",
-    "edit-time": 1614683693688,
-    ":create/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    },
-    ":edit/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    }
-  },
-  {
     "create-time": 1614683719757,
     "title": "Clara Pastore",
     "uid": "vVi49cuzP",
     "edit-time": 1614683719758,
-    ":create/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    },
-    ":edit/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    }
-  },
-  {
-    "create-time": 1614683735805,
-    "title": "Jessy Huang",
-    "uid": "OdN71FCo8",
-    "edit-time": 1614683735805,
     ":create/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     },
@@ -43917,34 +43729,10 @@
     }
   },
   {
-    "create-time": 1614760994502,
-    "title": "Areas of specialty",
-    "uid": "by608YM1l",
-    "edit-time": 1614760994502,
-    ":create/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    },
-    ":edit/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    }
-  },
-  {
     "create-time": 1614760997594,
     "title": "Name",
     "uid": "TcIxLmIdl",
     "edit-time": 1614760997595,
-    ":create/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    },
-    ":edit/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    }
-  },
-  {
-    "create-time": 1614760999789,
-    "title": "Website",
-    "uid": "kaDKYcGb1",
-    "edit-time": 1614760999790,
     ":create/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     },
@@ -45216,7 +45004,7 @@
               {
                 "string": "",
                 "create-time": 1616530575005,
-                "uid": "KmMSkVPTy",
+                "uid": "fQBuafvUp",
                 "edit-time": 1616530575005,
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
@@ -48539,27 +48327,17 @@
             "edit-time": 1614796975749,
             "children": [
               {
-                "edit-time": 1616475286228,
-                "refs": [
-                  {
-                    "uid": "nFdmNcvWj"
-                  }
-                ],
-                "uid": "sl9UxA89s",
-                ":block/refs": [
-                  {
-                    ":block/uid": "nFdmNcvWj"
-                  }
-                ],
                 "string": "[Active Reading in Roam Research Featuring the Zettelkasten Method](https://padminipyapali.medium.com/zettelkasten-method-roam-research-f7b341f14fbd) by [[Padmini Pyapali]]",
+                "create-time": 1616475286228,
+                "heading": 3,
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "create-time": 1616475286228,
+                "uid": "sl9UxA89s",
+                "edit-time": 1616475286228,
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "heading": 3
+                }
               },
               {
                 "string": "#[[Block References]] | #[[Page References]]",
@@ -54608,18 +54386,6 @@
     }
   },
   {
-    "create-time": 1614955196258,
-    "title": "Padmini Pyapali",
-    "uid": "nFdmNcvWj",
-    "edit-time": 1614955196258,
-    ":create/user": {
-      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-    },
-    ":edit/user": {
-      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-    }
-  },
-  {
     "create-time": 1614955383253,
     "title": "RoamBrain",
     "uid": "qoJztv2Xz",
@@ -55036,18 +54802,6 @@
     }
   },
   {
-    "create-time": 1614968716940,
-    "title": "Emowe Aprendizaje",
-    "uid": "p0GJpOJMf",
-    "edit-time": 1614968716941,
-    ":create/user": {
-      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-    },
-    ":edit/user": {
-      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-    }
-  },
-  {
     "create-time": 1614969397485,
     "title": "Russian",
     ":create/user": {
@@ -55264,7 +55018,12 @@
         "edit-time": 1616476810927,
         "children": [
           {
-            "edit-time": 1616476870055,
+            "string": "✏️Cómo TOMAR NOTAS con ROAM RESEARCH & ZETTELKASTEN | Tutorial en español by [[Emowe Aprendizaje]]",
+            "create-time": 1616476801872,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
             "children": [
               {
                 "string": "{{[[video]]: https://www.youtube.com/watch?v=bwpVWyOBjHw}}\n#[[Daily Notes]] | #[[Page References]] | #[[Formatting]] | #[[Graph Overview]] | #[[Right Sidebar]] | #[[Linked References]] | #[[Navigation]] | #[[Block References]] | #[[Block Embed]] ",
@@ -55343,26 +55102,11 @@
                 }
               }
             ],
-            "refs": [
-              {
-                "uid": "p0GJpOJMf"
-              }
-            ],
             "uid": "qKbnuXoVI",
-            ":block/refs": [
-              {
-                ":block/uid": "p0GJpOJMf"
-              }
-            ],
-            "string": "✏️Cómo TOMAR NOTAS con ROAM RESEARCH & ZETTELKASTEN | Tutorial en español by [[Emowe Aprendizaje]]",
-            ":create/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            "create-time": 1616476801872,
+            "edit-time": 1616476870055,
             ":edit/user": {
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            "heading": 3
+            }
           }
         ],
         "refs": [
@@ -62135,18 +61879,6 @@
     }
   },
   {
-    "create-time": 1616210406099,
-    "title": "Contact",
-    "uid": "pqG_FGg51",
-    "edit-time": 1616210406100,
-    ":create/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    },
-    ":edit/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    }
-  },
-  {
     "create-time": 1616244821223,
     "title": "March 20th, 2021",
     "uid": "03-20-2021",
@@ -62825,10 +62557,10 @@
     }
   },
   {
-    "create-time": 1616635053989,
+    "create-time": 1616640714385,
     "title": "March 25th, 2021",
     "uid": "03-25-2021",
-    "edit-time": 1616635053989,
+    "edit-time": 1616640714385,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
