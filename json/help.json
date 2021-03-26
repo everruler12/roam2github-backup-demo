@@ -45046,6 +45046,42 @@
             "edit-time": 1616649100657,
             "children": [
               {
+                "edit-time": 1616751343040,
+                "children": [
+                  {
+                    "string": "New Help Graph!",
+                    "create-time": 1616751343032,
+                    "uid": "sq3MjV9uI",
+                    "edit-time": 1616751349334,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  }
+                ],
+                "uid": "df7J7Ta5i",
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  }
+                ],
+                "string": "[[New Features]]",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1616751340220,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
                 "edit-time": 1616649157867,
                 "children": [
                   {
@@ -64541,6 +64577,18 @@
     },
     ":edit/user": {
       ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "create-time": 1616751343041,
+    "title": "New Features",
+    "uid": "h_pvMVa7e",
+    "edit-time": 1616751343042,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     }
   }
 ]
