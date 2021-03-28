@@ -35562,6 +35562,467 @@
         ":edit/user": {
           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
         }
+      },
+      {
+        "edit-time": 1612839400686,
+        "children": [
+          {
+            "string": "{{[[TODO]]}} Given a map, or a [datascript](https://github.com/tonsky/datascript) database at two points in time",
+            "create-time": 1612840333135,
+            ":block/refs": [
+              {
+                ":block/uid": "3VEv-jR5D"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "3VEv-jR5D"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "uid": "kbtLB71Uh",
+            "edit-time": 1612841338572,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "{{[[TODO]]}} Generate a diff of the two structures",
+            "create-time": 1612840360566,
+            ":block/refs": [
+              {
+                ":block/uid": "3VEv-jR5D"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "3VEv-jR5D"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "uid": "fsj70Jy9w",
+            "edit-time": 1612841336912,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "{{[[TODO]]}} Generate the minimal transaction which will bring A -> B, and vice versa.",
+            "create-time": 1612840418081,
+            ":block/refs": [
+              {
+                ":block/uid": "3VEv-jR5D"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "3VEv-jR5D"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "uid": "btniuUEtA",
+            "edit-time": 1612841335047,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "edit-time": 1612841279437,
+            "children": [
+              {
+                "string": "{{[[TODO]]}} Given a set of User-Events which map to certain transactions - find the sequence of user events which brought A -> B, or which would bring B -> A",
+                "create-time": 1612840493836,
+                ":block/refs": [
+                  {
+                    ":block/uid": "3VEv-jR5D"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "3VEv-jR5D"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "uid": "agdNL0RnW",
+                "edit-time": 1612841333355,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "{{[[TODO]]}} Take a roam outline tree, and create a datascript DB with just the data contained within it  - such as this one ((cpgzSMTye))",
+                "create-time": 1612839400673,
+                ":block/refs": [
+                  {
+                    ":block/uid": "3VEv-jR5D"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "3VEv-jR5D"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "uid": "vomRrRx0o",
+                "edit-time": 1612841329026,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "edit-time": 1612841513951,
+                "children": [
+                  {
+                    "string": "Roam allows you to write arbitrary CLJS code - and evaluate it in your graph - you can use this code - and the roam Alpha API to query your graph, and create mutations for it.",
+                    "create-time": 1612840712464,
+                    "uid": "XZ61F1m8w",
+                    "edit-time": 1612840748957,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  },
+                  {
+                    "string": "Submit your answer as a roam-graph",
+                    "create-time": 1612841372565,
+                    "uid": "CghhPiEPp",
+                    "edit-time": 1612841372565,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  },
+                  {
+                    "string": "All code should be in the same Roam Graph as the working demo.",
+                    "create-time": 1612840795687,
+                    "uid": "r_0hcGXJM",
+                    "edit-time": 1612840806399,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  },
+                  {
+                    "edit-time": 1614219866496,
+                    "children": [
+                      {
+                        "string": "```clojure\n(ns starting-point-for-custom-roam\n  (:require\n   [reagent.core :as r]\n   [datascript.core :as d]\n   [roam.datascript.reactive :as dr]))\n\n(defn x [{b :block-uid} x]\n  \t[:div.bp3-card \n     [:ul\n     [:li (pr-str @(dr/pull '[:block/string {:block/children ...}\n                              :block/uid \n                              ] x))]\n      [:li [:h3\"Schema\" ]\n       (pr-str @(dr/q \n                     '[:find [?a ...]\n                       :where [_ ?a _]]))]\n     [:li (pr-str (keys @(dr/pull '[*] [:block/uid b])))]]]\n  )```",
+                        "create-time": 1612839474252,
+                        "uid": "uP_2barEP",
+                        "edit-time": 1612841058528,
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "X7Mhc3nU8"
+                      }
+                    ],
+                    "uid": "EhYzlmV2N",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "X7Mhc3nU8"
+                      }
+                    ],
+                    "string": "{{[[roam/render]]: ((uP_2barEP)) ((cpgzSMTye))}}",
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "create-time": 1612839383562,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  },
+                  {
+                    "string": "This item",
+                    "create-time": 1612839799235,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "children": [
+                      {
+                        "string": "Has children",
+                        "create-time": 1612839947329,
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "children": [
+                          {
+                            "string": "A",
+                            "create-time": 1612840836046,
+                            "uid": "L-3t3z3od",
+                            "edit-time": 1612840841388,
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          },
+                          {
+                            "string": "B",
+                            "create-time": 1612840841380,
+                            "uid": "9DjtWwbTL",
+                            "edit-time": 1612840842768,
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          },
+                          {
+                            "string": "C",
+                            "create-time": 1612840842761,
+                            "uid": "IMha2D8XH",
+                            "edit-time": 1612840844148,
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          }
+                        ],
+                        "uid": "KwT8bbaFY",
+                        "edit-time": 1612839949898,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      }
+                    ],
+                    "uid": "cpgzSMTye",
+                    "edit-time": 1612839947348,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "3VEv-jR5D"
+                  }
+                ],
+                "uid": "ylF82LJP2",
+                ":block/refs": [
+                  {
+                    ":block/uid": "3VEv-jR5D"
+                  }
+                ],
+                "string": "{{[[TODO]]}} Publish your code and the demo on a roam graph using `roam/render` and custom components",
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1612840558520,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "edit-time": 1612841413201,
+                "children": [
+                  {
+                    "string": "{{[[TODO]]}}  generate a UI for displaying the diff ",
+                    "create-time": 1612840380243,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "3VEv-jR5D"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "3VEv-jR5D"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "uid": "5k_iNeven",
+                    "edit-time": 1612841410945,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  },
+                  {
+                    "string": "{{[[TODO]]}} create a simple component that will let you save the state of a block subtree at various points, and return to these states - by firing new transactions",
+                    "create-time": 1612840748940,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "3VEv-jR5D"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "3VEv-jR5D"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "uid": "kw7go9-mI",
+                    "edit-time": 1612841453528,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "TsYif6NAn"
+                  }
+                ],
+                "uid": "EMrw92h1S",
+                ":block/refs": [
+                  {
+                    ":block/uid": "TsYif6NAn"
+                  }
+                ],
+                "string": "IF you want to also be considered for  #[[UI Engineer]]",
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1612841408586,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "heading": 2
+              }
+            ],
+            "refs": [
+              {
+                "uid": "7rsAk9RUz"
+              }
+            ],
+            "uid": "o2dAnQ1K9",
+            ":block/refs": [
+              {
+                ":block/uid": "7rsAk9RUz"
+              }
+            ],
+            "string": "#Bonus ",
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "create-time": 1612841279437,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "VctcvTqvG"
+          },
+          {
+            "uid": "W0INAE8eL"
+          },
+          {
+            "uid": "Sy_Lmmqmn"
+          },
+          {
+            "uid": "APZwPA-_9"
+          },
+          {
+            "uid": "aDJrCVmHH"
+          }
+        ],
+        "uid": "95Ir82sdC",
+        ":block/refs": [
+          {
+            ":block/uid": "VctcvTqvG"
+          },
+          {
+            ":block/uid": "W0INAE8eL"
+          },
+          {
+            ":block/uid": "Sy_Lmmqmn"
+          },
+          {
+            ":block/uid": "APZwPA-_9"
+          },
+          {
+            ":block/uid": "aDJrCVmHH"
+          }
+        ],
+        "string": "[[Hiring]] [[Work at Roam]] [[Clojure Engineer]] - [[Backend Role]] [[Take Home Project]]",
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "create-time": 1612839360579,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "Import",
+        "create-time": 1612845025673,
+        ":create/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        "children": [
+          {
+            "edit-time": 1612845025673,
+            "children": [
+              {
+                "string": "From: December 1st, 2020.json",
+                "create-time": 1612845025673,
+                "uid": "akfIXR6zS",
+                "edit-time": 1612845025673,
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "12-01-2020"
+              }
+            ],
+            "uid": "7ed1W9PvN",
+            ":block/refs": [
+              {
+                ":block/uid": "12-01-2020"
+              }
+            ],
+            "string": "[[December 1st, 2020]]",
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "create-time": 1612845025673,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          }
+        ],
+        "uid": "m7vPDdv2X",
+        "edit-time": 1612845025673,
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        }
       }
     ],
     "uid": "02-08-2021",
@@ -64594,20 +65055,104 @@
   {
     "create-time": 1616852743157,
     "title": "March 27th, 2021",
-    "uid": "03-27-2021",
-    "edit-time": 1616852743157,
     ":create/user": {
       ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
     },
+    "children": [
+      {
+        "string": "Import",
+        "children": [
+          {
+            "string": "[[February 8th, 2021]]",
+            "refs": [
+              {
+                "uid": "02-08-2021"
+              }
+            ],
+            "children": [
+              {
+                "string": "From: February 8th, 2021.json",
+                "uid": "OduJenMR1"
+              }
+            ],
+            "uid": "BSLRAO3Kp",
+            ":block/refs": [
+              {
+                ":block/uid": "02-08-2021"
+              }
+            ]
+          }
+        ],
+        "uid": "7dhcC29XI"
+      }
+    ],
+    "uid": "03-27-2021",
+    "edit-time": 1616852743157,
     ":edit/user": {
       ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
     }
   },
   {
-    "create-time": 1616897271876,
+    "create-time": 1616897779914,
+    "title": "Hiring",
+    "uid": "VctcvTqvG",
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1616897779914,
+    "title": "Work at Roam",
+    "uid": "W0INAE8eL",
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1616897779914,
+    "title": "Clojure Engineer",
+    "uid": "Sy_Lmmqmn",
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1616897779914,
+    "title": "Backend Role",
+    "uid": "APZwPA-_9",
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1616897779914,
+    "title": "Take Home Project",
+    "uid": "aDJrCVmHH",
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1616897779918,
+    "title": "Bonus",
+    "uid": "7rsAk9RUz",
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1616897779925,
+    "title": "UI Engineer",
+    "uid": "TsYif6NAn",
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1616902028505,
     "title": "March 28th, 2021",
     "uid": "03-28-2021",
-    "edit-time": 1616897271877,
+    "edit-time": 1616902028505,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
