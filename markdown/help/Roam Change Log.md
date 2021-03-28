@@ -2,6 +2,12 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+    - [[March 28th, 2021]]
+        - [[New Features]]
+        - [[Quality of Life Improvements]]
+            - [[Block Embed]]s will remember whether you closed or opened them between page reloads
+            - When exporting a single []([[Pages]]) will download the file instead of zipping it first
+    - 
     - ### [[March 24th, 2021]]
         - [[New Features]]
             - New Help Graph!
