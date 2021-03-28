@@ -45507,11 +45507,29 @@
             "edit-time": 1616915847783,
             "children": [
               {
-                "string": "[[New Features]]",
-                "create-time": 1616915878879,
-                ":block/refs": [
+                "edit-time": 1616915884094,
+                "children": [
                   {
-                    ":block/uid": "h_pvMVa7e"
+                    "string": "You can now export in [[Flattened Markdown]], which removes all indentation and block formatting",
+                    "create-time": 1616916199141,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "okENJwsDL"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "okENJwsDL"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "uid": "49-tQfxN0",
+                    "edit-time": 1616916307517,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    }
                   }
                 ],
                 "refs": [
@@ -45519,11 +45537,17 @@
                     "uid": "h_pvMVa7e"
                   }
                 ],
+                "uid": "mIMvDxQwF",
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  }
+                ],
+                "string": "[[New Features]]",
                 ":create/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
-                "uid": "mIMvDxQwF",
-                "edit-time": 1616915884094,
+                "create-time": 1616915878879,
                 ":edit/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 }
@@ -45554,8 +45578,8 @@
                     }
                   },
                   {
-                    "string": "Exporting a single [[Pages]] will download the file instead of zipping it first",
-                    "create-time": 1616916017223,
+                    "string": "When exporting a single [page]([[Pages]]), you'll directly receive the exported file instead of a zipped file.",
+                    "create-time": 1616916110245,
                     ":block/refs": [
                       {
                         ":block/uid": "a4ul9zL8E"
@@ -45569,8 +45593,20 @@
                     ":create/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
-                    "uid": "83bxXXOuA",
-                    "edit-time": 1616916070571,
+                    "uid": "x3KwLBPV6",
+                    "edit-time": 1616916143078,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    }
+                  },
+                  {
+                    "string": "When editing a page title, any preceding/trailing whitespaces will be automatically removed",
+                    "create-time": 1616916143061,
+                    "uid": "apvsKqkuC",
+                    "edit-time": 1616916194432,
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     }
@@ -45615,19 +45651,8 @@
             "create-time": 1616915842044,
             ":edit/user": {
               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            }
-          },
-          {
-            "string": "",
-            "create-time": 1616915835716,
-            "uid": "9Y5LkgbO1",
-            "edit-time": 1616915835716,
-            ":create/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
             },
-            ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            }
+            "heading": 3
           },
           {
             "edit-time": 1616649100657,
@@ -65284,6 +65309,18 @@
     },
     ":edit/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1616916213663,
+    "title": "Flattened Markdown",
+    "uid": "okENJwsDL",
+    "edit-time": 1616916213665,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     }
   }
 ]
