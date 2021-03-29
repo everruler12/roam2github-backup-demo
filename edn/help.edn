@@ -3248,6 +3248,7 @@
   [960 :edit/seen-by 3 536877873]
   [960 :edit/seen-by 53 536878225]
   [960 :edit/seen-by 3422 536906202]
+  [960 :edit/seen-by 6897 536959048]
   [960 :edit/time 1614674081528 536875639]
   [960 :edit/user 3 536873836]
   [960 :node/title "White Paper" 536875639]
@@ -7935,6 +7936,7 @@
   [2599 :create/user 74 536877818]
   [2599 :edit/seen-by 3 536877886]
   [2599 :edit/seen-by 53 536904736]
+  [2599 :edit/seen-by 6897 536959048]
   [2599 :edit/time 1614682584141 536877818]
   [2599 :edit/user 3 536877818]
   [2600 :attrs/lookup 2600 536877833]
@@ -7960,6 +7962,7 @@
   [2600 :create/time 1564786451148 536877818]
   [2600 :create/user 74 536877818]
   [2600 :edit/seen-by 3 536877886]
+  [2600 :edit/seen-by 6897 536959048]
   [2600 :edit/time 1614682584141 536877818]
   [2600 :edit/user 3 536877818]
   [2600
@@ -13192,6 +13195,7 @@
   [4296 :create/user 3 536885315]
   [4296 :edit/seen-by 3 536885808]
   [4296 :edit/seen-by 53 536958937]
+  [4296 :edit/seen-by 6897 536959047]
   [4296 :edit/time 1614776091631 536885315]
   [4296 :edit/user 3 536885315]
   [4296 :node/title "Roam Change Log" 536885315]
@@ -44277,6 +44281,7 @@
   [10915 :create/time 1615275082175 536908069]
   [10915 :create/user 3 536908069]
   [10915 :edit/seen-by 53 536958937]
+  [10915 :edit/seen-by 6897 536959047]
   [10915 :edit/time 1615275084738 536908071]
   [10915 :edit/user 3 536908069]
   [10916 :block/string "" 536908078]
@@ -58829,8 +58834,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuidcfc94c5e-258e-4889-8075-aeb45f6c2820"
-   536959047]
+   "uuid2c1c6e65-8885-4259-8a6f-c59522425c7c"
+   536959050]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -62659,6 +62664,7 @@
   [13089 :create/time 1616530670092 536917938]
   [13089 :create/user 3 536917938]
   [13089 :edit/seen-by 3422 536959036]
+  [13089 :edit/seen-by 6897 536959048]
   [13089 :edit/time 1616530673620 536917940]
   [13089 :edit/user 3 536917938]
   [13092 :block/string "" 536917967]
@@ -68181,6 +68187,7 @@
   [44010 :block/uid "_uXjm90wV" 536958938]
   [44010 :create/time 1616915808660 536958938]
   [44010 :create/user 53 536958938]
+  [44010 :edit/seen-by 6897 536959047]
   [44010 :edit/time 1616915835547 536958942]
   [44010 :edit/user 53 536958938]
   [44012 :block/children 44010 536958950]
@@ -68196,6 +68203,7 @@
   [44012 :block/uid "8s9OtQIBM" 536958946]
   [44012 :create/time 1616915842044 536958946]
   [44012 :create/user 53 536958946]
+  [44012 :edit/seen-by 6897 536959047]
   [44012 :edit/time 1616915847783 536958948]
   [44012 :edit/user 53 536958946]
   [44013 :block/children 44020 536959006]
@@ -68267,6 +68275,7 @@
   [44019 :block/uid "apvsKqkuC" 536958997]
   [44019 :create/time 1616916143061 536958997]
   [44019 :create/user 53 536958997]
+  [44019 :edit/seen-by 6897 536959047]
   [44019 :edit/time 1616916194432 536959003]
   [44019 :edit/user 53 536958997]
   [44020 :block/open true 536959004]
@@ -68303,10 +68312,10 @@
   [44024 :edit/user 3422 536959043]
   [44024 :log/id 1616977554259 536959043]
   [44024 :node/title "March 29th, 2021" 536959043]
-  [44025 :block/uid "JkUwgLl_E" 536959047]
-  [44025 :user/display-name "Erik Newhard" 536959047]
+  [44025 :block/uid "M-6NxH0Or" 536959050]
+  [44025 :user/display-name "Erik Newhard" 536959050]
   [44025
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536959047]
-  [44025 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959047]]}
+   536959050]
+  [44025 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959050]]}
