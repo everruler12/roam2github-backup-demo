@@ -5113,11 +5113,14 @@
   [2184 :block/uid "9JQQtYEX_" 536876154]
   [2184 :edit/time 1614676891390 536876154]
   [2184 :edit/user 3 536876154]
+  [2189 :attrs/lookup 777 536959045]
   [2189 :attrs/lookup 1335 536913998]
   [2189 :attrs/lookup 1341 536913996]
   [2189 :attrs/lookup 2189 536913996]
   [2189 :attrs/lookup 2190 536913998]
   [2189 :attrs/lookup 2193 536913996]
+  [2189 :attrs/lookup 2194 536959045]
+  [2189 :attrs/lookup 11269 536959045]
   [2189 :attrs/lookup 11273 536913996]
   [2189 :attrs/lookup 12465 536913998]
   [2189 :block/children 2190 536876216]
@@ -5149,8 +5152,14 @@
       {:source [:block/uid "JGN1jOxSM"],
        :value [:block/uid "O3Zn34Tzh"]}
       {:source [:block/uid "o-TVrlEjd"],
-       :value [:block/uid "o-TVrlEjd"]}]}
-   536913998]
+       :value [:block/uid "o-TVrlEjd"]}]
+     [{:source [:block/uid "xTJDT11vr"],
+       :value [:block/uid "xTJDT11vr"]}
+      {:source [:block/uid "BF0KloYYw"],
+       :value [:block/uid "mBGMGlAug"]}
+      {:source [:block/uid "a8dIX0VfI"],
+       :value [:block/uid "a8dIX0VfI"]}]}
+   536959045]
   [2190 :block/open true 536876214]
   [2190 :block/order 0 536876216]
   [2190 :block/page 433 536876215]
@@ -14562,6 +14571,7 @@
   [6346 :create/time 1614780923769 536887439]
   [6346 :create/user 3 536887439]
   [6346 :edit/seen-by 3 536893695]
+  [6346 :edit/seen-by 3422 536959046]
   [6346 :edit/seen-by 6897 536890001]
   [6346 :edit/time 1614792892119 536891103]
   [6346 :edit/user 3 536887439]
@@ -20333,6 +20343,7 @@
   [7194 :create/time 1614793462505 536891159]
   [7194 :create/user 6897 536891159]
   [7194 :edit/seen-by 3 536893695]
+  [7194 :edit/seen-by 3422 536959046]
   [7194 :edit/time 1614808847841 536893696]
   [7194 :edit/user 3 536893696]
   [7195 :block/open true 536891187]
@@ -48708,7 +48719,7 @@
   [11405 :block/children 11421 536910211]
   [11405 :block/children 11459 536910241]
   [11405 :block/children 11469 536910256]
-  [11405 :block/open true 536910163]
+  [11405 :block/open false 536959044]
   [11405 :block/order 8 536921567]
   [11405 :block/page 433 536910164]
   [11405 :block/parents 433 536910164]
@@ -58818,8 +58829,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid31a1dd1e-ebf1-4958-8547-0e476ac1ccc4"
-   536959043]
+   "uuid3821570a-f0dc-4594-93ac-32dce7ed79ed"
+   536959047]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -58888,6 +58899,7 @@
   [12674 :block/uid "ER4T8LmMO" 536915325]
   [12674 :create/time 1616474638427 536915325]
   [12674 :create/user 3 536915325]
+  [12674 :edit/seen-by 3422 536959046]
   [12674 :edit/time 1616474641152 536915327]
   [12674 :edit/user 3 536915325]
   [12675 :block/children 7297 536915348]
@@ -68284,10 +68296,17 @@
   [44022 :block/uid "9Y5LkgbO1" 536959022]
   [44022 :edit/time 1616916432971 536959022]
   [44022 :edit/user 53 536959022]
-  [44024 :block/uid "h1jR1TSNC" 536959043]
-  [44024 :user/display-name "Erik Newhard" 536959043]
-  [44024
+  [44024 :block/uid "03-29-2021" 536959043]
+  [44024 :create/time 1616977554259 536959043]
+  [44024 :create/user 3422 536959043]
+  [44024 :edit/time 1616977554259 536959043]
+  [44024 :edit/user 3422 536959043]
+  [44024 :log/id 1616977554259 536959043]
+  [44024 :node/title "March 29th, 2021" 536959043]
+  [44025 :block/uid "3QOIRs9yl" 536959047]
+  [44025 :user/display-name "Erik Newhard" 536959047]
+  [44025
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536959043]
-  [44024 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959043]]}
+   536959047]
+  [44025 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959047]]}
