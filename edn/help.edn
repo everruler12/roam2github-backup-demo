@@ -10801,6 +10801,7 @@
   [2909 :edit/user 3 536879126]
   [2910 :block/children 10913 536908061]
   [2910 :block/children 13074 536917872]
+  [2910 :block/children 44027 536959074]
   [2910 :block/open true 536879134]
   [2910 :block/uid "kHiuT34q_" 536879130]
   [2910 :children/view-type :document 536882047]
@@ -44261,6 +44262,7 @@
   [10913 :block/uid "1pcF94vxi" 536908061]
   [10913 :create/time 1615275043212 536908061]
   [10913 :create/user 3 536908061]
+  [10913 :edit/seen-by 9445 536959073]
   [10913 :edit/time 1616530268284 536917871]
   [10913 :edit/user 3 536908061]
   [10914
@@ -58838,8 +58840,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid73f7faf7-08cc-4545-9b9c-da9b57161a24"
-   536959073]
+   "uuidf3caddb0-66e8-4eb3-bbbf-44884681b9d0"
+   536959091]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -68317,17 +68319,31 @@
   [44024 :edit/user 3422 536959043]
   [44024 :log/id 1616977554259 536959043]
   [44024 :node/title "March 29th, 2021" 536959043]
-  [44026 :block/uid "1mhKYaUSu" 536959072]
-  [44026 :user/display-name "Erik Newhard" 536959072]
-  [44026
+  [44026 :block/uid "03-30-2021" 536959072]
+  [44026 :create/time 1617067090601 536959072]
+  [44026 :create/user 9445 536959072]
+  [44026 :edit/time 1617067090601 536959072]
+  [44026 :edit/user 9445 536959072]
+  [44026 :log/id 1617067090600 536959072]
+  [44026 :node/title "March 30th, 2021" 536959072]
+  [44027 :block/open true 536959074]
+  [44027 :block/order 2 536959074]
+  [44027 :block/page 2910 536959075]
+  [44027 :block/parents 2910 536959075]
+  [44027 :block/refs 960 536959090]
+  [44027
+   :block/string
+   "*Conor mentions the old help graph in this thread. If you are searching for the white paper, he mentioned, find it in this graph [here]([[White Paper]])."
+   536959089]
+  [44027 :block/uid "j8V2ciddn" 536959074]
+  [44027 :create/time 1617067170607 536959074]
+  [44027 :create/user 9445 536959074]
+  [44027 :edit/time 1617067466006 536959089]
+  [44027 :edit/user 9445 536959074]
+  [44028 :block/uid "UkgEj8HVq" 536959091]
+  [44028 :user/display-name "Erik Newhard" 536959091]
+  [44028
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536959072]
-  [44026 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959072]
-  [44027 :block/uid "03-30-2021" 536959073]
-  [44027 :create/time 1617065747733 536959073]
-  [44027 :create/user 44026 536959073]
-  [44027 :edit/time 1617065747733 536959073]
-  [44027 :edit/user 44026 536959073]
-  [44027 :log/id 1617065747732 536959073]
-  [44027 :node/title "March 30th, 2021" 536959073]]}
+   536959091]
+  [44028 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959091]]}

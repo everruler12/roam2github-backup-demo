@@ -43805,6 +43805,28 @@
         ":edit/user": {
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         }
+      },
+      {
+        "string": "*Conor mentions the old help graph in this thread. If you are searching for the white paper, he mentioned, find it in this graph [here]([[White Paper]]).",
+        "create-time": 1617067170607,
+        ":block/refs": [
+          {
+            ":block/uid": "dZ72V0Ig6"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "dZ72V0Ig6"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        },
+        "uid": "j8V2ciddn",
+        "edit-time": 1617067466006,
+        ":edit/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        }
       }
     ],
     "uid": "kHiuT34q_",
@@ -65336,15 +65358,15 @@
     }
   },
   {
-    "create-time": 1617065747733,
+    "create-time": 1617067090601,
     "title": "March 30th, 2021",
     "uid": "03-30-2021",
-    "edit-time": 1617065747733,
+    "edit-time": 1617067090601,
     ":create/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
     },
     ":edit/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
     }
   }
 ]
