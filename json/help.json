@@ -33746,6 +33746,75 @@
             "edit-time": 1614957488449,
             "children": [
               {
+                "edit-time": 1617094183112,
+                "children": [
+                  {
+                    "string": "{{[[video]]: https://www.youtube.com/watch?v=YPBr5eXZ_xY}}\n",
+                    "create-time": 1617094170343,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "2h9V-FtAO"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "2h9V-FtAO"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                    },
+                    "uid": "GzrOEC4IP",
+                    "edit-time": 1617094190881,
+                    ":edit/user": {
+                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                    }
+                  },
+                  {
+                    "string": "#[[Daily Notes]] ",
+                    "create-time": 1617094170343,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "eOaNXBvXZ"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "eOaNXBvXZ"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                    },
+                    "uid": "qRdjVbjPO",
+                    "edit-time": 1617094355822,
+                    ":edit/user": {
+                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "cW0LM6Cw0"
+                  }
+                ],
+                "uid": "PV_xu9Z8I",
+                ":block/refs": [
+                  {
+                    ":block/uid": "cW0LM6Cw0"
+                  }
+                ],
+                "string": "Why you should keep a journal and why I keep mine in Roam Research by [[Drew Coffman]]",
+                ":create/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                "create-time": 1617094170343,
+                ":edit/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                "heading": 3
+              },
+              {
                 "edit-time": 1614958965700,
                 "children": [
                   {
@@ -40671,6 +40740,65 @@
           {
             "edit-time": 1614792892119,
             "children": [
+              {
+                "edit-time": 1617094557217,
+                "children": [
+                  {
+                    "string": "{{[[video]]: https://www.youtube.com/watch?v=t4AD320OG60}}\n#[[Bidirectional linking]] | #[[Graph Overview]]",
+                    "create-time": 1617094540111,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "2h9V-FtAO"
+                      },
+                      {
+                        ":block/uid": "fJITY2nwZ"
+                      },
+                      {
+                        ":block/uid": "7NcTb9GoQ"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "2h9V-FtAO"
+                      },
+                      {
+                        "uid": "fJITY2nwZ"
+                      },
+                      {
+                        "uid": "7NcTb9GoQ"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                    },
+                    "uid": "JPoIMctPO",
+                    "edit-time": 1617094687385,
+                    ":edit/user": {
+                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "cW0LM6Cw0"
+                  }
+                ],
+                "uid": "hAYExgN4D",
+                ":block/refs": [
+                  {
+                    ":block/uid": "cW0LM6Cw0"
+                  }
+                ],
+                "string": "Transform Your Creative Process with Roam Research by [[Drew Coffman]]",
+                ":create/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                "create-time": 1617094540111,
+                ":edit/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                "heading": 3
+              },
               {
                 "edit-time": 1614808847841,
                 "children": [
@@ -48720,6 +48848,53 @@
                     ":edit/user": {
                       ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                     }
+                  },
+                  {
+                    "edit-time": 1617094018570,
+                    "children": [
+                      {
+                        "string": "{{[[video]]: https://www.youtube.com/watch?v=wMOACjJzfgM}}",
+                        "create-time": 1617093645389,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "2h9V-FtAO"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "2h9V-FtAO"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                        },
+                        "uid": "w6NvGeZxd",
+                        "edit-time": 1617094084081,
+                        ":edit/user": {
+                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "cW0LM6Cw0"
+                      }
+                    ],
+                    "uid": "PHt62AVOn",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "cW0LM6Cw0"
+                      }
+                    ],
+                    "string": "How Taking Smart, Simple Notes Will Make You a Better Writer\nby [[Drew Coffman]]",
+                    ":create/user": {
+                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                    },
+                    "create-time": 1617093645389,
+                    ":edit/user": {
+                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [

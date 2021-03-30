@@ -1,5 +1,9 @@
 - #.doc-mode
     - ## Community Videos::
+        - ### Why you should keep a journal and why I keep mine in Roam Research by [[Drew Coffman]]
+            - {{[[video]]: https://www.youtube.com/watch?v=YPBr5eXZ_xY}}
+
+            - #[[Daily Notes]] 
         - ### Using Roam as Your Daily Journal by [[Shu Omi]]
             - {{[[video]]: https://www.youtube.com/watch?v=WTSHhj92pvM&ab_channel=ShuOmi}}
 

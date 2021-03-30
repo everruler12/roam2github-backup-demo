@@ -1,5 +1,8 @@
 - #.doc-mode
     - Community Videos::
+        - ### Transform Your Creative Process with Roam Research by [[Drew Coffman]]
+            - {{[[video]]: https://www.youtube.com/watch?v=t4AD320OG60}}
+#[[Bidirectional linking]] | #[[Graph Overview]]
         - ### How to Use Roam to Outline a New Article in Under 20 Minutes by [[Nat Eliason]]
             - {{[[video]]: https://www.youtube.com/watch?v=RvWic15iXjk&feature=emb_title&ab_channel=NatEliason}}
 #[[Right Sidebar]] | #[[Block References]] | #[[Page References]] | #[[Unlinked References]] | #[[Formatting]]

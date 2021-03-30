@@ -3,6 +3,9 @@
         - ### How to Take Smart Notes | Zettelkasten Method in Roam Research by [[Shu Omi]]
             - {{[[video]]: https://www.youtube.com/watch?v=ljyo_WAJevQ&t=188s&ab_channel=ShuOmi}}
 #[[Page References]] | #[[Right Sidebar]] | #[[Block References]] | #[[Linked References]] | #[[Filter]] 
+            - ### How Taking Smart, Simple Notes Will Make You a Better Writer
+by [[Drew Coffman]]
+                - {{[[video]]: https://www.youtube.com/watch?v=wMOACjJzfgM}}
         - ### Implementing a Digital Zettelkasten using Block References in Roam Research with [[Beau Haan]] by [[Robert Haisfield]]
             - {{[[video]]: https://www.youtube.com/watch?v=KoddCmn3eL0&ab_channel=RobertHaisfield}}
 #[[Block References]] | #[[Page References]] | #[[Indentation]] | #[[Daily Notes]] | #[[Current time]] | #[[Right Sidebar]]
