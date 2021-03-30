@@ -45891,6 +45891,7 @@
   [11115 :block/uid "ZxOYZFNlf" 536909289]
   [11115 :create/time 1615387685021 536909289]
   [11115 :create/user 3422 536909289]
+  [11115 :edit/seen-by 6897 536959162]
   [11115 :edit/time 1615387685021 536909289]
   [11115 :edit/user 3422 536909289]
   [11116 :block/open true 536909289]
@@ -45904,6 +45905,7 @@
   [11116 :block/uid "U5zL5O-Rz" 536909289]
   [11116 :create/time 1615387685021 536909289]
   [11116 :create/user 3422 536909289]
+  [11116 :edit/seen-by 6897 536959163]
   [11116 :edit/time 1615389662660 536909395]
   [11116 :edit/user 3422 536909289]
   [11118 :block/string "" 536909293]
@@ -58858,8 +58860,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuidcb092640-1ff1-4220-b333-a648e7c0078a"
-   536959162]
+   "uuid0a4211c5-7597-488d-94a7-d1cf4c69e8e7"
+   536959164]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -68499,10 +68501,10 @@
   [44044 :block/uid "q1sKrgtGn" 536959150]
   [44044 :edit/time 1617094540565 536959150]
   [44044 :edit/user 3422 536959150]
-  [44045 :block/uid "J8mY0b-ct" 536959162]
-  [44045 :user/display-name "Erik Newhard" 536959162]
+  [44045 :block/uid "iFvEu7tql" 536959164]
+  [44045 :user/display-name "Erik Newhard" 536959164]
   [44045
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536959162]
-  [44045 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959162]]}
+   536959164]
+  [44045 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959164]]}
