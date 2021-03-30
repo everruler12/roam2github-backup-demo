@@ -10,9 +10,9 @@
     - Diagrams in Roam Research by [[Conor White-Sullivan]]
         - {{[[video]]: https://www.youtube.com/watch?v=RD_Gi8EQGVQ}}
 #[[Diagram]]
-    - "Mermaid diagrams combined with version control in Roam Research by [[Conor White-Sullivan]]"
-        - "{{[[video]]: https://www.youtube.com/watch?v=UF22iK8fX-A&t}}
-#[[Version Control]] | #[[Diagram]]"
+    - Mermaid diagrams combined with version control in Roam Research by [[Conor White-Sullivan]]
+        - {{[[video]]: https://www.youtube.com/watch?v=UF22iK8fX-A&t}}
+#[[Version Control]] | #[[Diagram]]
 - Articles::
     - [How to build diagrams in Roam Research](https://nesslabs.com/roam-research-diagrams) by [[Anne-Laure Le Cunff]]
         - #Diagram

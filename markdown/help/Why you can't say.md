@@ -4,11 +4,11 @@
     # Why You Can't Say
         Apr 5, 2017
         Recently on a tip from [Ivan Kirigin](https://twitter.com/ikirigin) I reread this now-ancient Paul Graham article, [What You Can’t Say](http://www.paulgraham.com/say.html). Like the idea of [Straussian reading](http://lacker.io/books/2017/03/26/straussian-reading.html), the essay is looking for secret truths which are currently inappropriate to share publicly.
-        > "It's tantalizing to think we believe things that people in the future will find ridiculous. What __would__ someone coming back to visit us in a time machine have to be careful not to say? That's what I want to study here. But I want to do more than just shock everyone with the heresy du jour. I want to find general recipes for discovering what you can't say, in any era."
+        > It's tantalizing to think we believe things that people in the future will find ridiculous. What __would__ someone coming back to visit us in a time machine have to be careful not to say? That's what I want to study here. But I want to do more than just shock everyone with the heresy du jour. I want to find general recipes for discovering what you can't say, in any era.
         At first I was going to dig in, follow the instructions in this essay, perhaps try to get meta and turn them on the essay itself, and find some secret truths. But there was just too much to bite off at once and I ended up gnawing on a tangent.
         Specifically, the part that really sparked some thought for me was this hypothesis on the source of taboos:
         > [To launch a taboo, a group has to be poised halfway between weakness and power. A confident group doesn't need taboos to protect it. It's not considered improper to make disparaging remarks about Americans, or the English. And yet a group has to be powerful enough to enforce a taboo.*](((rrWH5Hxel)))
-        > "I suspect the biggest source of moral taboos will turn out to be power struggles in which one side only barely has the upper hand. That's where you'll find a group powerful enough to enforce taboos, but weak enough to need them."
+        > I suspect the biggest source of moral taboos will turn out to be power struggles in which one side only barely has the upper hand. That's where you'll find a group powerful enough to enforce taboos, but weak enough to need them.
         I’m not totally convinced that most moral taboos come from power struggles. My personal suspicion is that the best explanation of the source of moral taboos comes from the theory of [[Social Constructionism]]
         
         __Human beings rationalize their experience by creating models of the social world and share and reify these models through language.__

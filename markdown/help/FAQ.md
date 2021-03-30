@@ -94,7 +94,7 @@
         - Though, some people would prefer local graphs for ultra-security (since the notes you jot down won't hit our server) and control of data.
         - However, hosted graphs are used when we want to access our notes anywhere, on any machine, and collaborate with anyone :)
     - ### **How do I make a** [[Kanban]]**?**
-        - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FSmU5tn9gdD.gif?alt=media&token=ea2d0bbb-8ef4-4359-a0de-b06f6cca74e3)"
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FSmU5tn9gdD.gif?alt=media&token=ea2d0bbb-8ef4-4359-a0de-b06f6cca74e3)
     - ### **How do I hide private things in my database?**
         - If you need to make some blocks private, you can use our [[Encrypted Block]] feature. 
     - ### **Can I change my graph name?**
@@ -138,7 +138,7 @@
     - ### **How do I delete a** [page]([[Pages]])?
         - There are different ways to delete a page: 
         - From the [[All Pages]] view 
-            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FYqxqKorQI-.gif?alt=media&token=736383b1-77c5-43d0-afe0-1b9559750dad)"
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FYqxqKorQI-.gif?alt=media&token=736383b1-77c5-43d0-afe0-1b9559750dad)
         - From the page itself
             - Open the page you want to delete, then go to the three-dot-menu on the top-right corner and select "Delete".
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2F8gbt5z9V4h.gif?alt=media&token=26079c72-954a-4683-a760-0fabb65a1ff6)
@@ -195,7 +195,7 @@
         - If you want to change what is displayed, go to the three-dot-menu on top right in the graph, then click on User Settings. Under "Cycle namespace view" Choosing the top option will show the complete name, which includes all the `/` in the title
         - ![](https://downloads.intercomcdn.com/i/o/297124458/1a44895633084182def77aed/2021-02-08+13.12.59.gif)
     - ### **What can I upload on Roam?**
-        - "You can upload and embed files in Roam, including audio, PDFs, and images, so you can access files right on the spot  "
+        - You can upload and embed files in Roam, including audio, PDFs, and images, so you can access files right on the spot  
         - More here: [[Upload Files]]
     - ### **What formats does Roam support when uploading images?**
         - Currently supported formats include jpg and png.
@@ -235,7 +235,7 @@
         - Unfortunately it's not possible to merge graphs currently. [Importing]([[Import]]) in EDN format will overwrite the previous content in your graph.
         - If one of the graphs is small, you can manually copy paste each page into another graph. Then, import all your content in EDN format into the small graph to have all your content in one place. 
         - To import in EDN format, go to the ... menu > Graph settings > Restore graphs
-        - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FSgFSQeP1DW.gif?alt=media&token=55c8c34e-1028-4442-8744-7268d4e3a002)"
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FSgFSQeP1DW.gif?alt=media&token=55c8c34e-1028-4442-8744-7268d4e3a002)
     - ### **If I delete a graph, can I reuse that name when creating a new one?**
         - Previous graph names are available for re-use 90 days after the deletion. So here are three possible options:
             1. ﻿Wait till then;
@@ -264,16 +264,16 @@
         - You can access these settings from the three-dot-menu -> Share
         - Here's how to share your graph as **readable** by everyone with the url:
             - From "Share" settings, toggle the option "can be read by anyone with the url", then click away
-            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Fzku2IXzUiI.gif?alt=media&token=169f61f6-e752-48a0-832f-2fbc13b84352)"
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Fzku2IXzUiI.gif?alt=media&token=169f61f6-e752-48a0-832f-2fbc13b84352)
         - Here's how to share your graph as **editable** by everyone with the url:
             - From "Share" settings, toggle the option "can be edited by anyone with the url", then click away
-            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2F3WqdnWRZwg.gif?alt=media&token=63ee15ac-a74c-485a-9300-720497a5c2b9)"
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2F3WqdnWRZwg.gif?alt=media&token=63ee15ac-a74c-485a-9300-720497a5c2b9)
         - Here's how to share a graph with specific **readers**:
             - From "Share" settings, toggle the option "is shared only with the emails below", then add your emails under the "Readers" box in the bottom right. Hit enter and those emails will be added as readers. 
-            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2F3Y6w9oqp9k.gif?alt=media&token=1295e3f2-0936-43ff-915b-243845477fe2)"
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2F3Y6w9oqp9k.gif?alt=media&token=1295e3f2-0936-43ff-915b-243845477fe2)
         - Here's how to share a graph with specific **editors**:
             - From "Share" settings, toggle the option "is shared only with the emails below", then add your emails under the "Editors" box in the bottom right. Hit enter and those emails will be added as editors. 
-            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FY-FPojuhvr.gif?alt=media&token=5380268f-65f5-41b6-ad41-03f21f118bac)"
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FY-FPojuhvr.gif?alt=media&token=5380268f-65f5-41b6-ad41-03f21f118bac)
     - ### **Is anyone doing multiplayer at the moment?**
         - Check out [[Notable Graphs]] for public graphs by our community
         - Check out [[Roam Book Club]] for our own experiment with multiplayer

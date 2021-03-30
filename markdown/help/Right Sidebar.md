@@ -20,16 +20,16 @@
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FVoJDU4Dqoi.gif?alt=media&token=052da9ba-e75d-410d-9694-ee7c8edbed6a)
         - ### Pin and unpin windows in sidebar
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FnwoLmwV4FC.gif?alt=media&token=c6ceda4a-24b4-485f-b442-d0a6028c27c4)
-        - ### "Creating a page and opening it in the right sidebar"
-            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2F1bVd2VxOSY.gif?alt=media&token=529f75f8-4d68-4e54-9e91-8a0bd6a64767)"
-        - ### "Open Kanban in sidebar"
-            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FuqWn53xv7q.gif?alt=media&token=111f7548-04db-4587-9005-e103ca2f6047)"
-        - ### "Open pages from all pages in right sidebar"
-            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FDcJ5GFlnvx.gif?alt=media&token=ee49c2a4-5933-4ac8-9feb-15bb5cc3c8ad)"
+        - ### Creating a page and opening it in the right sidebar
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2F1bVd2VxOSY.gif?alt=media&token=529f75f8-4d68-4e54-9e91-8a0bd6a64767)
+        - ### Open Kanban in sidebar
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FuqWn53xv7q.gif?alt=media&token=111f7548-04db-4587-9005-e103ca2f6047)
+        - ### Open pages from all pages in right sidebar
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FDcJ5GFlnvx.gif?alt=media&token=ee49c2a4-5933-4ac8-9feb-15bb5cc3c8ad)
         - ### Resizing sidebar
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2F9Nd8zc3dsH.gif?alt=media&token=0c0df213-1fff-45bd-a642-1bccc8126bed)
-        - ### "Open node in sidebar"
-            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FzO8buehcAl.gif?alt=media&token=0de4cdf5-26a2-440c-a0af-57ede8199623)"
+        - ### Open node in sidebar
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FzO8buehcAl.gif?alt=media&token=0de4cdf5-26a2-440c-a0af-57ede8199623)
     - ## Articles::
         - ### [How to use the Roam sidebar](https://www.roamtips.com/home/roam-research-sidebar) by [[Roam Tips]]
             - #[[Right Sidebar]] | #[[Block Embed]] | #[[Linked References]]

@@ -19,7 +19,7 @@
         - Example::
             - from [[Beating the Averages]]
                 - This is a block ref
-                    - "In the summer of 1995, my friend Robert Morris and I started a startup called [Viaweb](http://docs.yahoo.com/docs/pr/release184.html). Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface."
+                    - In the summer of 1995, my friend Robert Morris and I started a startup called [Viaweb](http://docs.yahoo.com/docs/pr/release184.html). Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface.
                         - It is a window onto a block from somewhere else in your Roam Graph - changes to that block will be reflected here as well. 
                 - If you click on this you will now see this menu
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FMXJp9DtIl0.png?alt=media&token=e32c1861-66ae-4c8e-8709-142824b10ba4)
@@ -28,7 +28,9 @@
                 - If you select [[Replace With]] you will see this menu
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FANYfuprm6c.png?alt=media&token=109625d3-b64b-4beb-891a-4a070a7037dc)
                 - If you choose to replace with `embed` you will get this:
-                    - {{embed: ((0EEP-FcAj))}}
+                    - In the summer of 1995, my friend Robert Morris and I started a startup called [Viaweb](http://docs.yahoo.com/docs/pr/release184.html). Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface.
+                        - You can now see the refs in the right margin and the block now lives here and its original location is now holding a reference to the above block
+                        - This is useful when you want to change the location of a block to make the references more easily accessible or where the original block makes more sense to be 
                         - This essentially gives you a portal to the original source material - if you edit text within the embed - it will change all the references
                 - If you choose to replace with `original` you will get this:
                     - In the summer of 1995, my friend Robert Morris and I started a startup called [Viaweb](http://docs.yahoo.com/docs/pr/release184.html). Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface.
@@ -48,7 +50,7 @@
                     - In the summer of 1995, my friend Robert Morris and I started a startup called [Viaweb](http://docs.yahoo.com/docs/pr/release184.html). Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface. [*](((0EEP-FcAj)))
                         - This is useful for drafting - or making a modified version of the original text - you have an alias pointing to the source material - but the text is conveniently there for editing/rewording etc. #Writing
     - Apply children
-        - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FAwRs4Xe2HD.gif?alt=media&token=690c1f18-49e3-44b1-ad9a-065907adbf1d)"
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FAwRs4Xe2HD.gif?alt=media&token=690c1f18-49e3-44b1-ad9a-065907adbf1d)
     - Copying multiple block references
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FR4UsRcsCSC.gif?alt=media&token=6cdb2595-8c9a-4488-ab8e-f6e2be187243)
 - Team GIFs::
@@ -88,6 +90,6 @@
 - Articles::
     - [Roam’s Block Reference Context Menu: A Primer](https://roamstack.com/roam-block-reference-menu/) by [[RoamStack]]
         - #[[Block References]] | #[[Right Sidebar]] | #[[Block Embed]] | #[[text and alias]] | #[[Alias]] 
-    - "[What is a block in Roam Research (and what are block embeds)?](https://www.roamtips.com/home/what-is-block-roam-research) by [[Roam Tips]]"
+    - [What is a block in Roam Research (and what are block embeds)?](https://www.roamtips.com/home/what-is-block-roam-research) by [[Roam Tips]]
 - Key Commands::
     - `(())`

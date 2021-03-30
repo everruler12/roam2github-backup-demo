@@ -7,7 +7,7 @@
         - **If there's an update you'll see**
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FxHwW9WnzmE.png?alt=media&token=2c444187-3a33-4a9d-9233-a2e2ea60ec22)
         - **Just click on the update button and you'll get the new version**
-            - (if you have issues see "I clicked check updates, it didn't work/I don't see the new feature I'm looking for, whats going on?")
+            - (if you have issues see I clicked check updates, it didn't work/I don't see the new feature I'm looking for, whats going on?)
     - ### I clicked check updates, it didn't work/I don't see the new feature I'm looking for, whats going on?
         - Sometimes, updates can take awhile to reach you. If you close all tabs with Roam open and then reopen them, you can get the update faster/fix any problems you are having with getting the update.
             - If you have the installed app, just close it and reopen

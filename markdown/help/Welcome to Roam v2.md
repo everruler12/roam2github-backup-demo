@@ -8,7 +8,7 @@
         ### Everything is where you need it to be
             - **Organizing information is effortless with** [page]([[Page References]])/[block references]([[Block References]]).
                 - Let's say we have a meeting. In our Daily Notes, we might write
-                    - "{{[[TODO]]}} Have a [[meeting]] with [[John Smith]] about [[Roam Research]] on [[February 8th, 2021]]. #marketing"
+                    - {{[[TODO]]}} Have a [[meeting]] with [[John Smith]] about [[Roam Research]] on [[February 8th, 2021]]. #marketing
                 - Those square brackets turn text into **__backlinks__**.
                     - This automatically creates a page for each keyword--click the backlink to go the keyword's page. 
                     - At the bottom, you'll find instances where the page was mentioned--its __page references__.

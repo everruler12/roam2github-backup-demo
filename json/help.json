@@ -36108,634 +36108,1630 @@
     },
     "children": [
       {
-        "string": "#.doc-mode",
-        "create-time": 1616527536833,
-        ":block/refs": [
-          {
-            ":block/uid": "Fp4-ieiER"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "Fp4-ieiER"
-          }
-        ],
+        "string": "**Abstract**. Roam is an online workspace for organizing and evaluating knowledge. The system is built on a directed graph, which frees it from the constraints of the classic file tree. Users can remix and connect ideas in multiple overlapping hierarchies, with each unit of information becoming a node in a dynamic network. Any given node can occupy multiple positions simultaneously, convey information through defined relationships, and populate changes throughout the graph. With weightings assigned to the strength of relationships between nodes, Roam also becomes a tool for Bayesian inference and decision making. The ultimate goal is to extend the system to collaborative reasoning, allowing groups to build shared mental maps and make faster and better-informed decisions.",
+        "create-time": 1617137848516,
         ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
         },
-        "uid": "KRE8dnm0t",
-        "edit-time": 1616527539155,
+        "uid": "AOoxqqbjq",
+        "edit-time": 1617137856173,
+        "text-align": "left",
         ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
         }
       },
       {
-        "edit-time": 1616530673620,
+        "string": "**1.    Introduction**",
+        "create-time": 1617137848516,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
         "children": [
           {
-            "string": "**Abstract**. Roam is an online workspace for organizing and evaluating knowledge. The system is built on a directed graph, which frees it from the constraints of the classic file tree. Users can remix and connect ideas in multiple overlapping hierarchies, with each unit of information becoming a node in a dynamic network. Any given node can occupy multiple positions simultaneously, convey information through defined relationships, and populate changes throughout the graph. With weightings assigned to the strength of relationships between nodes, Roam also becomes a tool for Bayesian inference and decision making. The ultimate goal is to extend the system to collaborative reasoning, allowing groups to build shared mental maps and make faster and better-informed decisions.",
-            "create-time": 1564786444139,
-            ":create/user": {
-              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-            },
-            "uid": "uuid0ffc6d9f-f700-419c-b34b-580842fba32f",
-            "edit-time": 1615109945938,
-            "text-align": "left",
-            ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            }
-          },
-          {
-            "string": "**1.    Introduction**",
-            "create-time": 1564786451147,
-            ":create/user": {
-              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-            },
-            "children": [
-              {
-                "string": "We are experiencing an unprecedented explosion of knowledge. Every day, 2700 books are published in the United States alone, 6850 scientific papers are authored, more than 2 million blog posts go live, and 294 billion emails fly back and forth. The amount of total data produced with every rotation of the Earth would fill a stack of books stretching to the moon and back. [1](((CUDrvnqeF))) While this exponential growth presents enormous opportunities for individuals and society at large, neither the human brain nor current technologies are equipped to harness it to its full potential.",
-                "create-time": 1564786451147,
-                ":block/refs": [
-                  {
-                    ":block/uid": "CUDrvnqeF"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "CUDrvnqeF"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "uid": "UAVU2x9Ae",
-                "edit-time": 1614682584141,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "uid": "okxLe-UGQ",
-            "edit-time": 1614682584141,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          },
-          {
-            "string": "**2.   Current approaches to knowledge management**",
-            "create-time": 1564786451147,
-            ":create/user": {
-              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-            },
-            "children": [
-              {
-                "string": "Humans are poorly adapted to the Information Age, which has arisen only in the last ~0.02% of our evolutionary history. While the brain does have a remarkable capacity for raw storage, probably in the range of several petabytes,[2](((fovwPihLc))) it is infamously fallible in processing information. Memory retrieval is lossy and unreliable, while many of our hardwired cognitive biases and heuristics misfire in the modern world, distorting our perception, judgement and decision-making ability. The plasticity of the brain enables it to rewire itself with new connections, but even this is a ‘use it or lose it’ feature, causing neglected neural pathways to atrophy.",
-                "create-time": 1564786451147,
-                ":block/refs": [
-                  {
-                    ":block/uid": "fovwPihLc"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "fovwPihLc"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "uid": "QFjCT7RNa",
-                "edit-time": 1614682584141,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Many technologies for organizing knowledge outside of the brain have arisen in response to these limitations. Physical books and journals proliferated after the invention of the Gutenberg Press, and have since been partially supplanted by word processors, websites, blogs, forums, wikis, and software applications.",
-                "create-time": 1564786451147,
-                "uid": "IgBckfWJ7",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "While we are presented with a plethora of choices for organizing knowledge, almost every technology follows the same basic ‘file cabinet’ format: A unit of knowledge is saved to a certain file path, which places it within a taxonomy of folders, chapters or categories. Tags may be applied when an item relates to many things, but each file is generally only stored within one nested hierarchy. To access the information, the user must remember where they stored the file, what they tagged it with, or use a search function to locate it.",
-                "create-time": 1564786451148,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "children": [
-                  {
-                    "string": "Related Twitter Thread",
-                    "create-time": 1564788622284,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    "children": [
-                      {
-                        "string": "https://twitter.com/Conaw/status/1099181050045952006",
-                        "create-time": 1564788624752,
-                        "uid": "uuid18160ad1-591b-4288-a99b-4439bbd0b930",
-                        "edit-time": 1614682584141,
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      }
-                    ],
-                    "uid": "uuid6f8bfd7f-cc07-4306-86f2-b86b2bf6d2c3",
-                    "edit-time": 1614682584141,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "uid": "JnKSKeXwR",
-                "edit-time": 1614682584141,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "uid": "30_t6vp-x",
-            "edit-time": 1614682584141,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          },
-          {
-            "string": "**3.   Problems with the file cabinet approach**",
-            "create-time": 1564786451148,
-            ":create/user": {
-              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-            },
-            "children": [
-              {
-                "string": "In some regards, current technologies remain vastly inferior to the human brain. If each neuron only held a single ‘unit’ of memory in this manner, our brains would quickly fill to overflowing. Instead, information is conveyed in the connections between neurons and neural networks, so a common idea can be made available across the entire brain; the concept of a blue sky might be used in countless seemingly discrete memories of time spent outdoors. This efficiency helps to explain why a computer requires several million times more energy to perform the same tasks as a human brain (which runs on about as much power as a dim light bulb).[3](((D7lW-q9tj)))",
-                "create-time": 1564786451148,
-                ":block/refs": [
-                  {
-                    ":block/uid": "D7lW-q9tj"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "D7lW-q9tj"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "uid": "ck22MuJ9k",
-                "edit-time": 1614682584141,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Unlike the brain, the file cabinet approach makes it difficult or impossible to remix or reuse the same piece of information. Each time a change is made to any given file, it has to be tracked down and updated in every location in which it exists. This leads to redundancy, with a cluttering of near-identical ideas, and significant work any time a system-wide change is required.",
-                "create-time": 1564786451148,
-                "uid": "rdUZzTcyw",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Current solutions also lack interconnectivity. Many files are divorced from context; cast into a drawer, rather than methodically fitted into a broader framework of knowledge. Knowledge trees can create pseudo-relationships between files nested within a given hierarchy, but these are not explicit, and can only describe a vertical ‘parent and child’ taxonomy. Some tools, such as web pages and wikis, also allow for orthogonal linking between related files, but this takes place in an ad hoc fashion, and again, there is no ability to explicitly define relationships.",
-                "create-time": 1564786451148,
-                "uid": "B-ZP0LvKV",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "uid": "4YiZM0CtX",
-            "edit-time": 1614682584141,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          },
-          {
-            "string": "**4.\tKnowledge graphs as nodal networks **",
-            "create-time": 1564786451148,
-            ":create/user": {
-              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-            },
-            "children": [
-              {
-                "string": "Large-scale collaboration requires a more flexible data structure than the classic file tree. Roam is built on a knowledge graph that maps all possible relationships, with ‘smart’ links between defined concepts. Users can connect similar ideas in multiple overlapping hierarchies, remix them without overwriting the original context, and selectively share parts of the graph with others to collaborate on specific sub-questions.",
-                "create-time": 1564786451148,
-                "uid": "RZuDsaK87",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "If current tools resemble filing cabinets, Roam is more akin to the nodal networks in telecommunications, or the neurons in the human brain. Rather than existing in a vacuum, each note or file becomes a node in an interconnected graph of ideas. A single node may simultaneously hold positions in several different sequences, hierarchies or file paths, and can ‘talk’ to other nodes, communicating information back and forth about the nature of each relationship. The network is dynamic, so updates and revisions are populated across the entire graph simultaneously. Individual nodes or branches within the network can be forked as required, allowing a new pathway to deviate without changing the original meaning.",
-                "create-time": 1564786451148,
-                "uid": "-UEgg378K",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "At the simplest level, Roam’s structure makes it inherently easier to store, recall, and cross-reference ideas. This is the primary proposition for students, writers, self-directed learners, and users of existing note-taking apps.  ",
-                "create-time": 1564786451148,
-                "uid": "mN4saMZ9w",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "For power users, the knowledge graph also unlocks applications in logic and reasoning, Bayesian inference and decision-making, modelling complex problems, and collaborative research.",
-                "create-time": 1564786451148,
-                "uid": "OBs1h4_cQ",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "These features are explored in Chapters 5 - 8, along with potential use cases for the technology. ",
-                "create-time": 1564786451148,
-                "uid": "i051qIGr6",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "uid": "gkJEgvEfU",
-            "edit-time": 1614682584141,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          },
-          {
-            "string": "**5.\tDependency graphs and logical reasoning**",
-            "create-time": 1564786451148,
-            ":create/user": {
-              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-            },
-            "children": [
-              {
-                "string": "Everything from peer-reviewed research papers to the opinion pages of a newspaper are based on formulating arguments that support a certain premise, along the lines of the following: ",
-                "create-time": 1564786451148,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "children": [
-                  {
-                    "string": "If A is true, then B is true.",
-                    "create-time": 1564786451148,
-                    "uid": "GhJJO7jPY",
-                    "edit-time": 1614682584141,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "If C and D are both true, then A is true.",
-                    "create-time": 1564786451148,
-                    "uid": "tpRUB-9P0",
-                    "edit-time": 1614682584141,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "C and D are true.",
-                    "create-time": 1564786451148,
-                    "uid": "1cr7wx-VW",
-                    "edit-time": 1614682584141,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "Therefore, B is true.",
-                    "create-time": 1564786451148,
-                    "uid": "g8_e_0dqI",
-                    "edit-time": 1614682584141,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "edit-time": 1614682584141,
-                    "children": [
-                      {
-                        "string": "{{embed:((PWRiHAsEv)) }}",
-                        "create-time": 1578091512338,
-                        ":block/refs": [
-                          {
-                            ":block/uid": "PWRiHAsEv"
-                          }
-                        ],
-                        "refs": [
-                          {
-                            "uid": "PWRiHAsEv"
-                          }
-                        ],
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        "uid": "kIt5Ikmu6",
-                        "edit-time": 1614682584141,
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      },
-                      {
-                        "string": "",
-                        "create-time": 1578091527486,
-                        "uid": "N9d_NP4TG",
-                        "edit-time": 1614682584141,
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "-zG2FRXd_"
-                      },
-                      {
-                        "uid": "0lwvs5tDQ"
-                      }
-                    ],
-                    "uid": "ED0Az7XqI",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "-zG2FRXd_"
-                      },
-                      {
-                        ":block/uid": "0lwvs5tDQ"
-                      }
-                    ],
-                    "string": "Example:: [[Precise Links]]",
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    "create-time": 1578091448419,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "uid": "_q26PR8Rc",
-                "edit-time": 1614682584141,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Often, C and D will be supported by links to external articles, where they are conclusions reached by larger arguments based on combining other premises. Unfortunately, the structure of the argument is only implied by the prose. Rarely are the relationships between arguments and pieces of evidence explicitly laid out, except perhaps in the notes of the author investigating the claims.",
-                "create-time": 1564786451150,
-                "uid": "gmPyy9xh2",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Roam allows individual researchers or writers to organize all the claims they wish to make across a number of different projects. It also creates opportunities for large-scale interdisciplinary research projects. When teams of interested collaborators have an agreed-upon structure for formatting arguments and counterarguments, it is possible to create expandable user interfaces which “bubble up” insight from claims which require expertise, to ones that are more easily understood by laypersons.",
-                "create-time": 1564786451150,
-                "uid": "UEeHvrmGC",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "edit-time": 1614682584141,
-                "children": [
-                  {
-                    "string": "Example A",
-                    "create-time": 1564786451150,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    "children": [
-                      {
-                        "string": "Alice:  \"A tree falling in a deserted forest makes a sound.\"",
-                        "create-time": 1564786451150,
-                        "uid": "AvoqTa4Tp",
-                        "edit-time": 1614682584141,
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      },
-                      {
-                        "string": "Bob:  \"A tree falling in a deserted forest does not make a sound.\"",
-                        "create-time": 1564786451150,
-                        "uid": "odOKOXr0x",
-                        "edit-time": 1614682584141,
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      }
-                    ],
-                    "uid": "oyaDL4cT3",
-                    "edit-time": 1614682584141,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "Example B",
-                    "create-time": 1564786451150,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    "children": [
-                      {
-                        "string": "Alice:  \"A tree falling in a deserted forest [generates acoustic vibrations].\"",
-                        "create-time": 1564786451150,
-                        "uid": "6tqvxF-Yh",
-                        "edit-time": 1614682584141,
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      },
-                      {
-                        "string": "Bob:  \"A tree falling in a deserted forest does not [generate auditory experiences].\" [4](((69lUt3U-z)))",
-                        "create-time": 1564786451150,
-                        ":block/refs": [
-                          {
-                            ":block/uid": "69lUt3U-z"
-                          }
-                        ],
-                        "refs": [
-                          {
-                            "uid": "69lUt3U-z"
-                          }
-                        ],
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        "uid": "gq_YwevU1",
-                        "edit-time": 1614682859744,
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      }
-                    ],
-                    "uid": "ffuiw1zam",
-                    "edit-time": 1614682584141,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "While these positions are contradictory as expressed in Example A, simply defining the term ‘sound’ reveals the underlying beliefs are entirely compatible. ",
-                    "create-time": 1564786451150,
-                    "uid": "HsfsROwT1",
-                    "edit-time": 1614682584141,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "Y7Gy-Fl81"
-                  }
-                ],
-                "uid": "FBFOUCLQk",
-                ":block/refs": [
-                  {
-                    ":block/uid": "Y7Gy-Fl81"
-                  }
-                ],
-                "string": "The ambiguity of natural language derails many discussions. Unless [[terms]] are clearly defined from the outset, any form of argument is futile, and will often end up entrenching the initial positions of the interlocutors.",
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "create-time": 1564786451150,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "The ability to use clearly defined sets within a dependency graph helps to resolve ambiguity, reducing the chances of participants talking at cross-purposes, or deliberate “motte-and-bailey” style strategic equivocation. [5](((PNY2qiE1f)))",
-                "create-time": 1564786451150,
-                ":block/refs": [
-                  {
-                    ":block/uid": "PNY2qiE1f"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "PNY2qiE1f"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "uid": "yerfvHN8T",
-                "edit-time": 1614682889759,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "uid": "jDcA-U0DM",
-            "edit-time": 1614682584141,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          },
-          {
-            "string": "Besides reasoning and argument, dependency graphs have applications in education, self-directed learning, and general decision-making. Even a very complicated project can be traced backwards to a number of smaller [[task]]s. The user can see the tradeoffs involved in each pathway, map out which route is the fastest, and which path might bring them closer to other interesting goals. As the student marks their progress, they can discover new projects and pathways which make use of the skills they have acquired.",
-            "create-time": 1564786451150,
+            "string": "We are experiencing an unprecedented explosion of knowledge. Every day, 2700 books are published in the United States alone, 6850 scientific papers are authored, more than 2 million blog posts go live, and 294 billion emails fly back and forth. The amount of total data produced with every rotation of the Earth would fill a stack of books stretching to the moon and back. [1](((u-XvVlybt))) While this exponential growth presents enormous opportunities for individuals and society at large, neither the human brain nor current technologies are equipped to harness it to its full potential.",
+            "create-time": 1617137848516,
             ":block/refs": [
               {
-                ":block/uid": "ROEXlNl95"
+                ":block/uid": "u-XvVlybt"
               }
             ],
             "refs": [
               {
-                "uid": "ROEXlNl95"
+                "uid": "u-XvVlybt"
               }
             ],
             ":create/user": {
               ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
             },
-            "uid": "UAJEmEop5",
-            "edit-time": 1614682584141,
+            "uid": "vc4Xy5MPV",
+            "edit-time": 1617137848516,
             ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "uid": "QsKzf1CDQ",
+        "edit-time": 1617137848516,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "**2.   Current approaches to knowledge management**",
+        "create-time": 1617137848516,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            "string": "Humans are poorly adapted to the Information Age, which has arisen only in the last ~0.02% of our evolutionary history. While the brain does have a remarkable capacity for raw storage, probably in the range of several petabytes,[2](((PWlZyEjRU))) it is infamously fallible in processing information. Memory retrieval is lossy and unreliable, while many of our hardwired cognitive biases and heuristics misfire in the modern world, distorting our perception, judgement and decision-making ability. The plasticity of the brain enables it to rewire itself with new connections, but even this is a ‘use it or lose it’ feature, causing neglected neural pathways to atrophy.",
+            "create-time": 1617137848516,
+            ":block/refs": [
+              {
+                ":block/uid": "PWlZyEjRU"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "PWlZyEjRU"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "uid": "tCTmmfk3k",
+            "edit-time": 1617137848516,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
             }
           },
           {
-            "string": "The problems of prose apply even in the domain of mathematical proofs, see Lamport’s [[How to write a 21st Century Proof]]”",
-            "create-time": 1564786451150,
+            "string": "Many technologies for organizing knowledge outside of the brain have arisen in response to these limitations. Physical books and journals proliferated after the invention of the Gutenberg Press, and have since been partially supplanted by word processors, websites, blogs, forums, wikis, and software applications.",
+            "create-time": 1617137848516,
+            "uid": "ifITGRVVH",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "While we are presented with a plethora of choices for organizing knowledge, almost every technology follows the same basic ‘file cabinet’ format: A unit of knowledge is saved to a certain file path, which places it within a taxonomy of folders, chapters or categories. Tags may be applied when an item relates to many things, but each file is generally only stored within one nested hierarchy. To access the information, the user must remember where they stored the file, what they tagged it with, or use a search function to locate it.",
+            "create-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "children": [
+              {
+                "string": "Related Twitter Thread",
+                "create-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    "string": "https://twitter.com/Conaw/status/1099181050045952006",
+                    "create-time": 1617137848516,
+                    "uid": "-2HJWxQMv",
+                    "edit-time": 1617137848516,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "uid": "2ldBBi4HX",
+                "edit-time": 1617137848516,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              }
+            ],
+            "uid": "8kYNgqLh3",
+            "edit-time": 1617137848516,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "uid": "aX3wsSVzU",
+        "edit-time": 1617137848516,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "**3.   Problems with the file cabinet approach**",
+        "create-time": 1617137848516,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            "string": "In some regards, current technologies remain vastly inferior to the human brain. If each neuron only held a single ‘unit’ of memory in this manner, our brains would quickly fill to overflowing. Instead, information is conveyed in the connections between neurons and neural networks, so a common idea can be made available across the entire brain; the concept of a blue sky might be used in countless seemingly discrete memories of time spent outdoors. This efficiency helps to explain why a computer requires several million times more energy to perform the same tasks as a human brain (which runs on about as much power as a dim light bulb).[3](((j6_rKU-PG)))",
+            "create-time": 1617137848516,
+            ":block/refs": [
+              {
+                ":block/uid": "j6_rKU-PG"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "j6_rKU-PG"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "uid": "iYCZtgLPx",
+            "edit-time": 1617137848516,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "Unlike the brain, the file cabinet approach makes it difficult or impossible to remix or reuse the same piece of information. Each time a change is made to any given file, it has to be tracked down and updated in every location in which it exists. This leads to redundancy, with a cluttering of near-identical ideas, and significant work any time a system-wide change is required.",
+            "create-time": 1617137848516,
+            "uid": "8khiDzOxT",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "Current solutions also lack interconnectivity. Many files are divorced from context; cast into a drawer, rather than methodically fitted into a broader framework of knowledge. Knowledge trees can create pseudo-relationships between files nested within a given hierarchy, but these are not explicit, and can only describe a vertical ‘parent and child’ taxonomy. Some tools, such as web pages and wikis, also allow for orthogonal linking between related files, but this takes place in an ad hoc fashion, and again, there is no ability to explicitly define relationships.",
+            "create-time": 1617137848516,
+            "uid": "Na3zeddJJ",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "uid": "YznRESzZ6",
+        "edit-time": 1617137848516,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "**4.\tKnowledge graphs as nodal networks **",
+        "create-time": 1617137848516,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            "string": "Large-scale collaboration requires a more flexible data structure than the classic file tree. Roam is built on a knowledge graph that maps all possible relationships, with ‘smart’ links between defined concepts. Users can connect similar ideas in multiple overlapping hierarchies, remix them without overwriting the original context, and selectively share parts of the graph with others to collaborate on specific sub-questions.",
+            "create-time": 1617137848516,
+            "uid": "RWuPJYCrV",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "If current tools resemble filing cabinets, Roam is more akin to the nodal networks in telecommunications, or the neurons in the human brain. Rather than existing in a vacuum, each note or file becomes a node in an interconnected graph of ideas. A single node may simultaneously hold positions in several different sequences, hierarchies or file paths, and can ‘talk’ to other nodes, communicating information back and forth about the nature of each relationship. The network is dynamic, so updates and revisions are populated across the entire graph simultaneously. Individual nodes or branches within the network can be forked as required, allowing a new pathway to deviate without changing the original meaning.",
+            "create-time": 1617137848516,
+            "uid": "vzYvmsAoj",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "At the simplest level, Roam’s structure makes it inherently easier to store, recall, and cross-reference ideas. This is the primary proposition for students, writers, self-directed learners, and users of existing note-taking apps.  ",
+            "create-time": 1617137848516,
+            "uid": "N_pdgdKoX",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "For power users, the knowledge graph also unlocks applications in logic and reasoning, Bayesian inference and decision-making, modelling complex problems, and collaborative research.",
+            "create-time": 1617137848516,
+            "uid": "pICz-jwmg",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "These features are explored in Chapters 5 - 8, along with potential use cases for the technology. ",
+            "create-time": 1617137848516,
+            "uid": "FM3dz8BYZ",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "uid": "U3IIEaH9d",
+        "edit-time": 1617137848516,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "**5.\tDependency graphs and logical reasoning**",
+        "create-time": 1617137848516,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            "string": "Everything from peer-reviewed research papers to the opinion pages of a newspaper are based on formulating arguments that support a certain premise, along the lines of the following: ",
+            "create-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "children": [
+              {
+                "string": "If A is true, then B is true.",
+                "create-time": 1617137848516,
+                "uid": "F2TzVPLgs",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "If C and D are both true, then A is true.",
+                "create-time": 1617137848516,
+                "uid": "RWapZqrsD",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "C and D are true.",
+                "create-time": 1617137848516,
+                "uid": "DdoWRHLl1",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "Therefore, B is true.",
+                "create-time": 1617137848516,
+                "uid": "UcW5wAXdB",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "edit-time": 1617137848516,
+                "children": [
+                  {
+                    "string": "{{embed:((PWRiHAsEv)) }}",
+                    "create-time": 1617137848516,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "PWRiHAsEv"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "PWRiHAsEv"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "uid": "LaR7uZ_ch",
+                    "edit-time": 1617137848516,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  },
+                  {
+                    "string": "",
+                    "create-time": 1617137848516,
+                    "uid": "DFB8ONOtp",
+                    "edit-time": 1617137848516,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "-zG2FRXd_"
+                  },
+                  {
+                    "uid": "0lwvs5tDQ"
+                  }
+                ],
+                "uid": "0fy33mZlD",
+                ":block/refs": [
+                  {
+                    ":block/uid": "-zG2FRXd_"
+                  },
+                  {
+                    ":block/uid": "0lwvs5tDQ"
+                  }
+                ],
+                "string": "Example:: [[Precise Links]]",
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1617137848516,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              }
+            ],
+            "uid": "l1h7A7X3R",
+            "edit-time": 1617137848516,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "Often, C and D will be supported by links to external articles, where they are conclusions reached by larger arguments based on combining other premises. Unfortunately, the structure of the argument is only implied by the prose. Rarely are the relationships between arguments and pieces of evidence explicitly laid out, except perhaps in the notes of the author investigating the claims.",
+            "create-time": 1617137848516,
+            "uid": "vadHbfErx",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "Roam allows individual researchers or writers to organize all the claims they wish to make across a number of different projects. It also creates opportunities for large-scale interdisciplinary research projects. When teams of interested collaborators have an agreed-upon structure for formatting arguments and counterarguments, it is possible to create expandable user interfaces which “bubble up” insight from claims which require expertise, to ones that are more easily understood by laypersons.",
+            "create-time": 1617137848516,
+            "uid": "1QJj7e6nl",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "edit-time": 1617137848516,
+            "children": [
+              {
+                "string": "Example A",
+                "create-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    "string": "Alice:  \"A tree falling in a deserted forest makes a sound.\"",
+                    "create-time": 1617137848516,
+                    "uid": "daWUj_o-w",
+                    "edit-time": 1617137848516,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  },
+                  {
+                    "string": "Bob:  \"A tree falling in a deserted forest does not make a sound.\"",
+                    "create-time": 1617137848516,
+                    "uid": "JF5QybvNc",
+                    "edit-time": 1617137848516,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "uid": "5C44j61wE",
+                "edit-time": 1617137848516,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "Example B",
+                "create-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    "string": "Alice:  \"A tree falling in a deserted forest [generates acoustic vibrations].\"",
+                    "create-time": 1617137848516,
+                    "uid": "gx1c8Ai1d",
+                    "edit-time": 1617137848516,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  },
+                  {
+                    "string": "Bob:  \"A tree falling in a deserted forest does not [generate auditory experiences].\" {{alias: ((1597)) 4}}",
+                    "create-time": 1617137848516,
+                    "uid": "hRYGZUUSf",
+                    "edit-time": 1617137848516,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "uid": "sQMe6v__T",
+                "edit-time": 1617137848516,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "While these positions are contradictory as expressed in Example A, simply defining the term ‘sound’ reveals the underlying beliefs are entirely compatible. ",
+                "create-time": 1617137848516,
+                "uid": "w2rcqcPsJ",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Y7Gy-Fl81"
+              }
+            ],
+            "uid": "oqA_i5ptZ",
+            ":block/refs": [
+              {
+                ":block/uid": "Y7Gy-Fl81"
+              }
+            ],
+            "string": "The ambiguity of natural language derails many discussions. Unless [[terms]] are clearly defined from the outset, any form of argument is futile, and will often end up entrenching the initial positions of the interlocutors.",
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "create-time": 1617137848516,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "The ability to use clearly defined sets within a dependency graph helps to resolve ambiguity, reducing the chances of participants talking at cross-purposes, or deliberate “motte-and-bailey” style strategic equivocation.{{alias: ((1598)) 5}}",
+            "create-time": 1617137848516,
+            "uid": "bHMkC49Hd",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "uid": "ojb3Hr14N",
+        "edit-time": 1617137848516,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "Besides reasoning and argument, dependency graphs have applications in education, self-directed learning, and general decision-making. Even a very complicated project can be traced backwards to a number of smaller [[task]]s. The user can see the tradeoffs involved in each pathway, map out which route is the fastest, and which path might bring them closer to other interesting goals. As the student marks their progress, they can discover new projects and pathways which make use of the skills they have acquired.",
+        "create-time": 1617137848516,
+        ":block/refs": [
+          {
+            ":block/uid": "ROEXlNl95"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "ROEXlNl95"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "uid": "DceQKa0y8",
+        "edit-time": 1617137848516,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "The problems of prose apply even in the domain of mathematical proofs, see Lamport’s [[How to write a 21st Century Proof]]”",
+        "create-time": 1617137848516,
+        ":block/refs": [
+          {
+            ":block/uid": "0Fy1sEXdL"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "0Fy1sEXdL"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "uid": "RzSftMh4r",
+        "edit-time": 1617137848516,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "**6.\tUntangling complexity**",
+        "create-time": 1617137848516,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            "string": "**6.1\tNonlinear causality**",
+            "create-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "children": [
+              {
+                "string": "Simple problems often follow a straightforward causal path. When a patient has a range of symptoms strongly associated with the flu, the doctor might conclude from the observable variables that there is one invisible variable - the influenza virus. Treat that latent variable, and the symptoms disappear. ",
+                "create-time": 1617137848516,
+                "uid": "agqkXafVT",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "Scott Alexander observes that his peers in psychiatry similarly try to attribute a collection of linked symptoms to a latent variable; for example, depression. {{alias: ((1599)) 6}} However, the symptoms ‘caused’ by depression - e.g. sleep disturbance, fatigue, guilt - can also have a causal effect on one another, and on the disorder itself. This complex web of relationships, which may include feedback loops, does not follow a path of linear causality. For complicated problems of this nature, nodal networks are a much more accurate model:",
+                "create-time": 1617137848516,
+                "uid": "M6V6vx_a_",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "A model of major depression (MD) and generalised anxiety disorder (GAD) by Nuijten, Deserno, Cramer, and Borsboom.{{alias: ((1600)) 7}} The disorders roughly map onto clusters of symptoms that are often found together and reinforce one another, but there is no clear ‘bright line’ between the conditions.",
+                "create-time": 1617137848516,
+                "uid": "5SQ8AOq_q",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "Even at face value, a nodal network provides a visual aid to problem-solving - a bird’s eye view of the connections between various elements. This may help to identify patterns or clusters which may be counterintuitive or entirely invisible when each piece of the puzzle is examined at the object level.",
+                "create-time": 1617137848516,
+                "uid": "Xyv-eJ1aN",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              }
+            ],
+            "uid": "iRUX0S3Ue",
+            "edit-time": 1617137848516,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "**6.2\tBayesian reasoning**",
+            "create-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "children": [
+              {
+                "string": "Applying Bayesian reasoning to the knowledge graph makes it a powerful tool for estimating probabilities, testing hypotheses, and making decisions. Bayes’ Theorem is a law of probability that tells us how much we should change our minds about something when we learn a new fact or acquire new evidence. The theorem is stated in the following equation:\n\n        $$P(A|B) =  {P(B|A) P(A) \\over P(B)}$$ \n",
+                "create-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    "string": "where A is the proposition of interest, B is the observed evidence, P(A) and P(B) are prior probabilities, and P(A|B) is the posterior probability of A.",
+                    "create-time": 1617137848516,
+                    "uid": "XIkKAEG8Z",
+                    "edit-time": 1617137848516,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "uid": "Gwftf9awn",
+                "edit-time": 1617137848516,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "Suppose a doctor has a patient who is worried about carrying a latent disease, because he belongs to an at-risk group. This is the ‘proposition of interest’ on the left side of the equation. Prior data suggests 4% of the general population are carriers, so $$P(A) = 0.04$$. B is the observed evidence, which is that 32% of the general population are members of the at-risk group. $$P(B) = 0.32$$. The doctor knows that among patients who do carry the disease, 80% belong to the at-risk group: $$B|A = 0.8$$.",
+                "create-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    "string": "The doctor applies Bayes’ theorem:",
+                    "create-time": 1617137848516,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "children": [
+                      {
+                        "string": "$$P(A|B) = (0.8 * 0.04)/0.32$$",
+                        "create-time": 1617137848516,
+                        "uid": "UAT6vJAfj",
+                        "edit-time": 1617137848516,
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      },
+                      {
+                        "string": "$$P(A|B) = 0.1$$",
+                        "create-time": 1617137848516,
+                        "uid": "tGgRQxUIh",
+                        "edit-time": 1617137848516,
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      }
+                    ],
+                    "uid": "UVfoube_U",
+                    "edit-time": 1617137848516,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "uid": "mgkP1LfAx",
+                "edit-time": 1617137848516,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "Her patient only has a one in 10 chance of being a carrier - which might be less than expected, given that almost all carriers are members of the at-risk group. ",
+                "create-time": 1617137848516,
+                "uid": "0CRsVZrFX",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "While this is a simple calculation, the strength of Bayesian reasoning is that it breaks down seemingly insurmountable problems into small pieces. Even where no data are available, successive layers of estimates can still provide useful refinements to the confidence levels of various outcomes. By incorporating this framework into the defined relationships between nodes, revisions to the weightings at any point in the network will automatically populate throughout the knowledge graph.",
+                "create-time": 1617137848516,
+                "uid": "8isXt8MU7",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "Bayesian probability also provides a framework for decision-making. By estimating the costs and tradeoffs of various options, users can calculate which pathway provides the highest expected value. Again, the quality of the decisions can be refined by successive layers of evidence for and against, even when the weightings are simple estimates of personal preference. An evaluation matrix allows someone to integrate a great deal of information into the final decision, rather than defaulting to simple heuristics.",
+                "create-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[TODO]]}} [Example [[Diagrams]] of decision tree/matrix] ",
+                    "create-time": 1617137848516,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "3VEv-jR5D"
+                      },
+                      {
+                        ":block/uid": "3Cz7N71ZV"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "3VEv-jR5D"
+                      },
+                      {
+                        "uid": "3Cz7N71ZV"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "uid": "O1DI9L9tH",
+                    "edit-time": 1617137848516,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "uid": "mSvOV8AKK",
+                "edit-time": 1617137848516,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              }
+            ],
+            "uid": "Q4AmRMqEk",
+            "edit-time": 1617137848516,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "uid": "D6FPyHC9A",
+        "edit-time": 1617137848516,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "edit-time": 1617137848516,
+        "children": [
+          {
+            "string": "Just as humans are incapable of generating random numbers, we struggle to consciously generate random ideas - to the point where actively trying to ‘think differently’ often seems to only further calcify existing patterns. Instead of attempting to brute-force creativity, the brain must be confronted with novel stimuli in order to reorganize its perception. Exposure to a certain amount of random ‘noise’ - drugs, dreams, meditation, Tarot readings, mistakes - can jolt thoughts out of well-tracked grooves and into entirely new areas of idea-space. Typically these insights occur at the juncture of two or more seemingly unrelated fields, concepts, or images. ",
+            "create-time": 1617137848516,
+            "uid": "qot-_ZB3n",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "The interconnectivity of the Roam knowledge graph constantly creates opportunities for [[Serendipity]] to blossom. Each node in the network can be viewed in several graphical displays, allowing users to see related ideas, scan up and down the vertical hierarchy, examine nearby clusters of nodes, and observe patterns. ",
+            "create-time": 1617137848516,
+            ":block/refs": [
+              {
+                ":block/uid": "-f2eIJXKA"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "-f2eIJXKA"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "uid": "Dle8Xh7d2",
+            "edit-time": 1617137848516,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "The Roam search function can be calibrated to include as much or as little ‘noise’ as the user desires. While looking for a specific passage or note, search is narrow enough to find exactly what the user has in mind. However, it can also be broadened out for ‘fishing trips’ aimed at surfacing categories of ideas. Some search results will consist of notes that the user might otherwise have forgotten about, some will be noise, and others will spark ideas the user didn’t even know they were looking for.",
+            "create-time": 1617137848516,
+            "uid": "66ttLxMTp",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "The synthesis and cross-pollination of ideas from diverse fields presents low-hanging fruit for both individuals and society. The investment of time and effort required to become a specialist quickly runs into a point of diminishing returns. By contrast, accumulating a ‘talent stack’ of dilettante-level knowledge or skills can unlock insights and opportunities that have not been capitalised on by experts with a narrower focus.",
+            "create-time": 1617137848516,
+            "uid": "LebA6Laek",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "Highly specialised knowledge remains essential for opening new frontiers. However, an interdisciplinary approach is often required to solve the increasingly complex problems faced by scientists, technologists, and policymakers.",
+            "create-time": 1617137848516,
+            "uid": "KyK5MZqvH",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "-f2eIJXKA"
+          }
+        ],
+        "uid": "bW2Anb4CQ",
+        ":block/refs": [
+          {
+            ":block/uid": "-f2eIJXKA"
+          }
+        ],
+        "string": "**7.\tOptimising for **[[Serendipity]]",
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "create-time": 1617137848516,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "**8.    Collaborative problem-solving**",
+        "create-time": 1617137848516,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            "string": "While the individual use case for Roam stands on its own merits, the ultimate goal is to create a platform for collaborative research and learning. Current protocols are bound by the assumption of necessary consensus. The flexibility of a curated knowledge graph allows for a more pluralistic approach, with the ability to weight conflicting opinions and separate signal from noise without resorting to either autocracy or democracy. ",
+            "create-time": 1617137848516,
+            "uid": "H8rE9S_5x",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "8.1\t**Finding signal in the noise**",
+            "create-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "children": [
+              {
+                "string": "As the frequency of information increases, the world becomes noisier and noisier. Deliberate exposure to noise is a useful strategy in specific contexts, as described in Chapter 7,  but otherwise obscures meaning. {{alias: ((1601)) 8}} Given we have a propensity for imposing stories and explanations onto randomness - the narrative fallacy - it is becoming increasingly difficult to separate out genuine signal from noise. ",
+                "create-time": 1617137848516,
+                "uid": "09ZNnXbGP",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "Assume a trend has a signal-to-noise ratio of 1:1 on an annual basis (50% of the data are meaningful, 50% are random). Observing the same data on a daily basis, the composition changes to 95% noise, 5% signal. Observing the data hourly (as news hounds and market junkies do), and it becomes 99.5% random - which is to say, two hundred times more noise than signal. {{alias: ((1602)) 9}}",
+                "create-time": 1617137848516,
+                "uid": "bU0SEY6U2",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "Institutions entrusted with interpreting the data include the media, academia, and legislature. Some agents within these institutions deliberately obscure the truth, as demonstrated by ‘fake news’, p-hacking, and politicking. While actively malicious behaviour is the exception, even the best-intentioned reporters, researchers and analysts are not immune to being fooled by randomness.",
+                "create-time": 1617137848516,
+                "uid": "nT8lFcU4t",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "For most people, the problem of sorting signal from noise therefore involves finding trustworthy and accurate secondary sources of information. This difficult [[task]] is often frustrated by gated scientific journals, as well as search engine algorithms increasingly gamed by SEO-savvy content marketers.",
+                "create-time": 1617137848516,
+                ":block/refs": [
+                  {
+                    ":block/uid": "ROEXlNl95"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "ROEXlNl95"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "uid": "5YDNIkBl3",
+                "edit-time": 1617137848516,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              }
+            ],
+            "uid": "0-KmwHe5P",
+            "edit-time": 1617137848516,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "8.2\t**Redundancy**",
+            "create-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "children": [
+              {
+                "string": "Navigating a vast sea of information creates massive redundancy. Most people labour away at problems that have already been solved a million times over. Those who tackle unsolved problems often do so in silos, unaware of each other’s existence. All the pieces of any given puzzle may be present, but no one individual or group holds them all. The wheel is reinvented over and over again, in endless forums and comments sections and web pages and books that burst into existence and fade just as quickly to obscurity.",
+                "create-time": 1617137848516,
+                "uid": "Kue57XKPT",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "The goal of Roam is to enable systematic curation and collaboration on a large scale. Users will be able to selectively share parts of their graphs publicly, or with circles of peers and colleagues. In turn, they will be able to follow the work of persons they trust, whether they be domain experts or enthusiastic amateurs. Those looking to acquire specific knowledge can turn immediately to trusted sources, and set alerts to receive updates about new pieces of information pertaining to an area of interest.",
+                "create-time": 1617137848516,
+                "uid": "1yzuNMThB",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              }
+            ],
+            "uid": "twNr1Z7Xj",
+            "edit-time": 1617137848516,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "8.3\t**Dispensing with necessary consensus**",
+            "create-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "children": [
+              {
+                "string": "Almost every medium today presents knowledge as though it were the last word; assuming both a necessary consensus and an uncomposable page. Wikipedia is one of the great wonders of the Internet age, but it makes both of these mistakes. There can only be one article on any subject for any given language, and the only connection between pages is through links, with no article \"built\" off another.",
+                "create-time": 1617137848516,
+                "uid": "OIcruZcX-",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "By way of contrast, consider Github: Libraries are built on other libraries, and functions are built from other functions. Developers build tools that others can build upon to build ever more impressive tools. Most of the modern web is built on open-source technologies, which would not have been possible if programmers followed the old protocols for intellectual collaboration.",
+                "create-time": 1617137848516,
+                "uid": "uckzdjjyG",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "Many problems can be solved by writing code, but natural language is still the way we determine which problems are worth solving. Natural language is how we explain the world to one another, and communicate our models of reality. It is the language of education. It is the language of decision-making. That language needs a toolchain for collaboration that is just as good as the one for managing code.",
+                "create-time": 1617137848516,
+                "uid": "uJV6Lumxq",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              }
+            ],
+            "uid": "eUU3zHHnr",
+            "edit-time": 1617137848516,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "8.4\t**Against autocracy; against democracy**",
+            "create-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "children": [
+              {
+                "string": "The problem of necessary consensus is resolved by individuals or groups assembling their own graph of inferences, based on premises or data curated from their trusted networks. However, collaboration still requires a mechanism for evaluating which ideas are best. In the same way that individuals assign weightings to their personal predictions and decisions,  groups must be able to ‘vote’ on the merits of any given idea, premise, or piece of evidence. There are various options for how these collective weightings might be calibrated, some of which are briefly described below.",
+                "create-time": 1617137848516,
+                "uid": "GNOt9atgN",
+                "edit-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "a) **Wisdom of crowds**",
+                "create-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    "string": "A diverse collection of people can make certain decisions and predictions much better than any given individual: The great statistician Francis Galton was stunned to find that 800 people guessing the weight of an ox at a country fair returned an average that was just one pound shy of the correct figure of 1198 pounds. ",
+                    "create-time": 1617137848516,
+                    "uid": "gT9DOvqhC",
+                    "edit-time": 1617137848516,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  },
+                  {
+                    "string": "In other situations, the opinion of the crowd bears little relationship to objective reality. By definition, the tyranny of the majority will quash any position that is unpopular, regardless of whether it is true. Often, domain-specific knowledge may be required; for example, someone who has not studied free will would only be adding noise by ‘voting’ a preference for compatibilism, hard determinism, or libertarianism. ",
+                    "create-time": 1617137848516,
+                    "uid": "qrrlcuNwE",
+                    "edit-time": 1617137848516,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  },
+                  {
+                    "string": "Simple popularity contests do not always move us closer to the truth, but they are useful in that they tell us what we believe. This data could potentially be broken down by demographic to demonstrate how different groups perceive reality, and possibly alert users to biases amongst their own in-groups.",
+                    "create-time": 1617137848516,
+                    "uid": "QeN-nehMF",
+                    "edit-time": 1617137848516,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "uid": "0NrEy98fk",
+                "edit-time": 1617137848516,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "b) **Believability scores**",
+                "create-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    "string": "Hedge fund manager Ray Dalio pioneered a decision-making system at Bridgewater Associates that is much closer to epistocracy than democracy: The opinions of more “believable” people, who have repeatedly proven their grasp of a given topic or trait, hold more weight than those with lower believability scores. There is nothing to stop Dalio being overruled by his most junior employees, as long are they are consistently more right than he is. Implementing a similar system in Roam would necessitate the ability to track performance, perhaps by how much original content a user has contributed to the graph with broad support, or how well-calibrated their predictions are.",
+                    "create-time": 1617137848516,
+                    "uid": "0GP7DYX8O",
+                    "edit-time": 1617137848516,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "uid": "-jTOtkRcn",
+                "edit-time": 1617137848516,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "string": "c) **Prediction markets**",
+                "create-time": 1617137848516,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    "string": "When people succumb to peer pressure and other biases, do not have enough specialist knowledge, or deliberately make false predictions, the ‘wisdom of the crowd’ can end up being very wrong.",
+                    "create-time": 1617137848516,
+                    "uid": "Atl9cCQsz",
+                    "edit-time": 1617137848516,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  },
+                  {
+                    "string": "The insight behind prediction markets is that participants can be incentivised to profit from any such mistakes. Wherever someone believes the consensus is wrong, they can stake money on it, and move the probability back to a better informed position. Insider information is not only permitted, but welcomed. In this way, vast amounts of information can be synthesised into one constantly updated data point, which is often remarkably accurate.",
+                    "create-time": 1617137848516,
+                    "uid": "pm_SGWl6g",
+                    "edit-time": 1617137848516,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  },
+                  {
+                    "string": "The uptake and growth of prediction markets has been dampened by regulatory issues, but possible workarounds include a non-fiat token, or reputation-linked points system.",
+                    "create-time": 1617137848516,
+                    "uid": "0Bbsanb2U",
+                    "edit-time": 1617137848516,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "uid": "2ZYxGGiD-",
+                "edit-time": 1617137848516,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              }
+            ],
+            "uid": "Wnv-uyCJb",
+            "edit-time": 1617137848516,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "uid": "IwsjEyaZL",
+        "edit-time": 1617137848516,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "**9.    Conclusion**",
+        "create-time": 1617137848516,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            "string": "The project of human knowledge, as it stands today, is a vast ocean of ephemeral and fragmented information and ideas, much of it inaccurate, some of it malicious, with the best sources either restricted by gatekeepers, or near-impossible to locate. The volume of information is growing exponentially, which promises enormous opportunities if the underlying coordination problems can be resolved.",
+            "create-time": 1617137848516,
+            "uid": "Bai2B0rOy",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "Clearly a fundamentally different approach is required. The Roam vision for human knowledge is a collective, open-source intelligence, constantly rearranging, iterating and evolving in the pursuit of truth.  Each of us would become a node within this collective intelligence, forging links and creating networks, sharing the very best each has to offer, improving ourselves even as we improve others, and advancing the interests of humanity as a whole.",
+            "create-time": 1617137848516,
+            "uid": "jqfCWMgrC",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "uid": "ls6e4wh70",
+        "edit-time": 1617137848516,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "About Roam",
+        "create-time": 1617137848516,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            "string": "Roam was founded by Conor White-Sullivan and Joshua Brown. Conor has been working on tools for collective intelligence for more than nine years, founding the online town common Localocracy (acquired by AOL in 2011) then leading R&D for Huffington Post following the acquisition. Conor and Josh met at 42.us.org, a tuition-free coding university, where Josh placed in the top five of the first 1000 cadets to enter the US program during the month-long application exam. This white paper was co-authored by business journalist Richard Meadows, whose trial of early prototypes led him to become the first investor in Roam.",
+            "create-time": 1617137848516,
+            "uid": "-DT2AyNRW",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "uid": "POhTFKHCn",
+        "edit-time": 1617137848516,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "The Roam stack:",
+        "create-time": 1617137848516,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            "string": "React",
+            "create-time": 1617137848516,
+            "uid": "MQbemI2II",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "Clojure and Clojurescript",
+            "create-time": 1617137848516,
+            "uid": "p_ndpJPpD",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "Datalog",
+            "create-time": 1617137848516,
+            "uid": "XNz-DflfL",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "uid": "Re-H-TM3Z",
+        "edit-time": 1617137848516,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "Contact Conor at cwhitesullivan@gmail.com with any enquiries.",
+        "create-time": 1617137848516,
+        "uid": "R85ABQRy6",
+        "edit-time": 1617137848516,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "Notes and references",
+        "create-time": 1617137848516,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            "string": "[1] At least 2.5 quintillion bytes of information are produced every day, which is about the same amount as was produced during the entire year of 2002. ",
+            "create-time": 1617137848516,
+            "uid": "u-XvVlybt",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "[2] Scientific American: New Estimate Boosts the Human Brain's Memory Capacity 10-Fold.",
+            "create-time": 1617137848516,
+            "uid": "PWlZyEjRU",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "[3] Microelectronics pioneer Carver Mead, who coined the term Moore’s Law, correctly predicted in 1990 that present-day computers would use ten million times more energy for a single instruction than the brain uses for a synaptic activation.",
+            "create-time": 1617137848516,
+            "uid": "j6_rKU-PG",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "[4] This example is adapted from the Less Wrong sequence 37 Ways Words Can be Wrong.",
+            "create-time": 1617137848516,
+            "uid": "T8k78DDAe",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "[5] Motte-and-bailey refers to arguing an easy-to-defend and often common-sense statement (the motte), in order to ward off critics from a hard-to-defend and more controversial statement (the bailey). The term was popularised by Scott Alexander, and explained in All in All, Another Brick in the Motte.",
+            "create-time": 1617137848516,
+            "uid": "MtGChSUvh",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "[6] Slate Star Codex: Mental disorders as networks.",
+            "create-time": 1617137848516,
+            "uid": "36qeTMgmO",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "[7] Michèle B. Nuijten, Marie K. Deserno, Angélique O. J. Cramer, Denny Borsboom: An introduction and overview of a network approach to psychopathology.",
+            "create-time": 1617137848516,
+            "uid": "rC_nGuzjf",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "[8] As Carl Sagan observed, while more data is broadcast in TV programs every day than the combined written works of all of history, \"not all bits have equal value\".",
+            "create-time": 1617137848516,
+            "uid": "urKnXjnSR",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "[9]  This example comes from Nassim Taleb’s Antifragile.",
+            "create-time": 1617137848516,
+            "uid": "_eOgBulZd",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "uid": "dBDHXVmZq",
+        "edit-time": 1617137848516,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "Further Reading",
+        "create-time": 1617137848516,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            "string": "Daniel Kahneman, Thinking, Fast and Slow",
+            "create-time": 1617137848516,
+            "uid": "VCnq5lqK3",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "Robin Hanson, Could Gambling Save Science?",
+            "create-time": 1617137848516,
+            "uid": "sHjbtnQyu",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "[[Ray Dalio]], [[Principles]]",
+            "create-time": 1617137848516,
+            ":block/refs": [
+              {
+                ":block/uid": "Ptb1MZrQM"
+              },
+              {
+                ":block/uid": "jsUB3NU4_"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Ptb1MZrQM"
+              },
+              {
+                "uid": "jsUB3NU4_"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "uid": "g0yZl4XLP",
+            "edit-time": 1617137848516,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "H Van Dyke Paranuk, Don’t Link Me In: Set Based Hypermedia for Taxonomic Reasoning",
+            "create-time": 1617137848516,
+            "uid": "pMOupRbDb",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "[[Michael Nielsen]], Reinventing Discovery: The New Era of Networked Science",
+            "create-time": 1617137848516,
+            ":block/refs": [
+              {
+                ":block/uid": "UXkUHPspV"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "UXkUHPspV"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "uid": "a_XBxTfrB",
+            "edit-time": 1617137848516,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "Richards J Heuer The Psychology of Intelligence Analysis",
+            "create-time": 1617137848516,
+            "uid": "cKeGjzXDY",
+            "edit-time": 1617137848516,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "Leslie Lamport: [[How to write a 21st Century Proof]]",
+            "create-time": 1617137848516,
             ":block/refs": [
               {
                 ":block/uid": "0Fy1sEXdL"
@@ -36749,1205 +37745,87 @@
             ":create/user": {
               ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
             },
-            "uid": "Fyy8cMXfn",
-            "edit-time": 1614682584141,
+            "uid": "1bUJOmTw2",
+            "edit-time": 1617137848516,
             ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          },
-          {
-            "string": "**6.\tUntangling complexity**",
-            "create-time": 1564786451150,
-            ":create/user": {
               ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-            },
-            "children": [
-              {
-                "string": "**6.1\tNonlinear causality**",
-                "create-time": 1564786451150,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "children": [
-                  {
-                    "string": "Simple problems often follow a straightforward causal path. When a patient has a range of symptoms strongly associated with the flu, the doctor might conclude from the observable variables that there is one invisible variable - the influenza virus. Treat that latent variable, and the symptoms disappear. ",
-                    "create-time": 1564786451150,
-                    "uid": "hJ15bh8RP",
-                    "edit-time": 1614682584141,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "Scott Alexander observes that his peers in psychiatry similarly try to attribute a collection of linked symptoms to a latent variable; for example, depression. [6](((Rzg-ziZDv))) However, the symptoms ‘caused’ by depression - e.g. sleep disturbance, fatigue, guilt - can also have a causal effect on one another, and on the disorder itself. This complex web of relationships, which may include feedback loops, does not follow a path of linear causality. For complicated problems of this nature, nodal networks are a much more accurate model:",
-                    "create-time": 1564786451150,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "Rzg-ziZDv"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "Rzg-ziZDv"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    "uid": "pCFG5MPJ4",
-                    "edit-time": 1614682915445,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "A model of major depression (MD) and generalised anxiety disorder (GAD) by Nuijten, Deserno, Cramer, and Borsboom.[7](((3ytWgcdl-))) The disorders roughly map onto clusters of symptoms that are often found together and reinforce one another, but there is no clear ‘bright line’ between the conditions.",
-                    "create-time": 1564786451150,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "3ytWgcdl-"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "3ytWgcdl-"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    "uid": "TSDcLFj6G",
-                    "edit-time": 1614682935126,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "Even at face value, a nodal network provides a visual aid to problem-solving - a bird’s eye view of the connections between various elements. This may help to identify patterns or clusters which may be counterintuitive or entirely invisible when each piece of the puzzle is examined at the object level.",
-                    "create-time": 1564786451150,
-                    "uid": "dEUk38on7",
-                    "edit-time": 1614682584141,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "uid": "lwevRM4mK",
-                "edit-time": 1614682584141,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "**6.2\tBayesian reasoning**",
-                "create-time": 1564786451151,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "children": [
-                  {
-                    "string": "Applying Bayesian reasoning to the knowledge graph makes it a powerful tool for estimating probabilities, testing hypotheses, and making decisions. Bayes’ Theorem is a law of probability that tells us how much we should change our minds about something when we learn a new fact or acquire new evidence. The theorem is stated in the following equation:\n\n        $$P(A|B) =  {P(B|A) P(A) \\over P(B)}$$ \n",
-                    "create-time": 1564889668002,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    "children": [
-                      {
-                        "string": "where A is the proposition of interest, B is the observed evidence, P(A) and P(B) are prior probabilities, and P(A|B) is the posterior probability of A.",
-                        "create-time": 1564786451151,
-                        "uid": "GzW-fnKjq",
-                        "edit-time": 1614682584141,
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      }
-                    ],
-                    "uid": "uuidfd194d9a-c9b3-4722-8128-0dcdb23f8169",
-                    "edit-time": 1614682584141,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "Suppose a doctor has a patient who is worried about carrying a latent disease, because he belongs to an at-risk group. This is the ‘proposition of interest’ on the left side of the equation. Prior data suggests 4% of the general population are carriers, so $$P(A) = 0.04$$. B is the observed evidence, which is that 32% of the general population are members of the at-risk group. $$P(B) = 0.32$$. The doctor knows that among patients who do carry the disease, 80% belong to the at-risk group: $$B|A = 0.8$$.",
-                    "create-time": 1564786451151,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    "children": [
-                      {
-                        "string": "The doctor applies Bayes’ theorem:",
-                        "create-time": 1564786451151,
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        "children": [
-                          {
-                            "string": "$$P(A|B) = (0.8 * 0.04)/0.32$$",
-                            "create-time": 1564786451151,
-                            "uid": "pdPgY1FXf",
-                            "edit-time": 1614682584141,
-                            ":create/user": {
-                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                            }
-                          },
-                          {
-                            "string": "$$P(A|B) = 0.1$$",
-                            "create-time": 1564786451151,
-                            "uid": "vnTZ8s8pJ",
-                            "edit-time": 1614682584141,
-                            ":create/user": {
-                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                            }
-                          }
-                        ],
-                        "uid": "cJNZfaS_-",
-                        "edit-time": 1614682584141,
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      }
-                    ],
-                    "uid": "UHREertt5",
-                    "edit-time": 1614682584141,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "Her patient only has a one in 10 chance of being a carrier - which might be less than expected, given that almost all carriers are members of the at-risk group. ",
-                    "create-time": 1564786451151,
-                    "uid": "Eig1OAWzI",
-                    "edit-time": 1614682584141,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "While this is a simple calculation, the strength of Bayesian reasoning is that it breaks down seemingly insurmountable problems into small pieces. Even where no data are available, successive layers of estimates can still provide useful refinements to the confidence levels of various outcomes. By incorporating this framework into the defined relationships between nodes, revisions to the weightings at any point in the network will automatically populate throughout the knowledge graph.",
-                    "create-time": 1564786451151,
-                    "uid": "R9FRHf49I",
-                    "edit-time": 1614682584141,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "Bayesian probability also provides a framework for decision-making. By estimating the costs and tradeoffs of various options, users can calculate which pathway provides the highest expected value. Again, the quality of the decisions can be refined by successive layers of evidence for and against, even when the weightings are simple estimates of personal preference. An evaluation matrix allows someone to integrate a great deal of information into the final decision, rather than defaulting to simple heuristics.",
-                    "create-time": 1564786451151,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    "children": [
-                      {
-                        "string": "{{[[TODO]]}} [Example [[Diagram]] of decision tree/matrix] ",
-                        "create-time": 1564786451151,
-                        ":block/refs": [
-                          {
-                            ":block/uid": "Y61WIJQKq"
-                          },
-                          {
-                            ":block/uid": "3VEv-jR5D"
-                          }
-                        ],
-                        "refs": [
-                          {
-                            "uid": "Y61WIJQKq"
-                          },
-                          {
-                            "uid": "3VEv-jR5D"
-                          }
-                        ],
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        "uid": "xFfl_ShB_",
-                        "edit-time": 1614783967241,
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      }
-                    ],
-                    "uid": "Js2kjLb1v",
-                    "edit-time": 1614682584141,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "uid": "Rd62fIhWc",
-                "edit-time": 1614682584141,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "uid": "pnq5rBK3q",
-            "edit-time": 1614682584141,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             }
           },
           {
-            "edit-time": 1614682584141,
-            "children": [
+            "string": "Douglas Engelbart, [[Augmenting the Human Intellect: A Conceptual Framework]]",
+            "create-time": 1617137848516,
+            ":block/refs": [
               {
-                "string": "Just as humans are incapable of generating random numbers, we struggle to consciously generate random ideas - to the point where actively trying to ‘think differently’ often seems to only further calcify existing patterns. Instead of attempting to brute-force creativity, the brain must be confronted with novel stimuli in order to reorganize its perception. Exposure to a certain amount of random ‘noise’ - drugs, dreams, meditation, Tarot readings, mistakes - can jolt thoughts out of well-tracked grooves and into entirely new areas of idea-space. Typically these insights occur at the juncture of two or more seemingly unrelated fields, concepts, or images. ",
-                "create-time": 1564786451151,
-                "uid": "fRo9amsjm",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "The interconnectivity of the Roam knowledge graph constantly creates opportunities for [[Serendipity]] to blossom. Each node in the network can be viewed in several graphical displays, allowing users to see related ideas, scan up and down the vertical hierarchy, examine nearby clusters of nodes, and observe patterns. ",
-                "create-time": 1564786451151,
-                ":block/refs": [
-                  {
-                    ":block/uid": "-f2eIJXKA"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "-f2eIJXKA"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "uid": "cboToxpYW",
-                "edit-time": 1614682584141,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "The Roam search function can be calibrated to include as much or as little ‘noise’ as the user desires. While looking for a specific passage or note, search is narrow enough to find exactly what the user has in mind. However, it can also be broadened out for ‘fishing trips’ aimed at surfacing categories of ideas. Some search results will consist of notes that the user might otherwise have forgotten about, some will be noise, and others will spark ideas the user didn’t even know they were looking for.",
-                "create-time": 1564786451151,
-                "uid": "dCBvaJEhK",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "The synthesis and cross-pollination of ideas from diverse fields presents low-hanging fruit for both individuals and society. The investment of time and effort required to become a specialist quickly runs into a point of diminishing returns. By contrast, accumulating a ‘talent stack’ of dilettante-level knowledge or skills can unlock insights and opportunities that have not been capitalised on by experts with a narrower focus.",
-                "create-time": 1564786451151,
-                "uid": "S2AvT5QpQ",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Highly specialised knowledge remains essential for opening new frontiers. However, an interdisciplinary approach is often required to solve the increasingly complex problems faced by scientists, technologists, and policymakers.",
-                "create-time": 1564786451151,
-                "uid": "uwcYrKGiG",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
+                ":block/uid": "qkUIZqKDb"
               }
             ],
             "refs": [
               {
-                "uid": "-f2eIJXKA"
+                "uid": "qkUIZqKDb"
               }
             ],
-            "uid": "XT0cXUd9m",
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "uid": "YLw_MJCm4",
+            "edit-time": 1617137848516,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "uid": "nB9BaIJnl",
+        "edit-time": 1617137848516,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "About this Paper",
+        "create-time": 1617137848516,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            "string": "We wrote this White Paper in Winter of 2017/2018, and while it still reflects much of our vision for the tool, some of the features -- particularly related to [[Bayesian Reasoning]], [[Argument Analysis]], and [[Prediction Markets]] we found to be in-fact much lower priority for the researchers and decision makers whose thinking we aim to assist -- and risked making the tool too complex for the more significant use cases.  If you are interested in using Roam for more formal Quantitative Reasoning or building out formal models of belief networks, or if you are excited about ideas in this paper which you do not see a way to do currently within Roam, please contact us.  ",
+            "create-time": 1617137848516,
             ":block/refs": [
               {
-                ":block/uid": "-f2eIJXKA"
+                ":block/uid": "wuBpRC6Xm"
+              },
+              {
+                ":block/uid": "2rsnxVl-n"
+              },
+              {
+                ":block/uid": "9GZDbQI6o"
               }
             ],
-            "string": "**7.\tOptimising for **[[Serendipity]]",
-            ":create/user": {
-              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-            },
-            "create-time": 1564786451151,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          },
-          {
-            "string": "**8.    Collaborative problem-solving**",
-            "create-time": 1564786451151,
-            ":create/user": {
-              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-            },
-            "children": [
+            "refs": [
               {
-                "string": "While the individual use case for Roam stands on its own merits, the ultimate goal is to create a platform for collaborative research and learning. Current protocols are bound by the assumption of necessary consensus. The flexibility of a curated knowledge graph allows for a more pluralistic approach, with the ability to weight conflicting opinions and separate signal from noise without resorting to either autocracy or democracy. ",
-                "create-time": 1564786451152,
-                "uid": "y_SiNmQ-d",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
+                "uid": "wuBpRC6Xm"
               },
               {
-                "string": "8.1\t**Finding signal in the noise**",
-                "create-time": 1564786451152,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "children": [
-                  {
-                    "string": "As the frequency of information increases, the world becomes noisier and noisier. Deliberate exposure to noise is a useful strategy in specific contexts, as described in Chapter 7,  but otherwise obscures meaning.[8](((ZRxjOjiIT))) Given we have a propensity for imposing stories and explanations onto randomness - the narrative fallacy - it is becoming increasingly difficult to separate out genuine signal from noise. ",
-                    "create-time": 1564786451152,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "ZRxjOjiIT"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "ZRxjOjiIT"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    "uid": "zDCYTq1ih",
-                    "edit-time": 1614682963347,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "Assume a trend has a signal-to-noise ratio of 1:1 on an annual basis (50% of the data are meaningful, 50% are random). Observing the same data on a daily basis, the composition changes to 95% noise, 5% signal. Observing the data hourly (as news hounds and market junkies do), and it becomes 99.5% random - which is to say, two hundred times more noise than signal.[9](((p3tzaSvIF)))",
-                    "create-time": 1564786451152,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "p3tzaSvIF"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "p3tzaSvIF"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    "uid": "S86B4J4BH",
-                    "edit-time": 1614682974737,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "Institutions entrusted with interpreting the data include the media, academia, and legislature. Some agents within these institutions deliberately obscure the truth, as demonstrated by ‘fake news’, p-hacking, and politicking. While actively malicious behaviour is the exception, even the best-intentioned reporters, researchers and analysts are not immune to being fooled by randomness.",
-                    "create-time": 1564786451152,
-                    "uid": "a2sRlXFlH",
-                    "edit-time": 1614682584141,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "For most people, the problem of sorting signal from noise therefore involves finding trustworthy and accurate secondary sources of information. This difficult [[task]] is often frustrated by gated scientific journals, as well as search engine algorithms increasingly gamed by SEO-savvy content marketers.",
-                    "create-time": 1564786451152,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "ROEXlNl95"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "ROEXlNl95"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    "uid": "w6yBjdi-H",
-                    "edit-time": 1614682584141,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "uid": "VNLBv9eG1",
-                "edit-time": 1614682584141,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
+                "uid": "2rsnxVl-n"
               },
               {
-                "string": "8.2\t**Redundancy**",
-                "create-time": 1564786451152,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "children": [
-                  {
-                    "string": "Navigating a vast sea of information creates massive redundancy. Most people labour away at problems that have already been solved a million times over. Those who tackle unsolved problems often do so in silos, unaware of each other’s existence. All the pieces of any given puzzle may be present, but no one individual or group holds them all. The wheel is reinvented over and over again, in endless forums and comments sections and web pages and books that burst into existence and fade just as quickly to obscurity.",
-                    "create-time": 1564786451152,
-                    "uid": "iY7p8CcL3",
-                    "edit-time": 1614682584141,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "The goal of Roam is to enable systematic curation and collaboration on a large scale. Users will be able to selectively share parts of their graphs publicly, or with circles of peers and colleagues. In turn, they will be able to follow the work of persons they trust, whether they be domain experts or enthusiastic amateurs. Those looking to acquire specific knowledge can turn immediately to trusted sources, and set alerts to receive updates about new pieces of information pertaining to an area of interest.",
-                    "create-time": 1564786451152,
-                    "uid": "txHY4hLkv",
-                    "edit-time": 1614682584141,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "uid": "83Bs1uzGI",
-                "edit-time": 1614682584141,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "8.3\t**Dispensing with necessary consensus**",
-                "create-time": 1564786451152,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "children": [
-                  {
-                    "string": "Almost every medium today presents knowledge as though it were the last word; assuming both a necessary consensus and an uncomposable page. Wikipedia is one of the great wonders of the Internet age, but it makes both of these mistakes. There can only be one article on any subject for any given language, and the only connection between pages is through links, with no article \"built\" off another.",
-                    "create-time": 1564786451152,
-                    "uid": "m4KPIAOtz",
-                    "edit-time": 1614682584141,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "By way of contrast, consider Github: Libraries are built on other libraries, and functions are built from other functions. Developers build tools that others can build upon to build ever more impressive tools. Most of the modern web is built on open-source technologies, which would not have been possible if programmers followed the old protocols for intellectual collaboration.",
-                    "create-time": 1564786451152,
-                    "uid": "V_xWCSFq3",
-                    "edit-time": 1614682584141,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "Many problems can be solved by writing code, but natural language is still the way we determine which problems are worth solving. Natural language is how we explain the world to one another, and communicate our models of reality. It is the language of education. It is the language of decision-making. That language needs a toolchain for collaboration that is just as good as the one for managing code.",
-                    "create-time": 1564786451152,
-                    "uid": "OaqXSJIca",
-                    "edit-time": 1614682584141,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "uid": "_aavuRFa4",
-                "edit-time": 1614682584141,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "8.4\t**Against autocracy; against democracy**",
-                "create-time": 1564786451152,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "children": [
-                  {
-                    "string": "The problem of necessary consensus is resolved by individuals or groups assembling their own graph of inferences, based on premises or data curated from their trusted networks. However, collaboration still requires a mechanism for evaluating which ideas are best. In the same way that individuals assign weightings to their personal predictions and decisions,  groups must be able to ‘vote’ on the merits of any given idea, premise, or piece of evidence. There are various options for how these collective weightings might be calibrated, some of which are briefly described below.",
-                    "create-time": 1564786451152,
-                    "uid": "SrQVAMMif",
-                    "edit-time": 1614682584141,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "a) **Wisdom of crowds**",
-                    "create-time": 1564786451152,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    "children": [
-                      {
-                        "string": "A diverse collection of people can make certain decisions and predictions much better than any given individual: The great statistician Francis Galton was stunned to find that 800 people guessing the weight of an ox at a country fair returned an average that was just one pound shy of the correct figure of 1198 pounds. ",
-                        "create-time": 1564786451152,
-                        "uid": "h9gdmb46P",
-                        "edit-time": 1614682584141,
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      },
-                      {
-                        "string": "In other situations, the opinion of the crowd bears little relationship to objective reality. By definition, the tyranny of the majority will quash any position that is unpopular, regardless of whether it is true. Often, domain-specific knowledge may be required; for example, someone who has not studied free will would only be adding noise by ‘voting’ a preference for compatibilism, hard determinism, or libertarianism. ",
-                        "create-time": 1564786451152,
-                        "uid": "sgCvuVIZV",
-                        "edit-time": 1614682584141,
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      },
-                      {
-                        "string": "Simple popularity contests do not always move us closer to the truth, but they are useful in that they tell us what we believe. This data could potentially be broken down by demographic to demonstrate how different groups perceive reality, and possibly alert users to biases amongst their own in-groups.",
-                        "create-time": 1564786451152,
-                        "uid": "dz47IQaV4",
-                        "edit-time": 1614682584141,
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      }
-                    ],
-                    "uid": "-R8-vmRG0",
-                    "edit-time": 1614682584141,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "b) **Believability scores**",
-                    "create-time": 1564786451152,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    "children": [
-                      {
-                        "string": "Hedge fund manager Ray Dalio pioneered a decision-making system at Bridgewater Associates that is much closer to epistocracy than democracy: The opinions of more “believable” people, who have repeatedly proven their grasp of a given topic or trait, hold more weight than those with lower believability scores. There is nothing to stop Dalio being overruled by his most junior employees, as long are they are consistently more right than he is. Implementing a similar system in Roam would necessitate the ability to track performance, perhaps by how much original content a user has contributed to the graph with broad support, or how well-calibrated their predictions are.",
-                        "create-time": 1564786451152,
-                        "uid": "MmwPxLiTJ",
-                        "edit-time": 1614682584141,
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      }
-                    ],
-                    "uid": "gTiIhLs8k",
-                    "edit-time": 1614682584141,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "c) **Prediction markets**",
-                    "create-time": 1564786451152,
-                    ":create/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                    },
-                    "children": [
-                      {
-                        "string": "When people succumb to peer pressure and other biases, do not have enough specialist knowledge, or deliberately make false predictions, the ‘wisdom of the crowd’ can end up being very wrong.",
-                        "create-time": 1564786451152,
-                        "uid": "XgpXVBzmo",
-                        "edit-time": 1614682584141,
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      },
-                      {
-                        "string": "The insight behind prediction markets is that participants can be incentivised to profit from any such mistakes. Wherever someone believes the consensus is wrong, they can stake money on it, and move the probability back to a better informed position. Insider information is not only permitted, but welcomed. In this way, vast amounts of information can be synthesised into one constantly updated data point, which is often remarkably accurate.",
-                        "create-time": 1564786451152,
-                        "uid": "4QsZkHqw1",
-                        "edit-time": 1614682584141,
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      },
-                      {
-                        "string": "The uptake and growth of prediction markets has been dampened by regulatory issues, but possible workarounds include a non-fiat token, or reputation-linked points system.",
-                        "create-time": 1564786451152,
-                        "uid": "L0xURSxvr",
-                        "edit-time": 1614682584141,
-                        ":create/user": {
-                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      }
-                    ],
-                    "uid": "DMRzDweJh",
-                    "edit-time": 1614682584141,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "uid": "hUjW4e9dc",
-                "edit-time": 1614682584141,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
+                "uid": "9GZDbQI6o"
               }
             ],
-            "uid": "pLXWFvNB3",
-            "edit-time": 1614682584141,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          },
-          {
-            "string": "**9.    Conclusion**",
-            "create-time": 1564786451152,
             ":create/user": {
               ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
             },
-            "children": [
-              {
-                "string": "The project of human knowledge, as it stands today, is a vast ocean of ephemeral and fragmented information and ideas, much of it inaccurate, some of it malicious, with the best sources either restricted by gatekeepers, or near-impossible to locate. The volume of information is growing exponentially, which promises enormous opportunities if the underlying coordination problems can be resolved.",
-                "create-time": 1564786451152,
-                "uid": "1cIOjY5lJ",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Clearly a fundamentally different approach is required. The Roam vision for human knowledge is a collective, open-source intelligence, constantly rearranging, iterating and evolving in the pursuit of truth.  Each of us would become a node within this collective intelligence, forging links and creating networks, sharing the very best each has to offer, improving ourselves even as we improve others, and advancing the interests of humanity as a whole.",
-                "create-time": 1564786451152,
-                "uid": "iWmBJaChO",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "uid": "2Vw3Pbr6L",
-            "edit-time": 1614682584141,
+            "uid": "3QzI9u7Ct",
+            "edit-time": 1617137848516,
             ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          },
-          {
-            "string": "About Roam",
-            "create-time": 1564786451152,
-            ":create/user": {
               ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-            },
-            "children": [
-              {
-                "string": "Roam was founded by [[Conor White-Sullivan]] and [[Joshua Brown]]. Conor has been working on tools for collective intelligence for more than nine years, founding the online town common Localocracy (acquired by AOL in 2011) then leading R&D for Huffington Post following the acquisition. Conor and Josh met at 42.us.org, a tuition-free coding university, where Josh placed in the top five of the first 1000 cadets to enter the US program during the month-long application exam. This white paper was co-authored by business journalist Richard Meadows, whose trial of early prototypes led him to become the first investor in Roam.",
-                "create-time": 1564786451152,
-                ":block/refs": [
-                  {
-                    ":block/uid": "CV_O2qTlP"
-                  },
-                  {
-                    ":block/uid": "IdWJv42cv"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "CV_O2qTlP"
-                  },
-                  {
-                    "uid": "IdWJv42cv"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "uid": "958JXDh4t",
-                "edit-time": 1616530634366,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "uid": "FbqR5LVix",
-            "edit-time": 1614682584141,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          },
-          {
-            "string": "The Roam stack:",
-            "create-time": 1564786451152,
-            ":create/user": {
-              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-            },
-            "children": [
-              {
-                "string": "React",
-                "create-time": 1564786451152,
-                "uid": "PqiS1bEpO",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Clojure and Clojurescript",
-                "create-time": 1564786451152,
-                "uid": "rHakRfPx_",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Datalog",
-                "create-time": 1564786451152,
-                "uid": "ofJQmk4Am",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "uid": "E53t1mufm",
-            "edit-time": 1614682584141,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          },
-          {
-            "string": "Contact Conor at cwhitesullivan@gmail.com with any enquiries.",
-            "create-time": 1564786451153,
-            "uid": "PHBj-V9yO",
-            "edit-time": 1614682584141,
-            ":create/user": {
-              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-            },
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          },
-          {
-            "string": "Notes and references",
-            "create-time": 1564786451153,
-            ":create/user": {
-              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-            },
-            "children": [
-              {
-                "string": "[1] At least 2.5 quintillion bytes of information are produced every day, which is about the same amount as was produced during the entire year of 2002. ",
-                "create-time": 1564786451153,
-                "uid": "CUDrvnqeF",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "[2] Scientific American: New Estimate Boosts the Human Brain's Memory Capacity 10-Fold.",
-                "create-time": 1564786451153,
-                "uid": "fovwPihLc",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "[3] Microelectronics pioneer Carver Mead, who coined the term Moore’s Law, correctly predicted in 1990 that present-day computers would use ten million times more energy for a single instruction than the brain uses for a synaptic activation.",
-                "create-time": 1564786451153,
-                "uid": "D7lW-q9tj",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "[4] This example is adapted from the Less Wrong sequence 37 Ways Words Can be Wrong.",
-                "create-time": 1564786451153,
-                "uid": "69lUt3U-z",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "[5] Motte-and-bailey refers to arguing an easy-to-defend and often common-sense statement (the motte), in order to ward off critics from a hard-to-defend and more controversial statement (the bailey). The term was popularised by Scott Alexander, and explained in All in All, Another Brick in the Motte.",
-                "create-time": 1564786451153,
-                "uid": "PNY2qiE1f",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "[6] Slate Star Codex: Mental disorders as networks.",
-                "create-time": 1564786451154,
-                "uid": "Rzg-ziZDv",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "[7] Michèle B. Nuijten, Marie K. Deserno, Angélique O. J. Cramer, Denny Borsboom: An introduction and overview of a network approach to psychopathology.",
-                "create-time": 1564786451154,
-                "uid": "3ytWgcdl-",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "[8] As Carl Sagan observed, while more data is broadcast in TV programs every day than the combined written works of all of history, \"not all bits have equal value\".",
-                "create-time": 1564786451154,
-                "uid": "ZRxjOjiIT",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "[9]  This example comes from Nassim Taleb’s Antifragile.",
-                "create-time": 1564786451154,
-                "uid": "p3tzaSvIF",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "uid": "OjZRPZLqZ",
-            "edit-time": 1614682584141,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          },
-          {
-            "string": "Further Reading",
-            "create-time": 1564786451155,
-            ":create/user": {
-              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-            },
-            "children": [
-              {
-                "string": "Daniel Kahneman, Thinking, Fast and Slow",
-                "create-time": 1564786451155,
-                "uid": "bocVNsYzq",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Robin Hanson, Could Gambling Save Science?",
-                "create-time": 1564786451155,
-                "uid": "3dQ3o5RCm",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "[[Ray Dalio]], [[Principles]]",
-                "create-time": 1564786451155,
-                ":block/refs": [
-                  {
-                    ":block/uid": "Ptb1MZrQM"
-                  },
-                  {
-                    ":block/uid": "jsUB3NU4_"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "Ptb1MZrQM"
-                  },
-                  {
-                    "uid": "jsUB3NU4_"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "uid": "tyf65h7ie",
-                "edit-time": 1614682584141,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "H Van Dyke Paranuk, Don’t Link Me In: Set Based Hypermedia for Taxonomic Reasoning",
-                "create-time": 1564786451155,
-                "uid": "bnVOkwZ0g",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "[[Michael Nielsen]], Reinventing Discovery: The New Era of Networked Science",
-                "create-time": 1564786451155,
-                ":block/refs": [
-                  {
-                    ":block/uid": "UXkUHPspV"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "UXkUHPspV"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "uid": "Q2K64Wv_p",
-                "edit-time": 1614682584141,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Richards J Heuer The Psychology of Intelligence Analysis",
-                "create-time": 1564786451155,
-                "uid": "DCsCyeM10",
-                "edit-time": 1614682584141,
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Leslie Lamport: [[How to write a 21st Century Proof]]",
-                "create-time": 1564787712319,
-                ":block/refs": [
-                  {
-                    ":block/uid": "0Fy1sEXdL"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "0Fy1sEXdL"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "uid": "uuid46f161be-0c56-4e27-aa1a-5a6ff55abcf7",
-                "edit-time": 1614682584141,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Douglas Engelbart, [[Augmenting the Human Intellect: A Conceptual Framework]]",
-                "create-time": 1564786451155,
-                ":block/refs": [
-                  {
-                    ":block/uid": "qkUIZqKDb"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "qkUIZqKDb"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "uid": "SY_u5hA8E",
-                "edit-time": 1614682584141,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "uid": "LwNQdNY_U",
-            "edit-time": 1614682584141,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          },
-          {
-            "string": "About this Paper",
-            "create-time": 1564787723005,
-            ":create/user": {
-              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-            },
-            "children": [
-              {
-                "string": "We wrote this White Paper in Winter of 2017/2018, and while it still reflects much of our vision for the tool, some of the features -- particularly related to [[Bayesian Reasoning]], [[Argument Analysis]], and [[Prediction Markets]] we found to be in-fact much lower priority for the researchers and decision makers whose thinking we aim to assist -- and risked making the tool too complex for the more significant use cases.  If you are interested in using Roam for more formal Quantitative Reasoning or building out formal models of belief networks, or if you are excited about ideas in this paper which you do not see a way to do currently within Roam, please contact us.  ",
-                "create-time": 1564787736199,
-                ":block/refs": [
-                  {
-                    ":block/uid": "wuBpRC6Xm"
-                  },
-                  {
-                    ":block/uid": "2rsnxVl-n"
-                  },
-                  {
-                    ":block/uid": "9GZDbQI6o"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "wuBpRC6Xm"
-                  },
-                  {
-                    "uid": "2rsnxVl-n"
-                  },
-                  {
-                    "uid": "9GZDbQI6o"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-                },
-                "uid": "JIFALNlIa",
-                "edit-time": 1614682584141,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "uid": "uuid5eeb16b5-2670-4894-b2c4-253bc55d73c2",
-            "edit-time": 1614682584141,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             }
           }
         ],
-        "refs": [
-          {
-            "uid": "Fp4-ieiER"
-          }
-        ],
-        "uid": "DXWLc_Z8V",
-        ":block/refs": [
-          {
-            ":block/uid": "Fp4-ieiER"
-          }
-        ],
-        "string": "#.doc-mode",
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        "create-time": 1616530670092,
+        "uid": "ckmJXU_D0",
+        "edit-time": 1617137848516,
         ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
         }
       }
     ],
@@ -42848,11 +42726,35 @@
   {
     "create-time": 1614682584534,
     "title": "How to write a 21st Century Proof",
-    "uid": "0Fy1sEXdL",
-    "edit-time": 1614682584535,
     ":create/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     },
+    "children": [
+      {
+        "string": "source:: https://lamport.azurewebsites.net/pubs/proof.pdf",
+        "create-time": 1617137914270,
+        ":block/refs": [
+          {
+            ":block/uid": "EUQ7nbjxH"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "EUQ7nbjxH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "uid": "9dC8ar_g1",
+        "edit-time": 1617137919515,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      }
+    ],
+    "uid": "0Fy1sEXdL",
+    "edit-time": 1614682584535,
     ":edit/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     }
@@ -65542,6 +65444,30 @@
     },
     ":edit/user": {
       ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    }
+  },
+  {
+    "create-time": 1617137848758,
+    "title": "Diagrams",
+    "uid": "3Cz7N71ZV",
+    "edit-time": 1617137848759,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "create-time": 1617137915427,
+    "title": "source",
+    "uid": "EUQ7nbjxH",
+    "edit-time": 1617137915428,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
     }
   }
 ]

@@ -3,7 +3,7 @@
 - [[Essay]] - [[Why you can't say]] [[Kevin Lacker]]
     - Response to:: [[Essay]] [[What You Can't Say]] [[Paul Graham]]
     - [[Tangent]]
-        - See "{{iframe:https://en.m.wikipedia.org/wiki/Social_constructionism}}" 
+        - See {{iframe:https://en.m.wikipedia.org/wiki/Social_constructionism}} 
 and the idea of [[Roam Browser]] [[Electron App]]
             - When you visit the page - you could have an easy indicator -- like highlighting things from the page - (to pull into your Roam -- or spending a certain amount of time on it -- or a [[30ms Gesture]] like a moving the mouse in a pattern, or hitting a super easy keyboard shortcut -- and have the page be sent to [[ArWeave]] or [[Internet Archive]])
                 - {{[[TODO]]}} Learn more about [[ArWeave]] -- catchup with [[Mek]] and [[Gerben]] and see what the current state of [[Web Archival]] is

@@ -7,7 +7,7 @@
         - All Men are Mortal
             - certainty:: {{[[slider]]}}
     - Then I can reference those statements into a compound statement like this
-        - If "Socrates is a Man" and "All Men are Mortal" then "Socrates is Mortal"
+        - If Socrates is a Man and All Men are Mortal then Socrates is Mortal
             - certainty:: {{[[slider]]}}
             - 
     - I will then see that statement whenever I visit one of the blocks that is referenced within it

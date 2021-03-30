@@ -37,7 +37,7 @@
                 - gif
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FqUPh6Y7f1T.gif?alt=media&token=6f1adac0-d512-44e8-b7b3-99b7d4469cef)
             - Make the block reference below a link with the alias `Bardia's favourite site`
-                - "`[Worry Dream](http://worrydream.com)`"
+                - `[Worry Dream](http://worrydream.com)`
                 - Gif
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Fvw3KuvZXXo.gif?alt=media&token=f1cadf64-ee14-41aa-831a-870c3ce60be5)
             - 

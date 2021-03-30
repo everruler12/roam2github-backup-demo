@@ -892,7 +892,7 @@ span.rm-page-ref[data-tag="Alive"] {
             - Designer:: [[Azlen Elza]]
                 - Twitter:: [@azlenelza](https://twitter.com/azlenelza) 
                 - Love this theme? Say thanks via [Paypal](https://www.paypal.me/azlenelza). 
-                - Also created "[[Cosmonaut]]" and "[[Yggdrasil]]"
+                - Also created [[Cosmonaut]] and [[Yggdrasil]]
             - Special Features::
                 - Collapsible columns -- side-by-side view for items opened in the sidebar 
                 - Searchbar appears in main page 
@@ -939,15 +939,15 @@ canvas[data-id="layer2-node"] {
         - ### [[Cosmonaut]]
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam%2FZqga3Oe0uc.png?alt=media&token=ca5c4739-ef61-4dea-a241-eaa81a5450bf)
             - Designer:: [[Azlen Elza]]
-                - "Twitter:: [@azlenelza](https://twitter.com/azlenelza) "
-                - "Love this theme? Say thanks via [Paypal](https://www.paypal.me/azlenelza). "
-                - Also created "[[Zenith]]" and "[[Yggdrasil]]"
+                - Twitter:: [@azlenelza](https://twitter.com/azlenelza) 
+                - Love this theme? Say thanks via [Paypal](https://www.paypal.me/azlenelza). 
+                - Also created [[Zenith]] and [[Yggdrasil]]
             - Special Features::
                 - #[[Dark Mode]]
                 - Variation on [[Zenith]] which has: 
-                    - "Collapsible columns -- side-by-side view for items opened in the sidebar "
-                    - "Searchbar appears in main page "
-                    - "Overlay side-by-side view over graph/diagram"
+                    - Collapsible columns -- side-by-side view for items opened in the sidebar 
+                    - Searchbar appears in main page 
+                    - Overlay side-by-side view over graph/diagram
             - Code::
                 - {{[[roam/css]]}}
                     - ```css
@@ -1085,13 +1085,13 @@ background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, whit
         - ### [[Yggdrasil]]
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam%2FT0iQmFOXwm.png?alt=media&token=3cdca40f-d2bb-4217-9f26-b44c825f88be)
             - Designer:: [[Azlen Elza]]
-                - "Twitter:: [@azlenelza](https://twitter.com/azlenelza) "
-                - "Love this theme? Say thanks via [Paypal](https://www.paypal.me/azlenelza). "
-                - Also created "[[Cosmonaut]]" and "[[Zenith]]"
+                - Twitter:: [@azlenelza](https://twitter.com/azlenelza) 
+                - Love this theme? Say thanks via [Paypal](https://www.paypal.me/azlenelza). 
+                - Also created [[Cosmonaut]] and [[Zenith]]
             - Special Features:: 
-                - "Collapsible columns -- side-by-side view for items opened in the sidebar "
-                - "Searchbar appears in main page "
-                - "Overlay side-by-side view over graph/diagram"
+                - Collapsible columns -- side-by-side view for items opened in the sidebar 
+                - Searchbar appears in main page 
+                - Overlay side-by-side view over graph/diagram
             - Code::
                 - {{[[roam/css]]}}
                     - ```css
@@ -1154,5 +1154,129 @@ canvas[data-id="layer2-node"] {
     filter: invert(1) hue-rotate(170deg) saturate(2.5);
 }```
     - ## **Block Level Customizations**
-        - from [[Maggie Appleton]] in "[[Leyendecker]]"
-            - {{[[embed]]: ((HdHehJEXV))}}
+        - from [[Maggie Appleton]] in [[Leyendecker]]
+            - [[Tag Styles]]
+                - {{[[roam/css]]}}
+                    - ```css
+
+/* Custom data tags */
+span.rm-page-ref[data-tag="Tweet"] {
+    background: #81D5ED !important;
+    color: white !important;
+    padding: 3px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Literature Notes"] {
+    background: #9769FF !important;
+    color: white !important;
+    padding: 3px 7px;
+    font-weight: 500;
+    line-height: 2em;
+}
+
+
+span.rm-page-ref[data-tag="Evergreens"] {
+    background: #0DBAC6 !important;
+    color: #fff !important;
+    padding: 3px 8px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Seedling"] {
+    color: #0dbac6 !important;
+    padding: 3px 3px;
+    font-weight: 600;
+    line-height: 1.4em;
+}
+
+span.rm-page-ref[data-tag="Idea Bank"] {
+    color: #FCB815 !important;
+    padding: 3px 4px;
+    font-weight: 700;
+    line-height: 1.4em;
+}
+
+span.rm-page-ref[data-tag="Idea Bank"]:before {
+    content: '✦ '
+}
+
+span.rm-page-ref[data-tag="Illustrated Notes"] {
+    color: #7172FC;
+    padding: 3px 4px;
+    font-weight: 700;
+    line-height: 1.4em;
+}
+
+span.rm-page-ref[data-tag="Garden Notes"] {
+    color: #9DBC13;
+    padding: 3px 4px;
+    font-weight: 700;
+    line-height: 1.4em;
+}
+
+span.rm-page-ref[data-tag="Video Tutorial"] {
+    color: #db3b8d;
+    padding: 3px 4px;
+    line-height: 1.4em;
+    font-weight: 700;
+}
+
+span.rm-page-ref[data-tag="Essay"] {
+    background: #ADCB2A;
+    color: #fff;
+    padding: 3px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+
+span.rm-page-ref[data-tag="Livestream"] {
+    color: #B979CF;
+    padding: 3px 4px;
+    line-height: 1.4em;
+    font-weight: 700;
+}
+
+span.rm-page-ref[data-tag="Talk"] {
+    background: #7172FC;
+    color: #fff;
+    padding: 3px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Waiting"] {
+    background: #F9C866;
+    color: #fff;
+    padding: 3px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Researching"] {
+    background: #FF9D66 !important;
+    color: #fff;
+    padding: 3px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Synthesising"] {
+    background: #FC766F !important;
+    color: #fff !important;
+    padding: 3px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+
+span.rm-page-ref[data-tag="Alive"] {
+    background: #EE5F85 !important;
+    color: #fff !important;
+    padding: 3px 7px;
+    line-height: 2em;
+    font-weight: 500;
+}```

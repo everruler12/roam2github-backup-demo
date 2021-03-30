@@ -14,7 +14,7 @@
     - # [Courses]([[Courses]])
         - Learn how to use Roam with a collection of free and paid online courses made by top community members
     - # [Coaching]([[Coaching]])
-        - "Get specialized 1:1 help to master Roam from one of our vetted coaches"
+        - Get specialized 1:1 help to master Roam from one of our vetted coaches
     - # [Pillars of the Community]([[Pillars of the Community]])
         - A Roaman Wall of Fame
     - # [Notable Graphs]([[Notable Graphs]])

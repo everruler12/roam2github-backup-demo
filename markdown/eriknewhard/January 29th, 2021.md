@@ -1,4 +1,6 @@
 - #Tweeted https://twitter.com/ErikNewhard/status/1355208343510388737?s=20
     - Roam-to-git automatic backups are failing every hour. I'm learning puppeteer to roll my own solution. I got the Roam JSON export extracted. Now need to learn how to create GitHub Actions...
-    - {{embed: ((dTA4URUDC))}}
-    - {{embed: ((duQ96JjY8))}}
+    - And it's live!
+        - https://github.com/everruler12/roam2github-demo
+    - Major update: it's now possible to set up a public repo to run the Actions and save to a private repo. The advantage of this is not being limited to 2000 minutes of private Action runtime.
+        - https://www.notion.so/Roam2Github-Backup-Guide-650925859a4a42cf940e3fb74f5189f9
