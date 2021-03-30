@@ -12928,6 +12928,7 @@
   [4244 :create/user 3 536885026]
   [4244 :edit/seen-by 3 536918336]
   [4244 :edit/seen-by 3422 536904484]
+  [4244 :edit/seen-by 6897 536959182]
   [4244 :edit/time 1614775205998 536885026]
   [4244 :edit/user 3 536885026]
   [4244 :entity/attrs #{} 536918330]
@@ -12960,6 +12961,7 @@
   [4245 :create/user 3 536885029]
   [4245 :edit/seen-by 3 536918336]
   [4245 :edit/seen-by 3422 536904484]
+  [4245 :edit/seen-by 6897 536959182]
   [4245 :edit/time 1616493294447 536916426]
   [4245 :edit/user 3 536916426]
   [4247 :block/string "" 536885040]
@@ -53097,6 +53099,7 @@
   [11820 :create/time 1615442469154 536911713]
   [11820 :create/user 3422 536911713]
   [11820 :edit/seen-by 3 536919203]
+  [11820 :edit/seen-by 53 536959166]
   [11820 :edit/time 1615442469155 536911713]
   [11820 :edit/user 3422 536911713]
   [11820 :node/title "Install Roam" 536911713]
@@ -53115,6 +53118,7 @@
   [11821 :create/time 1615442669660 536911714]
   [11821 :create/user 3422 536911714]
   [11821 :edit/seen-by 3 536919190]
+  [11821 :edit/seen-by 53 536959166]
   [11821 :edit/time 1615442670365 536911716]
   [11821 :edit/user 3422 536911714]
   [11833 :block/open true 536911728]
@@ -53128,6 +53132,7 @@
   [11833 :create/time 1615442711642 536911728]
   [11833 :create/user 3422 536911728]
   [11833 :edit/seen-by 3 536919192]
+  [11833 :edit/seen-by 53 536959166]
   [11833 :edit/time 1615442711642 536911728]
   [11833 :edit/user 3422 536911728]
   [11834 :block/children 11835 536919207]
@@ -53145,6 +53150,7 @@
   [11834 :create/time 1615442711642 536911728]
   [11834 :create/user 3422 536911728]
   [11834 :edit/seen-by 3 536919193]
+  [11834 :edit/seen-by 53 536959167]
   [11834 :edit/time 1616557869364 536919200]
   [11834 :edit/user 3 536919199]
   [11835 :block/open true 536911728]
@@ -53215,6 +53221,7 @@
   [11839 :create/time 1615442711642 536911728]
   [11839 :create/user 3422 536911728]
   [11839 :edit/seen-by 3 536919198]
+  [11839 :edit/seen-by 53 536959168]
   [11839 :edit/time 1615442711642 536911728]
   [11839 :edit/user 3422 536911728]
   [11840 :block/open true 536911728]
@@ -53269,6 +53276,7 @@
   [11843 :block/uid "D5YIZiJa9" 536911728]
   [11843 :create/time 1615442711642 536911728]
   [11843 :create/user 3422 536911728]
+  [11843 :edit/seen-by 53 536959169]
   [11843 :edit/time 1615442711642 536911728]
   [11843 :edit/user 3422 536911728]
   [11845 :block/heading 3 536920560]
@@ -56968,6 +56976,7 @@
   [12389 :block/uid "_UHZr337m" 536913697]
   [12389 :create/time 1616394214573 536913697]
   [12389 :create/user 3 536913697]
+  [12389 :edit/seen-by 53 536959174]
   [12389 :edit/time 1616555053282 536918987]
   [12389 :edit/user 3 536913697]
   [12390 :block/heading 2 536913708]
@@ -58860,8 +58869,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid0a4211c5-7597-488d-94a7-d1cf4c69e8e7"
-   536959164]
+   "uuid40088648-4d8f-47cb-8873-a494b25b2d8c"
+   536959183]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -62947,6 +62956,7 @@
   [13126 :create/time 1616548141781 536918325]
   [13126 :create/user 3 536918325]
   [13126 :edit/seen-by 3 536918336]
+  [13126 :edit/seen-by 6897 536959182]
   [13126 :edit/time 1616548143585 536918327]
   [13126 :edit/user 3 536918325]
   [13127 :block/open true 536918383]
@@ -65414,12 +65424,12 @@
   [43716 :block/refs 2527 536958244]
   [43716
    :block/string
-   "[Kifah]([[Kifah Meeran]]) — [@maskys]([[Kifah Meeran]])"
-   536958248]
+   "[Kifah]([[Kifah Meeran]]) — [@maskys](https://twitter.com/maskys_)"
+   536959173]
   [43716 :block/uid "LL6iZw2hT" 536958237]
   [43716 :create/time 1616649217407 536958237]
   [43716 :create/user 53 536958237]
-  [43716 :edit/time 1616649242650 536958248]
+  [43716 :edit/time 1617108342868 536959173]
   [43716 :edit/user 53 536958237]
   [43717 :block/open true 536958249]
   [43717 :block/order 3 536958292]
@@ -68213,6 +68223,7 @@
   [44010 :block/refs 43713 536958943]
   [44010 :block/string "[[Quality of Life Improvements]]" 536958942]
   [44010 :block/uid "_uXjm90wV" 536958938]
+  [44010 :children/view-type :numbered 536959177]
   [44010 :create/time 1616915808660 536958938]
   [44010 :create/user 53 536958938]
   [44010 :edit/seen-by 6897 536959047]
@@ -68221,7 +68232,7 @@
   [44012 :block/children 44010 536958950]
   [44012 :block/children 44013 536958952]
   [44012 :block/heading 3 536959019]
-  [44012 :block/open false 536959026]
+  [44012 :block/open true 536959176]
   [44012 :block/order 3 536958946]
   [44012 :block/page 4296 536958947]
   [44012 :block/parents 4296 536958947]
@@ -68501,10 +68512,10 @@
   [44044 :block/uid "q1sKrgtGn" 536959150]
   [44044 :edit/time 1617094540565 536959150]
   [44044 :edit/user 3422 536959150]
-  [44045 :block/uid "iFvEu7tql" 536959164]
-  [44045 :user/display-name "Erik Newhard" 536959164]
+  [44045 :block/uid "ll74MHkI9" 536959183]
+  [44045 :user/display-name "Erik Newhard" 536959183]
   [44045
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536959164]
-  [44045 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959164]]}
+   536959183]
+  [44045 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959183]]}

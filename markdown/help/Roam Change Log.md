@@ -6,9 +6,9 @@
         - [[New Features]]
             - You can now export in [[Flattened Markdown]], which removes all indentation and block formatting
         - [[Quality of Life Improvements]]
-            - [[Block Embed]]s will remember whether you closed or opened them between page reloads
-            - When exporting a single [page]([[Pages]]), you'll directly receive the exported file instead of a zipped file.
-            - When editing a page title, any preceding/trailing whitespaces will be automatically removed
+            1. [[Block Embed]]s will remember whether you closed or opened them between page reloads
+            2. When exporting a single [page]([[Pages]]), you'll directly receive the exported file instead of a zipped file.
+            3. When editing a page title, any preceding/trailing whitespaces will be automatically removed
     - ### [[March 24th, 2021]]
         - [[New Features]]
             - New Help Graph!
