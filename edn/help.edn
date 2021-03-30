@@ -10808,6 +10808,7 @@
   [2910 :create/user 3 536879130]
   [2910 :edit/seen-by 53 536958221]
   [2910 :edit/seen-by 3422 536894768]
+  [2910 :edit/seen-by 9445 536959071]
   [2910 :edit/time 1614687933399 536879130]
   [2910 :edit/user 3 536879130]
   [2910 :node/title "Why Roam?" 536879130]
@@ -58837,8 +58838,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid1ab4ac71-060a-4966-83d2-c6af3c118d34"
-   536959069]
+   "uuid73f7faf7-08cc-4545-9b9c-da9b57161a24"
+   536959073]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -62611,6 +62612,7 @@
   [13074 :create/time 1616530269687 536917872]
   [13074 :create/user 3 536917872]
   [13074 :edit/seen-by 53 536958221]
+  [13074 :edit/seen-by 9445 536959071]
   [13074 :edit/time 1616530299666 536917879]
   [13074 :edit/user 3 536917872]
   [13076 :block/string "" 536917889]
@@ -68315,10 +68317,17 @@
   [44024 :edit/user 3422 536959043]
   [44024 :log/id 1616977554259 536959043]
   [44024 :node/title "March 29th, 2021" 536959043]
-  [44025 :block/uid "_3xdzQykg" 536959069]
-  [44025 :user/display-name "Erik Newhard" 536959069]
-  [44025
+  [44026 :block/uid "1mhKYaUSu" 536959072]
+  [44026 :user/display-name "Erik Newhard" 536959072]
+  [44026
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536959069]
-  [44025 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959069]]}
+   536959072]
+  [44026 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959072]
+  [44027 :block/uid "03-30-2021" 536959073]
+  [44027 :create/time 1617065747733 536959073]
+  [44027 :create/user 44026 536959073]
+  [44027 :edit/time 1617065747733 536959073]
+  [44027 :edit/user 44026 536959073]
+  [44027 :log/id 1617065747732 536959073]
+  [44027 :node/title "March 30th, 2021" 536959073]]}
