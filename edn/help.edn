@@ -3261,7 +3261,7 @@
   [960 :block/children 44436 536959274]
   [960 :block/open true 536877818]
   [960 :block/uid "dZ72V0Ig6" 536873836]
-  [960 :children/view-type :bullet 536959201]
+  [960 :children/view-type :document 536959366]
   [960 :create/time 1614654644337 536873836]
   [960 :create/user 3 536873836]
   [960 :edit/seen-by 3 536877873]
@@ -4675,6 +4675,7 @@
   [1555 :edit/user 3 536875505]
   [1559 :block/children 12674 536915325]
   [1559 :block/uid "6zChtjSPR" 536875515]
+  [1559 :children/view-type :bullet 536959374]
   [1559 :create/time 1614659468857 536875515]
   [1559 :create/user 3 536875515]
   [1559 :edit/seen-by 3 536893695]
@@ -56893,8 +56894,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuidea4e560f-bf47-4ed7-ac13-0da072ed7c2c"
-   536959364]
+   "uuideac354d5-f808-4168-be81-7a353f6290db"
+   536959378]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -66455,7 +66456,7 @@
   [44040 :edit/user 3422 536959133]
   [44042 :block/children 44043 536959145]
   [44042 :block/heading 3 536959145]
-  [44042 :block/open true 536959145]
+  [44042 :block/open true 536959376]
   [44042 :block/order 0 536959145]
   [44042 :block/page 1559 536959149]
   [44042 :block/parents 1559 536959149]
@@ -68350,17 +68351,17 @@
   [44443 :create/user 9445 536959360]
   [44443 :edit/time 1617162377978 536959360]
   [44443 :edit/user 9445 536959360]
-  [44444 :block/uid "wWClERxpk" 536959363]
-  [44444 :user/display-name "Erik Newhard" 536959363]
+  [44444 :block/uid "nnAkLF_tV" 536959377]
+  [44444 :user/display-name "Erik Newhard" 536959377]
   [44444
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536959363]
-  [44444 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959363]
-  [44445 :block/uid "03-31-2021" 536959364]
-  [44445 :create/time 1617168135625 536959364]
-  [44445 :create/user 44444 536959364]
-  [44445 :edit/time 1617168135625 536959364]
-  [44445 :edit/user 44444 536959364]
-  [44445 :log/id 1617168135625 536959364]
-  [44445 :node/title "March 31st, 2021" 536959364]]}
+   536959377]
+  [44444 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959377]
+  [44445 :block/uid "03-31-2021" 536959378]
+  [44445 :create/time 1617171852227 536959378]
+  [44445 :create/user 44444 536959378]
+  [44445 :edit/time 1617171852227 536959378]
+  [44445 :edit/user 44444 536959378]
+  [44445 :log/id 1617171852226 536959378]
+  [44445 :node/title "March 31st, 2021" 536959378]]}
