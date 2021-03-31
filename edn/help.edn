@@ -223,6 +223,7 @@
   [182 :create/time 1614231801496 536870964]
   [182 :create/user 3 536870964]
   [182 :edit/seen-by 3 536874647]
+  [182 :edit/seen-by 53 536959499]
   [182 :edit/time 1614231801497 536870964]
   [182 :edit/user 3 536870964]
   [182 :entity/attrs #{} 536882855]
@@ -9960,6 +9961,7 @@
   [3660 :block/uid "TvT1sAkz9" 536882856]
   [3660 :create/time 1614763136167 536882856]
   [3660 :create/user 3 536882856]
+  [3660 :edit/seen-by 53 536959499]
   [3660 :edit/time 1614827261326 536894108]
   [3660 :edit/user 3 536882856]
   [3670 :block/string "" 536882891]
@@ -20730,6 +20732,7 @@
   [7652 :create/time 1591235054825 536893973]
   [7652 :create/user 61 536893973]
   [7652 :edit/seen-by 3 536893973]
+  [7652 :edit/seen-by 53 536959510]
   [7652 :edit/time 1616394450148 536913825]
   [7652 :edit/user 3 536893973]
   [7652
@@ -20790,6 +20793,7 @@
   [7656 :create/time 1591235057253 536893973]
   [7656 :create/user 61 536893973]
   [7656 :edit/seen-by 3 536913821]
+  [7656 :edit/seen-by 53 536959511]
   [7656 :edit/time 1614656093561 536893973]
   [7656 :edit/user 3 536893973]
   [7657 :block/children 7639 536893973]
@@ -20807,6 +20811,7 @@
   [7657 :block/string "[[Zenith]]" 536893973]
   [7657 :block/uid "gmu7ilUeY" 536893973]
   [7657 :edit/seen-by 3 536894082]
+  [7657 :edit/seen-by 53 536959503]
   [7657 :edit/time 1614656093561 536893973]
   [7657 :edit/user 3 536893973]
   [7661 :block/children 7748 536893973]
@@ -20860,6 +20865,7 @@
   [7663 :create/time 1591256211088 536893973]
   [7663 :create/user 61 536893973]
   [7663 :edit/seen-by 3 536893973]
+  [7663 :edit/seen-by 53 536959502]
   [7663 :edit/time 1616394356416 536913768]
   [7663 :edit/user 3 536893973]
   [7664 :block/children 7652 536893973]
@@ -20877,6 +20883,7 @@
   [7664 :block/string "[[Better Roam Research]]" 536918829]
   [7664 :block/uid "kPY5SQCv9" 536893973]
   [7664 :edit/seen-by 3 536893973]
+  [7664 :edit/seen-by 53 536959510]
   [7664 :edit/time 1616554452381 536918829]
   [7664 :edit/user 3 536893973]
   [7664 :entity/attrs #{} 536918830]
@@ -21089,6 +21096,7 @@
   [7692 :block/string "Designer:: [[Azlen Elza]]" 536893973]
   [7692 :block/uid "mTZZG7AYj" 536893973]
   [7692 :edit/seen-by 3 536913833]
+  [7692 :edit/seen-by 53 536959503]
   [7692 :edit/time 1614656093561 536893973]
   [7692 :edit/user 3 536893973]
   [7692
@@ -21274,6 +21282,7 @@
   [7731 :block/string "[[Leyendecker]]" 536893973]
   [7731 :block/uid "ilbMpkUFC" 536893973]
   [7731 :edit/seen-by 3 536893975]
+  [7731 :edit/seen-by 53 536959502]
   [7731 :edit/time 1614656093561 536893973]
   [7731 :edit/user 3 536893973]
   [7732 :block/children 7795 536893973]
@@ -21417,6 +21426,7 @@
   [7754 :block/string "Designer:: [[Maggie Appleton]]" 536893973]
   [7754 :block/uid "tkFt9F4ay" 536893973]
   [7754 :edit/seen-by 3 536913830]
+  [7754 :edit/seen-by 53 536959502]
   [7754 :edit/time 1614656093561 536893973]
   [7754 :edit/user 3 536893973]
   [7754
@@ -21643,6 +21653,7 @@
   [7786 :block/uid "wELq9VXp9" 536893973]
   [7786 :create/time 1591252695894 536893973]
   [7786 :create/user 61 536893973]
+  [7786 :edit/seen-by 53 536959503]
   [7786 :edit/time 1614656093561 536893973]
   [7786 :edit/user 3 536893973]
   [7788 :attrs/lookup 1336 536893973]
@@ -21827,6 +21838,7 @@
   [7806 :block/uid "y9Zlhx_rN" 536893973]
   [7806 :create/time 1591231770299 536893973]
   [7806 :create/user 61 536893973]
+  [7806 :edit/seen-by 53 536959502]
   [7806 :edit/time 1614656093561 536893973]
   [7806 :edit/user 3 536893973]
   [7810 :block/open true 536893973]
@@ -21942,6 +21954,7 @@
   [7833 :block/string "[[Railscast]]" 536893996]
   [7833 :block/uid "SzCGjeH31" 536893996]
   [7833 :edit/seen-by 3 536894087]
+  [7833 :edit/seen-by 53 536959507]
   [7833 :edit/time 1614820970798 536893996]
   [7833 :edit/user 3 536893996]
   [7834 :attrs/lookup 50 536894162]
@@ -22087,6 +22100,7 @@
   [7839 :block/string "Designer:: [[Jeff Harris]]" 536893996]
   [7839 :block/uid "DwXKayVx2" 536893996]
   [7839 :edit/seen-by 3 536913809]
+  [7839 :edit/seen-by 53 536959508]
   [7839 :edit/time 1614820970798 536893996]
   [7839 :edit/user 3 536893996]
   [7839
@@ -22113,6 +22127,7 @@
    "Twitter:: [@jeffharrissays](https://twitter.com/jeffharrissays)"
    536893996]
   [7840 :block/uid "9Hy83Yld_" 536893996]
+  [7840 :edit/seen-by 53 536959509]
   [7840 :edit/time 1614820970798 536893996]
   [7840 :edit/user 3 536893996]
   [7841 :block/open true 536893996]
@@ -22128,6 +22143,7 @@
    "Love this theme? Say thanks via [Cash App](https://cash.app/$jeffharris) or [paypal](https://paypal.me/jmharris903?locale.x=en_US)"
    536893996]
   [7841 :block/uid "aJW_ikXLJ" 536893996]
+  [7841 :edit/seen-by 53 536959508]
   [7841 :edit/time 1614820970798 536893996]
   [7841 :edit/user 3 536893996]
   [7842 :block/children 7912 536893996]
@@ -22302,6 +22318,7 @@
    536893996]
   [7923 :block/uid "F_Zt4TcQ1" 536893996]
   [7923 :edit/seen-by 3 536894015]
+  [7923 :edit/seen-by 53 536959504]
   [7923 :edit/time 1614820970798 536893996]
   [7923 :edit/user 3 536893996]
   [7924 :attrs/lookup 1335 536894142]
@@ -22484,6 +22501,7 @@
   [7929 :block/string "Designer:: [[Abhay Prasanna]]" 536893996]
   [7929 :block/uid "55dXx5ayw" 536893996]
   [7929 :edit/seen-by 3 536894017]
+  [7929 :edit/seen-by 53 536959505]
   [7929 :edit/time 1614820970798 536893996]
   [7929 :edit/user 3 536893996]
   [7929
@@ -22510,6 +22528,7 @@
    536894018]
   [7930 :block/uid "qisvHgmvM" 536893996]
   [7930 :edit/seen-by 3 536894017]
+  [7930 :edit/seen-by 53 536959506]
   [7930 :edit/time 1614820981654 536894018]
   [7930 :edit/user 3 536893996]
   [7931 :block/open true 536893996]
@@ -22957,6 +22976,7 @@
   [7970 :block/uid "UkXB_tmVE" 536894098]
   [7970 :create/time 1614827247186 536894098]
   [7970 :create/user 3 536894098]
+  [7970 :edit/seen-by 53 536959499]
   [7970 :edit/time 1614827255749 536894106]
   [7970 :edit/user 3 536894098]
   [7974 :block/string "" 536894143]
@@ -56895,8 +56915,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid8f5a84f9-8021-43af-9c61-d48decea135c"
-   536959499]
+   "uuid0c735893-7f15-4544-a909-e3cf192ba4bc"
+   536959513]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -61454,6 +61474,7 @@
   [13214 :create/time 1616554615639 536918883]
   [13214 :create/user 3 536918883]
   [13214 :edit/seen-by 3 536918926]
+  [13214 :edit/seen-by 53 536959499]
   [13214 :edit/time 1616554619170 536918885]
   [13214 :edit/user 3 536918883]
   [13217 :block/string "" 536918904]
@@ -68531,10 +68552,10 @@
   [44461 :create/user 53 536959475]
   [44461 :edit/time 1617175136111 536959475]
   [44461 :edit/user 53 536959475]
-  [44462 :block/uid "7aOiPhSgs" 536959499]
-  [44462 :user/display-name "Erik Newhard" 536959499]
+  [44462 :block/uid "lQOECQ0wj" 536959513]
+  [44462 :user/display-name "Erik Newhard" 536959513]
   [44462
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536959499]
-  [44462 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959499]]}
+   536959513]
+  [44462 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959513]]}
