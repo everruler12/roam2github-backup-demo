@@ -45571,7 +45571,7 @@
             "edit-time": 1617174738516,
             "children": [
               {
-                "edit-time": 1617174741951,
+                "edit-time": 1617179816235,
                 "children": [
                   {
                     "string": "You can now export the block you're zoomed into instead of the whole page",
@@ -45597,7 +45597,7 @@
                     ":block/uid": "h_pvMVa7e"
                   }
                 ],
-                "string": "[[New Features]]",
+                "string": "[[New Features]] 🚀",
                 ":create/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
@@ -45607,7 +45607,7 @@
                 }
               },
               {
-                "edit-time": 1617174922066,
+                "edit-time": 1617179820221,
                 "children": [
                   {
                     "string": "Block embeds are now resolved to text in [[Markdown]] exports",
@@ -45644,10 +45644,10 @@
                     }
                   },
                   {
-                    "string": "Added better visual feedback for adding shortcuts",
+                    "string": "Added better visual feedback for adding/removing shortcuts",
                     "create-time": 1617174922053,
                     "uid": "jnLPg35Lv",
-                    "edit-time": 1617175053794,
+                    "edit-time": 1617179778739,
                     ":create/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
@@ -45667,7 +45667,7 @@
                     ":block/uid": "_EqbjQSAF"
                   }
                 ],
-                "string": "[[Quality of Life Improvements]]",
+                "string": "[[Quality of Life Improvements]] ✨",
                 ":create/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
@@ -45677,7 +45677,7 @@
                 }
               },
               {
-                "edit-time": 1617174796542,
+                "edit-time": 1617179826238,
                 "children": [
                   {
                     "string": "Strikethrough and redo shortcuts on Windows have been reverted to Win+Y and Ctrl+Y respectively following reports that users couldn't redo more than once.",
@@ -45703,7 +45703,7 @@
                     ":block/uid": "xxFKZqzYN"
                   }
                 ],
-                "string": "[[Bug Fixes]]",
+                "string": "[[Bug Fixes]] 🛠",
                 ":create/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },

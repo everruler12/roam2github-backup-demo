@@ -3,13 +3,13 @@
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
     - ### [[March 30th, 2021]]
-        - [[New Features]]
+        - [[New Features]] 🚀
             1. You can now export the block you're zoomed into instead of the whole page
-        - [[Quality of Life Improvements]]
+        - [[Quality of Life Improvements]] ✨
             1. Block embeds are now resolved to text in [[Markdown]] exports
             2. Added an icon to easily access the right sidebar
-            3. Added better visual feedback for adding shortcuts
-        - [[Bug Fixes]]
+            3. Added better visual feedback for adding/removing shortcuts
+        - [[Bug Fixes]] 🛠
             - Strikethrough and redo shortcuts on Windows have been reverted to Win+Y and Ctrl+Y respectively following reports that users couldn't redo more than once.
     - ### [[March 28th, 2021]]
         - [[New Features]]
