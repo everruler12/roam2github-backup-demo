@@ -2,13 +2,22 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+    - ### [[March 30th, 2021]]
+        - [[New Features]]
+            1. You can now export the block you're zoomed into instead of the whole page
+        - [[Quality of Life Improvements]]
+            1. Block embeds are now resolved to text in [[Markdown]] exports
+            2. Added an icon to easily access the right sidebar
+            3. Added better visual feedback for adding shortcuts
+        - [[Bug Fixes]]
+            - Strikethrough and redo shortcuts on Windows have been reverted to Win+Y and Ctrl+Y respectively following reports that users couldn't redo more than once.
     - ### [[March 28th, 2021]]
         - [[New Features]]
             - You can now export in [[Flattened Markdown]], which removes all indentation and block formatting
         - [[Quality of Life Improvements]]
             1. [[Block Embed]]s will remember whether you closed or opened them between page reloads
-            2. When exporting a single [page]([[Pages]]), you'll directly receive the exported file instead of a zipped file.
-            3. When editing a page title, any preceding/trailing whitespaces will be automatically removed
+            2. When editing a page title, any preceding/trailing whitespaces will be automatically removed
+            3. When exporting a single [page]([[Pages]]), you'll directly receive the exported file instead of a zipped file.
     - ### [[March 24th, 2021]]
         - [[New Features]]
             - New Help Graph!
