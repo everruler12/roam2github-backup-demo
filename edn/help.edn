@@ -56847,7 +56847,7 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid21c9de2d-654a-43d7-92ec-ec5a601cc459"
+   "uuid683e2e76-a8e3-4b30-bc47-eec6ff949ab1"
    536959593]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
@@ -68524,7 +68524,7 @@
   [44476 :edit/time 1617284793084 536959584]
   [44476 :edit/user 3 536959584]
   [44476 :node/title "Website" 536959584]
-  [44477 :block/uid "vWlQgEP1d" 536959593]
+  [44477 :block/uid "UdlmDHnWB" 536959593]
   [44477 :user/display-name "Erik Newhard" 536959593]
   [44477
    :user/photo-url
