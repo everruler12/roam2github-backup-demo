@@ -1394,7 +1394,7 @@
   [483 :edit/time 1614649902987 536872167]
   [483 :edit/user 3 536872167]
   [484 :block/children 487 536872186]
-  [484 :block/heading 1 536872173]
+  [484 :block/heading 1 536959517]
   [484 :block/open true 536872171]
   [484 :block/order 0 536912489]
   [484 :block/page 319 536872172]
@@ -3119,7 +3119,7 @@
   [829 :entity/attrs #{} 536876081]
   [829 :node/title "Writing" 536873556]
   [830 :block/children 7530 536893387]
-  [830 :block/heading 3 536893190]
+  [830 :block/heading 2 536959528]
   [830 :block/open true 536873563]
   [830 :block/order 0 536921126]
   [830 :block/page 527 536873564]
@@ -3129,13 +3129,13 @@
   [830 :block/refs 8119 536914685]
   [830
    :block/string
-   "[Your Road to Roam](https://courses.rjnestor.com/p/your-road-to-roam) by [[R.J. Nestor]] __$90__"
-   536914684]
+   "[Your Road to Roam](https://courses.rjnestor.com/p/your-road-to-roam) by [[R.J. Nestor]] $90"
+   536959533]
   [830 :block/uid "l5HpvNRkx" 536873563]
   [830 :create/time 1614653845027 536873563]
   [830 :create/user 3 536873563]
   [830 :edit/seen-by 3 536875107]
-  [830 :edit/time 1616400912355 536914684]
+  [830 :edit/time 1617274725815 536959533]
   [830 :edit/user 3 536873563]
   [830 :entity/attrs #{} 536893331]
   [860 :user/uid "muyInrv4Lwfbs6STMgZBP0uf5kn1" 536873565]
@@ -4553,7 +4553,7 @@
   [1476 :edit/time 1614656569570 536875030]
   [1476 :edit/user 3 536875030]
   [1484 :block/children 7531 536893408]
-  [1484 :block/heading 3 536893342]
+  [1484 :block/heading 2 536959531]
   [1484 :block/open true 536875051]
   [1484 :block/order 3 536921127]
   [1484 :block/page 527 536875057]
@@ -4563,13 +4563,13 @@
   [1484 :block/refs 934 536893338]
   [1484
    :block/string
-   "[Effortless Output in Roam](https://www.effortlessoutput.com) by [[Nat Eliason]] __$250__"
-   536893380]
+   "[Effortless Output in Roam](https://www.effortlessoutput.com) by [[Nat Eliason]] $250"
+   536959537]
   [1484 :block/uid "RWyt9Ndu4" 536875051]
   [1484 :create/time 1614656620018 536875051]
   [1484 :create/user 3 536875051]
   [1484 :edit/seen-by 3 536893368]
-  [1484 :edit/time 1614806822058 536893380]
+  [1484 :edit/time 1617274737668 536959537]
   [1484 :edit/user 3 536875051]
   [1488 :block/string "" 536875088]
   [1488 :block/uid "8EKReUtky" 536875088]
@@ -7538,7 +7538,7 @@
   [2540 :block/children 7490 536893215]
   [2540 :block/children 7497 536893284]
   [2540 :block/children 13368 536921075]
-  [2540 :block/heading 2 536893142]
+  [2540 :block/heading 1 536959518]
   [2540 :block/open true 536877655]
   [2540 :block/order 1 536921640]
   [2540 :block/page 527 536877656]
@@ -7555,7 +7555,7 @@
   [2541 :block/children 1484 536893328]
   [2541 :block/children 13366 536921127]
   [2541 :block/children 13369 536921120]
-  [2541 :block/heading 2 536893143]
+  [2541 :block/heading 1 536959519]
   [2541 :block/open true 536877658]
   [2541 :block/order 2 536921640]
   [2541 :block/page 527 536877659]
@@ -7570,7 +7570,7 @@
   [2541 :edit/user 3 536877658]
   [2542 :block/children 7462 536918275]
   [2542 :block/children 7465 536893138]
-  [2542 :block/heading 3 536893144]
+  [2542 :block/heading 2 536959521]
   [2542 :block/open true 536877665]
   [2542 :block/order 1 536921082]
   [2542 :block/page 527 536877666]
@@ -19737,7 +19737,7 @@
   [7448 :edit/user 3 536958093]
   [7450 :block/children 7457 536918277]
   [7450 :block/children 7470 536893156]
-  [7450 :block/heading 3 536893145]
+  [7450 :block/heading 2 536959523]
   [7450 :block/open true 536892753]
   [7450 :block/order 2 536921090]
   [7450 :block/page 527 536892754]
@@ -19748,11 +19748,11 @@
   [7450
    :block/string
    "[How to Use Roam Research: A Complete Guide](https://www.youtube.com/playlist?list=PLralmZwl_8jJuJMIebWFqm6K5I20a5Qve) by [[Shu Omi]]"
-   536893146]
+   536959524]
   [7450 :block/uid "jrBqm_-Ob" 536892753]
   [7450 :create/time 1614804526268 536892753]
   [7450 :create/user 3 536892753]
-  [7450 :edit/time 1614805265637 536893146]
+  [7450 :edit/time 1617274704210 536959524]
   [7450 :edit/user 3 536892753]
   [7450 :entity/attrs #{} 536893148]
   [7451 :block/string "" 536892756]
@@ -19873,7 +19873,7 @@
   [7473 :edit/user 3 536892901]
   [7474 :block/children 7481 536918279]
   [7474 :block/children 7486 536893169]
-  [7474 :block/heading 3 536893155]
+  [7474 :block/heading 2 536959525]
   [7474 :block/open true 536893088]
   [7474 :block/order 3 536921117]
   [7474 :block/page 527 536893089]
@@ -19979,7 +19979,7 @@
   [7489 :edit/user 3 536893210]
   [7490 :block/children 7494 536918281]
   [7490 :block/children 7496 536893239]
-  [7490 :block/heading 3 536893217]
+  [7490 :block/heading 2 536959526]
   [7490 :block/open true 536893211]
   [7490 :block/order 4 536921118]
   [7490 :block/page 527 536893212]
@@ -20063,7 +20063,7 @@
   [7496 :edit/user 3 536893239]
   [7497 :block/children 7498 536893294]
   [7497 :block/children 7499 536918283]
-  [7497 :block/heading 3 536893286]
+  [7497 :block/heading 2 536959527]
   [7497 :block/open true 536893280]
   [7497 :block/order 5 536921119]
   [7497 :block/page 527 536893281]
@@ -52104,30 +52104,14 @@
   [12002 :block/uid "G_N3suSTm" 536912696]
   [12002 :edit/time 1616210523161 536912696]
   [12002 :edit/user 3 536912696]
-  [12004 :attrs/lookup 814 536914874]
-  [12004 :attrs/lookup 829 536914881]
   [12004 :attrs/lookup 12004 536914801]
   [12004 :attrs/lookup 12391 536914801]
-  [12004 :attrs/lookup 12571 536914871]
-  [12004 :attrs/lookup 12576 536914853]
   [12004 :attrs/lookup 12577 536914801]
   [12004 :attrs/lookup 12578 536914801]
   [12004 :attrs/lookup 12579 536914801]
   [12004 :attrs/lookup 12580 536914801]
-  [12004 :attrs/lookup 12581 536914866]
-  [12004 :attrs/lookup 12582 536914801]
-  [12004 :attrs/lookup 12583 536914801]
-  [12004 :attrs/lookup 12586 536914804]
-  [12004 :attrs/lookup 12587 536914808]
-  [12004 :attrs/lookup 12588 536914812]
   [12004 :attrs/lookup 12589 536914824]
-  [12004 :attrs/lookup 12590 536914828]
   [12004 :attrs/lookup 12591 536914835]
-  [12004 :attrs/lookup 12592 536914853]
-  [12004 :attrs/lookup 12593 536914856]
-  [12004 :attrs/lookup 12594 536914866]
-  [12004 :attrs/lookup 12595 536914881]
-  [12004 :attrs/lookup 12596 536914884]
   [12004 :block/children 12577 536914746]
   [12004 :block/children 12582 536914785]
   [12004 :block/children 12589 536914819]
@@ -52151,60 +52135,6 @@
    :entity/attrs
    #{[{:source [:block/uid "L8f7DKY2W"],
        :value [:block/uid "L8f7DKY2W"]}
-      {:source [:block/uid "xVZ_07z7P"],
-       :value [:block/uid "by608YM1l"]}
-      {:source [:block/uid "BmT0T1iN0"],
-       :value [:block/uid "QOmefgeoj"]}]
-     [{:source [:block/uid "L8f7DKY2W"],
-       :value [:block/uid "L8f7DKY2W"]}
-      {:source [:block/uid "xVZ_07z7P"],
-       :value [:block/uid "by608YM1l"]}
-      {:source [:block/uid "RgiNUF6sg"],
-       :value [:block/uid "-bNjVrFfG"]}]
-     [{:source [:block/uid "L8f7DKY2W"],
-       :value [:block/uid "L8f7DKY2W"]}
-      {:source [:block/uid "xVZ_07z7P"],
-       :value [:block/uid "by608YM1l"]}
-      {:source [:block/uid "BmT0T1iN0"],
-       :value [:block/uid "Ihodazqn2"]}]
-     [{:source [:block/uid "L8f7DKY2W"],
-       :value [:block/uid "L8f7DKY2W"]}
-      {:source [:block/uid "boEtJrG6i"],
-       :value [:block/uid "pqG_FGg51"]}
-      {:source [:block/uid "jkA18r43k"],
-       :value [:block/uid "jkA18r43k"]}]
-     [{:source [:block/uid "L8f7DKY2W"],
-       :value [:block/uid "L8f7DKY2W"]}
-      {:source [:block/uid "rtmoVxXeS"],
-       :value [:block/uid "kaDKYcGb1"]}
-      {:source [:block/uid "M8lSdsrFv"],
-       :value [:block/uid "M8lSdsrFv"]}]
-     [{:source [:block/uid "L8f7DKY2W"],
-       :value [:block/uid "L8f7DKY2W"]}
-      {:source [:block/uid "Nxks4SGVH"],
-       :value [:block/uid "aOxXHn8rh"]}
-      {:source [:block/uid "qakl9UIS9"],
-       :value [:block/uid "qakl9UIS9"]}]
-     [{:source [:block/uid "L8f7DKY2W"],
-       :value [:block/uid "L8f7DKY2W"]}
-      {:source [:block/uid "boEtJrG6i"],
-       :value [:block/uid "pqG_FGg51"]}
-      {:source [:block/uid "6Whe9XhEZ"],
-       :value [:block/uid "6Whe9XhEZ"]}]
-     [{:source [:block/uid "L8f7DKY2W"],
-       :value [:block/uid "L8f7DKY2W"]}
-      {:source [:block/uid "xVZ_07z7P"],
-       :value [:block/uid "by608YM1l"]}
-      {:source [:block/uid "AbfUrz3jy"],
-       :value [:block/uid "AlLOQyYf9"]}]
-     [{:source [:block/uid "L8f7DKY2W"],
-       :value [:block/uid "L8f7DKY2W"]}
-      {:source [:block/uid "Nxks4SGVH"],
-       :value [:block/uid "aOxXHn8rh"]}
-      {:source [:block/uid "EvZfYm4d6"],
-       :value [:block/uid "EvZfYm4d6"]}]
-     [{:source [:block/uid "L8f7DKY2W"],
-       :value [:block/uid "L8f7DKY2W"]}
       {:source [:block/uid "UnkQmygDt"],
        :value [:block/uid "GPmbtPPKA"]}
       {:source [:block/uid "THegCKocn"],
@@ -52223,11 +52153,10 @@
        :value [:block/uid "RTQnVl2Ki"]}]
      [{:source [:block/uid "L8f7DKY2W"],
        :value [:block/uid "L8f7DKY2W"]}
-      {:source [:block/uid "xVZ_07z7P"],
-       :value [:block/uid "by608YM1l"]}
-      {:source [:block/uid "NCH27NQIb"],
-       :value [:block/uid "QdzVG9YXn"]}]}
-   536920997]
+      {:source [:block/uid "boEtJrG6i"], :value nil}
+      {:source [:block/uid "6Whe9XhEZ"],
+       :value [:block/uid "6Whe9XhEZ"]}]}
+   536959563]
   [12005 :block/string ")" 536912710]
   [12005 :block/uid "cyrOTjay5" 536912710]
   [12005 :edit/time 1616210573243 536912710]
@@ -56546,11 +56475,11 @@
   [12591 :block/parents 12589 536914836]
   [12591 :block/parents 13352 536920952]
   [12591 :block/parents 13353 536920963]
-  [12591 :block/string "support@cortexfutura.com" 536914834]
+  [12591 :block/string "coaching@cortexfutura.com" 536959562]
   [12591 :block/uid "6Whe9XhEZ" 536914834]
   [12591 :create/time 1616401126020 536914834]
   [12591 :create/user 3 536914834]
-  [12591 :edit/time 1616401126020 536914834]
+  [12591 :edit/time 1617274806357 536959562]
   [12591 :edit/user 3 536914834]
   [12592 :block/children 12576 536914852]
   [12592 :block/children 12593 536914855]
@@ -56915,8 +56844,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid53a52c4e-c875-4d16-a352-9f002c7315fd"
-   536959516]
+   "uuid41568f94-707a-4e3b-830a-4385e6ab3612"
+   536959584]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -62346,20 +62275,20 @@
   [13365 :block/parents 2541 536921042]
   [13365 :block/parents 13117 536921042]
   [13365 :block/parents 13366 536921085]
-  [13365 :block/refs 829 536921057]
-  [13365 :block/refs 905 536921061]
-  [13365 :block/refs 1065 536921055]
+  [13365 :block/refs 829 536959576]
+  [13365 :block/refs 905 536959576]
+  [13365 :block/refs 1065 536959576]
   [13365
    :block/string
    "Cortex Futura's course covers the whole academic process from literature [research]([[Research]]) over note-taking to [writing]([[Writing]]) inside Roam – and how to get your writing from Roam into a nicely formatted draft in Word or PDF format. The course assumes zero previous Roam knowledge, has already helped hundreds of people in [academia]([[Studying]]) use Roam for their research and received much praise from the community."
-   536921060]
+   536959576]
   [13365 :block/uid "lYstefUOP" 536921041]
   [13365 :create/time 1616570663599 536921041]
   [13365 :create/user 3 536921041]
-  [13365 :edit/time 1616570719774 536921060]
+  [13365 :edit/time 1616570719774 536959576]
   [13365 :edit/user 3 536921041]
   [13366 :block/children 13365 536921084]
-  [13366 :block/heading 3 536921051]
+  [13366 :block/heading 2 536959530]
   [13366 :block/open true 536921047]
   [13366 :block/order 2 536921129]
   [13366 :block/page 527 536921049]
@@ -62369,12 +62298,12 @@
   [13366 :block/refs 2471 536921048]
   [13366
    :block/string
-   "[Cite to Write](https://t.co/Z95EFrEenY?amp=1) by [[Cortex Futura]] __$150__"
-   536921065]
+   "[Cite to Write](https://www.cortexfutura.com/p/cite-to-write/) by [[Cortex Futura]] $150"
+   536959583]
   [13366 :block/uid "zkD6P1tAj" 536921047]
   [13366 :create/time 1616570683671 536921047]
   [13366 :create/user 3 536921047]
-  [13366 :edit/time 1616570740413 536921065]
+  [13366 :edit/time 1617274879853 536959583]
   [13366 :edit/user 3 536921047]
   [13367 :block/open true 536921066]
   [13367 :block/order 0 536921082]
@@ -62393,7 +62322,7 @@
   [13367 :edit/time 1616570782419 536921078]
   [13367 :edit/user 3 536921066]
   [13368 :block/children 13367 536921082]
-  [13368 :block/heading 3 536921080]
+  [13368 :block/heading 2 536959520]
   [13368 :block/open true 536921075]
   [13368 :block/order 0 536921075]
   [13368 :block/page 527 536921077]
@@ -62403,15 +62332,15 @@
   [13368 :block/refs 2471 536921076]
   [13368
    :block/string
-   "[Roam in Context](https://signup.cortexfutura.com/roam-in-context) by [[Cortex Futura]]"
-   536921075]
+   "[Roam in Context](https://learn.cortexfutura.com/p/roam-research-coaching?utm_source=roamresearch&utm_medium=graph&utm_campaign=helpgraph) by [[Cortex Futura]]"
+   536959550]
   [13368 :block/uid "eBnpsWa0X" 536921075]
   [13368 :create/time 1616570782409 536921075]
   [13368 :create/user 3 536921075]
-  [13368 :edit/time 1616570782409 536921075]
+  [13368 :edit/time 1617274762963 536959550]
   [13368 :edit/user 3 536921075]
   [13369 :block/children 13370 536921115]
-  [13369 :block/heading 3 536921088]
+  [13369 :block/heading 2 536959529]
   [13369 :block/open true 536921086]
   [13369 :block/order 1 536921129]
   [13369 :block/page 527 536921087]
@@ -68570,10 +68499,26 @@
   [44463 :create/user 3 536959514]
   [44463 :edit/time 1617270325252 536959514]
   [44463 :edit/user 3 536959514]
-  [44464 :block/uid "vHjf2BDPG" 536959516]
-  [44464 :user/display-name "Erik Newhard" 536959516]
-  [44464
+  [44470 :block/string "" 536959546]
+  [44470 :block/uid "Hj-7xsqds" 536959546]
+  [44470 :edit/time 1617274743953 536959546]
+  [44470 :edit/user 3 536959546]
+  [44471 :block/string "" 536959552]
+  [44471 :block/uid "_RxsMZZdr" 536959552]
+  [44471 :edit/time 1617274766247 536959552]
+  [44471 :edit/user 3 536959552]
+  [44472 :block/string "" 536959558]
+  [44472 :block/uid "uXFItUqTq" 536959558]
+  [44472 :edit/time 1617274777201 536959558]
+  [44472 :edit/user 3 536959558]
+  [44475 :block/string "" 536959582]
+  [44475 :block/uid "6uUfIPO6H" 536959582]
+  [44475 :edit/time 1617274855448 536959582]
+  [44475 :edit/user 3 536959582]
+  [44476 :block/uid "SKEYEexhQ" 536959584]
+  [44476 :user/display-name "Erik Newhard" 536959584]
+  [44476
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536959516]
-  [44464 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959516]]}
+   536959584]
+  [44476 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959584]]}

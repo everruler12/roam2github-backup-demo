@@ -28069,13 +28069,13 @@
           {
             "string": "Free",
             "create-time": 1614682170259,
-            "heading": 2,
+            "heading": 1,
             ":create/user": {
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             },
             "children": [
               {
-                "edit-time": 1616570782409,
+                "edit-time": 1617274762963,
                 "children": [
                   {
                     "string": "Learn the fundamentals of Roam from seven different perspectives. In six videos per use-case, Roam in Context will teach you Roam's basic features in the context of writing, note-taking, task management, project management, journaling, decision making and research/academia. Pick and choose the focus that fits your needs best – zero previous knowledge required.",
@@ -28101,7 +28101,7 @@
                     ":block/uid": "RkvokA4jz"
                   }
                 ],
-                "string": "[Roam in Context](https://signup.cortexfutura.com/roam-in-context) by [[Cortex Futura]]",
+                "string": "[Roam in Context](https://learn.cortexfutura.com/p/roam-research-coaching?utm_source=roamresearch&utm_medium=graph&utm_campaign=helpgraph) by [[Cortex Futura]]",
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
@@ -28109,7 +28109,7 @@
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "heading": 3
+                "heading": 2
               },
               {
                 "edit-time": 1614805280005,
@@ -28150,10 +28150,10 @@
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "heading": 3
+                "heading": 2
               },
               {
-                "edit-time": 1614805265637,
+                "edit-time": 1617274704210,
                 "children": [
                   {
                     "string": "An extensive and comprehensive collection of Roam videos packaged into a free course which can be watched on YouTube.",
@@ -28199,7 +28199,7 @@
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "heading": 3
+                "heading": 2
               },
               {
                 "edit-time": 1614805099966,
@@ -28248,7 +28248,7 @@
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "heading": 3
+                "heading": 2
               },
               {
                 "edit-time": 1614805505955,
@@ -28297,7 +28297,7 @@
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "heading": 3
+                "heading": 2
               },
               {
                 "edit-time": 1614805762019,
@@ -28346,7 +28346,7 @@
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "heading": 3
+                "heading": 2
               }
             ],
             "uid": "eEUXylm_o",
@@ -28358,13 +28358,13 @@
           {
             "string": "Paid",
             "create-time": 1614682172073,
-            "heading": 2,
+            "heading": 1,
             ":create/user": {
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             },
             "children": [
               {
-                "edit-time": 1616400912355,
+                "edit-time": 1617274725815,
                 "children": [
                   {
                     "string": "RJ teaches the nuts and bolts of Roam's feature set and provide learners with the tools to develop their own unique workflows based on their specific interests and needs.",
@@ -28390,7 +28390,7 @@
                     ":block/uid": "Fu7jG-iaF"
                   }
                 ],
-                "string": "[Your Road to Roam](https://courses.rjnestor.com/p/your-road-to-roam) by [[R.J. Nestor]] __$90__",
+                "string": "[Your Road to Roam](https://courses.rjnestor.com/p/your-road-to-roam) by [[R.J. Nestor]] $90",
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
@@ -28398,7 +28398,7 @@
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "heading": 3
+                "heading": 2
               },
               {
                 "edit-time": 1616570916432,
@@ -28445,10 +28445,10 @@
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "heading": 3
+                "heading": 2
               },
               {
-                "edit-time": 1616570740413,
+                "edit-time": 1617274879853,
                 "children": [
                   {
                     "string": "Cortex Futura's course covers the whole academic process from literature [research]([[Research]]) over note-taking to [writing]([[Writing]]) inside Roam – and how to get your writing from Roam into a nicely formatted draft in Word or PDF format. The course assumes zero previous Roam knowledge, has already helped hundreds of people in [academia]([[Studying]]) use Roam for their research and received much praise from the community.",
@@ -28496,7 +28496,7 @@
                     ":block/uid": "RkvokA4jz"
                   }
                 ],
-                "string": "[Cite to Write](https://t.co/Z95EFrEenY?amp=1) by [[Cortex Futura]] __$150__",
+                "string": "[Cite to Write](https://www.cortexfutura.com/p/cite-to-write/) by [[Cortex Futura]] $150",
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
@@ -28504,10 +28504,10 @@
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "heading": 3
+                "heading": 2
               },
               {
-                "edit-time": 1614806822058,
+                "edit-time": 1617274737668,
                 "children": [
                   {
                     "string": "Nat's first version of this course was officially endorsed by Roam and he's back again with an updated version, where he'll show you how to master the basics, build and organize your graph, manage projects and produce output, effortlessly.",
@@ -28529,7 +28529,7 @@
                     ":block/uid": "wbh78kemE"
                   }
                 ],
-                "string": "[Effortless Output in Roam](https://www.effortlessoutput.com) by [[Nat Eliason]] __$250__",
+                "string": "[Effortless Output in Roam](https://www.effortlessoutput.com) by [[Nat Eliason]] $250",
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
@@ -28537,7 +28537,7 @@
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "heading": 3
+                "heading": 2
               }
             ],
             "uid": "SwoPuWuEK",
@@ -38413,10 +38413,10 @@
                         }
                       },
                       {
-                        "string": "support@cortexfutura.com",
+                        "string": "coaching@cortexfutura.com",
                         "create-time": 1616401126020,
                         "uid": "6Whe9XhEZ",
-                        "edit-time": 1616401126020,
+                        "edit-time": 1617274806357,
                         ":create/user": {
                           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                         },

@@ -34,7 +34,7 @@
                 - [[Academia]]
             - Contact::
                 - [DM on Twitter](https://twitter.com/cortexfutura)
-                - support@cortexfutura.com
+                - coaching@cortexfutura.com
             - Price::
                 - Roam Coaching Packages starting at $150
                 - DM or message for custom coaching package needs
