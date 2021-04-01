@@ -26,7 +26,7 @@
                 - Helps you
                 - Created courses [Cite to Write](https://t.co/Z95EFrEenY?amp=1) (using Roam in academia) and Galaxy Brain (Algorithms of Thought)
             - Website::
-                - [cortexfutura.com](https://t.co/m4nb5UicxD?amp=1)
+                - [Coaching Website](https://learn.cortexfutura.com/p/roam-research-coaching?utm_source=roamresearch&utm_medium=graph&utm_campaign=helpgraph)
             - Areas of specialty::
                 - [[Roam fundamentals]]
                 - [[Workflows]]

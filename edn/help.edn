@@ -52110,8 +52110,9 @@
   [12004 :attrs/lookup 12578 536914801]
   [12004 :attrs/lookup 12579 536914801]
   [12004 :attrs/lookup 12580 536914801]
-  [12004 :attrs/lookup 12589 536914824]
-  [12004 :attrs/lookup 12591 536914835]
+  [12004 :attrs/lookup 12581 536959585]
+  [12004 :attrs/lookup 12594 536959585]
+  [12004 :attrs/lookup 44476 536959585]
   [12004 :block/children 12577 536914746]
   [12004 :block/children 12582 536914785]
   [12004 :block/children 12589 536914819]
@@ -52153,10 +52154,11 @@
        :value [:block/uid "RTQnVl2Ki"]}]
      [{:source [:block/uid "L8f7DKY2W"],
        :value [:block/uid "L8f7DKY2W"]}
-      {:source [:block/uid "boEtJrG6i"], :value nil}
-      {:source [:block/uid "6Whe9XhEZ"],
-       :value [:block/uid "6Whe9XhEZ"]}]}
-   536959563]
+      {:source [:block/uid "rtmoVxXeS"],
+       :value [:block/uid "NmcH8RbDC"]}
+      {:source [:block/uid "M8lSdsrFv"],
+       :value [:block/uid "M8lSdsrFv"]}]}
+   536959585]
   [12005 :block/string ")" 536912710]
   [12005 :block/uid "cyrOTjay5" 536912710]
   [12005 :edit/time 1616210573243 536912710]
@@ -56346,12 +56348,12 @@
   [12581 :block/parents 13353 536920963]
   [12581
    :block/string
-   "[cortexfutura.com](https://t.co/m4nb5UicxD?amp=1)"
-   536920964]
+   "[Coaching Website](https://learn.cortexfutura.com/p/roam-research-coaching?utm_source=roamresearch&utm_medium=graph&utm_campaign=helpgraph)"
+   536959586]
   [12581 :block/uid "M8lSdsrFv" 536914775]
   [12581 :create/time 1616401073616 536914775]
   [12581 :create/user 3 536914775]
-  [12581 :edit/time 1616570440960 536920964]
+  [12581 :edit/time 1617284808329 536959586]
   [12581 :edit/user 3 536914775]
   [12582 :block/children 12583 536914794]
   [12582 :block/children 12586 536914803]
@@ -56521,6 +56523,7 @@
   [12594 :block/parents 12004 536914861]
   [12594 :block/parents 13352 536920952]
   [12594 :block/parents 13353 536920963]
+  [12594 :block/refs 44476 536959584]
   [12594 :block/string "Website::" 536914859]
   [12594 :block/uid "rtmoVxXeS" 536914859]
   [12594 :create/time 1616401144650 536914859]
@@ -56844,8 +56847,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid5fdee591-4bdd-42c4-8ff5-e9cd68187401"
-   536959584]
+   "uuid608e518d-7a57-40e9-b6aa-d216f08ae74e"
+   536959588]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -62298,12 +62301,12 @@
   [13366 :block/refs 2471 536921048]
   [13366
    :block/string
-   "[Cite to Write](https://www.cortexfutura.com/p/cite-to-write/) by [[Cortex Futura]] $150"
-   536959583]
+   "[Cite to Write](https://www.cortexfutura.com/p/cite-to-write/?utm_source=roamresearch&utm_medium=graph&utm_campaign=helpgraph) by [[Cortex Futura]] $150"
+   536959587]
   [13366 :block/uid "zkD6P1tAj" 536921047]
   [13366 :create/time 1616570683671 536921047]
   [13366 :create/user 3 536921047]
-  [13366 :edit/time 1617274879853 536959583]
+  [13366 :edit/time 1617284831198 536959587]
   [13366 :edit/user 3 536921047]
   [13367 :block/open true 536921066]
   [13367 :block/order 0 536921082]
@@ -68515,10 +68518,16 @@
   [44475 :block/uid "6uUfIPO6H" 536959582]
   [44475 :edit/time 1617274855448 536959582]
   [44475 :edit/user 3 536959582]
-  [44476 :block/uid "Nx7c0cDE1" 536959584]
-  [44476 :user/display-name "Erik Newhard" 536959584]
-  [44476
+  [44476 :block/uid "NmcH8RbDC" 536959584]
+  [44476 :create/time 1617284793083 536959584]
+  [44476 :create/user 3 536959584]
+  [44476 :edit/time 1617284793084 536959584]
+  [44476 :edit/user 3 536959584]
+  [44476 :node/title "Website" 536959584]
+  [44477 :block/uid "nM_RWXahQ" 536959588]
+  [44477 :user/display-name "Erik Newhard" 536959588]
+  [44477
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536959584]
-  [44476 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959584]]}
+   536959588]
+  [44477 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959588]]}

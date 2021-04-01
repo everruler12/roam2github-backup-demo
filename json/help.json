@@ -28448,7 +28448,7 @@
                 "heading": 2
               },
               {
-                "edit-time": 1617274879853,
+                "edit-time": 1617284831198,
                 "children": [
                   {
                     "string": "Cortex Futura's course covers the whole academic process from literature [research]([[Research]]) over note-taking to [writing]([[Writing]]) inside Roam – and how to get your writing from Roam into a nicely formatted draft in Word or PDF format. The course assumes zero previous Roam knowledge, has already helped hundreds of people in [academia]([[Studying]]) use Roam for their research and received much praise from the community.",
@@ -28496,7 +28496,7 @@
                     ":block/uid": "RkvokA4jz"
                   }
                 ],
-                "string": "[Cite to Write](https://www.cortexfutura.com/p/cite-to-write/) by [[Cortex Futura]] $150",
+                "string": "[Cite to Write](https://www.cortexfutura.com/p/cite-to-write/?utm_source=roamresearch&utm_medium=graph&utm_campaign=helpgraph) by [[Cortex Futura]] $150",
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
@@ -38260,17 +38260,13 @@
                     }
                   },
                   {
-                    "string": "Website::",
-                    "create-time": 1616401144650,
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
+                    "edit-time": 1616401144650,
                     "children": [
                       {
-                        "string": "[cortexfutura.com](https://t.co/m4nb5UicxD?amp=1)",
+                        "string": "[Coaching Website](https://learn.cortexfutura.com/p/roam-research-coaching?utm_source=roamresearch&utm_medium=graph&utm_campaign=helpgraph)",
                         "create-time": 1616401073616,
                         "uid": "M8lSdsrFv",
-                        "edit-time": 1616570440960,
+                        "edit-time": 1617284808329,
                         ":create/user": {
                           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                         },
@@ -38279,8 +38275,22 @@
                         }
                       }
                     ],
+                    "refs": [
+                      {
+                        "uid": "NmcH8RbDC"
+                      }
+                    ],
                     "uid": "rtmoVxXeS",
-                    "edit-time": 1616401144650,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "NmcH8RbDC"
+                      }
+                    ],
+                    "string": "Website::",
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "create-time": 1616401144650,
                     ":edit/user": {
                       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                     }
@@ -65711,6 +65721,18 @@
     "edit-time": 1617244792410,
     ":edit/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1617284793083,
+    "title": "Website",
+    "uid": "NmcH8RbDC",
+    "edit-time": 1617284793084,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     }
   }
 ]
