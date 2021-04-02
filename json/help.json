@@ -45727,7 +45727,7 @@
                 }
               },
               {
-                "edit-time": 1617366377278,
+                "edit-time": 1617380168176,
                 "children": [
                   {
                     "string": "Update Changelog link in `Check for Updates` toast",
@@ -45753,7 +45753,7 @@
                     ":block/uid": "xxFKZqzYN"
                   }
                 ],
-                "string": "[[Bug Fixes]]",
+                "string": "[[Bug Fixes]] 🛠",
                 ":create/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },

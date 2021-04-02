@@ -11,7 +11,7 @@
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F5j3PFaZ5Xz.png?alt=media&token=6d36fc43-b6bc-434d-98fa-22250b6416c9)
                     - After::
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FkDgsAI3wOK.png?alt=media&token=07e6f288-00dd-4a03-ac21-1d10ea038f3d)
-        - [[Bug Fixes]]
+        - [[Bug Fixes]] 🛠
             - Update Changelog link in `Check for Updates` toast
     - ### [[March 30th, 2021]]
         - [[New Features]] 🚀
