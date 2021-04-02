@@ -45578,6 +45578,213 @@
             }
           },
           {
+            "edit-time": 1617366297965,
+            "children": [
+              {
+                "edit-time": 1617366347681,
+                "children": [
+                  {
+                    "string": "Add shortcut hint in context menu for copying block refs ",
+                    "create-time": 1617343230582,
+                    "uid": "k_xq7IiNT",
+                    "edit-time": 1617366360142,
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    }
+                  },
+                  {
+                    "string": "Make it clearer that deleting a graph doesn't immediately allow using its name again",
+                    "create-time": 1617342740174,
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        "edit-time": 1617366352800,
+                        "children": [
+                          {
+                            "edit-time": 1617366352800,
+                            "children": [
+                              {
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F5j3PFaZ5Xz.png?alt=media&token=6d36fc43-b6bc-434d-98fa-22250b6416c9)",
+                                "create-time": 1617348747025,
+                                "uid": "7QPstb9Ea",
+                                "edit-time": 1617366352800,
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "46rVygy_C"
+                              }
+                            ],
+                            "uid": "2SoyVqOsh",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "46rVygy_C"
+                              }
+                            ],
+                            "string": "Before::",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1617348738290,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          },
+                          {
+                            "edit-time": 1617366352800,
+                            "children": [
+                              {
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FkDgsAI3wOK.png?alt=media&token=07e6f288-00dd-4a03-ac21-1d10ea038f3d)",
+                                "create-time": 1617348759614,
+                                "uid": "qPj5yQHFx",
+                                "edit-time": 1617366352800,
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "spmuyAFsP"
+                              }
+                            ],
+                            "uid": "lfPrcysdC",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "spmuyAFsP"
+                              }
+                            ],
+                            "string": "After::",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1617348742684,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "2-eIgz-4z"
+                          }
+                        ],
+                        "uid": "r8jZA4-48",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "2-eIgz-4z"
+                          }
+                        ],
+                        "string": "{{[[table]]}}",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1617348782857,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "uid": "NCHtirknW",
+                    "edit-time": 1617366357679,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "uid": "Ilv6icpyE",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]]",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1617366342751,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
+              },
+              {
+                "edit-time": 1617366377278,
+                "children": [
+                  {
+                    "string": "Update Changelog link in `Check for Updates` toast",
+                    "create-time": 1617366377263,
+                    "uid": "SGbwG1v_t",
+                    "edit-time": 1617366407764,
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "xxFKZqzYN"
+                  }
+                ],
+                "uid": "690HAdTXx",
+                ":block/refs": [
+                  {
+                    ":block/uid": "xxFKZqzYN"
+                  }
+                ],
+                "string": "[[Bug Fixes]]",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1617366374826,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "04-02-2021"
+              }
+            ],
+            "uid": "AK2PD85g7",
+            ":block/refs": [
+              {
+                ":block/uid": "04-02-2021"
+              }
+            ],
+            "string": "[[April 2nd, 2021]]",
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "create-time": 1617366291409,
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "heading": 3
+          },
+          {
             "edit-time": 1617174738516,
             "children": [
               {
@@ -45587,7 +45794,7 @@
                     "string": "You can now export the block you're zoomed into instead of the whole page",
                     "create-time": 1617174741941,
                     "uid": "Tq9Yp9MLO",
-                    "edit-time": 1617174762693,
+                    "edit-time": 1617366403513,
                     ":create/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
@@ -65739,12 +65946,36 @@
     "create-time": 1617325812862,
     "title": "April 2nd, 2021",
     "uid": "04-02-2021",
-    "edit-time": 1617325812862,
+    "edit-time": 1617366297965,
     ":create/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     },
     ":edit/user": {
-      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1617366352841,
+    "title": "Before",
+    "uid": "46rVygy_C",
+    "edit-time": 1617366352841,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1617366352852,
+    "title": "After",
+    "uid": "spmuyAFsP",
+    "edit-time": 1617366352852,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     }
   }
 ]
