@@ -45581,13 +45581,13 @@
             "edit-time": 1617366297965,
             "children": [
               {
-                "edit-time": 1617366347681,
+                "edit-time": 1617366649769,
                 "children": [
                   {
-                    "string": "Add shortcut hint in context menu for copying block refs ",
+                    "string": "Added shortcut hint in context menu for copying block refs ",
                     "create-time": 1617343230582,
                     "uid": "k_xq7IiNT",
-                    "edit-time": 1617366360142,
+                    "edit-time": 1617367325283,
                     ":create/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
@@ -45596,7 +45596,7 @@
                     }
                   },
                   {
-                    "string": "Make it clearer that deleting a graph doesn't immediately allow using its name again",
+                    "string": "Made it clearer that deleting a graph doesn't immediately allow using its name again",
                     "create-time": 1617342740174,
                     ":create/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
@@ -45700,7 +45700,7 @@
                       }
                     ],
                     "uid": "NCHtirknW",
-                    "edit-time": 1617366357679,
+                    "edit-time": 1617367323507,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     }
@@ -45717,7 +45717,7 @@
                     ":block/uid": "_EqbjQSAF"
                   }
                 ],
-                "string": "[[Quality of Life Improvements]]",
+                "string": "[[Quality of Life Improvements]] ✨",
                 ":create/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },

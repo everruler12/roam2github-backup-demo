@@ -19008,6 +19008,7 @@
   [7324 :create/time 1614797818521 536892180]
   [7324 :create/user 6897 536892180]
   [7324 :edit/seen-by 3 536893792]
+  [7324 :edit/seen-by 3422 536959701]
   [7324 :edit/time 1614958692749 536897740]
   [7324 :edit/user 6897 536897722]
   [7325 :block/children 7327 536892202]
@@ -56848,8 +56849,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuidbcad6c48-d806-4418-ba22-5963c6351ecd"
-   536959695]
+   "uuidfbebb4c3-f459-47f1-897d-9a8863555650"
+   536959702]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -68564,11 +68565,11 @@
   [44490 :block/parents 10915 536959634]
   [44490 :block/parents 44487 536959636]
   [44490 :block/refs 43713 536959640]
-  [44490 :block/string "[[Quality of Life Improvements]]" 536959639]
+  [44490 :block/string "[[Quality of Life Improvements]] ✨" 536959695]
   [44490 :block/uid "Ilv6icpyE" 536959633]
   [44490 :create/time 1617366342751 536959633]
   [44490 :create/user 53 536959633]
-  [44490 :edit/time 1617366347681 536959639]
+  [44490 :edit/time 1617366649769 536959695]
   [44490 :edit/user 53 536959633]
   [44493 :block/open true 536959643]
   [44493 :block/order 0 536959668]
@@ -68579,15 +68580,15 @@
   [44493 :block/parents 44490 536959654]
   [44493
    :block/string
-   "Add shortcut hint in context menu for copying block refs "
-   536959660]
+   "Added shortcut hint in context menu for copying block refs "
+   536959699]
   [44493 :block/uid "k_xq7IiNT" 536959643]
   [44493 :create/time 1617343230582 536959643]
   [44493 :create/user 53 536959643]
-  [44493 :edit/time 1617366360142 536959660]
+  [44493 :edit/time 1617367325283 536959699]
   [44493 :edit/user 53 536959643]
   [44494 :block/children 44495 536959643]
-  [44494 :block/open true 536959643]
+  [44494 :block/open false 536959700]
   [44494 :block/order 1 536959668]
   [44494 :block/page 4296 536959655]
   [44494 :block/parents 4296 536959655]
@@ -68596,12 +68597,12 @@
   [44494 :block/parents 44490 536959655]
   [44494
    :block/string
-   "Make it clearer that deleting a graph doesn't immediately allow using its name again"
-   536959658]
+   "Made it clearer that deleting a graph doesn't immediately allow using its name again"
+   536959698]
   [44494 :block/uid "NCHtirknW" 536959643]
   [44494 :create/time 1617342740174 536959643]
   [44494 :create/user 53 536959643]
-  [44494 :edit/time 1617366357679 536959658]
+  [44494 :edit/time 1617367323507 536959698]
   [44494 :edit/user 53 536959643]
   [44495 :attrs/lookup 44495 536959650]
   [44495 :attrs/lookup 44496 536959650]
@@ -68772,10 +68773,10 @@
   [44509 :block/uid "vP6x4xleg" 536959690]
   [44509 :edit/time 1617366401984 536959690]
   [44509 :edit/user 53 536959690]
-  [44510 :block/uid "S1fqn93in" 536959695]
-  [44510 :user/display-name "Erik Newhard" 536959695]
+  [44510 :block/uid "4Iw_4RJUC" 536959702]
+  [44510 :user/display-name "Erik Newhard" 536959702]
   [44510
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536959695]
-  [44510 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959695]]}
+   536959702]
+  [44510 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959702]]}

@@ -3,9 +3,9 @@
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
     - ### [[April 2nd, 2021]]
-        - [[Quality of Life Improvements]]
-            - Add shortcut hint in context menu for copying block refs 
-            - Make it clearer that deleting a graph doesn't immediately allow using its name again
+        - [[Quality of Life Improvements]] ✨
+            - Added shortcut hint in context menu for copying block refs 
+            - Made it clearer that deleting a graph doesn't immediately allow using its name again
                 - {{[[table]]}}
                     - Before::
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F5j3PFaZ5Xz.png?alt=media&token=6d36fc43-b6bc-434d-98fa-22250b6416c9)
