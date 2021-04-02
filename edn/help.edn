@@ -56849,8 +56849,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuidfbebb4c3-f459-47f1-897d-9a8863555650"
-   536959702]
+   "uuid94e8357e-e887-495a-9fe7-fb995282550f"
+   536959719]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -68420,7 +68420,7 @@
   [44453 :edit/time 1617179820221 536959487]
   [44453 :edit/user 53 536959428]
   [44454 :block/open false 536959490]
-  [44454 :block/order 2 536959455]
+  [44454 :block/order 2 536959704]
   [44454 :block/page 4296 536959433]
   [44454 :block/parents 4296 536959433]
   [44454 :block/parents 10915 536959433]
@@ -68456,7 +68456,8 @@
   [44457 :create/user 53 536959444]
   [44457 :edit/time 1617174993172 536959449]
   [44457 :edit/user 53 536959444]
-  [44458 :block/open false 536959492]
+  [44458 :block/children 44510 536959704]
+  [44458 :block/open true 536959716]
   [44458 :block/order 1 536959455]
   [44458 :block/page 4296 536959456]
   [44458 :block/parents 4296 536959456]
@@ -68588,7 +68589,7 @@
   [44493 :edit/time 1617367325283 536959699]
   [44493 :edit/user 53 536959643]
   [44494 :block/children 44495 536959643]
-  [44494 :block/open false 536959700]
+  [44494 :block/open false 536959718]
   [44494 :block/order 1 536959668]
   [44494 :block/page 4296 536959655]
   [44494 :block/parents 4296 536959655]
@@ -68773,10 +68774,27 @@
   [44509 :block/uid "vP6x4xleg" 536959690]
   [44509 :edit/time 1617366401984 536959690]
   [44509 :edit/user 53 536959690]
-  [44510 :block/uid "4Iw_4RJUC" 536959702]
-  [44510 :user/display-name "Erik Newhard" 536959702]
+  [44510 :block/open true 536959702]
+  [44510 :block/order 0 536959704]
+  [44510 :block/page 4296 536959703]
+  [44510 :block/parents 4296 536959703]
+  [44510 :block/parents 10915 536959703]
+  [44510 :block/parents 44445 536959703]
+  [44510 :block/parents 44453 536959703]
+  [44510 :block/parents 44458 536959705]
   [44510
+   :block/string
+   "The shorcuts icon has been turned into an option inside the ... dropdown menu"
+   536959714]
+  [44510 :block/uid "TX55qwc9H" 536959702]
+  [44510 :create/time 1617372818797 536959702]
+  [44510 :create/user 53 536959702]
+  [44510 :edit/time 1617372875407 536959714]
+  [44510 :edit/user 53 536959702]
+  [44511 :block/uid "53D5qxxyf" 536959719]
+  [44511 :user/display-name "Erik Newhard" 536959719]
+  [44511
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536959702]
-  [44510 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959702]]}
+   536959719]
+  [44511 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959719]]}

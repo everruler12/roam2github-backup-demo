@@ -19,6 +19,7 @@
         - [[Quality of Life Improvements]] ✨
             1. Block embeds are now resolved to text in [[Markdown]] exports
             2. Added an icon to easily access the right sidebar
+                - The shorcuts icon has been turned into an option inside the ... dropdown menu
             3. Added better visual feedback for adding/removing shortcuts
         - [[Bug Fixes]] 🛠
             - Strikethrough and redo shortcuts on Windows have been reverted to Win+Y and Ctrl+Y respectively following reports that users couldn't redo more than once.

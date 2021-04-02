@@ -45851,11 +45851,25 @@
                   {
                     "string": "Added an icon to easily access the right sidebar",
                     "create-time": 1617175048154,
-                    "uid": "OMZ4qD-UD",
-                    "edit-time": 1617175048154,
                     ":create/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
+                    "children": [
+                      {
+                        "string": "The shorcuts icon has been turned into an option inside the ... dropdown menu",
+                        "create-time": 1617372818797,
+                        "uid": "TX55qwc9H",
+                        "edit-time": 1617372875407,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "uid": "OMZ4qD-UD",
+                    "edit-time": 1617175048154,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     }
