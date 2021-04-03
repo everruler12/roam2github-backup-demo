@@ -4,7 +4,7 @@
     - ## **New Changes**
     - ### [[April 2nd, 2021]]
         - [[Quality of Life Improvements]] ✨
-            - Added shortcut hint in context menu for copying block refs 
+            - Added shortcut hint in context menu for copying [[Block References]]
             - Made it clearer that deleting a graph doesn't immediately allow using its name again
                 - {{[[table]]}}
                     - Before::

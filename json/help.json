@@ -45584,13 +45584,23 @@
                 "edit-time": 1617366649769,
                 "children": [
                   {
-                    "string": "Added shortcut hint in context menu for copying block refs ",
+                    "string": "Added shortcut hint in context menu for copying [[Block References]]",
                     "create-time": 1617343230582,
-                    "uid": "k_xq7IiNT",
-                    "edit-time": 1617367325283,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "l8uKkdhbc"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "l8uKkdhbc"
+                      }
+                    ],
                     ":create/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
+                    "uid": "k_xq7IiNT",
+                    "edit-time": 1617466752872,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     }

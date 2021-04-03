@@ -56855,8 +56855,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid159ce212-c004-4e0b-a71b-052843660215"
-   536959814]
+   "uuida85c9051-8a9e-4ea9-92e1-9817bbffb44b"
+   536959821]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -68589,14 +68589,15 @@
   [44493 :block/parents 10915 536959654]
   [44493 :block/parents 44487 536959654]
   [44493 :block/parents 44490 536959654]
+  [44493 :block/refs 340 536959820]
   [44493
    :block/string
-   "Added shortcut hint in context menu for copying block refs "
-   536959699]
+   "Added shortcut hint in context menu for copying [[Block References]]"
+   536959819]
   [44493 :block/uid "k_xq7IiNT" 536959643]
   [44493 :create/time 1617343230582 536959643]
   [44493 :create/user 53 536959643]
-  [44493 :edit/time 1617367325283 536959699]
+  [44493 :edit/time 1617466752872 536959819]
   [44493 :edit/user 53 536959643]
   [44494 :block/children 44495 536959643]
   [44494 :block/open false 536959718]
@@ -68811,7 +68812,7 @@
   [44511 :log/id 1617449774551 536959725]
   [44511 :node/title "April 3rd, 2021" 536959725]
   [44512 :block/open true 536959726]
-  [44512 :block/order 0 536959803]
+  [44512 :block/order 0 536959817]
   [44512 :block/page 44511 536959727]
   [44512 :block/parents 44511 536959727]
   [44512
@@ -68915,7 +68916,7 @@
   [44516 :block/children 44517 536959808]
   [44516 :block/children 44518 536959784]
   [44516 :block/open true 536959748]
-  [44516 :block/order 1 536959806]
+  [44516 :block/order 1 536959817]
   [44516 :block/page 44511 536959749]
   [44516 :block/parents 44511 536959749]
   [44516
@@ -68956,10 +68957,10 @@
   [44518 :create/user 53 536959784]
   [44518 :edit/time 1617450041760 536959792]
   [44518 :edit/user 53 536959784]
-  [44519 :block/uid "6CgjMPexB" 536959814]
-  [44519 :user/display-name "Erik Newhard" 536959814]
+  [44519 :block/uid "_AvnAeMWG" 536959821]
+  [44519 :user/display-name "Erik Newhard" 536959821]
   [44519
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536959814]
-  [44519 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959814]]}
+   536959821]
+  [44519 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959821]]}
