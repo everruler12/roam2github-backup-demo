@@ -32606,89 +32606,6 @@
                 "heading": 3
               },
               {
-                "edit-time": 1615208449957,
-                "children": [
-                  {
-                    "string": "{{[[video]]: https://www.youtube.com/watch?v=xOTTyLtgqpM}}\n#[[roam/css]] | #[[Extensions]] | #[[roam/js]] | #[[Sidebar]] | #[[TODO/DONE]] | #[[Query]]",
-                    "create-time": 1615208454140,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "RA1UXmzp0"
-                      },
-                      {
-                        ":block/uid": "OpgJN0KUh"
-                      },
-                      {
-                        ":block/uid": "Gx35Ef0-S"
-                      },
-                      {
-                        ":block/uid": "nBCwjGuI7"
-                      },
-                      {
-                        ":block/uid": "2h9V-FtAO"
-                      },
-                      {
-                        ":block/uid": "ujeQZM_YD"
-                      },
-                      {
-                        ":block/uid": "nbJ0jAsk_"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "RA1UXmzp0"
-                      },
-                      {
-                        "uid": "OpgJN0KUh"
-                      },
-                      {
-                        "uid": "Gx35Ef0-S"
-                      },
-                      {
-                        "uid": "nBCwjGuI7"
-                      },
-                      {
-                        "uid": "2h9V-FtAO"
-                      },
-                      {
-                        "uid": "ujeQZM_YD"
-                      },
-                      {
-                        "uid": "nbJ0jAsk_"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                    },
-                    "uid": "JdZhoU4IY",
-                    "edit-time": 1615210249116,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "EScmD4lzQ"
-                  }
-                ],
-                "uid": "FVaHfMBLw",
-                ":block/refs": [
-                  {
-                    ":block/uid": "EScmD4lzQ"
-                  }
-                ],
-                "string": "Todoist to Roam Research - Advanced Task Management in Roam by [[Matt Goldenberg]]",
-                ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "create-time": 1615208433508,
-                ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "heading": 3
-              },
-              {
                 "edit-time": 1615112496985,
                 "children": [
                   {
@@ -49271,95 +49188,6 @@
                 "heading": 3
               },
               {
-                "edit-time": 1614809215818,
-                "children": [
-                  {
-                    "string": "{{[[video]]: https://www.youtube.com/watch?v=KoddCmn3eL0&ab_channel=RobertHaisfield}}\n#[[Block References]] | #[[Page References]] | #[[Indentation]] | #[[Daily Notes]] | #[[Current time]] | #[[Right Sidebar]]",
-                    "create-time": 1614797818521,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "l8uKkdhbc"
-                      },
-                      {
-                        ":block/uid": "eOaNXBvXZ"
-                      },
-                      {
-                        ":block/uid": "vh3v5clCD"
-                      },
-                      {
-                        ":block/uid": "JG_fewIU6"
-                      },
-                      {
-                        ":block/uid": "pg0UYWwfj"
-                      },
-                      {
-                        ":block/uid": "jU6FkOwUZ"
-                      },
-                      {
-                        ":block/uid": "2h9V-FtAO"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "l8uKkdhbc"
-                      },
-                      {
-                        "uid": "eOaNXBvXZ"
-                      },
-                      {
-                        "uid": "vh3v5clCD"
-                      },
-                      {
-                        "uid": "JG_fewIU6"
-                      },
-                      {
-                        "uid": "pg0UYWwfj"
-                      },
-                      {
-                        "uid": "jU6FkOwUZ"
-                      },
-                      {
-                        "uid": "2h9V-FtAO"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-                    },
-                    "uid": "2HFq8taMs",
-                    "edit-time": 1614958692749,
-                    ":edit/user": {
-                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "bwIgPsfh2"
-                  },
-                  {
-                    "uid": "xrYZCB_Gl"
-                  }
-                ],
-                "uid": "caRZuJwBq",
-                ":block/refs": [
-                  {
-                    ":block/uid": "bwIgPsfh2"
-                  },
-                  {
-                    ":block/uid": "xrYZCB_Gl"
-                  }
-                ],
-                "string": "Implementing a Digital Zettelkasten using Block References in Roam Research with [[Beau Haan]] by [[Robert Haisfield]]",
-                ":create/user": {
-                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-                },
-                "create-time": 1614797794907,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "heading": 3
-              },
-              {
                 "edit-time": 1614809240224,
                 "children": [
                   {
@@ -52716,17 +52544,59 @@
                 "heading": 3
               },
               {
-                "edit-time": 1616206971396,
+                "edit-time": 1617531052082,
                 "children": [
                   {
-                    "string": "((JdZhoU4IY))",
+                    "string": "{{[[video]]: https://www.youtube.com/watch?v=xOTTyLtgqpM}}\n#[[roam/css]] | #[[Extensions]] | #[[roam/js]] | #[[Sidebar]] | #[[TODO/DONE]] | #[[Query]]",
                     "create-time": 1615112714327,
                     ":block/refs": [
+                      {
+                        ":block/uid": "RA1UXmzp0"
+                      },
+                      {
+                        ":block/uid": "OpgJN0KUh"
+                      },
+                      {
+                        ":block/uid": "Gx35Ef0-S"
+                      },
+                      {
+                        ":block/uid": "nBCwjGuI7"
+                      },
+                      {
+                        ":block/uid": "2h9V-FtAO"
+                      },
+                      {
+                        ":block/uid": "ujeQZM_YD"
+                      },
+                      {
+                        ":block/uid": "nbJ0jAsk_"
+                      },
                       {
                         ":block/uid": "JdZhoU4IY"
                       }
                     ],
                     "refs": [
+                      {
+                        "uid": "RA1UXmzp0"
+                      },
+                      {
+                        "uid": "OpgJN0KUh"
+                      },
+                      {
+                        "uid": "Gx35Ef0-S"
+                      },
+                      {
+                        "uid": "nBCwjGuI7"
+                      },
+                      {
+                        "uid": "2h9V-FtAO"
+                      },
+                      {
+                        "uid": "ujeQZM_YD"
+                      },
+                      {
+                        "uid": "nbJ0jAsk_"
+                      },
                       {
                         "uid": "JdZhoU4IY"
                       }
@@ -52735,13 +52605,16 @@
                       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                     },
                     "uid": "YiSX0kthF",
-                    "edit-time": 1616495010470,
+                    "edit-time": 1617531052070,
                     ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                     }
                   }
                 ],
                 "refs": [
+                  {
+                    "uid": "EScmD4lzQ"
+                  },
                   {
                     "uid": "FVaHfMBLw"
                   }
@@ -52749,16 +52622,19 @@
                 "uid": "hhPtwJ8oE",
                 ":block/refs": [
                   {
+                    ":block/uid": "EScmD4lzQ"
+                  },
+                  {
                     ":block/uid": "FVaHfMBLw"
                   }
                 ],
-                "string": "((FVaHfMBLw))",
+                "string": "Todoist to Roam Research - Advanced Task Management in Roam by [[Matt Goldenberg]]",
                 ":create/user": {
                   ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                 },
                 "create-time": 1615112714327,
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                 },
                 "heading": 3
               }
@@ -66727,6 +66603,192 @@
     },
     ":edit/user": {
       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1617530986291,
+    "title": "Long Videos",
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    "children": [
+      {
+        "edit-time": 1617530987949,
+        "children": [
+          {
+            "string": "{{[[video]]: https://www.youtube.com/watch?v=KoddCmn3eL0&ab_channel=RobertHaisfield}}\n#[[Block References]] | #[[Page References]] | #[[Indentation]] | #[[Daily Notes]] | #[[Current time]] | #[[Right Sidebar]]",
+            "create-time": 1614797818521,
+            ":block/refs": [
+              {
+                ":block/uid": "l8uKkdhbc"
+              },
+              {
+                ":block/uid": "eOaNXBvXZ"
+              },
+              {
+                ":block/uid": "vh3v5clCD"
+              },
+              {
+                ":block/uid": "JG_fewIU6"
+              },
+              {
+                ":block/uid": "pg0UYWwfj"
+              },
+              {
+                ":block/uid": "jU6FkOwUZ"
+              },
+              {
+                ":block/uid": "2h9V-FtAO"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "l8uKkdhbc"
+              },
+              {
+                "uid": "eOaNXBvXZ"
+              },
+              {
+                "uid": "vh3v5clCD"
+              },
+              {
+                "uid": "JG_fewIU6"
+              },
+              {
+                "uid": "pg0UYWwfj"
+              },
+              {
+                "uid": "jU6FkOwUZ"
+              },
+              {
+                "uid": "2h9V-FtAO"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+            },
+            "uid": "2HFq8taMs",
+            "edit-time": 1617530987949,
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "bwIgPsfh2"
+          },
+          {
+            "uid": "xrYZCB_Gl"
+          }
+        ],
+        "uid": "caRZuJwBq",
+        ":block/refs": [
+          {
+            ":block/uid": "bwIgPsfh2"
+          },
+          {
+            ":block/uid": "xrYZCB_Gl"
+          }
+        ],
+        "string": "Implementing a Digital Zettelkasten using Block References in Roam Research with [[Beau Haan]] by [[Robert Haisfield]]",
+        ":create/user": {
+          ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+        },
+        "create-time": 1614797794907,
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "heading": 3
+      },
+      {
+        "edit-time": 1617531074339,
+        "children": [
+          {
+            "string": "{{[[video]]: https://www.youtube.com/watch?v=xOTTyLtgqpM}}\n#[[roam/css]] | #[[Extensions]] | #[[roam/js]] | #[[Sidebar]] | #[[TODO/DONE]] | #[[Query]]",
+            "create-time": 1615208454140,
+            ":block/refs": [
+              {
+                ":block/uid": "RA1UXmzp0"
+              },
+              {
+                ":block/uid": "OpgJN0KUh"
+              },
+              {
+                ":block/uid": "Gx35Ef0-S"
+              },
+              {
+                ":block/uid": "nBCwjGuI7"
+              },
+              {
+                ":block/uid": "2h9V-FtAO"
+              },
+              {
+                ":block/uid": "ujeQZM_YD"
+              },
+              {
+                ":block/uid": "nbJ0jAsk_"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "RA1UXmzp0"
+              },
+              {
+                "uid": "OpgJN0KUh"
+              },
+              {
+                "uid": "Gx35Ef0-S"
+              },
+              {
+                "uid": "nBCwjGuI7"
+              },
+              {
+                "uid": "2h9V-FtAO"
+              },
+              {
+                "uid": "ujeQZM_YD"
+              },
+              {
+                "uid": "nbJ0jAsk_"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "uid": "JdZhoU4IY",
+            "edit-time": 1617531074339,
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "EScmD4lzQ"
+          }
+        ],
+        "uid": "FVaHfMBLw",
+        ":block/refs": [
+          {
+            ":block/uid": "EScmD4lzQ"
+          }
+        ],
+        "string": "Todoist to Roam Research - Advanced Task Management in Roam by [[Matt Goldenberg]]",
+        ":create/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "create-time": 1615208433508,
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "heading": 3
+      }
+    ],
+    "uid": "qtyQOkuaT",
+    "edit-time": 1617530986291,
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     }
   }
 ]

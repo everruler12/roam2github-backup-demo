@@ -6,9 +6,6 @@
             - ### How Taking Smart, Simple Notes Will Make You a Better Writer
 by [[Drew Coffman]]
                 - {{[[video]]: https://www.youtube.com/watch?v=wMOACjJzfgM}}
-        - ### Implementing a Digital Zettelkasten using Block References in Roam Research with [[Beau Haan]] by [[Robert Haisfield]]
-            - {{[[video]]: https://www.youtube.com/watch?v=KoddCmn3eL0&ab_channel=RobertHaisfield}}
-#[[Block References]] | #[[Page References]] | #[[Indentation]] | #[[Daily Notes]] | #[[Current time]] | #[[Right Sidebar]]
         - ### Roam Tour: Professor [[Joel Chan]]- Zettelkasten and Evergreen Notes for Generative Thought by [[Robert Haisfield]]
             - {{[[video]]: https://www.youtube.com/watch?v=A6PIrVZoZAk&ab_channel=RobertHaisfield}}
 #[[Page References]] | #[[Right Sidebar]] | #[[Query]] | #[[Linked References]] | #[[Indentation]] 

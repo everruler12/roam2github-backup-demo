@@ -10,9 +10,6 @@
             - {{[[video]]: https://www.youtube.com/watch?v=5wI0il4YVDg}}
 #[[Query]] | #[[Task Management]] | #[[TODO/DONE]] | #[[Tags]] 
 
-        - ### Todoist to Roam Research - Advanced Task Management in Roam by [[Matt Goldenberg]]
-            - {{[[video]]: https://www.youtube.com/watch?v=xOTTyLtgqpM}}
-#[[roam/css]] | #[[Extensions]] | #[[roam/js]] | #[[Sidebar]] | #[[TODO/DONE]] | #[[Query]]
         - ### Roam Research: TODOs by [[Les Kristofs]]
             - {{[[video]]: https://www.youtube.com/watch?v=3taL1v-IKXg}}
 #[[TODO/DONE]] | #[[Linked References]] | #[[/ Commands]]
