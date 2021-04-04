@@ -2,6 +2,10 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+    - ### [[April 5th, 2021]]
+        - [[Bug Fixes]] 🛠
+            - Fixed a memory leak and improved performance
+                - Brought to you by:: [[Joshua Brown]] and [[Filipe Silva]]
     - ### [[April 2nd, 2021]]
         - [[Quality of Life Improvements]] ✨
             - Added shortcut hint in context menu for copying [[Block References]]

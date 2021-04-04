@@ -42280,6 +42280,7 @@
   [10915 :block/children 44012 536958946]
   [10915 :block/children 44445 536959378]
   [10915 :block/children 44487 536959621]
+  [10915 :block/children 44539 536959901]
   [10915 :block/open true 536908069]
   [10915 :block/order 0 536908069]
   [10915 :block/page 4296 536908070]
@@ -56769,8 +56770,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuidd7eac0bd-f231-4754-ab86-906f68bf79f3"
-   536959901]
+   "uuid63d6a64b-ab73-4cd8-b750-2b3f06055bdd"
+   536959957]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -63219,7 +63220,7 @@
   [43702 :block/children 43968 536958907]
   [43702 :block/heading 3 536958205]
   [43702 :block/open true 536958152]
-  [43702 :block/order 6 536959635]
+  [43702 :block/order 7 536959909]
   [43702 :block/page 4296 536958153]
   [43702 :block/parents 4296 536958153]
   [43702 :block/parents 10915 536958153]
@@ -66094,7 +66095,7 @@
   [44012 :block/children 44013 536958952]
   [44012 :block/heading 3 536959019]
   [44012 :block/open true 536959424]
-  [44012 :block/order 5 536959635]
+  [44012 :block/order 6 536959909]
   [44012 :block/page 4296 536958947]
   [44012 :block/parents 4296 536958947]
   [44012 :block/parents 10915 536958947]
@@ -68242,7 +68243,7 @@
   [44445 :block/children 44453 536959430]
   [44445 :block/heading 3 536959380]
   [44445 :block/open true 536959422]
-  [44445 :block/order 4 536959635]
+  [44445 :block/order 5 536959909]
   [44445 :block/page 4296 536959379]
   [44445 :block/parents 4296 536959379]
   [44445 :block/parents 10915 536959379]
@@ -68468,7 +68469,7 @@
   [44487 :block/children 44506 536959671]
   [44487 :block/heading 3 536959626]
   [44487 :block/open true 536959621]
-  [44487 :block/order 3 536959621]
+  [44487 :block/order 4 536959909]
   [44487 :block/page 4296 536959622]
   [44487 :block/parents 4296 536959622]
   [44487 :block/parents 10915 536959622]
@@ -68516,7 +68517,7 @@
   [44493 :edit/time 1617466752872 536959819]
   [44493 :edit/user 53 536959643]
   [44494 :block/children 44495 536959643]
-  [44494 :block/open false 536959718]
+  [44494 :block/open false 536959956]
   [44494 :block/order 1 536959668]
   [44494 :block/page 4296 536959655]
   [44494 :block/parents 4296 536959655]
@@ -69039,10 +69040,113 @@
   [44538 :block/uid "A0fIeP3tn" 536959899]
   [44538 :edit/time 1617531074366 536959899]
   [44538 :edit/user 3422 536959899]
-  [44539 :block/uid "Bl5NdIFnj" 536959901]
-  [44539 :user/display-name "Erik Newhard" 536959901]
-  [44539
+  [44539 :block/children 44540 536959909]
+  [44539 :block/heading 3 536959906]
+  [44539 :block/open true 536959901]
+  [44539 :block/order 3 536959901]
+  [44539 :block/page 4296 536959902]
+  [44539 :block/parents 4296 536959902]
+  [44539 :block/parents 10915 536959902]
+  [44539 :block/refs 44529 536959904]
+  [44539 :block/string "[[April 5th, 2021]]" 536959903]
+  [44539 :block/uid "ca6rSINDn" 536959901]
+  [44539 :create/time 1617566911165 536959901]
+  [44539 :create/user 53 536959901]
+  [44539 :edit/time 1617566918981 536959903]
+  [44539 :edit/user 53 536959901]
+  [44540 :block/children 44543 536959920]
+  [44540 :block/open true 536959907]
+  [44540 :block/order 0 536959909]
+  [44540 :block/page 4296 536959908]
+  [44540 :block/parents 4296 536959908]
+  [44540 :block/parents 10915 536959908]
+  [44540 :block/parents 44539 536959910]
+  [44540 :block/refs 44452 536959914]
+  [44540 :block/string "[[Bug Fixes]] 🛠" 536959919]
+  [44540 :block/uid "i26QqUH_U" 536959907]
+  [44540 :create/time 1617566922118 536959907]
+  [44540 :create/user 53 536959907]
+  [44540 :edit/time 1617566931901 536959919]
+  [44540 :edit/user 53 536959907]
+  [44542 :block/string "" 536959916]
+  [44542 :block/uid "VGWDMjIeD" 536959916]
+  [44542 :edit/time 1617566927153 536959916]
+  [44542 :edit/user 53 536959916]
+  [44543 :attrs/lookup 2760 536959938]
+  [44543 :attrs/lookup 2768 536959951]
+  [44543 :attrs/lookup 44543 536959938]
+  [44543 :attrs/lookup 44544 536959938]
+  [44543 :attrs/lookup 44546 536959938]
+  [44543 :block/children 44544 536959925]
+  [44543 :block/open false 536959954]
+  [44543 :block/order 0 536959920]
+  [44543 :block/page 4296 536959918]
+  [44543 :block/parents 4296 536959918]
+  [44543 :block/parents 10915 536959918]
+  [44543 :block/parents 44539 536959918]
+  [44543 :block/parents 44540 536959921]
+  [44543
+   :block/string
+   "Fixed a memory leak and improved performance"
+   536959944]
+  [44543 :block/uid "Q_8qJDN_2" 536959917]
+  [44543 :create/time 1617566931889 536959917]
+  [44543 :create/user 53 536959917]
+  [44543 :edit/time 1617566975450 536959944]
+  [44543 :edit/user 53 536959917]
+  [44543
+   :entity/attrs
+   #{[{:source [:block/uid "Q_8qJDN_2"],
+       :value [:block/uid "Q_8qJDN_2"]}
+      {:source [:block/uid "7xrYEqyxy"],
+       :value [:block/uid "5K19Sylm0"]}
+      {:source [:block/uid "7xrYEqyxy"],
+       :value [:block/uid "IdWJv42cv"]}]
+     [{:source [:block/uid "Q_8qJDN_2"],
+       :value [:block/uid "Q_8qJDN_2"]}
+      {:source [:block/uid "7xrYEqyxy"],
+       :value [:block/uid "5K19Sylm0"]}
+      {:source [:block/uid "7xrYEqyxy"],
+       :value [:block/uid "IFYmBp-zm"]}]}
+   536959951]
+  [44544 :block/open true 536959922]
+  [44544 :block/order 0 536959925]
+  [44544 :block/page 4296 536959923]
+  [44544 :block/parents 4296 536959923]
+  [44544 :block/parents 10915 536959923]
+  [44544 :block/parents 44539 536959923]
+  [44544 :block/parents 44540 536959923]
+  [44544 :block/parents 44543 536959926]
+  [44544 :block/refs 2760 536959937]
+  [44544 :block/refs 2768 536959950]
+  [44544 :block/refs 44546 536959930]
+  [44544
+   :block/string
+   "Brought to you by:: [[Joshua Brown]] and [[Filipe Silva]]"
+   536959949]
+  [44544 :block/uid "7xrYEqyxy" 536959922]
+  [44544 :create/time 1617566937383 536959922]
+  [44544 :create/user 53 536959922]
+  [44544 :edit/time 1617567007252 536959949]
+  [44544 :edit/user 53 536959922]
+  [44546 :block/uid "5K19Sylm0" 536959930]
+  [44546 :create/time 1617566945180 536959930]
+  [44546 :create/user 53 536959930]
+  [44546 :edit/time 1617566945181 536959930]
+  [44546 :edit/user 53 536959930]
+  [44546 :node/title "Brought to you by" 536959930]
+  [44547 :block/string "" 536959935]
+  [44547 :block/uid "QOuDPtbKn" 536959935]
+  [44547 :edit/time 1617566948980 536959935]
+  [44547 :edit/user 53 536959935]
+  [44549 :block/string "" 536959947]
+  [44549 :block/uid "vgyCnesB7" 536959947]
+  [44549 :edit/time 1617566978595 536959947]
+  [44549 :edit/user 53 536959947]
+  [44550 :block/uid "TmnPeTAR-" 536959957]
+  [44550 :user/display-name "Erik Newhard" 536959957]
+  [44550
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536959901]
-  [44539 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959901]]}
+   536959957]
+  [44550 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959957]]}
