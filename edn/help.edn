@@ -894,6 +894,7 @@
   [351 :create/time 1614356990555 536871546]
   [351 :create/user 3 536871546]
   [351 :edit/seen-by 3 536916904]
+  [351 :edit/seen-by 53 536959843]
   [351 :edit/seen-by 3422 536897114]
   [351 :edit/seen-by 9445 536900549]
   [351 :edit/time 1614794946588 536891503]
@@ -5607,6 +5608,7 @@
   [2332 :create/time 1614680979834 536877000]
   [2332 :create/user 3 536877000]
   [2332 :edit/seen-by 3 536916904]
+  [2332 :edit/seen-by 53 536959843]
   [2332 :edit/seen-by 3422 536908535]
   [2332 :edit/time 1615386037510 536908992]
   [2332 :edit/user 3422 536908973]
@@ -7487,11 +7489,26 @@
   [2526 :create/user 3 536877423]
   [2526 :edit/time 1614683726957 536878157]
   [2526 :edit/user 3 536877423]
+  [2527 :attrs/lookup 1336 536959863]
+  [2527 :attrs/lookup 2527 536959863]
+  [2527 :attrs/lookup 44526 536959863]
+  [2527 :attrs/lookup 44527 536959863]
+  [2527 :block/children 44527 536959856]
   [2527 :block/uid "w3-eryhFP" 536877426]
   [2527 :create/time 1614681927206 536877426]
   [2527 :create/user 3 536877426]
+  [2527 :edit/seen-by 53 536959867]
   [2527 :edit/time 1614683726957 536878157]
   [2527 :edit/user 3 536877426]
+  [2527
+   :entity/attrs
+   #{[{:source [:block/uid "w3-eryhFP"],
+       :value [:block/uid "w3-eryhFP"]}
+      {:source [:block/uid "oS6DOs0jy"],
+       :value [:block/uid "SwSub32Iu"]}
+      {:source [:block/uid "4pxjYKdw9"],
+       :value [:block/uid "4pxjYKdw9"]}]}
+   536959863]
   [2527 :node/title "Kifah Meeran" 536878157]
   [2528 :block/heading 3 536912359]
   [2528 :block/open true 536877456]
@@ -35122,6 +35139,7 @@
   [10278 :create/time 1614848457048 536903849]
   [10278 :create/user 3 536903849]
   [10278 :edit/seen-by 3 536916495]
+  [10278 :edit/seen-by 53 536959849]
   [10278 :edit/seen-by 3422 536903886]
   [10278 :edit/time 1615051247988 536903944]
   [10278 :edit/user 3422 536903849]
@@ -35203,6 +35221,7 @@
   [10290 :create/time 1615051350850 536903996]
   [10290 :create/user 3422 536903996]
   [10290 :edit/seen-by 3 536916495]
+  [10290 :edit/seen-by 53 536959849]
   [10290 :edit/time 1615051350850 536903996]
   [10290 :edit/user 3422 536903996]
   [10291 :block/order 0 536903998]
@@ -35476,6 +35495,7 @@
   [10311 :create/time 1615051534122 536904085]
   [10311 :create/user 3422 536904085]
   [10311 :edit/seen-by 3 536916424]
+  [10311 :edit/seen-by 53 536959849]
   [10311 :edit/time 1616493294447 536916426]
   [10311 :edit/user 3 536916426]
   [10312 :block/order 0 536904112]
@@ -43676,9 +43696,9 @@
   [11086 :create/time 1615386109740 536909101]
   [11086 :create/user 3422 536909101]
   [11086 :edit/seen-by 3 536916906]
+  [11086 :edit/seen-by 53 536959843]
   [11086 :edit/time 1616493294447 536916426]
   [11086 :edit/user 3 536916426]
-  [11087 :block/children 11092 536909128]
   [11087 :block/open true 536909101]
   [11087 :block/order 0 536909113]
   [11087 :block/page 351 536909104]
@@ -43687,13 +43707,14 @@
   [11087 :block/parents 11086 536909104]
   [11087
    :block/string
-   "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FoebmqUA8lT.gif?alt=media&token=0567d373-7f43-4934-9d92-c5f5030b6e42)\n"
-   536909127]
+   "![An example of accessing the TODO function via / Commands](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FoebmqUA8lT.gif?alt=media&token=0567d373-7f43-4934-9d92-c5f5030b6e42)\n"
+   536959848]
   [11087 :block/uid "Qyeh8M46r" 536909101]
   [11087 :create/time 1615386268898 536909101]
   [11087 :create/user 3422 536909101]
-  [11087 :edit/time 1615386628255 536909127]
-  [11087 :edit/user 3422 536909101]
+  [11087 :edit/seen-by 53 536959843]
+  [11087 :edit/time 1617523780196 536959848]
+  [11087 :edit/user 53 536959848]
   [11088 :block/string "" 536909105]
   [11088 :block/uid "2yD4c-85H" 536909105]
   [11088 :edit/time 1615386443109 536909105]
@@ -43702,22 +43723,6 @@
   [11090 :block/uid "dAj2jVexp" 536909114]
   [11090 :edit/time 1615386608510 536909114]
   [11090 :edit/user 3422 536909114]
-  [11092 :block/open true 536909124]
-  [11092 :block/order 0 536909128]
-  [11092 :block/page 351 536909126]
-  [11092 :block/parents 351 536909126]
-  [11092 :block/parents 2332 536909126]
-  [11092 :block/parents 11086 536909126]
-  [11092 :block/parents 11087 536909130]
-  [11092
-   :block/string
-   "__An example of accessing the TODO function via / Commands__"
-   536909124]
-  [11092 :block/uid "CHNVxMqY0" 536909124]
-  [11092 :create/time 1615386609392 536909124]
-  [11092 :create/user 3422 536909124]
-  [11092 :edit/time 1615386628243 536909124]
-  [11092 :edit/user 3422 536909124]
   [11093 :block/children 11095 536909170]
   [11093 :block/children 11096 536909175]
   [11093 :block/open true 536909152]
@@ -56855,8 +56860,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuideacd5ef5-ef47-4b7b-944c-74fbb82bb311"
-   536959826]
+   "uuid510ba75d-5785-480b-8c51-cd94fca50e9a"
+   536959869]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -57988,6 +57993,7 @@
   [12804 :create/time 1616493366111 536916451]
   [12804 :create/user 3 536916451]
   [12804 :edit/seen-by 3 536916470]
+  [12804 :edit/seen-by 53 536959849]
   [12804 :edit/time 1616493368951 536916453]
   [12804 :edit/user 3 536916451]
   [12805 :block/open true 536916471]
@@ -63367,14 +63373,15 @@
   [43716 :block/parents 12385 536958239]
   [43716 :block/parents 13219 536958239]
   [43716 :block/refs 2527 536958244]
+  [43716 :block/refs 44526 536959866]
   [43716
    :block/string
-   "[Kifah]([[Kifah Meeran]]) — [@maskys](https://twitter.com/maskys_)"
-   536959173]
+   "[Kifah]([[Kifah Meeran]]) — [@maskys](https://twitter.com/maskys_) [*](((4pxjYKdw9)))"
+   536959868]
   [43716 :block/uid "LL6iZw2hT" 536958237]
   [43716 :create/time 1616649217407 536958237]
   [43716 :create/user 53 536958237]
-  [43716 :edit/time 1617108342868 536959173]
+  [43716 :edit/time 1617523885478 536959868]
   [43716 :edit/user 53 536958237]
   [43717 :block/open true 536958249]
   [43717 :block/order 3 536958292]
@@ -68975,10 +68982,57 @@
   [44520 :create/user 53 536959824]
   [44520 :edit/time 1617520301346 536959824]
   [44520 :edit/user 53 536959824]
-  [44521 :block/uid "0Q2H4eubV" 536959826]
-  [44521 :user/display-name "Erik Newhard" 536959826]
-  [44521
+  [44523 :block/children 44524 536959841]
+  [44523 :block/uid "MeH-hV7wr" 536959840]
+  [44523 :create/time 1617523675202 536959840]
+  [44523 :create/user 53 536959840]
+  [44523 :edit/time 1617523675202 536959840]
+  [44523 :edit/user 53 536959840]
+  [44523 :node/title "hello" 536959840]
+  [44524 :block/open true 536959841]
+  [44524 :block/order 0 536959841]
+  [44524 :block/page 44523 536959842]
+  [44524 :block/parents 44523 536959842]
+  [44524 :block/string "" 536959841]
+  [44524 :block/uid "BawODI6_D" 536959841]
+  [44524 :create/time 1617523715843 536959841]
+  [44524 :create/user 53 536959841]
+  [44524 :edit/time 1617523715843 536959841]
+  [44524 :edit/user 53 536959841]
+  [44525 :block/string "" 536959847]
+  [44525 :block/uid "CHNVxMqY0" 536959847]
+  [44525 :edit/time 1617523776660 536959847]
+  [44525 :edit/user 53 536959847]
+  [44526 :block/open true 536959850]
+  [44526 :block/order 0 536959862]
+  [44526 :block/page 2527 536959851]
+  [44526 :block/parents 2527 536959851]
+  [44526 :block/parents 44527 536959864]
+  [44526
+   :block/string
+   "[@maskys](https://twitter.com/maskys_)"
+   536959859]
+  [44526 :block/uid "4pxjYKdw9" 536959850]
+  [44526 :create/time 1617523817778 536959850]
+  [44526 :create/user 53 536959850]
+  [44526 :edit/time 1617523847030 536959859]
+  [44526 :edit/user 53 536959850]
+  [44527 :block/children 44526 536959862]
+  [44527 :block/open true 536959856]
+  [44527 :block/order 0 536959856]
+  [44527 :block/page 2527 536959858]
+  [44527 :block/parents 2527 536959858]
+  [44527 :block/refs 1336 536959857]
+  [44527 :block/string "Twitter:: " 536959856]
+  [44527 :block/uid "oS6DOs0jy" 536959856]
+  [44527 :create/time 1617523846925 536959856]
+  [44527 :create/user 53 536959856]
+  [44527 :edit/time 1617523846925 536959856]
+  [44527 :edit/user 53 536959856]
+  [44528 :block/uid "pllKzHsQF" 536959869]
+  [44528 :user/display-name "Erik Newhard" 536959869]
+  [44528
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536959826]
-  [44521 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959826]]}
+   536959869]
+  [44528 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536959869]]}

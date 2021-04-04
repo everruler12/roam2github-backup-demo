@@ -5,7 +5,7 @@
         - [Conor]([[Conor White-Sullivan]]) — [@Conaw](https://twitter.com/Conaw)
         - [Bardia]([[Bardia Pourvakil]]) — [@thepericulum](https://twitter.com/thepericulum) 
         - [Stian]([[Stian Håklev]]) — [@houshuang](https://twitter.com/houshuang)
-        - [Kifah]([[Kifah Meeran]]) — [@maskys](https://twitter.com/maskys_)
+        - [Kifah]([[Kifah Meeran]]) — [@maskys](https://twitter.com/maskys_) [*](((4pxjYKdw9)))
     - ## Community::
         - [RoamHacker]([[RoamHacker]]) — [@roamhacker](https://twitter.com/roamhacker)
         - [Cortex Futura]([[Cortex Futura]]) — [@cortexfutura](https://twitter.com/cortexfutura)
