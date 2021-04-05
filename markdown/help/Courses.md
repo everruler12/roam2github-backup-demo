@@ -3,9 +3,6 @@
     - # Free
         - ## [Roam in Context](https://learn.cortexfutura.com/p/roam-research-coaching?utm_source=roamresearch&utm_medium=graph&utm_campaign=helpgraph) by [[Cortex Futura]]
             - Learn the fundamentals of Roam from seven different perspectives. In six videos per use-case, Roam in Context will teach you Roam's basic features in the context of writing, note-taking, task management, project management, journaling, decision making and research/academia. Pick and choose the focus that fits your needs best – zero previous knowledge required.
-        - ## [Roam Untangled](https://www.jamoe.org/roam) by [[Jamie Miles]]
-            - Learn to setup your Roam from scratch with use-case driven 90-minute online course that focuses on the 20% of features that will get you 80% of the benefit.
-            - Features 10 micro-lessons that cover all the Roam essentials and then you jump write into a Roam workflows for producing written content faster.
         - ## [How to Use Roam Research: A Complete Guide](https://www.youtube.com/playlist?list=PLralmZwl_8jJuJMIebWFqm6K5I20a5Qve) by [[Shu Omi]]
             - An extensive and comprehensive collection of Roam videos packaged into a free course which can be watched on YouTube.
             - They require some existing knowledge of how to use Roam to be most effective.
@@ -23,6 +20,9 @@
             - RJ teaches the nuts and bolts of Roam's feature set and provide learners with the tools to develop their own unique workflows based on their specific interests and needs.
         - ## [Magical Academic Note-Taking](https://roam-for-results.teachable.com/p/magical-academic-note-taking) by [[Lisa-Marie Cabrelli]] $129
             - Learn how to create, collect and organize magical, time-traveling, smart notes and help your dissertation or thesis write itself. After taking the Magical Academic Note-Taking course, you'll have the skills and process in place to write every day without hesitation. Complete this course and [writing]([[Writing]]) will be fun. Instead of dreading the page, you'll run to the page.
+            - ## [Roam Untangled](https://www.jamoe.org/roam) by [[Jamie Miles]] $0-$89
+                - Learn to setup your Roam from scratch with use-case driven 90-minute online course that focuses on the 20% of features that will get you 80% of the benefit.
+                - Offered with a freemium model with some free lessons and advanced paid lessons.  Features 10 micro-lessons that cover all the Roam essentials and then you jump write into a Roam workflows for producing written content faster.
         - ## [Cite to Write](https://www.cortexfutura.com/p/cite-to-write/?utm_source=roamresearch&utm_medium=graph&utm_campaign=helpgraph) by [[Cortex Futura]] $150
             - Cortex Futura's course covers the whole academic process from literature [research]([[Research]]) over note-taking to [writing]([[Writing]]) inside Roam – and how to get your writing from Roam into a nicely formatted draft in Word or PDF format. The course assumes zero previous Roam knowledge, has already helped hundreds of people in [academia]([[Studying]]) use Roam for their research and received much praise from the community.
         - ## [Effortless Output in Roam](https://www.effortlessoutput.com) by [[Nat Eliason]] $250

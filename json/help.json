@@ -28098,47 +28098,6 @@
                 "heading": 2
               },
               {
-                "edit-time": 1614805280005,
-                "children": [
-                  {
-                    "string": "Learn to setup your Roam from scratch with use-case driven 90-minute online course that focuses on the 20% of features that will get you 80% of the benefit.",
-                    "uid": "rwaUgGNPG",
-                    "edit-time": 1614804859483,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "Features 10 micro-lessons that cover all the Roam essentials and then you jump write into a Roam workflows for producing written content faster.",
-                    "uid": "Wp4KynIF5",
-                    "edit-time": 1614804841623,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "X5u5tsBoT"
-                  }
-                ],
-                "uid": "pgzJjpxKz",
-                ":block/refs": [
-                  {
-                    ":block/uid": "X5u5tsBoT"
-                  }
-                ],
-                "string": "[Roam Untangled](https://www.jamoe.org/roam) by [[Jamie Miles]]",
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1614682178277,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "heading": 2
-              },
-              {
                 "edit-time": 1617274704210,
                 "children": [
                   {
@@ -28410,6 +28369,47 @@
                     ":edit/user": {
                       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                     }
+                  },
+                  {
+                    "edit-time": 1617598520490,
+                    "children": [
+                      {
+                        "string": "Learn to setup your Roam from scratch with use-case driven 90-minute online course that focuses on the 20% of features that will get you 80% of the benefit.",
+                        "uid": "rwaUgGNPG",
+                        "edit-time": 1617598404283,
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        }
+                      },
+                      {
+                        "string": "Offered with a freemium model with some free lessons and advanced paid lessons.  Features 10 micro-lessons that cover all the Roam essentials and then you jump write into a Roam workflows for producing written content faster.",
+                        "uid": "Wp4KynIF5",
+                        "edit-time": 1617598570534,
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "X5u5tsBoT"
+                      }
+                    ],
+                    "uid": "pgzJjpxKz",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "X5u5tsBoT"
+                      }
+                    ],
+                    "string": "[Roam Untangled](https://www.jamoe.org/roam) by [[Jamie Miles]] $0-$89",
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "create-time": 1614682178277,
+                    ":edit/user": {
+                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                    },
+                    "heading": 2
                   }
                 ],
                 "refs": [
