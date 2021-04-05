@@ -29018,6 +29018,29 @@
                 "heading": 3
               },
               {
+                "edit-time": 1617636739113,
+                "refs": [
+                  {
+                    "uid": "WifUHXBv2"
+                  }
+                ],
+                "uid": "tShlyKpH4",
+                ":block/refs": [
+                  {
+                    ":block/uid": "WifUHXBv2"
+                  }
+                ],
+                "string": "[Show me some video tutorials on where to begin]([[Beginner's Guide]])",
+                ":create/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                "create-time": 1617636695435,
+                ":edit/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                "heading": 3
+              },
+              {
                 "edit-time": 1616648961626,
                 "children": [
                   {
@@ -33645,567 +33668,6 @@
       {
         "edit-time": 1616474528092,
         "children": [
-          {
-            "edit-time": 1614957488449,
-            "children": [
-              {
-                "edit-time": 1617094183112,
-                "children": [
-                  {
-                    "string": "{{[[video]]: https://www.youtube.com/watch?v=YPBr5eXZ_xY}}\n",
-                    "create-time": 1617094170343,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "2h9V-FtAO"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "2h9V-FtAO"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                    },
-                    "uid": "GzrOEC4IP",
-                    "edit-time": 1617094190881,
-                    ":edit/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                    }
-                  },
-                  {
-                    "string": "#[[Daily Notes]] ",
-                    "create-time": 1617094170343,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "eOaNXBvXZ"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "eOaNXBvXZ"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                    },
-                    "uid": "qRdjVbjPO",
-                    "edit-time": 1617094355822,
-                    ":edit/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "cW0LM6Cw0"
-                  }
-                ],
-                "uid": "PV_xu9Z8I",
-                ":block/refs": [
-                  {
-                    ":block/uid": "cW0LM6Cw0"
-                  }
-                ],
-                "string": "Why you should keep a journal and why I keep mine in Roam Research by [[Drew Coffman]]",
-                ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "create-time": 1617094170343,
-                ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "heading": 3
-              },
-              {
-                "edit-time": 1614958965700,
-                "children": [
-                  {
-                    "string": "{{[[video]]: https://www.youtube.com/watch?v=WTSHhj92pvM&ab_channel=ShuOmi}}\n",
-                    "create-time": 1614580129953,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "2h9V-FtAO"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "2h9V-FtAO"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                    },
-                    "uid": "uO8yq1Rsg",
-                    "edit-time": 1614963800974,
-                    ":edit/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                    }
-                  },
-                  {
-                    "string": "#[[Templates]] | #[[Daily Notes]] | #[[Sidebar]] | #[[Page References]] | #[[Slider]]",
-                    "create-time": 1614963800959,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "OpgJN0KUh"
-                      },
-                      {
-                        ":block/uid": "zKLAClkHo"
-                      },
-                      {
-                        ":block/uid": "eOaNXBvXZ"
-                      },
-                      {
-                        ":block/uid": "vh3v5clCD"
-                      },
-                      {
-                        ":block/uid": "mBGMGlAug"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "OpgJN0KUh"
-                      },
-                      {
-                        "uid": "zKLAClkHo"
-                      },
-                      {
-                        "uid": "eOaNXBvXZ"
-                      },
-                      {
-                        "uid": "vh3v5clCD"
-                      },
-                      {
-                        "uid": "mBGMGlAug"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                    },
-                    "uid": "50Gdm75Ht",
-                    "edit-time": 1614966523755,
-                    ":edit/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "OylLeH15w"
-                  }
-                ],
-                "uid": "gwPl1-tNm",
-                ":block/refs": [
-                  {
-                    ":block/uid": "OylLeH15w"
-                  }
-                ],
-                "string": "Using Roam as Your Daily Journal by [[Shu Omi]]",
-                ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "create-time": 1614958736090,
-                ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "heading": 3
-              },
-              {
-                "edit-time": 1614958904590,
-                "children": [
-                  {
-                    "edit-time": 1614957900798,
-                    "children": [
-                      {
-                        "string": "#[[Templates]] | #[[Daily Notes]] | #[[Pomodoro timer]] | #[[Word count]] | #[[Page References]] | #[[Linked References]]",
-                        "create-time": 1614964179230,
-                        ":block/refs": [
-                          {
-                            ":block/uid": "eOaNXBvXZ"
-                          },
-                          {
-                            ":block/uid": "vh3v5clCD"
-                          },
-                          {
-                            ":block/uid": "mBGMGlAug"
-                          },
-                          {
-                            ":block/uid": "fAZ1MYsuZ"
-                          },
-                          {
-                            ":block/uid": "V7Haup4AQ"
-                          },
-                          {
-                            ":block/uid": "D8ld3cXC3"
-                          }
-                        ],
-                        "refs": [
-                          {
-                            "uid": "eOaNXBvXZ"
-                          },
-                          {
-                            "uid": "vh3v5clCD"
-                          },
-                          {
-                            "uid": "mBGMGlAug"
-                          },
-                          {
-                            "uid": "fAZ1MYsuZ"
-                          },
-                          {
-                            "uid": "V7Haup4AQ"
-                          },
-                          {
-                            "uid": "D8ld3cXC3"
-                          }
-                        ],
-                        ":create/user": {
-                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                        },
-                        "uid": "4EV3fnwKf",
-                        "edit-time": 1616477299214,
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "2h9V-FtAO"
-                      }
-                    ],
-                    "uid": "-v2ecxjWg",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "2h9V-FtAO"
-                      }
-                    ],
-                    "string": "{{[[video]]: https://www.youtube.com/watch?v=of6eyDfUA9s&ab_channel=ParkerRex}}",
-                    ":create/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                    },
-                    "create-time": 1614957892452,
-                    ":edit/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "jWwYEbxnj"
-                  }
-                ],
-                "uid": "BB9U8LQPG",
-                ":block/refs": [
-                  {
-                    ":block/uid": "jWwYEbxnj"
-                  }
-                ],
-                "string": "Easiest Daily Journal Practice using Roam by [[Parker Rex]]",
-                ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "create-time": 1614958751444,
-                ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "heading": 3
-              },
-              {
-                "edit-time": 1614958885711,
-                "children": [
-                  {
-                    "edit-time": 1614957908438,
-                    "children": [
-                      {
-                        "string": "#[[Templates]] | #[[Task Management]] | #[[Page References]] | #[[Current time]]",
-                        "create-time": 1614964185264,
-                        ":block/refs": [
-                          {
-                            ":block/uid": "vh3v5clCD"
-                          },
-                          {
-                            ":block/uid": "mBGMGlAug"
-                          },
-                          {
-                            ":block/uid": "jU6FkOwUZ"
-                          },
-                          {
-                            ":block/uid": "TmmLis-A8"
-                          }
-                        ],
-                        "refs": [
-                          {
-                            "uid": "vh3v5clCD"
-                          },
-                          {
-                            "uid": "mBGMGlAug"
-                          },
-                          {
-                            "uid": "jU6FkOwUZ"
-                          },
-                          {
-                            "uid": "TmmLis-A8"
-                          }
-                        ],
-                        ":create/user": {
-                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                        },
-                        "uid": "abnSGivOM",
-                        "edit-time": 1616206270931,
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "2h9V-FtAO"
-                      }
-                    ],
-                    "uid": "U0qTa59Q_",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "2h9V-FtAO"
-                      }
-                    ],
-                    "string": "{{[[video]]: https://www.youtube.com/watch?v=W7nfntHh5Kc&ab_channel=MickeyMellen}}",
-                    ":create/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                    },
-                    "create-time": 1614580129953,
-                    ":edit/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "ldzgntxrq"
-                  }
-                ],
-                "uid": "UeuM_mzpI",
-                ":block/refs": [
-                  {
-                    ":block/uid": "ldzgntxrq"
-                  }
-                ],
-                "string": "Interstitial Journaling with Roam Research by [[Mickey Mellen]]",
-                ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "create-time": 1614958774204,
-                ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "heading": 3
-              },
-              {
-                "edit-time": 1614958855930,
-                "children": [
-                  {
-                    "edit-time": 1614958840260,
-                    "children": [
-                      {
-                        "string": "#[[Templates]] | #[[Daily Notes]] | #[[Slider]] | #[[Task Management]]",
-                        "create-time": 1614964190288,
-                        ":block/refs": [
-                          {
-                            ":block/uid": "zKLAClkHo"
-                          },
-                          {
-                            ":block/uid": "eOaNXBvXZ"
-                          },
-                          {
-                            ":block/uid": "mBGMGlAug"
-                          },
-                          {
-                            ":block/uid": "TmmLis-A8"
-                          }
-                        ],
-                        "refs": [
-                          {
-                            "uid": "zKLAClkHo"
-                          },
-                          {
-                            "uid": "eOaNXBvXZ"
-                          },
-                          {
-                            "uid": "mBGMGlAug"
-                          },
-                          {
-                            "uid": "TmmLis-A8"
-                          }
-                        ],
-                        ":create/user": {
-                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                        },
-                        "uid": "bg02BZ8M-",
-                        "edit-time": 1616206270931,
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "2h9V-FtAO"
-                      }
-                    ],
-                    "uid": "IILI63io7",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "2h9V-FtAO"
-                      }
-                    ],
-                    "string": "{{[[video]]: https://www.youtube.com/watch?v=ftv6ew7Tcbg&ab_channel=TheUpgradedBrain}}",
-                    ":create/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                    },
-                    "create-time": 1614958817404,
-                    ":edit/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "5RMLjxEGV"
-                  }
-                ],
-                "uid": "BYyTE9cMH",
-                ":block/refs": [
-                  {
-                    ":block/uid": "5RMLjxEGV"
-                  }
-                ],
-                "string": "Roam Research for Daily Task Management using Bullet Journaling Method by [[The Upgraded Brain]]",
-                ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "create-time": 1614958837808,
-                ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "heading": 3
-              },
-              {
-                "edit-time": 1614959032218,
-                "children": [
-                  {
-                    "edit-time": 1614959006175,
-                    "children": [
-                      {
-                        "string": "#[[Daily Notes]] | #[[Page References]] | #[[Linked References]] | #[[Unlinked References]] | #[[Graph Overview]]",
-                        "create-time": 1614964195026,
-                        ":block/refs": [
-                          {
-                            ":block/uid": "eOaNXBvXZ"
-                          },
-                          {
-                            ":block/uid": "vh3v5clCD"
-                          },
-                          {
-                            ":block/uid": "iuHyHwocI"
-                          },
-                          {
-                            ":block/uid": "D8ld3cXC3"
-                          },
-                          {
-                            ":block/uid": "7NcTb9GoQ"
-                          }
-                        ],
-                        "refs": [
-                          {
-                            "uid": "eOaNXBvXZ"
-                          },
-                          {
-                            "uid": "vh3v5clCD"
-                          },
-                          {
-                            "uid": "iuHyHwocI"
-                          },
-                          {
-                            "uid": "D8ld3cXC3"
-                          },
-                          {
-                            "uid": "7NcTb9GoQ"
-                          }
-                        ],
-                        ":create/user": {
-                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                        },
-                        "uid": "4kqEhg3kT",
-                        "edit-time": 1614965029272,
-                        ":edit/user": {
-                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "2h9V-FtAO"
-                      }
-                    ],
-                    "uid": "is6W_iBwH",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "2h9V-FtAO"
-                      }
-                    ],
-                    "string": "{{[[video]]: https://www.youtube.com/watch?v=eZxK0ALsTfo&ab_channel=RomanRey}}",
-                    ":create/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                    },
-                    "create-time": 1614580129953,
-                    ":edit/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "CitDn_0jS"
-                  }
-                ],
-                "uid": "jyHvtWcqI",
-                ":block/refs": [
-                  {
-                    ":block/uid": "CitDn_0jS"
-                  }
-                ],
-                "string": "How to journal and improve your thinking with Roam Research by [[Roman Rey]]",
-                ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "create-time": 1614959006751,
-                ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                "heading": 3
-              }
-            ],
-            "refs": [
-              {
-                "uid": "3Ig0C8LkY"
-              }
-            ],
-            "uid": "37IWsCfI5",
-            ":block/refs": [
-              {
-                ":block/uid": "3Ig0C8LkY"
-              }
-            ],
-            "string": "Community Videos::",
-            ":create/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            "create-time": 1614957484143,
-            ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            "heading": 2
-          },
           {
             "edit-time": 1614803346193,
             "children": [
@@ -66880,6 +66342,198 @@
           ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
         },
         "heading": 3
+      },
+      {
+        "edit-time": 1617639115237,
+        "children": [
+          {
+            "string": "{{[[video]]: https://www.youtube.com/watch?v=X6OOos4met0}}\n",
+            "create-time": 1617639115237,
+            ":block/refs": [
+              {
+                ":block/uid": "2h9V-FtAO"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "2h9V-FtAO"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "uid": "zy8eZFEzs",
+            "edit-time": 1617639115237,
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            }
+          },
+          {
+            "string": "#[[Daily Notes]] ",
+            "create-time": 1617639115237,
+            ":block/refs": [
+              {
+                ":block/uid": "eOaNXBvXZ"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "eOaNXBvXZ"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "uid": "oYHItAEV1",
+            "edit-time": 1617639115237,
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "cW0LM6Cw0"
+          }
+        ],
+        "uid": "pGC_-jUFX",
+        ":block/refs": [
+          {
+            ":block/uid": "cW0LM6Cw0"
+          }
+        ],
+        "string": "A Beginner’s Guide to Roam Research by [[Drew Coffman]]",
+        ":create/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "create-time": 1617639115237,
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "heading": 3
+      },
+      {
+        "edit-time": 1617639587726,
+        "children": [
+          {
+            "string": "{{[[video]]: https://www.youtube.com/watch?v=bpikCLhpIRY}}\n",
+            "create-time": 1617639587726,
+            ":block/refs": [
+              {
+                ":block/uid": "2h9V-FtAO"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "2h9V-FtAO"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "uid": "hOLNPEVO6",
+            "edit-time": 1617639587726,
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            }
+          },
+          {
+            "string": "#[[Daily Notes]] | #[[Bidirectional linking]] | #[[Linked References]] #[[Book]] | #[[Sidebar]] | #[[Tags]] | #[[Evergreen Notes]] | #[[Block References]] | #[[Templates]] | #[[Query]]",
+            "create-time": 1617639587726,
+            ":block/refs": [
+              {
+                ":block/uid": "OpgJN0KUh"
+              },
+              {
+                ":block/uid": "l8uKkdhbc"
+              },
+              {
+                ":block/uid": "eOaNXBvXZ"
+              },
+              {
+                ":block/uid": "Gx35Ef0-S"
+              },
+              {
+                ":block/uid": "mBGMGlAug"
+              },
+              {
+                ":block/uid": "fJITY2nwZ"
+              },
+              {
+                ":block/uid": "D8ld3cXC3"
+              },
+              {
+                ":block/uid": "nXhOWmKXo"
+              },
+              {
+                ":block/uid": "vmgzUP3fU"
+              },
+              {
+                ":block/uid": "h65_RAv0X"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "OpgJN0KUh"
+              },
+              {
+                "uid": "l8uKkdhbc"
+              },
+              {
+                "uid": "eOaNXBvXZ"
+              },
+              {
+                "uid": "Gx35Ef0-S"
+              },
+              {
+                "uid": "mBGMGlAug"
+              },
+              {
+                "uid": "fJITY2nwZ"
+              },
+              {
+                "uid": "D8ld3cXC3"
+              },
+              {
+                "uid": "nXhOWmKXo"
+              },
+              {
+                "uid": "vmgzUP3fU"
+              },
+              {
+                "uid": "h65_RAv0X"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "uid": "65TlPQOyM",
+            "edit-time": 1617639587726,
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "QMDYgmQ0r"
+          }
+        ],
+        "uid": "WIN8A6-pj",
+        ":block/refs": [
+          {
+            ":block/uid": "QMDYgmQ0r"
+          }
+        ],
+        "string": "How I Organise My Life with Roam by [[Ali Abdaal]] ",
+        ":create/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "create-time": 1617639587726,
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "heading": 3
       }
     ],
     "uid": "qtyQOkuaT",
@@ -66898,6 +66552,460 @@
     },
     ":edit/user": {
       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1617636418009,
+    "title": "Beginner's Guide",
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    "children": [
+      {
+        "string": "A short but comprehensive guide",
+        "create-time": 1617638991295,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "children": [
+          {
+            "edit-time": 1617639001321,
+            "children": [
+              {
+                "string": "{{[[video]]: https://www.youtube.com/watch?v=X6OOos4met0}}\n",
+                "create-time": 1617094170343,
+                ":block/refs": [
+                  {
+                    ":block/uid": "2h9V-FtAO"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "2h9V-FtAO"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                "uid": "GzrOEC4IP",
+                "edit-time": 1617639001321,
+                ":edit/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                }
+              },
+              {
+                "string": "#[[Daily Notes]] | #[[/ Commands]] | #[[Bidirectional linking]]",
+                "create-time": 1617094170343,
+                ":block/refs": [
+                  {
+                    ":block/uid": "eOaNXBvXZ"
+                  },
+                  {
+                    ":block/uid": "y7RCW_g_0"
+                  },
+                  {
+                    ":block/uid": "fJITY2nwZ"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "eOaNXBvXZ"
+                  },
+                  {
+                    "uid": "y7RCW_g_0"
+                  },
+                  {
+                    "uid": "fJITY2nwZ"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                "uid": "qRdjVbjPO",
+                "edit-time": 1617639542525,
+                ":edit/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "cW0LM6Cw0"
+              }
+            ],
+            "uid": "PV_xu9Z8I",
+            ":block/refs": [
+              {
+                ":block/uid": "cW0LM6Cw0"
+              }
+            ],
+            "string": "A Beginner’s Guide to Roam Research by [[Drew Coffman]]",
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "create-time": 1617094170343,
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "heading": 3
+          }
+        ],
+        "uid": "r5jFW4r3O",
+        "edit-time": 1617639084106,
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        }
+      },
+      {
+        "edit-time": 1617636762197,
+        "children": [
+          {
+            "edit-time": 1617639015051,
+            "children": [
+              {
+                "string": "{{[[video]]: https://www.youtube.com/watch?v=S3qJdvPzOC8}}\n",
+                "create-time": 1617639007209,
+                ":block/refs": [
+                  {
+                    ":block/uid": "2h9V-FtAO"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "2h9V-FtAO"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                "uid": "UfiVAsD_q",
+                "edit-time": 1617639024402,
+                ":edit/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "cW0LM6Cw0"
+              }
+            ],
+            "uid": "5vL8YgBJH",
+            ":block/refs": [
+              {
+                ":block/uid": "cW0LM6Cw0"
+              }
+            ],
+            "string": "Leonardo Da Vinci and Roam-Thinking by [[Drew Coffman]]",
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "create-time": 1617639007209,
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "heading": 3
+          }
+        ],
+        "refs": [
+          {
+            "uid": "kHiuT34q_"
+          }
+        ],
+        "uid": "Xb5hoZIp0",
+        ":block/refs": [
+          {
+            ":block/uid": "kHiuT34q_"
+          }
+        ],
+        "string": "[[Why Roam?]]",
+        ":create/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "create-time": 1617636612009,
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "heading": 1
+      },
+      {
+        "edit-time": 1617637586978,
+        "children": [
+          {
+            "edit-time": 1617637586978,
+            "children": [
+              {
+                "string": "{{[[video]]: https://www.youtube.com/watch?v=RTI6Mxu3YiI}}\n",
+                "create-time": 1617637038107,
+                ":block/refs": [
+                  {
+                    ":block/uid": "2h9V-FtAO"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "2h9V-FtAO"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                "uid": "c0coic5aM",
+                "edit-time": 1617637586978,
+                ":edit/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                }
+              },
+              {
+                "string": "#[[Daily Notes]] | #[[Bidirectional linking]]",
+                "create-time": 1617637038107,
+                ":block/refs": [
+                  {
+                    ":block/uid": "eOaNXBvXZ"
+                  },
+                  {
+                    ":block/uid": "fJITY2nwZ"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "eOaNXBvXZ"
+                  },
+                  {
+                    "uid": "fJITY2nwZ"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                "uid": "Iw2QXdCMk",
+                "edit-time": 1617637586978,
+                ":edit/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "OylLeH15w"
+              }
+            ],
+            "uid": "L9Eiu6YZ-",
+            ":block/refs": [
+              {
+                ":block/uid": "OylLeH15w"
+              }
+            ],
+            "string": "The Simple Guide to Roam Research by [[Shu Omi]]",
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "create-time": 1617637038107,
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "heading": 3
+          }
+        ],
+        "refs": [
+          {
+            "uid": "s6pvNWMkE"
+          }
+        ],
+        "uid": "HOBySu_zP",
+        ":block/refs": [
+          {
+            ":block/uid": "s6pvNWMkE"
+          }
+        ],
+        "string": "Best [[Features]] of Roam",
+        ":create/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "create-time": 1617636599316,
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "heading": 1
+      },
+      {
+        "edit-time": 1617636877900,
+        "children": [
+          {
+            "edit-time": 1617639640365,
+            "children": [
+              {
+                "string": "{{[[video]]: https://www.youtube.com/watch?v=syKAar8ZD-U}}\n",
+                "create-time": 1617636821473,
+                ":block/refs": [
+                  {
+                    ":block/uid": "2h9V-FtAO"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "2h9V-FtAO"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                "uid": "-eYG4JGjR",
+                "edit-time": 1617639652738,
+                ":edit/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                }
+              },
+              {
+                "string": "#[[Daily Notes]] | #[[Bidirectional linking]] | #[[Linked References]] #[[Book]] | #[[Sidebar]] | #[[Tags]] | #[[Evergreen Notes]] | #[[Block References]] | #[[Templates]] | #[[Query]]",
+                "create-time": 1617636821473,
+                ":block/refs": [
+                  {
+                    ":block/uid": "OpgJN0KUh"
+                  },
+                  {
+                    ":block/uid": "l8uKkdhbc"
+                  },
+                  {
+                    ":block/uid": "eOaNXBvXZ"
+                  },
+                  {
+                    ":block/uid": "Gx35Ef0-S"
+                  },
+                  {
+                    ":block/uid": "mBGMGlAug"
+                  },
+                  {
+                    ":block/uid": "fJITY2nwZ"
+                  },
+                  {
+                    ":block/uid": "D8ld3cXC3"
+                  },
+                  {
+                    ":block/uid": "nXhOWmKXo"
+                  },
+                  {
+                    ":block/uid": "vmgzUP3fU"
+                  },
+                  {
+                    ":block/uid": "h65_RAv0X"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "OpgJN0KUh"
+                  },
+                  {
+                    "uid": "l8uKkdhbc"
+                  },
+                  {
+                    "uid": "eOaNXBvXZ"
+                  },
+                  {
+                    "uid": "Gx35Ef0-S"
+                  },
+                  {
+                    "uid": "mBGMGlAug"
+                  },
+                  {
+                    "uid": "fJITY2nwZ"
+                  },
+                  {
+                    "uid": "D8ld3cXC3"
+                  },
+                  {
+                    "uid": "nXhOWmKXo"
+                  },
+                  {
+                    "uid": "vmgzUP3fU"
+                  },
+                  {
+                    "uid": "h65_RAv0X"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                "uid": "G75LUH9p2",
+                "edit-time": 1617638389102,
+                ":edit/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "wbh78kemE"
+              }
+            ],
+            "uid": "t7EF9Q1kj",
+            ":block/refs": [
+              {
+                ":block/uid": "wbh78kemE"
+              }
+            ],
+            "string": "What's So Great About Roam Research? by [[Nat Eliason]] ",
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "create-time": 1617636821473,
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "heading": 3
+          }
+        ],
+        "refs": [
+          {
+            "uid": "-bNjVrFfG"
+          }
+        ],
+        "uid": "zrPtRhlWV",
+        ":block/refs": [
+          {
+            ":block/uid": "-bNjVrFfG"
+          }
+        ],
+        "string": "What [[Workflows]] can I use Roam for?",
+        ":create/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "create-time": 1617636620761,
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "heading": 1
+      }
+    ],
+    "uid": "WifUHXBv2",
+    "edit-time": 1617636418009,
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1617636843680,
+    "title": "Ali Abdaal",
+    "uid": "QMDYgmQ0r",
+    "edit-time": 1617636843683,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1617637709261,
+    "title": "Evergreen Notes",
+    "uid": "h65_RAv0X",
+    "edit-time": 1617637709270,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     }
   }
 ]

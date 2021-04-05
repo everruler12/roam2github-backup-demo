@@ -6,6 +6,7 @@
         - ### [How to link your notes]([[Bidirectional linking]])
         - ### [How to format your text]([[Formatting]])
         - ### [How to work with several notes at a time with the right sidebar]([[Right Sidebar]])
+        - ### [Show me some video tutorials on where to begin]([[Beginner's Guide]])
         - ### Type `/` into a block to check out features available in the [[/ Commands]] menu
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Fvg4SUhgwIf.gif?alt=media&token=f4f682cb-e612-447a-83c1-9f4934818eaa)
         - > Here are [some amazing free courses](((eEUXylm_o))) from our [community]([[Community]])
