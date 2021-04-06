@@ -67201,5 +67201,113 @@
     ":edit/user": {
       ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
     }
+  },
+  {
+    "create-time": 1617715966358,
+    "title": "template",
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "children": [
+      {
+        "string": "see [[Templates]]",
+        "create-time": 1617715967432,
+        ":block/refs": [
+          {
+            ":block/uid": "mBGMGlAug"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "mBGMGlAug"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        },
+        "uid": "ciw0Aw0um",
+        "edit-time": 1617715971202,
+        ":edit/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        }
+      }
+    ],
+    "uid": "Ki0s5mwC2",
+    "edit-time": 1617715966358,
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    }
+  },
+  {
+    "create-time": 1617716622013,
+    "title": "filter",
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "children": [
+      {
+        "string": "see [[Filter]]",
+        "create-time": 1617716622821,
+        ":block/refs": [
+          {
+            ":block/uid": "b8TnbBqKZ"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "b8TnbBqKZ"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        },
+        "uid": "QRaB8Z05a",
+        "edit-time": 1617716647300,
+        ":edit/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        }
+      }
+    ],
+    "uid": "EMou2-xES",
+    "edit-time": 1617716622013,
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    }
+  },
+  {
+    "create-time": 1617716726567,
+    "title": "account",
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "children": [
+      {
+        "string": "see [[Account]]",
+        "create-time": 1617716727436,
+        ":block/refs": [
+          {
+            ":block/uid": "0dAiKrqzR"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "0dAiKrqzR"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        },
+        "uid": "Ai1F0_UK1",
+        "edit-time": 1617716732035,
+        ":edit/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        }
+      }
+    ],
+    "uid": "RK9g9HSrn",
+    "edit-time": 1617716726567,
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    }
   }
 ]
