@@ -580,6 +580,7 @@
   [338 :create/time 1614356949030 536871507]
   [338 :create/user 3 536871507]
   [338 :edit/seen-by 1388 536895245]
+  [338 :edit/seen-by 3422 536960259]
   [338 :edit/time 1614784545081 536889229]
   [338 :edit/user 3 536871507]
   [340 :attrs/lookup 177 536907829]
@@ -7492,9 +7493,14 @@
   [2526 :edit/user 3 536877423]
   [2527 :attrs/lookup 1336 536959863]
   [2527 :attrs/lookup 2527 536959863]
+  [2527 :attrs/lookup 44476 536960305]
   [2527 :attrs/lookup 44526 536959863]
   [2527 :attrs/lookup 44527 536959863]
+  [2527 :attrs/lookup 44636 536960305]
+  [2527 :attrs/lookup 44637 536960305]
   [2527 :block/children 44527 536959856]
+  [2527 :block/children 44635 536960261]
+  [2527 :block/children 44636 536960297]
   [2527 :block/uid "w3-eryhFP" 536877426]
   [2527 :create/time 1614681927206 536877426]
   [2527 :create/user 3 536877426]
@@ -7505,11 +7511,17 @@
    :entity/attrs
    #{[{:source [:block/uid "w3-eryhFP"],
        :value [:block/uid "w3-eryhFP"]}
+      {:source [:block/uid "A0eT-R9_R"],
+       :value [:block/uid "NmcH8RbDC"]}
+      {:source [:block/uid "46LkbJY4P"],
+       :value [:block/uid "46LkbJY4P"]}]
+     [{:source [:block/uid "w3-eryhFP"],
+       :value [:block/uid "w3-eryhFP"]}
       {:source [:block/uid "oS6DOs0jy"],
        :value [:block/uid "SwSub32Iu"]}
       {:source [:block/uid "4pxjYKdw9"],
        :value [:block/uid "4pxjYKdw9"]}]}
-   536959863]
+   536960305]
   [2527 :node/title "Kifah Meeran" 536878157]
   [2528 :block/heading 3 536912359]
   [2528 :block/open true 536877456]
@@ -15632,6 +15644,7 @@
   [6865 :create/user 3 536889355]
   [6865 :edit/seen-by 53 536891574]
   [6865 :edit/seen-by 1388 536895245]
+  [6865 :edit/seen-by 3422 536960259]
   [6865 :edit/time 1614808164833 536893618]
   [6865 :edit/user 3 536889355]
   [6876 :block/string "" 536889383]
@@ -56370,8 +56383,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuidcaddd13a-d540-4dc5-b23a-fe942d015b9c"
-   536960259]
+   "uuid3c519aaa-bdc6-47fe-9ccd-07126a18a51a"
+   536960325]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -68065,12 +68078,12 @@
   [44493 :block/refs 340 536959820]
   [44493
    :block/string
-   "Added shortcut hint in block context menu for copying [[Block References]]"
-   536960258]
+   "Added shortcut hint in context menu for copying [[Block References]]"
+   536960260]
   [44493 :block/uid "k_xq7IiNT" 536959643]
   [44493 :create/time 1617343230582 536959643]
   [44493 :create/user 53 536959643]
-  [44493 :edit/time 1617707982024 536960258]
+  [44493 :edit/time 1617466752872 536960260]
   [44493 :edit/user 53 536959643]
   [44494 :block/children 44495 536959643]
   [44494 :block/open false 536959956]
@@ -68485,7 +68498,7 @@
   [44526 :edit/user 53 536959850]
   [44527 :block/children 44526 536959862]
   [44527 :block/open true 536959856]
-  [44527 :block/order 0 536959856]
+  [44527 :block/order 1 536960261]
   [44527 :block/page 2527 536959858]
   [44527 :block/parents 2527 536959858]
   [44527 :block/refs 1336 536959857]
@@ -69261,10 +69274,49 @@
   [44633 :create/user 9445 536960251]
   [44633 :edit/time 1617705663806 536960254]
   [44633 :edit/user 9445 536960251]
-  [44635 :block/uid "d54ZA_kqN" 536960259]
-  [44635 :user/display-name "Erik Newhard" 536960259]
+  [44635 :block/heading 3 536960314]
+  [44635 :block/open true 536960261]
+  [44635 :block/order 0 536960261]
+  [44635 :block/page 2527 536960262]
+  [44635 :block/parents 2527 536960262]
+  [44635 :block/refs 2807 536960281]
   [44635
+   :block/string
+   "Product, Design, Support-- Bringing ideas, polish, and empathy to [[Roam Research]]."
+   536960324]
+  [44635 :block/text-align "left" 536960293]
+  [44635 :block/uid "heb_fQneR" 536960261]
+  [44635 :create/time 1617713978645 536960261]
+  [44635 :create/user 53 536960261]
+  [44635 :edit/time 1617714149989 536960324]
+  [44635 :edit/user 53 536960261]
+  [44636 :block/children 44637 536960304]
+  [44636 :block/open true 536960294]
+  [44636 :block/order 2 536960297]
+  [44636 :block/page 2527 536960296]
+  [44636 :block/parents 2527 536960296]
+  [44636 :block/refs 44476 536960303]
+  [44636 :block/string "Website::" 536960302]
+  [44636 :block/uid "A0eT-R9_R" 536960294]
+  [44636 :create/time 1617714080845 536960294]
+  [44636 :create/user 53 536960294]
+  [44636 :edit/time 1617714084079 536960302]
+  [44636 :edit/user 53 536960294]
+  [44637 :block/open true 536960300]
+  [44637 :block/order 0 536960304]
+  [44637 :block/page 2527 536960301]
+  [44637 :block/parents 2527 536960301]
+  [44637 :block/parents 44636 536960306]
+  [44637 :block/string "[maskys.com](https://maskys.com)" 536960309]
+  [44637 :block/uid "46LkbJY4P" 536960300]
+  [44637 :create/time 1617714084073 536960300]
+  [44637 :create/user 53 536960300]
+  [44637 :edit/time 1617714097054 536960309]
+  [44637 :edit/user 53 536960300]
+  [44638 :block/uid "73bFVl5JJ" 536960325]
+  [44638 :user/display-name "Erik Newhard" 536960325]
+  [44638
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536960259]
-  [44635 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536960259]]}
+   536960325]
+  [44638 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536960325]]}
