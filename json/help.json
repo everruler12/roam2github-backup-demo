@@ -30926,15 +30926,25 @@
             },
             "children": [
               {
-                "string": "Roam is an online workspace for organizing and evaluating knowledge. The system is built on a directed graph, which frees it from the constraints of the classic file tree. Users can remix and connect ideas in multiple overlapping hierarchies, with each unit of information becoming a node in a dynamic network. Any given node can occupy multiple positions simultaneously, convey information through defined relationships, and populate changes throughout the graph. With weightings assigned to the strength of relationships between nodes, Roam also becomes a tool for Bayesian inference and decision making. The ultimate goal is to extend the system to collaborative reasoning, allowing groups to build shared mental maps and make faster and better-informed decisions. {{word-count}}",
+                "string": "Roam is an online workspace for organizing and evaluating knowledge. The system is built on a directed graph, which frees it from the constraints of the classic file tree. Users can remix and connect ideas in multiple overlapping hierarchies, with each unit of information becoming a node in a dynamic network. Any given node can occupy multiple positions simultaneously, convey information through defined relationships, and populate changes throughout the graph. With weightings assigned to the strength of relationships between nodes, Roam also becomes a tool for Bayesian inference and decision making. The ultimate goal is to extend the system to collaborative reasoning, allowing groups to build shared mental maps and make faster and better-informed decisions. {{[[word-count]]}}",
                 "create-time": 1614784283302,
-                "uid": "_A_fKebUI",
-                "edit-time": 1615209293147,
+                ":block/refs": [
+                  {
+                    ":block/uid": "9sMIqfTOu"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "9sMIqfTOu"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
+                "uid": "_A_fKebUI",
+                "edit-time": 1617705555178,
                 ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
                 }
               }
             ],
@@ -58840,11 +58850,25 @@
   {
     "create-time": 1615210917370,
     "title": "query",
-    "uid": "Y_UVaLrNm",
-    "edit-time": 1615210917371,
     ":create/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1617705049085,
+        "uid": "sXpvAVbKi",
+        "edit-time": 1617705049085,
+        ":create/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        },
+        ":edit/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        }
+      }
+    ],
+    "uid": "Y_UVaLrNm",
+    "edit-time": 1615210917371,
     ":edit/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     }
@@ -67018,6 +67042,104 @@
     },
     ":edit/user": {
       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1617705511535,
+    "title": "queries",
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "children": [
+      {
+        "string": "See [[Query]]",
+        "create-time": 1617705512891,
+        ":block/refs": [
+          {
+            ":block/uid": "Gx35Ef0-S"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Gx35Ef0-S"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        },
+        "uid": "5jN3RGwWe",
+        "edit-time": 1617705520547,
+        ":edit/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        }
+      }
+    ],
+    "uid": "bFFLAQoLF",
+    "edit-time": 1617705511535,
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    }
+  },
+  {
+    "create-time": 1617705539634,
+    "title": "word-count",
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1617705549726,
+        "uid": "Iz-6s10nE",
+        "edit-time": 1617705549726,
+        ":create/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        },
+        ":edit/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        }
+      }
+    ],
+    "uid": "9sMIqfTOu",
+    "edit-time": 1617705539634,
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    }
+  },
+  {
+    "create-time": 1617705658677,
+    "title": "attribute",
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "children": [
+      {
+        "string": "see [[Attributes]]",
+        "create-time": 1617705659480,
+        ":block/refs": [
+          {
+            ":block/uid": "zIIv1EpjB"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "zIIv1EpjB"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        },
+        "uid": "j0m2iadCs",
+        "edit-time": 1617705663806,
+        ":edit/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        }
+      }
+    ],
+    "uid": "X7HuLWqDR",
+    "edit-time": 1617705658677,
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
     }
   }
 ]
