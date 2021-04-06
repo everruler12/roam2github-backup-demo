@@ -56370,8 +56370,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid6ef83e1b-3afe-4387-af21-dbbb2741c8bc"
-   536960258]
+   "uuidcaddd13a-d540-4dc5-b23a-fe942d015b9c"
+   536960259]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -68065,12 +68065,12 @@
   [44493 :block/refs 340 536959820]
   [44493
    :block/string
-   "Added shortcut hint in context menu for copying [[Block References]]"
-   536959819]
+   "Added shortcut hint in block context menu for copying [[Block References]]"
+   536960258]
   [44493 :block/uid "k_xq7IiNT" 536959643]
   [44493 :create/time 1617343230582 536959643]
   [44493 :create/user 53 536959643]
-  [44493 :edit/time 1617466752872 536959819]
+  [44493 :edit/time 1617707982024 536960258]
   [44493 :edit/user 53 536959643]
   [44494 :block/children 44495 536959643]
   [44494 :block/open false 536959956]
@@ -69261,10 +69261,10 @@
   [44633 :create/user 9445 536960251]
   [44633 :edit/time 1617705663806 536960254]
   [44633 :edit/user 9445 536960251]
-  [44635 :block/uid "2mSnqGuBT" 536960257]
-  [44635 :user/display-name "Erik Newhard" 536960257]
+  [44635 :block/uid "d54ZA_kqN" 536960259]
+  [44635 :user/display-name "Erik Newhard" 536960259]
   [44635
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536960257]
-  [44635 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536960257]]}
+   536960259]
+  [44635 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536960259]]}

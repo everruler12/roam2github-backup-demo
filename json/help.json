@@ -45100,7 +45100,7 @@
                 "edit-time": 1617366649769,
                 "children": [
                   {
-                    "string": "Added shortcut hint in context menu for copying [[Block References]]",
+                    "string": "Added shortcut hint in block context menu for copying [[Block References]]",
                     "create-time": 1617343230582,
                     ":block/refs": [
                       {
@@ -45116,7 +45116,7 @@
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
                     "uid": "k_xq7IiNT",
-                    "edit-time": 1617466752872,
+                    "edit-time": 1617707982024,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     }
