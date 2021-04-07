@@ -12,6 +12,8 @@
                 - Edit cards in the kanban
                 - Enter adds a card below and focuses it
                 - Click in a column to add a card
+        - [[Bug Fixes]] 🛠
+            - Minor performance improvements
     - ### [[April 5th, 2021]]
         - [[Bug Fixes]] 🛠
             - Fixed a memory leak and improved performance
