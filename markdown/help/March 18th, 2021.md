@@ -1,7 +1,0 @@
-- [[Roam notes]]
-    - 07:46
-        - Call [[Rafaele]] 
-- [[Personal notes]][[Roam notes]]
-    - Woke up early today 
-- {{[[DONE]]}} Call nick
-- #@Bardia 
