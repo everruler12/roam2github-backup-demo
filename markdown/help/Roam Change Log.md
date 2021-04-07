@@ -1,12 +1,71 @@
-#.doc-mode
+- #.doc-mode
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
     - ### [[April 7th, 2021]]
-        - **UI Updates**
-            - Updated Sharing settings
-            - Revamped Import modal
-            - Lighter Roam bullets and subtler multibar
+        - [[Quality of Life Improvements]] ✨
+            - Improved mobile menu bar and replaced Drawing helper button with [[TODO]] button
+                - {{[[kanban]]}}
+                    - Before::
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6Xk2JBlhBF.png?alt=media&token=4da2b9c2-37de-405d-98a9-212b0f5cdffe)
+                    - After::
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6Yjwj-4gvL.png?alt=media&token=ff977aec-d135-4caa-9f76-3edf05a9b570)
+            - **UI Updates**
+                - Lighter Roam bullets, slightly thinner bold text, and subtler multibar so you can focus on your content
+                    - {{[[table]]}}
+                        - Before::
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6mUQuhMfeY.png?alt=media&token=3e46c965-ad22-45a5-ba51-4fce71a60283)
+                        - After::
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FOWqQH4AWhh.png?alt=media&token=c19e6e1e-ca64-4a30-b4c3-35b0e4177deb)
+                - Cleaned up the [[Left Sidebar]]
+                    - {{[[table]]}}
+                        - Before::
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FArTNrMYLgt.png?alt=media&token=c0a5d24c-b242-410c-a1a9-029a7638ac88)
+                        - After::
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FCMTzJVwz0x.png?alt=media&token=fc77ed41-c550-4859-a13b-791d0962132b)
+                - Cleaned up [[Quick Capture]]
+                    - {{[[kanban]]}}
+                        - Before::
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FiY8WCjeeTO.png?alt=media&token=b2da9700-7c0b-42f6-8b07-4e3dd4e20f41)
+                        - After::
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2Feuu53BSFc4.png?alt=media&token=14a8ee81-8ea0-4439-ac74-2129804b2917)
+                    - And when you have super-long graph names:
+                        - {{[[kanban]]}}
+                            - Before::
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FPx0P8b82jr.png?alt=media&token=99279452-84b0-431b-8034-60e878af8cc7)
+                            - After::
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FG1TstcLWri.png?alt=media&token=d93db4ba-aa17-4913-99f8-7b8355a6001e)
+                - Revamped Import modal
+                    - {{[[table]]}}
+                        - Before::
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FSX7k6To7rD.png?alt=media&token=4056c63d-e4ba-4bec-a978-dfcefac1dcc9)
+
+                        - After::
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FkXpJm3dgXf.png?alt=media&token=7cd87887-93d4-4c41-8952-db82777e1117)
+                    - {{[[table]]}}
+                        - Before::
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FbMLzO7q-5M.png?alt=media&token=d3fb0597-9eab-4c3d-a9f0-8ff72ab2f086)
+
+                        - After::
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FItNe6Dk54D.png?alt=media&token=116c8d07-837a-43f6-9020-a0e9b23f9fe1)
+                - Updated Sharing settings
+                    - {{[[table]]}}
+                        - Before::
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FuWcVSPMzHQ.png?alt=media&token=fd0ca15c-03e6-49c6-91f4-3bc352450dbc)
+                        - After::
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6sPn5_q0gs.png?alt=media&token=74e2fa98-7488-4729-b0e8-7b664692aa79)
+                    - And with the page sharing security warning:
+                        - {{[[table]]}}
+                            - Before::
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F5JbnowYACh.png?alt=media&token=886f3455-154f-4c9c-b5da-8ce127517675)
+                            - After::
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FkzwI4ilx0f.png?alt=media&token=14985bc9-daaa-474d-91d1-8511632b8dbf)
+                    - The sharing options:
+                        - {{[[table]]}}
+                            - Before::
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F1Nz_WX-5rJ.png?alt=media&token=1e9f9b67-22b6-43c2-b244-beee49393e46)
+                            - After::
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FgKV0seo2nF.png?alt=media&token=61a7206b-6dd5-4ccd-b7c3-429e6dff7522)
             - Brought to you by::
                 - [[Kifah Meeran]] and [[Bardia Pourvakil]]
     - ### [[April 6th, 2021]]

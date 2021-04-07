@@ -45083,44 +45083,1166 @@
             "edit-time": 1617801330162,
             "children": [
               {
-                "string": "**UI Updates**",
-                "create-time": 1617795512643,
-                ":create/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
+                "edit-time": 1617802482101,
                 "children": [
                   {
-                    "string": "Updated Sharing settings",
-                    "create-time": 1617801066367,
-                    "uid": "nb3yTq9cT",
-                    "edit-time": 1617801357456,
+                    "edit-time": 1617802660194,
+                    "children": [
+                      {
+                        "edit-time": 1617803536647,
+                        "children": [
+                          {
+                            "edit-time": 1617803536647,
+                            "children": [
+                              {
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6Xk2JBlhBF.png?alt=media&token=4da2b9c2-37de-405d-98a9-212b0f5cdffe)",
+                                "props": {
+                                  "image-size": {
+                                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6Xk2JBlhBF.png?alt=media&token=4da2b9c2-37de-405d-98a9-212b0f5cdffe": {
+                                      "width": 205,
+                                      "height": null
+                                    }
+                                  }
+                                },
+                                "create-time": 1617462522151,
+                                ":block/props": {
+                                  ":image-size": {
+                                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6Xk2JBlhBF.png?alt=media&token=4da2b9c2-37de-405d-98a9-212b0f5cdffe": {
+                                      ":width": 205,
+                                      ":height": null
+                                    }
+                                  }
+                                },
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "uid": "snCzIW0Id",
+                                "edit-time": 1617803536647,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "46rVygy_C"
+                              }
+                            ],
+                            "uid": "5BKblUh9u",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "46rVygy_C"
+                              }
+                            ],
+                            "string": "Before::",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1617462510959,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          },
+                          {
+                            "edit-time": 1617803536647,
+                            "children": [
+                              {
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6Yjwj-4gvL.png?alt=media&token=ff977aec-d135-4caa-9f76-3edf05a9b570)",
+                                "props": {
+                                  "image-size": {
+                                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6Yjwj-4gvL.png?alt=media&token=ff977aec-d135-4caa-9f76-3edf05a9b570": {
+                                      "width": 203,
+                                      "height": null
+                                    }
+                                  }
+                                },
+                                "create-time": 1617462614291,
+                                ":block/props": {
+                                  ":image-size": {
+                                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6Yjwj-4gvL.png?alt=media&token=ff977aec-d135-4caa-9f76-3edf05a9b570": {
+                                      ":width": 203,
+                                      ":height": null
+                                    }
+                                  }
+                                },
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "uid": "6O5AJ_r2L",
+                                "edit-time": 1617803536647,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "spmuyAFsP"
+                              }
+                            ],
+                            "uid": "0zH7ywxK0",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "spmuyAFsP"
+                              }
+                            ],
+                            "string": "After::",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1617462519319,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "Qml4pMKlv"
+                          }
+                        ],
+                        "uid": "MooBmqf6S",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Qml4pMKlv"
+                          }
+                        ],
+                        "string": "{{[[kanban]]}}",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1617462633488,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "3VEv-jR5D"
+                      }
+                    ],
+                    "uid": "KnvM2AMyC",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "3VEv-jR5D"
+                      }
+                    ],
+                    "string": "Improved mobile menu bar and replaced Drawing helper button with [[TODO]] button",
                     ":create/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
+                    "create-time": 1617802488860,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     }
                   },
                   {
-                    "string": "Revamped Import modal",
-                    "create-time": 1617801074830,
-                    "uid": "BhfvVdg-q",
-                    "edit-time": 1617801357456,
+                    "string": "**UI Updates**",
+                    "create-time": 1617795512643,
                     ":create/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
-                    ":edit/user": {
-                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
-                  },
-                  {
-                    "string": "Lighter Roam bullets and subtler multibar",
-                    "create-time": 1617801078493,
-                    "uid": "IZnyqnHT0",
+                    "children": [
+                      {
+                        "string": "Lighter Roam bullets, slightly thinner bold text, and subtler multibar so you can focus on your content",
+                        "create-time": 1617801078493,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            "edit-time": 1617803389778,
+                            "children": [
+                              {
+                                "edit-time": 1617803389778,
+                                "children": [
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6mUQuhMfeY.png?alt=media&token=3e46c965-ad22-45a5-ba51-4fce71a60283)",
+                                    "create-time": 1617565692868,
+                                    "uid": "byBbo9M13",
+                                    "edit-time": 1617803389778,
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "46rVygy_C"
+                                  }
+                                ],
+                                "uid": "CcMThcUq1",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "46rVygy_C"
+                                  }
+                                ],
+                                "string": "Before::",
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1617565664688,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              },
+                              {
+                                "edit-time": 1617803389778,
+                                "children": [
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FOWqQH4AWhh.png?alt=media&token=c19e6e1e-ca64-4a30-b4c3-35b0e4177deb)",
+                                    "create-time": 1617565672047,
+                                    "uid": "cj3a_CPtJ",
+                                    "edit-time": 1617803389778,
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "spmuyAFsP"
+                                  }
+                                ],
+                                "uid": "kGCMjgAFm",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "spmuyAFsP"
+                                  }
+                                ],
+                                "string": "After::",
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1617565668804,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "2-eIgz-4z"
+                              }
+                            ],
+                            "uid": "bWbuLYY3R",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2-eIgz-4z"
+                              }
+                            ],
+                            "string": "{{[[table]]}}",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1617565657478,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "uid": "IZnyqnHT0",
+                        "edit-time": 1617803528185,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "edit-time": 1617803410380,
+                        "children": [
+                          {
+                            "edit-time": 1617803404639,
+                            "children": [
+                              {
+                                "edit-time": 1617803404639,
+                                "children": [
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FArTNrMYLgt.png?alt=media&token=c0a5d24c-b242-410c-a1a9-029a7638ac88)",
+                                    "create-time": 1617522386376,
+                                    "uid": "68tmjLT58",
+                                    "edit-time": 1617803404639,
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "46rVygy_C"
+                                  }
+                                ],
+                                "uid": "4XL2B_ukv",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "46rVygy_C"
+                                  }
+                                ],
+                                "string": "Before::",
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1617522374585,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              },
+                              {
+                                "edit-time": 1617803404639,
+                                "children": [
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FCMTzJVwz0x.png?alt=media&token=fc77ed41-c550-4859-a13b-791d0962132b)",
+                                    "create-time": 1617522649672,
+                                    "uid": "J070Gzba4",
+                                    "edit-time": 1617803404639,
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "spmuyAFsP"
+                                  }
+                                ],
+                                "uid": "nOUtLU1wJ",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "spmuyAFsP"
+                                  }
+                                ],
+                                "string": "After::",
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1617522380030,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "2-eIgz-4z"
+                              }
+                            ],
+                            "uid": "rM8aTvCBg",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2-eIgz-4z"
+                              }
+                            ],
+                            "string": "{{[[table]]}}",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1617522368390,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "Zq7_4pHFq"
+                          }
+                        ],
+                        "uid": "qJYxjdfx6",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Zq7_4pHFq"
+                          }
+                        ],
+                        "string": "Cleaned up the [[Left Sidebar]]",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1617802496018,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "edit-time": 1617802539640,
+                        "children": [
+                          {
+                            "edit-time": 1617803448679,
+                            "children": [
+                              {
+                                "edit-time": 1617803448679,
+                                "children": [
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FiY8WCjeeTO.png?alt=media&token=b2da9700-7c0b-42f6-8b07-4e3dd4e20f41)",
+                                    "create-time": 1617632763318,
+                                    "uid": "zoAT9OzFs",
+                                    "edit-time": 1617803448679,
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "46rVygy_C"
+                                  }
+                                ],
+                                "uid": "FPUbiSOg2",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "46rVygy_C"
+                                  }
+                                ],
+                                "string": "Before::",
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1617627369910,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              },
+                              {
+                                "edit-time": 1617803448679,
+                                "children": [
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2Feuu53BSFc4.png?alt=media&token=14a8ee81-8ea0-4439-ac74-2129804b2917)",
+                                    "create-time": 1617632766009,
+                                    "uid": "DxJYsmVCk",
+                                    "edit-time": 1617803448679,
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "spmuyAFsP"
+                                  }
+                                ],
+                                "uid": "c76UDMOcp",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "spmuyAFsP"
+                                  }
+                                ],
+                                "string": "After::",
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1617632759033,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "Qml4pMKlv"
+                              }
+                            ],
+                            "uid": "23bau6W4I",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "Qml4pMKlv"
+                              }
+                            ],
+                            "string": "{{[[kanban]]}}",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1617632904960,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          },
+                          {
+                            "string": "And when you have super-long graph names:",
+                            "create-time": 1617633130961,
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "children": [
+                              {
+                                "edit-time": 1617803448679,
+                                "children": [
+                                  {
+                                    "edit-time": 1617803448679,
+                                    "children": [
+                                      {
+                                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FPx0P8b82jr.png?alt=media&token=99279452-84b0-431b-8034-60e878af8cc7)",
+                                        "create-time": 1617633050407,
+                                        "uid": "zd1GA1bwI",
+                                        "edit-time": 1617803448679,
+                                        ":create/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        }
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "46rVygy_C"
+                                      }
+                                    ],
+                                    "uid": "EAIZAC8Ri",
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "46rVygy_C"
+                                      }
+                                    ],
+                                    "string": "Before::",
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    "create-time": 1617633050407,
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  },
+                                  {
+                                    "edit-time": 1617803448679,
+                                    "children": [
+                                      {
+                                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FG1TstcLWri.png?alt=media&token=d93db4ba-aa17-4913-99f8-7b8355a6001e)",
+                                        "create-time": 1617633050407,
+                                        "uid": "5AH0TdPpX",
+                                        "edit-time": 1617803448679,
+                                        ":create/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        }
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "spmuyAFsP"
+                                      }
+                                    ],
+                                    "uid": "onwkejJXp",
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "spmuyAFsP"
+                                      }
+                                    ],
+                                    "string": "After::",
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    "create-time": 1617633050407,
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "Qml4pMKlv"
+                                  }
+                                ],
+                                "uid": "HKIM85be3",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "Qml4pMKlv"
+                                  }
+                                ],
+                                "string": "{{[[kanban]]}}",
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1617633050407,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "uid": "ggS_cocGh",
+                            "edit-time": 1617803448679,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "Tqp-pE4nv"
+                          }
+                        ],
+                        "uid": "K4xGRM6vH",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Tqp-pE4nv"
+                          }
+                        ],
+                        "string": "Cleaned up [[Quick Capture]]",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1617802527543,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Revamped Import modal",
+                        "create-time": 1617801074830,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            "edit-time": 1617802788743,
+                            "children": [
+                              {
+                                "edit-time": 1617802788743,
+                                "children": [
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FSX7k6To7rD.png?alt=media&token=4056c63d-e4ba-4bec-a978-dfcefac1dcc9)\n",
+                                    "create-time": 1617696591732,
+                                    "uid": "I9i1FaHZR",
+                                    "edit-time": 1617802788743,
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "46rVygy_C"
+                                  }
+                                ],
+                                "uid": "cUVsMYqre",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "46rVygy_C"
+                                  }
+                                ],
+                                "string": "Before::",
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1617696584483,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              },
+                              {
+                                "edit-time": 1617802788743,
+                                "children": [
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FkXpJm3dgXf.png?alt=media&token=7cd87887-93d4-4c41-8952-db82777e1117)",
+                                    "create-time": 1617696628341,
+                                    "uid": "vQrxPdn43",
+                                    "edit-time": 1617802788743,
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "spmuyAFsP"
+                                  }
+                                ],
+                                "uid": "mc-GMO8hX",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "spmuyAFsP"
+                                  }
+                                ],
+                                "string": "After::",
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1617696600904,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "2-eIgz-4z"
+                              }
+                            ],
+                            "uid": "_jZaXmt1h",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2-eIgz-4z"
+                              }
+                            ],
+                            "string": "{{[[table]]}}",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1617696573464,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          },
+                          {
+                            "edit-time": 1617802788743,
+                            "children": [
+                              {
+                                "edit-time": 1617802788743,
+                                "children": [
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FbMLzO7q-5M.png?alt=media&token=d3fb0597-9eab-4c3d-a9f0-8ff72ab2f086)\n",
+                                    "create-time": 1617696626071,
+                                    "uid": "6v8202hbZ",
+                                    "edit-time": 1617802788743,
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "46rVygy_C"
+                                  }
+                                ],
+                                "uid": "D3MMXB4kP",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "46rVygy_C"
+                                  }
+                                ],
+                                "string": "Before::",
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1617696626071,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              },
+                              {
+                                "edit-time": 1617802788743,
+                                "children": [
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FItNe6Dk54D.png?alt=media&token=116c8d07-837a-43f6-9020-a0e9b23f9fe1)",
+                                    "create-time": 1617696626071,
+                                    "uid": "iQHRDrklv",
+                                    "edit-time": 1617802788743,
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "spmuyAFsP"
+                                  }
+                                ],
+                                "uid": "yOF-hr-4n",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "spmuyAFsP"
+                                  }
+                                ],
+                                "string": "After::",
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1617696626071,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "2-eIgz-4z"
+                              }
+                            ],
+                            "uid": "DPtDHrQqy",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2-eIgz-4z"
+                              }
+                            ],
+                            "string": "{{[[table]]}}",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1617696626071,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "uid": "BhfvVdg-q",
+                        "edit-time": 1617801357456,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Updated Sharing settings",
+                        "create-time": 1617801066367,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            "edit-time": 1617802769239,
+                            "children": [
+                              {
+                                "edit-time": 1617802769239,
+                                "children": [
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FuWcVSPMzHQ.png?alt=media&token=fd0ca15c-03e6-49c6-91f4-3bc352450dbc)",
+                                    "create-time": 1617731324806,
+                                    "uid": "DmUNAAxqr",
+                                    "edit-time": 1617802769239,
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "46rVygy_C"
+                                  }
+                                ],
+                                "uid": "v-shshlfH",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "46rVygy_C"
+                                  }
+                                ],
+                                "string": "Before::",
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1617731317974,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              },
+                              {
+                                "edit-time": 1617802769239,
+                                "children": [
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6sPn5_q0gs.png?alt=media&token=74e2fa98-7488-4729-b0e8-7b664692aa79)",
+                                    "create-time": 1617731328050,
+                                    "uid": "RMsddTp5O",
+                                    "edit-time": 1617802769239,
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "spmuyAFsP"
+                                  }
+                                ],
+                                "uid": "1rlrSqi7V",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "spmuyAFsP"
+                                  }
+                                ],
+                                "string": "After::",
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1617731321581,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "2-eIgz-4z"
+                              }
+                            ],
+                            "uid": "gDgwW3GrT",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2-eIgz-4z"
+                              }
+                            ],
+                            "string": "{{[[table]]}}",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1617731302934,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          },
+                          {
+                            "string": "And with the page sharing security warning:",
+                            "create-time": 1617731564243,
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "children": [
+                              {
+                                "edit-time": 1617802769239,
+                                "children": [
+                                  {
+                                    "edit-time": 1617802769239,
+                                    "children": [
+                                      {
+                                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F5JbnowYACh.png?alt=media&token=886f3455-154f-4c9c-b5da-8ce127517675)",
+                                        "create-time": 1617731340921,
+                                        "uid": "wDRDDH5d8",
+                                        "edit-time": 1617802769239,
+                                        ":create/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        }
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "46rVygy_C"
+                                      }
+                                    ],
+                                    "uid": "WOjDFXT52",
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "46rVygy_C"
+                                      }
+                                    ],
+                                    "string": "Before::",
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    "create-time": 1617731340921,
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  },
+                                  {
+                                    "edit-time": 1617802769239,
+                                    "children": [
+                                      {
+                                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FkzwI4ilx0f.png?alt=media&token=14985bc9-daaa-474d-91d1-8511632b8dbf)",
+                                        "create-time": 1617731340921,
+                                        "uid": "HdP0CghY7",
+                                        "edit-time": 1617802769239,
+                                        ":create/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        }
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "spmuyAFsP"
+                                      }
+                                    ],
+                                    "uid": "-fEqalavV",
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "spmuyAFsP"
+                                      }
+                                    ],
+                                    "string": "After::",
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    "create-time": 1617731340921,
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "2-eIgz-4z"
+                                  }
+                                ],
+                                "uid": "y1pp1nnOP",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "2-eIgz-4z"
+                                  }
+                                ],
+                                "string": "{{[[table]]}}",
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1617731340921,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "uid": "IlKtZJg7p",
+                            "edit-time": 1617802769239,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          },
+                          {
+                            "string": "The sharing options:",
+                            "create-time": 1617731674833,
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "children": [
+                              {
+                                "edit-time": 1617802769239,
+                                "children": [
+                                  {
+                                    "edit-time": 1617802769239,
+                                    "children": [
+                                      {
+                                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F1Nz_WX-5rJ.png?alt=media&token=1e9f9b67-22b6-43c2-b244-beee49393e46)",
+                                        "create-time": 1617731602127,
+                                        "uid": "IG5v4tucM",
+                                        "edit-time": 1617802769239,
+                                        ":create/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        }
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "46rVygy_C"
+                                      }
+                                    ],
+                                    "uid": "zk60bT8qM",
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "46rVygy_C"
+                                      }
+                                    ],
+                                    "string": "Before::",
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    "create-time": 1617731602127,
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  },
+                                  {
+                                    "edit-time": 1617802769239,
+                                    "children": [
+                                      {
+                                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FgKV0seo2nF.png?alt=media&token=61a7206b-6dd5-4ccd-b7c3-429e6dff7522)",
+                                        "create-time": 1617731602127,
+                                        "uid": "HT9vYXjaP",
+                                        "edit-time": 1617802769239,
+                                        ":create/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        }
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "spmuyAFsP"
+                                      }
+                                    ],
+                                    "uid": "zOdZxjpMB",
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "spmuyAFsP"
+                                      }
+                                    ],
+                                    "string": "After::",
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    "create-time": 1617731602127,
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "2-eIgz-4z"
+                                  }
+                                ],
+                                "uid": "7hYTOcxhh",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "2-eIgz-4z"
+                                  }
+                                ],
+                                "string": "{{[[table]]}}",
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1617731602127,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "uid": "AwRFxF7if",
+                            "edit-time": 1617802769239,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "uid": "nb3yTq9cT",
+                        "edit-time": 1617801357456,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "uid": "Yyz5Lmio1",
                     "edit-time": 1617801357456,
-                    ":create/user": {
-                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    },
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     }
@@ -45178,8 +46300,22 @@
                     }
                   }
                 ],
-                "uid": "Yyz5Lmio1",
-                "edit-time": 1617801357456,
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "uid": "gW78FrsYZ",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]] ✨",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1617802477034,
                 ":edit/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 }
