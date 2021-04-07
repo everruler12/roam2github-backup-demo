@@ -45057,6 +45057,125 @@
             }
           },
           {
+            "edit-time": 1617775021357,
+            "children": [
+              {
+                "edit-time": 1617775097624,
+                "children": [
+                  {
+                    "string": "Kanbans are now directly editable",
+                    "create-time": 1617775098352,
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "children": [
+                      {
+                        "string": "Navigate around with key commands (cmd-<arrow> on Mac)",
+                        "uid": "W6rNpuT0e",
+                        "edit-time": 1617775347814,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Relocate cards with key commands (cmd-shift-<arrow> on Mac)",
+                        "uid": "xr6KNOTVb",
+                        "edit-time": 1617775349486,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Reorder with drag n' drop",
+                        "uid": "JdjCii3Nh",
+                        "edit-time": 1617775248510,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Drag and drop blocks in and out of the kanban with more precise location control",
+                        "uid": "GDAwQby0J",
+                        "edit-time": 1617775313092,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Edit cards in the kanban",
+                        "uid": "W3BYYjfSs",
+                        "edit-time": 1617775252863,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Enter adds a card below and focuses it",
+                        "uid": "nwRopjNAR",
+                        "edit-time": 1617775254741,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Click in a column to add a card",
+                        "uid": "Zf2fhYX_D",
+                        "edit-time": 1617775257026,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "uid": "UCqIRzQhN",
+                    "edit-time": 1617775225248,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "uid": "Ad6L3MBnn",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]] ✨",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1617775021342,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "04-06-2021"
+              }
+            ],
+            "uid": "PrXOjfdaH",
+            ":block/refs": [
+              {
+                ":block/uid": "04-06-2021"
+              }
+            ],
+            "string": "[[April 6th, 2021]]",
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "create-time": 1617775014031,
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "heading": 3
+          },
+          {
             "edit-time": 1617566918981,
             "children": [
               {
@@ -67311,15 +67430,15 @@
     }
   },
   {
-    "create-time": 1617773136300,
+    "create-time": 1617774966772,
     "title": "April 7th, 2021",
     "uid": "04-07-2021",
-    "edit-time": 1617773136300,
+    "edit-time": 1617774966772,
     ":create/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
     ":edit/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     }
   }
 ]

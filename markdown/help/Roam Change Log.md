@@ -2,6 +2,16 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+    - ### [[April 6th, 2021]]
+        - [[Quality of Life Improvements]] ✨
+            - Kanbans are now directly editable
+                - Navigate around with key commands (cmd-<arrow> on Mac)
+                - Relocate cards with key commands (cmd-shift-<arrow> on Mac)
+                - Reorder with drag n' drop
+                - Drag and drop blocks in and out of the kanban with more precise location control
+                - Edit cards in the kanban
+                - Enter adds a card below and focuses it
+                - Click in a column to add a card
     - ### [[April 5th, 2021]]
         - [[Bug Fixes]] 🛠
             - Fixed a memory leak and improved performance
