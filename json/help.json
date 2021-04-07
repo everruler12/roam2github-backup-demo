@@ -26684,6 +26684,19 @@
         "edit-time": 1616571241966,
         "children": [
           {
+            "string": "Directory",
+            "create-time": 1617795877358,
+            "heading": 1,
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "uid": "cxEjmM6ZG",
+            "edit-time": 1617795881154,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          },
+          {
             "string": "[RoamPublic.com](https://www.roampublic.com/all-texts/)",
             "create-time": 1614650191571,
             "heading": 2,
@@ -26861,17 +26874,27 @@
         }
       },
       {
-        "string": "[Request to be featured](typeform)",
-        "create-time": 1616571225002,
-        "heading": 3,
+        "edit-time": 1617796391419,
+        "refs": [
+          {
+            "uid": "3VEv-jR5D"
+          }
+        ],
+        "uid": "8QcllwN92",
+        ":block/refs": [
+          {
+            ":block/uid": "3VEv-jR5D"
+          }
+        ],
+        "string": "{{[[TODO]]}} Request to be featured",
         ":create/user": {
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
-        "uid": "8QcllwN92",
-        "edit-time": 1616571225002,
+        "create-time": 1616571225002,
         ":edit/user": {
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        }
+        },
+        "heading": 3
       }
     ],
     "uid": "aSROJm17l",
@@ -45062,6 +45085,18 @@
               {
                 "edit-time": 1617775097624,
                 "children": [
+                  {
+                    "string": "",
+                    "create-time": 1617795512643,
+                    "uid": "Yyz5Lmio1",
+                    "edit-time": 1617795512643,
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    }
+                  },
                   {
                     "string": "Kanbans are now directly editable",
                     "create-time": 1617775098352,
@@ -67468,11 +67503,25 @@
   {
     "create-time": 1617774966772,
     "title": "April 7th, 2021",
-    "uid": "04-07-2021",
-    "edit-time": 1617774966772,
     ":create/user": {
       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1617794632388,
+        "uid": "RnVs7OYKV",
+        "edit-time": 1617794632388,
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        }
+      }
+    ],
+    "uid": "04-07-2021",
+    "edit-time": 1617774966772,
     ":edit/user": {
       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     }

@@ -4,6 +4,7 @@
     - ## **New Changes**
     - ### [[April 6th, 2021]]
         - [[Quality of Life Improvements]] ✨
+            - 
             - Kanbans are now directly editable
                 - Navigate around with key commands (cmd-<arrow> on Mac)
                 - Relocate cards with key commands (cmd-shift-<arrow> on Mac)

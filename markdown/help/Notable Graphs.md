@@ -1,4 +1,5 @@
 #.doc-mode
+    - # Directory
     - ## [RoamPublic.com](https://www.roampublic.com/all-texts/)
     - ## [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/wujSyfjAu)
     - ## [Roam Collective](https://roamresearch.com/#/app/Roam-Collective/page/MorTyZR-2)
@@ -10,4 +11,4 @@
     - ## [Navalmanack](https://roamresearch.com/#/app/Navalmanack)
     - ## [Roam Depot Developers](https://roamresearch.com/#/app/roam-depot-developers)
 
-### [Request to be featured](typeform)
+### {{[[TODO]]}} Request to be featured
