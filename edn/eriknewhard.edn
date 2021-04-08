@@ -1,6 +1,7 @@
 #datascript/DB {:schema
  {:create/user
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
+  :plugin/id {:db/unique :db.unique/identity},
   :node/subpages
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
   :vc/blocks
