@@ -56063,10 +56063,10 @@
             },
             "children": [
               {
-                "string": "Roam maps the world's knowledge and turns static knowledge alive and collaborative.",
-                "create-time": 1615347705968,
-                "uid": "h68X6Ggbu",
-                "edit-time": 1615373651145,
+                "string": "Roam is a tool to compound knowledge, something I'd be proud to look back on how my brain has grew and evolved 20 years later.",
+                "create-time": 1615373419779,
+                "uid": "dqPw2tYhD",
+                "edit-time": 1615373465164,
                 ":create/user": {
                   ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                 },
@@ -68578,10 +68578,10 @@
     }
   },
   {
-    "create-time": 1617981665803,
+    "create-time": 1617985762144,
     "title": "April 9th, 2021",
     "uid": "04-09-2021",
-    "edit-time": 1617981665804,
+    "edit-time": 1617985762144,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
