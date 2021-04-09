@@ -2,6 +2,9 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+    - ### [[April 9th, 2021]]
+        - [[Quality of Life Improvements]] ✨
+            - Page width is now persisted
     - ### [[April 7th, 2021]]
         - [[Quality of Life Improvements]] ✨
             - Improved mobile menu bar and replaced Drawing helper button with [[TODO]] button
