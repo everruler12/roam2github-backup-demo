@@ -5,6 +5,7 @@
     - ### [[April 9th, 2021]]
         - [[Quality of Life Improvements]] ✨
             - Page width is now persisted
+                - Brought to you by:: [[Filipe Silva]]
     - ### [[April 7th, 2021]]
         - [[Quality of Life Improvements]] ✨
             - Improved mobile menu bar and replaced Drawing helper button with [[TODO]] button
