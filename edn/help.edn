@@ -56306,8 +56306,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid013be601-ce8c-4148-9c86-e35e2376b2f2"
-   536961177]
+   "uuidb1915e0f-e844-4b91-9245-285310b0903a"
+   536961181]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -71140,12 +71140,12 @@
   [44806 :block/refs 44807 536961155]
   [44806
    :block/string
-   "[[Elixir]] added to code block options"
-   536961160]
+   "Added [[Elixir]] as a code block option"
+   536961180]
   [44806 :block/uid "oG0lNRWu4" 536961148]
   [44806 :create/time 1618251859524 536961148]
   [44806 :create/user 53 536961148]
-  [44806 :edit/time 1618251882050 536961160]
+  [44806 :edit/time 1618252780908 536961180]
   [44806 :edit/user 53 536961148]
   [44806
    :entity/attrs
@@ -71181,10 +71181,10 @@
   [44808 :create/user 53 536961161]
   [44808 :edit/time 1618251892723 536961167]
   [44808 :edit/user 53 536961161]
-  [44809 :block/uid "m7dZSrJM9" 536961177]
-  [44809 :user/display-name "Erik Newhard" 536961177]
+  [44809 :block/uid "RFcLD3nso" 536961181]
+  [44809 :user/display-name "Erik Newhard" 536961181]
   [44809
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536961177]
-  [44809 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961177]]}
+   536961181]
+  [44809 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961181]]}

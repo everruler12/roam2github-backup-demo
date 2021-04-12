@@ -45086,7 +45086,7 @@
                 "edit-time": 1618251924878,
                 "children": [
                   {
-                    "edit-time": 1618251882050,
+                    "edit-time": 1618252780908,
                     "children": [
                       {
                         "string": "Brought to you by:: [[Stian Håklev]]",
@@ -45128,7 +45128,7 @@
                         ":block/uid": "-v8qpYUMt"
                       }
                     ],
-                    "string": "[[Elixir]] added to code block options",
+                    "string": "Added [[Elixir]] as a code block option",
                     ":create/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },

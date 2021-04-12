@@ -4,7 +4,7 @@
     - ## **New Changes**
     - ### [[April 12th, 2021]]
         - [[Quality of Life Improvements]] ✨
-            - [[Elixir]] added to code block options
+            - Added [[Elixir]] as a code block option
                 - Brought to you by:: [[Stian Håklev]]
     - ### [[April 9th, 2021]]
         - [[Quality of Life Improvements]]
