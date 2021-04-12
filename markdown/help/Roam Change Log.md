@@ -2,8 +2,12 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
-    - ### [[April 9th, 2021]]
+    - ### [[April 12th, 2021]]
         - [[Quality of Life Improvements]] ✨
+            - [[Elixir]] added to code block options
+                - Brought to you by:: [[Stian Håklev]]
+    - ### [[April 9th, 2021]]
+        - [[Quality of Life Improvements]]
             - Page width is now persisted
                 - Brought to you by:: [[Filipe Silva]]
     - ### [[April 7th, 2021]]
@@ -15,12 +19,6 @@
                     - After::
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6Yjwj-4gvL.png?alt=media&token=ff977aec-d135-4caa-9f76-3edf05a9b570)
             - **UI Updates**
-                - Lighter Roam bullets, slightly thinner bold text, and subtler multibar so you can focus on your content
-                    - {{[[table]]}}
-                        - Before::
-                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6mUQuhMfeY.png?alt=media&token=3e46c965-ad22-45a5-ba51-4fce71a60283)
-                        - After::
-                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FOWqQH4AWhh.png?alt=media&token=c19e6e1e-ca64-4a30-b4c3-35b0e4177deb)
                 - Cleaned up the [[Left Sidebar]]
                     - {{[[table]]}}
                         - Before::
@@ -64,6 +62,12 @@
                                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F1Nz_WX-5rJ.png?alt=media&token=1e9f9b67-22b6-43c2-b244-beee49393e46)
                             - After::
                                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FgKV0seo2nF.png?alt=media&token=61a7206b-6dd5-4ccd-b7c3-429e6dff7522)
+                - Lighter Roam bullets, slightly thinner bold text, and subtler multibar so you can focus on your content
+                    - {{[[table]]}}
+                        - Before::
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6mUQuhMfeY.png?alt=media&token=3e46c965-ad22-45a5-ba51-4fce71a60283)
+                        - After::
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FOWqQH4AWhh.png?alt=media&token=c19e6e1e-ca64-4a30-b4c3-35b0e4177deb)
             - Brought to you by::
                 - [[Kifah Meeran]] and [[Bardia Pourvakil]]
     - ### [[April 6th, 2021]]

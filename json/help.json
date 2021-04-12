@@ -45080,10 +45080,111 @@
             }
           },
           {
+            "edit-time": 1618251847930,
+            "children": [
+              {
+                "edit-time": 1618251924878,
+                "children": [
+                  {
+                    "edit-time": 1618251882050,
+                    "children": [
+                      {
+                        "string": "Brought to you by:: [[Stian Håklev]]",
+                        "create-time": 1618251883237,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "dkdjGsM4C"
+                          },
+                          {
+                            ":block/uid": "5K19Sylm0"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "dkdjGsM4C"
+                          },
+                          {
+                            "uid": "5K19Sylm0"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "uid": "fB10YwsVY",
+                        "edit-time": 1618251892723,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "-v8qpYUMt"
+                      }
+                    ],
+                    "uid": "oG0lNRWu4",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "-v8qpYUMt"
+                      }
+                    ],
+                    "string": "[[Elixir]] added to code block options",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1618251859524,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "uid": "rhiZ2TZcH",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]] ✨",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1618251848136,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "04-12-2021"
+              }
+            ],
+            "uid": "NkqPdtQU6",
+            ":block/refs": [
+              {
+                ":block/uid": "04-12-2021"
+              }
+            ],
+            "string": "[[April 12th, 2021]]",
+            ":create/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "create-time": 1618251842633,
+            ":edit/user": {
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "heading": 3
+          },
+          {
             "edit-time": 1617988408689,
             "children": [
               {
-                "edit-time": 1617988425459,
+                "edit-time": 1618251923933,
                 "children": [
                   {
                     "string": "Page width is now persisted",
@@ -45139,7 +45240,7 @@
                     ":block/uid": "_EqbjQSAF"
                   }
                 ],
-                "string": "[[Quality of Life Improvements]] ✨",
+                "string": "[[Quality of Life Improvements]]",
                 ":create/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
@@ -45335,116 +45436,6 @@
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
                     "children": [
-                      {
-                        "string": "Lighter Roam bullets, slightly thinner bold text, and subtler multibar so you can focus on your content",
-                        "create-time": 1617801078493,
-                        ":create/user": {
-                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                        },
-                        "children": [
-                          {
-                            "edit-time": 1617803389778,
-                            "children": [
-                              {
-                                "edit-time": 1617803389778,
-                                "children": [
-                                  {
-                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6mUQuhMfeY.png?alt=media&token=3e46c965-ad22-45a5-ba51-4fce71a60283)",
-                                    "create-time": 1617565692868,
-                                    "uid": "byBbo9M13",
-                                    "edit-time": 1617803389778,
-                                    ":create/user": {
-                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                                    },
-                                    ":edit/user": {
-                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                                    }
-                                  }
-                                ],
-                                "refs": [
-                                  {
-                                    "uid": "46rVygy_C"
-                                  }
-                                ],
-                                "uid": "CcMThcUq1",
-                                ":block/refs": [
-                                  {
-                                    ":block/uid": "46rVygy_C"
-                                  }
-                                ],
-                                "string": "Before::",
-                                ":create/user": {
-                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                                },
-                                "create-time": 1617565664688,
-                                ":edit/user": {
-                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                                }
-                              },
-                              {
-                                "edit-time": 1617803389778,
-                                "children": [
-                                  {
-                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FOWqQH4AWhh.png?alt=media&token=c19e6e1e-ca64-4a30-b4c3-35b0e4177deb)",
-                                    "create-time": 1617565672047,
-                                    "uid": "cj3a_CPtJ",
-                                    "edit-time": 1617803389778,
-                                    ":create/user": {
-                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                                    },
-                                    ":edit/user": {
-                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                                    }
-                                  }
-                                ],
-                                "refs": [
-                                  {
-                                    "uid": "spmuyAFsP"
-                                  }
-                                ],
-                                "uid": "kGCMjgAFm",
-                                ":block/refs": [
-                                  {
-                                    ":block/uid": "spmuyAFsP"
-                                  }
-                                ],
-                                "string": "After::",
-                                ":create/user": {
-                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                                },
-                                "create-time": 1617565668804,
-                                ":edit/user": {
-                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                                }
-                              }
-                            ],
-                            "refs": [
-                              {
-                                "uid": "2-eIgz-4z"
-                              }
-                            ],
-                            "uid": "bWbuLYY3R",
-                            ":block/refs": [
-                              {
-                                ":block/uid": "2-eIgz-4z"
-                              }
-                            ],
-                            "string": "{{[[table]]}}",
-                            ":create/user": {
-                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                            },
-                            "create-time": 1617565657478,
-                            ":edit/user": {
-                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                            }
-                          }
-                        ],
-                        "uid": "IZnyqnHT0",
-                        "edit-time": 1617803528185,
-                        ":edit/user": {
-                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                        }
-                      },
                       {
                         "edit-time": 1617803410380,
                         "children": [
@@ -46249,6 +46240,116 @@
                         ],
                         "uid": "nb3yTq9cT",
                         "edit-time": 1617801357456,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Lighter Roam bullets, slightly thinner bold text, and subtler multibar so you can focus on your content",
+                        "create-time": 1617801078493,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            "edit-time": 1617803389778,
+                            "children": [
+                              {
+                                "edit-time": 1617803389778,
+                                "children": [
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2F6mUQuhMfeY.png?alt=media&token=3e46c965-ad22-45a5-ba51-4fce71a60283)",
+                                    "create-time": 1617565692868,
+                                    "uid": "byBbo9M13",
+                                    "edit-time": 1617803389778,
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "46rVygy_C"
+                                  }
+                                ],
+                                "uid": "CcMThcUq1",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "46rVygy_C"
+                                  }
+                                ],
+                                "string": "Before::",
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1617565664688,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              },
+                              {
+                                "edit-time": 1617803389778,
+                                "children": [
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-team%2FOWqQH4AWhh.png?alt=media&token=c19e6e1e-ca64-4a30-b4c3-35b0e4177deb)",
+                                    "create-time": 1617565672047,
+                                    "uid": "cj3a_CPtJ",
+                                    "edit-time": 1617803389778,
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "spmuyAFsP"
+                                  }
+                                ],
+                                "uid": "kGCMjgAFm",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "spmuyAFsP"
+                                  }
+                                ],
+                                "string": "After::",
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1617565668804,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "2-eIgz-4z"
+                              }
+                            ],
+                            "uid": "bWbuLYY3R",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2-eIgz-4z"
+                              }
+                            ],
+                            "string": "{{[[table]]}}",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1617565657478,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "uid": "IZnyqnHT0",
+                        "edit-time": 1617803528185,
                         ":edit/user": {
                           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                         }
@@ -68740,6 +68841,18 @@
     },
     ":edit/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1618251868430,
+    "title": "Elixir",
+    "uid": "-v8qpYUMt",
+    "edit-time": 1618251868430,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     }
   }
 ]
