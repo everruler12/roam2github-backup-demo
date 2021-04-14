@@ -2,6 +2,12 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+    - ### [[April 14th, 2021]]
+        - [[Quality of Life Improvements]] ✨
+            - Hitting tab while writing a page reference will autocomplete the first option
+                - Brought to you by:: [[Kifah Meeran]]
+        - [[Bug Fixes]] 🛠
+            - Fixed an embed styling issue
     - ### [[April 12th, 2021]]
         - [[Quality of Life Improvements]] ✨
             - Added [[Elixir]] as a code block option
