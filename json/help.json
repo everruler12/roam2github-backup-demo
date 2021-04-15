@@ -26978,7 +26978,7 @@
             "heading": 1,
             "children": [
               {
-                "edit-time": 1616648935326,
+                "edit-time": 1618482441595,
                 "refs": [
                   {
                     "uid": "klloAYliy"
@@ -26990,87 +26990,89 @@
                     ":block/uid": "klloAYliy"
                   }
                 ],
-                "string": "ℹ️ (hint... shift-click the links below 😉) #.box",
+                "string": "ℹ️ (hint... shift-click the links in blue below 😉) #.box",
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
                 "create-time": 1614804182775,
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                 },
                 "heading": 3
               },
               {
-                "edit-time": 1614804203117,
-                "refs": [
+                "edit-time": 1618482257884,
+                "children": [
                   {
-                    "uid": "fJITY2nwZ"
+                    "edit-time": 1614804203117,
+                    "refs": [
+                      {
+                        "uid": "fJITY2nwZ"
+                      }
+                    ],
+                    "uid": "OnvSQzwhz",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fJITY2nwZ"
+                      }
+                    ],
+                    "string": "[How to link your notes]([[Bidirectional linking]])",
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "create-time": 1614804168952,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "heading": 3
+                  },
+                  {
+                    "edit-time": 1614804203117,
+                    "refs": [
+                      {
+                        "uid": "ECVcN75g2"
+                      }
+                    ],
+                    "uid": "u2F8f6DvO",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ECVcN75g2"
+                      }
+                    ],
+                    "string": "[How to format your text]([[Formatting]])",
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "create-time": 1614804168952,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "heading": 3
+                  },
+                  {
+                    "edit-time": 1614804203117,
+                    "refs": [
+                      {
+                        "uid": "JG_fewIU6"
+                      }
+                    ],
+                    "uid": "UCJizJJa6",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "JG_fewIU6"
+                      }
+                    ],
+                    "string": "[How to work with several notes at a time with the right sidebar]([[Right Sidebar]])",
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "create-time": 1614804168952,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "heading": 3
                   }
                 ],
-                "uid": "OnvSQzwhz",
-                ":block/refs": [
-                  {
-                    ":block/uid": "fJITY2nwZ"
-                  }
-                ],
-                "string": "[How to link your notes]([[Bidirectional linking]])",
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1614804168952,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "heading": 3
-              },
-              {
-                "edit-time": 1614804203117,
-                "refs": [
-                  {
-                    "uid": "ECVcN75g2"
-                  }
-                ],
-                "uid": "u2F8f6DvO",
-                ":block/refs": [
-                  {
-                    ":block/uid": "ECVcN75g2"
-                  }
-                ],
-                "string": "[How to format your text]([[Formatting]])",
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1614804168952,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "heading": 3
-              },
-              {
-                "edit-time": 1614804203117,
-                "refs": [
-                  {
-                    "uid": "JG_fewIU6"
-                  }
-                ],
-                "uid": "UCJizJJa6",
-                ":block/refs": [
-                  {
-                    ":block/uid": "JG_fewIU6"
-                  }
-                ],
-                "string": "[How to work with several notes at a time with the right sidebar]([[Right Sidebar]])",
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1614804168952,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "heading": 3
-              },
-              {
-                "edit-time": 1617636739113,
                 "refs": [
                   {
                     "uid": "WifUHXBv2"

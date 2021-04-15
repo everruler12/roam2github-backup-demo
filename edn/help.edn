@@ -7123,12 +7123,9 @@
   [3328 :edit/time 1616527523839 536917816]
   [3328 :edit/user 3 536889892]
   [3329 :block/children 7440 536892727]
-  [3329 :block/children 7442 536958062]
-  [3329 :block/children 7443 536958062]
   [3329 :block/children 7444 536958066]
-  [3329 :block/children 7446 536958062]
   [3329 :block/children 7448 536892737]
-  [3329 :block/children 44569 536960036]
+  [3329 :block/children 44823 536961307]
   [3329 :block/heading 1 536920392]
   [3329 :block/open true 536880748]
   [3329 :block/order 2 536958292]
@@ -17577,23 +17574,25 @@
   [7440 :block/refs 2875 536958076]
   [7440
    :block/string
-   "ℹ️ (hint... shift-click the links below 😉) #.box"
-   536958077]
+   "ℹ️ (hint... shift-click the links in blue below 😉) #.box"
+   536961316]
   [7440 :block/uid "ahhKayN1R" 536892700]
   [7440 :create/time 1614804182775 536892700]
   [7440 :create/user 3 536892700]
   [7440 :edit/seen-by 3 536958056]
   [7440 :edit/seen-by 53 536958040]
   [7440 :edit/seen-by 1388 536893804]
-  [7440 :edit/time 1616648935326 536958077]
-  [7440 :edit/user 3 536958050]
+  [7440 :edit/seen-by 3422 536961315]
+  [7440 :edit/time 1618482441595 536961316]
+  [7440 :edit/user 3422 536961316]
   [7442 :block/heading 3 536892714]
   [7442 :block/open true 536892714]
-  [7442 :block/order 2 536958290]
+  [7442 :block/order 1 536961311]
   [7442 :block/page 651 536892719]
   [7442 :block/parents 651 536892719]
   [7442 :block/parents 3329 536892728]
   [7442 :block/parents 10510 536905189]
+  [7442 :block/parents 44823 536961313]
   [7442 :block/refs 454 536892716]
   [7442
    :block/string
@@ -17608,11 +17607,12 @@
   [7442 :edit/user 3 536892714]
   [7443 :block/heading 3 536892714]
   [7443 :block/open true 536892714]
-  [7443 :block/order 3 536958290]
+  [7443 :block/order 2 536961311]
   [7443 :block/page 651 536892720]
   [7443 :block/parents 651 536892720]
   [7443 :block/parents 3329 536892728]
   [7443 :block/parents 10510 536905189]
+  [7443 :block/parents 44823 536961314]
   [7443 :block/refs 391 536892717]
   [7443
    :block/string
@@ -17628,7 +17628,7 @@
   [7444 :block/children 7445 536892714]
   [7444 :block/heading 3 536892714]
   [7444 :block/open false 536958101]
-  [7444 :block/order 5 536960036]
+  [7444 :block/order 2 536961311]
   [7444 :block/page 651 536892721]
   [7444 :block/parents 651 536892721]
   [7444 :block/parents 3329 536892728]
@@ -17662,11 +17662,12 @@
   [7445 :edit/user 3 536892714]
   [7446 :block/heading 3 536892714]
   [7446 :block/open true 536892714]
-  [7446 :block/order 1 536958290]
+  [7446 :block/order 0 536961311]
   [7446 :block/page 651 536892722]
   [7446 :block/parents 651 536892722]
   [7446 :block/parents 3329 536892728]
   [7446 :block/parents 10510 536905189]
+  [7446 :block/parents 44823 536961312]
   [7446 :block/refs 3474 536892715]
   [7446
    :block/string
@@ -17677,6 +17678,7 @@
   [7446 :create/user 3 536892714]
   [7446 :edit/seen-by 53 536958041]
   [7446 :edit/seen-by 1388 536893815]
+  [7446 :edit/seen-by 3422 536961304]
   [7446 :edit/time 1614804203117 536892714]
   [7446 :edit/user 3 536892714]
   [7447 :block/string "" 536892723]
@@ -17684,7 +17686,7 @@
   [7447 :edit/time 1614804203150 536892723]
   [7447 :edit/user 3 536892723]
   [7448 :block/open true 536892732]
-  [7448 :block/order 6 536960036]
+  [7448 :block/order 3 536961311]
   [7448 :block/page 651 536892733]
   [7448 :block/parents 651 536892733]
   [7448 :block/parents 3329 536892733]
@@ -54182,8 +54184,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuidd3a460d3-7f37-44c7-a003-ba0766eb896a"
-   536961302]
+   "uuid2f580ff3-5528-4cb2-9dcc-fb4964ea658b"
+   536961317]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -66504,23 +66506,6 @@
   [44568 :block/uid "JMMnFbMlV" 536960031]
   [44568 :edit/time 1617636651341 536960031]
   [44568 :edit/user 3422 536960031]
-  [44569 :block/heading 3 536960046]
-  [44569 :block/open true 536960036]
-  [44569 :block/order 4 536960036]
-  [44569 :block/page 651 536960037]
-  [44569 :block/parents 651 536960037]
-  [44569 :block/parents 3329 536960037]
-  [44569 :block/parents 10510 536960037]
-  [44569 :block/refs 44555 536960041]
-  [44569
-   :block/string
-   "[Show me some video tutorials on where to begin]([[Beginner's Guide]])"
-   536960047]
-  [44569 :block/uid "tShlyKpH4" 536960036]
-  [44569 :create/time 1617636695435 536960036]
-  [44569 :create/user 3422 536960036]
-  [44569 :edit/time 1617636739113 536960047]
-  [44569 :edit/user 3422 536960036]
   [44577 :block/children 44578 536960072]
   [44577 :block/children 44579 536960072]
   [44577 :block/heading 3 536960072]
@@ -69125,10 +69110,34 @@
   [44821 :create/user 53 536961295]
   [44821 :edit/time 1618472214960 536961295]
   [44821 :edit/user 53 536961295]
-  [44822 :block/uid "4lMpDKPnW" 536961302]
-  [44822 :user/display-name "Erik Newhard" 536961302]
-  [44822
+  [44823 :block/children 7442 536961311]
+  [44823 :block/children 7443 536961311]
+  [44823 :block/children 7446 536961311]
+  [44823 :block/heading 3 536961307]
+  [44823 :block/open true 536961307]
+  [44823 :block/order 1 536961307]
+  [44823 :block/page 651 536961309]
+  [44823 :block/parents 651 536961309]
+  [44823 :block/parents 3329 536961309]
+  [44823 :block/parents 10510 536961309]
+  [44823 :block/refs 44555 536961308]
+  [44823
+   :block/string
+   "[Show me some video tutorials on where to begin]([[Beginner's Guide]])"
+   536961307]
+  [44823 :block/uid "tShlyKpH4" 536961307]
+  [44823 :create/time 1617636695435 536961307]
+  [44823 :create/user 3422 536961307]
+  [44823 :edit/time 1618482257884 536961307]
+  [44823 :edit/user 3422 536961307]
+  [44824 :block/string "" 536961310]
+  [44824 :block/uid "jIw0tHooI" 536961310]
+  [44824 :edit/time 1618482257910 536961310]
+  [44824 :edit/user 3422 536961310]
+  [44825 :block/uid "j4bKsrvph" 536961317]
+  [44825 :user/display-name "Erik Newhard" 536961317]
+  [44825
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536961302]
-  [44822 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961302]]}
+   536961317]
+  [44825 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961317]]}
