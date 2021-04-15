@@ -189,7 +189,7 @@
                 - [[What I have learned]]
                 - [[What could I have done better?]]
             - #[[Capture Inbox]]
-- [[The Roam Team]]
+- The Roam Team
     - Contact
         - Name::
         - Email::

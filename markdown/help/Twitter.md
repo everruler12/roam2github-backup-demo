@@ -1,7 +1,7 @@
 - #.doc-mode
     - ## **Official:**
         - [@RoamResearch](https://twitter.com/RoamResearch)
-    - ## The Roam Team::
+    - ## The Roam Team:
         - [Conor]([[Conor White-Sullivan]]) — [@Conaw](https://twitter.com/Conaw)
         - [Bardia]([[Bardia Pourvakil]]) — [@thepericulum](https://twitter.com/thepericulum) 
         - [Stian]([[Stian Håklev]]) — [@houshuang](https://twitter.com/houshuang)

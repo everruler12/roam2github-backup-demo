@@ -11,5 +11,3 @@
 # [[FAQ]]
 # [[Why Roam?]]
 # [[White Paper]]
----
-# [[The Roam Team]]
