@@ -15473,12 +15473,7 @@
             }
           },
           {
-            "string": "**What's the difference between hosted vs local graph?**",
-            "create-time": 1615440447340,
-            "heading": 3,
-            ":create/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
+            "edit-time": 1618472233798,
             "children": [
               {
                 "string": "There is a big difference between hosted vs local graphs.",
@@ -15531,11 +15526,26 @@
                 }
               }
             ],
+            "refs": [
+              {
+                "uid": "q9X-gs35m"
+              }
+            ],
             "uid": "D8_ZutriJ",
-            "edit-time": 1616558064190,
+            ":block/refs": [
+              {
+                ":block/uid": "q9X-gs35m"
+              }
+            ],
+            "string": "**What's the difference between hosted vs** [[Local Graph]]?",
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "create-time": 1615440447340,
             ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
+              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+            },
+            "heading": 3
           },
           {
             "edit-time": 1616558266261,
@@ -41963,11 +41973,25 @@
   {
     "create-time": 1614775269827,
     "title": "Local Graph",
-    "uid": "q9X-gs35m",
-    "edit-time": 1614775269828,
     ":create/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1618472214960,
+        "uid": "Gy4S0DpqZ",
+        "edit-time": 1618472214960,
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        }
+      }
+    ],
+    "uid": "q9X-gs35m",
+    "edit-time": 1614775269828,
     ":edit/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     }
@@ -42036,13 +42060,23 @@
                 "edit-time": 1618469236738,
                 "children": [
                   {
-                    "string": "Unlimited local graphs are now available for all Roam subscribers!",
+                    "string": "Unlimited [local graphs]([[Local Graph]]) are now available for all Roam subscribers!",
                     "create-time": 1618469220277,
-                    "uid": "PJcvEe3xH",
-                    "edit-time": 1618469378260,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "q9X-gs35m"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "q9X-gs35m"
+                      }
+                    ],
                     ":create/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
+                    "uid": "PJcvEe3xH",
+                    "edit-time": 1618472194187,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     }

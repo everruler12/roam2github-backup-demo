@@ -88,7 +88,7 @@
         - Once you have entered a New Graph Name and pressed Create Graph you will be taken to the daily notes page within your graph.  Congrats you are now officially able to use Roam!
         - You can also contact support any time via the help menu that automatically pops up when you sign up, or from the ? button in the top right of your screen.
         - But the best way to find out what Roam can do is to try for yourself and keep on Roaming!
-    - ### **What's the difference between hosted vs local graph?**
+    - ### **What's the difference between hosted vs** [[Local Graph]]?
         - There is a big difference between hosted vs local graphs.
         - You can only access the local graphs on the computer you hosted the local graphs with, whereas you can access the hosted graphs on any computer with your Roam account, as well as [[Sharing]] with collaborators for them to view or edit your graph.
         - Though, some people would prefer local graphs for ultra-security (since the notes you jot down won't hit our server) and control of data.

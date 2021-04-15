@@ -4,7 +4,7 @@
     - ## **New Changes**
     - ### [[April 15th, 2021]]
         - [[New Features]] 🚀
-            - Unlimited local graphs are now available for all Roam subscribers!
+            - Unlimited [local graphs]([[Local Graph]]) are now available for all Roam subscribers!
     - ### [[April 14th, 2021]]
         - [[Quality of Life Improvements]] ✨
             - Hitting tab while writing a page reference will autocomplete the first option

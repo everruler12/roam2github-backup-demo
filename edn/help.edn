@@ -1219,6 +1219,7 @@
   [412 :create/time 1614649398165 536871814]
   [412 :create/user 3 536871814]
   [412 :edit/seen-by 3 536912844]
+  [412 :edit/seen-by 53 536961299]
   [412 :edit/seen-by 3422 536897160]
   [412 :edit/seen-by 6897 536908228]
   [412 :edit/seen-by 9445 536908432]
@@ -1894,6 +1895,7 @@
   [575 :create/time 1614650918131 536872561]
   [575 :create/user 3 536872561]
   [575 :edit/seen-by 3 536912844]
+  [575 :edit/seen-by 53 536961299]
   [575 :edit/seen-by 3422 536897160]
   [575 :edit/seen-by 6897 536908296]
   [575 :edit/seen-by 9445 536908434]
@@ -9140,6 +9142,7 @@
   [4253 :edit/time 1614775265044 536885071]
   [4253 :edit/user 3 536885071]
   [4253 :node/title "Hosted Graph" 536885071]
+  [4254 :block/children 44821 536961295]
   [4254 :block/uid "q9X-gs35m" 536885073]
   [4254 :create/time 1614775269827 536885073]
   [4254 :create/user 3 536885073]
@@ -47208,17 +47211,19 @@
   [11676 :block/page 412 536911325]
   [11676 :block/parents 412 536911325]
   [11676 :block/parents 575 536911325]
+  [11676 :block/refs 4254 536961298]
   [11676
    :block/string
-   "**What's the difference between hosted vs local graph?**"
-   536919244]
+   "**What's the difference between hosted vs** [[Local Graph]]?"
+   536961301]
   [11676 :block/uid "D8_ZutriJ" 536911324]
   [11676 :create/time 1615440447340 536911324]
   [11676 :create/user 3422 536911324]
   [11676 :edit/seen-by 3 536912861]
+  [11676 :edit/seen-by 53 536961299]
   [11676 :edit/seen-by 3422 536911346]
-  [11676 :edit/time 1616558064190 536919244]
-  [11676 :edit/user 3 536919244]
+  [11676 :edit/time 1618472233798 536961301]
+  [11676 :edit/user 53 536961297]
   [11677 :block/open true 536911330]
   [11677 :block/order 0 536911332]
   [11677 :block/page 412 536911331]
@@ -54177,8 +54182,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuidf672b488-84f7-40c2-a6d9-7b0e83add302"
-   536961288]
+   "uuid6824ddb0-68c1-4443-8b14-613bb8556a84"
+   536961302]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -69100,19 +69105,30 @@
   [44820 :block/parents 10915 536961270]
   [44820 :block/parents 44817 536961270]
   [44820 :block/parents 44819 536961276]
+  [44820 :block/refs 4254 536961289]
   [44820
    :block/string
-   "Unlimited local graphs are now available for all Roam subscribers!"
-   536961287]
+   "Unlimited [local graphs]([[Local Graph]]) are now available for all Roam subscribers!"
+   536961294]
   [44820 :block/uid "PJcvEe3xH" 536961269]
   [44820 :create/time 1618469220277 536961269]
   [44820 :create/user 53 536961269]
-  [44820 :edit/time 1618469378260 536961287]
+  [44820 :edit/time 1618472194187 536961294]
   [44820 :edit/user 53 536961269]
-  [44821 :block/uid "w5yc6fFMT" 536961288]
-  [44821 :user/display-name "Erik Newhard" 536961288]
-  [44821
+  [44821 :block/open true 536961295]
+  [44821 :block/order 0 536961295]
+  [44821 :block/page 4254 536961296]
+  [44821 :block/parents 4254 536961296]
+  [44821 :block/string "" 536961295]
+  [44821 :block/uid "Gy4S0DpqZ" 536961295]
+  [44821 :create/time 1618472214960 536961295]
+  [44821 :create/user 53 536961295]
+  [44821 :edit/time 1618472214960 536961295]
+  [44821 :edit/user 53 536961295]
+  [44822 :block/uid "LwIDnTT_Y" 536961302]
+  [44822 :user/display-name "Erik Newhard" 536961302]
+  [44822
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536961288]
-  [44821 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961288]]}
+   536961302]
+  [44822 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961302]]}
