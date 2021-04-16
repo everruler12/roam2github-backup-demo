@@ -9682,6 +9682,7 @@
   [5323 :edit/time 1614776117701 536885774]
   [5323 :edit/user 3 536885774]
   [5323 :node/title "Replace With" 536885774]
+  [5324 :block/children 44825 536961318]
   [5324 :block/uid "Xrp3SkE2Z" 536885775]
   [5324 :create/time 1614776117718 536885775]
   [5324 :create/user 3 536885775]
@@ -28357,8 +28358,9 @@
    :user/settings
    {:namespace-options [:none :partial :full],
     :right-sidebar-pinned {},
-    :showing-own-icons? true}
-   536961199]
+    :showing-own-icons? true,
+    :showing-inline-references? false}
+   536961323]
   [9445 :user/uid "TA5u8OWeTwRw1lcal0Jvoou6wRo1" 536900548]
   [9449 :block/children 9450 536900578]
   [9449 :block/children 9482 536900853]
@@ -54186,8 +54188,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid5556712b-cd08-481a-aa60-3c389ef63c8c"
-   536961318]
+   "uuidb1ac7c1a-682e-430f-80a6-a07f4eedc302"
+   536961325]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -69136,10 +69138,27 @@
   [44824 :block/uid "jIw0tHooI" 536961310]
   [44824 :edit/time 1618482257910 536961310]
   [44824 :edit/user 3422 536961310]
-  [44825 :block/uid "REoiknOVs" 536961318]
-  [44825 :user/display-name "Erik Newhard" 536961318]
-  [44825
+  [44825 :block/open true 536961318]
+  [44825 :block/order 0 536961318]
+  [44825 :block/page 5324 536961319]
+  [44825 :block/parents 5324 536961319]
+  [44825 :block/string "" 536961318]
+  [44825 :block/uid "r2C3TSnqm" 536961318]
+  [44825 :create/time 1618531842404 536961318]
+  [44825 :create/user 9445 536961318]
+  [44825 :edit/time 1618531842404 536961318]
+  [44825 :edit/user 9445 536961318]
+  [44826 :block/uid "XgiQ0LTnG" 536961324]
+  [44826 :user/display-name "Erik Newhard" 536961324]
+  [44826
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536961318]
-  [44825 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961318]]}
+   536961324]
+  [44826 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961324]
+  [44827 :block/uid "04-16-2021" 536961325]
+  [44827 :create/time 1618534686250 536961325]
+  [44827 :create/user 44826 536961325]
+  [44827 :edit/time 1618534686250 536961325]
+  [44827 :edit/user 44826 536961325]
+  [44827 :log/id 1618534686249 536961325]
+  [44827 :node/title "April 16th, 2021" 536961325]]}
