@@ -1474,23 +1474,6 @@
   [492 :edit/time 1616568924816 536920581]
   [492 :edit/user 3 536872206]
   [492 :node/title "Roam Book Club" 536920581]
-  [495 :block/children 505 536872268]
-  [495 :block/heading 1 536872234]
-  [495 :block/open true 536914120]
-  [495 :block/order 9 536920578]
-  [495 :block/page 319 536872231]
-  [495 :block/parents 319 536872231]
-  [495 :block/parents 11967 536914158]
-  [495
-   :block/string
-   "[Pillars of the Community](Pillars of the Community)"
-   536961255]
-  [495 :block/uid "Vr2qjH51t" 536872230]
-  [495 :create/time 1614650040255 536872230]
-  [495 :create/user 3 536872230]
-  [495 :edit/seen-by 9445 536911908]
-  [495 :edit/time 1618445341395 536961255]
-  [495 :edit/user 3 536872230]
   [500 :block/string "" 536872254]
   [500 :block/uid "yGeBkt3Lo" 536872254]
   [500 :edit/time 1614650080326 536872254]
@@ -1498,7 +1481,7 @@
   [501 :block/children 639 536872788]
   [501 :block/heading 1 536872257]
   [501 :block/open true 536914121]
-  [501 :block/order 10 536920578]
+  [501 :block/order 9 536961638]
   [501 :block/page 319 536872256]
   [501 :block/parents 319 536872256]
   [501 :block/parents 11967 536914160]
@@ -1539,19 +1522,6 @@
   [504 :create/user 3 536872263]
   [504 :edit/time 1616571314383 536921264]
   [504 :edit/user 3 536872263]
-  [505 :block/open true 536872266]
-  [505 :block/order 0 536872268]
-  [505 :block/page 319 536872267]
-  [505 :block/parents 319 536872267]
-  [505 :block/parents 495 536872269]
-  [505 :block/parents 11967 536914158]
-  [505 :block/string "A Roaman Wall of Fame" 536891474]
-  [505 :block/uid "tMdK8XeLy" 536872266]
-  [505 :create/time 1614650194453 536872266]
-  [505 :create/user 3 536872266]
-  [505 :edit/seen-by 9445 536911908]
-  [505 :edit/time 1614794917350 536891474]
-  [505 :edit/user 3 536872266]
   [508 :block/string "" 536872294]
   [508 :block/uid "t-wDGLkYc" 536872294]
   [508 :edit/time 1614650272248 536872294]
@@ -49224,7 +49194,6 @@
   [11962 :edit/time 1616208309004 536912463]
   [11962 :edit/user 3 536912463]
   [11967 :block/children 484 536912489]
-  [11967 :block/children 495 536914157]
   [11967 :block/children 501 536914159]
   [11967 :block/children 973 536914147]
   [11967 :block/children 2341 536914149]
@@ -54182,8 +54151,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid4108be23-6a93-4b6c-909b-82a8ad401d9a"
-   536961638]
+   "uuidbcb10032-d5cf-4345-b66a-e6d12093fdf1"
+   536961647]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -60380,12 +60349,12 @@
   [13463 :block/parents 13352 536921650]
   [13463
    :block/string
-   "[Request to be featured](https://roamresearch.typeform.com/to/g5W8uCqz)"
-   536921671]
+   "[Request to be vetted](https://roamresearch.typeform.com/to/g5W8uCqz)"
+   536961639]
   [13463 :block/uid "ukct66uOK" 536921649]
   [13463 :create/time 1616602204564 536921649]
   [13463 :create/user 3 536921649]
-  [13463 :edit/time 1616602264346 536921671]
+  [13463 :edit/time 1618598089610 536961639]
   [13463 :edit/user 3 536921649]
   [13465 :block/string "" 536921658]
   [13465 :block/uid "raNpyl3PI" 536921658]
@@ -69188,7 +69157,7 @@
   [44828 :edit/user 53 536961327]
   [44830 :block/children 44832 536961357]
   [44830 :block/children 44840 536961427]
-  [44830 :block/open false 536961628]
+  [44830 :block/open false 536961644]
   [44830 :block/order 1 536961378]
   [44830 :block/page 4296 536961347]
   [44830 :block/parents 4296 536961347]
@@ -69251,12 +69220,12 @@
   [44836 :block/parents 44828 536961379]
   [44836
    :block/string
-   "Custom hotkeys! You can find them in `Settings > Hotkeys`"
-   536961405]
+   "Custom shortcuts! You can find them in `Settings > Hotkeys`"
+   536961646]
   [44836 :block/uid "X5G619r3J" 536961376]
   [44836 :create/time 1618559533824 536961376]
   [44836 :create/user 53 536961376]
-  [44836 :edit/time 1618559668970 536961405]
+  [44836 :edit/time 1618599018242 536961646]
   [44836 :edit/user 53 536961376]
   [44836
    :entity/attrs
@@ -69569,10 +69538,10 @@
   [44865 :create/user 53 536961633]
   [44865 :edit/time 1618573434166 536961633]
   [44865 :edit/user 53 536961633]
-  [44866 :block/uid "RxAK4xJxJ" 536961638]
-  [44866 :user/display-name "Erik Newhard" 536961638]
+  [44866 :block/uid "h1Y-JDtlV" 536961647]
+  [44866 :user/display-name "Erik Newhard" 536961647]
   [44866
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536961638]
-  [44866 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961638]]}
+   536961647]
+  [44866 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961647]]}

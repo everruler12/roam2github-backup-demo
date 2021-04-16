@@ -4153,33 +4153,6 @@
             "heading": 1
           },
           {
-            "string": "[Pillars of the Community](Pillars of the Community)",
-            "create-time": 1614650040255,
-            "heading": 1,
-            ":create/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            "children": [
-              {
-                "string": "A Roaman Wall of Fame",
-                "create-time": 1614650194453,
-                "uid": "tMdK8XeLy",
-                "edit-time": 1614794917350,
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "uid": "Vr2qjH51t",
-            "edit-time": 1618445341395,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          },
-          {
             "edit-time": 1614954616309,
             "children": [
               {
@@ -35986,14 +35959,14 @@
             }
           },
           {
-            "string": "[Request to be featured](https://roamresearch.typeform.com/to/g5W8uCqz)",
+            "string": "[Request to be vetted](https://roamresearch.typeform.com/to/g5W8uCqz)",
             "create-time": 1616602204564,
             "heading": 3,
             ":create/user": {
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             },
             "uid": "ukct66uOK",
-            "edit-time": 1616602264346,
+            "edit-time": 1618598089610,
             ":edit/user": {
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             }
@@ -42166,7 +42139,7 @@
                 "edit-time": 1618559400837,
                 "children": [
                   {
-                    "string": "Custom hotkeys! You can find them in `Settings > Hotkeys`",
+                    "string": "Custom shortcuts! You can find them in `Settings > Hotkeys`",
                     "create-time": 1618559533824,
                     ":create/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
@@ -42208,7 +42181,7 @@
                       }
                     ],
                     "uid": "X5G619r3J",
-                    "edit-time": 1618559668970,
+                    "edit-time": 1618599018242,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     }
