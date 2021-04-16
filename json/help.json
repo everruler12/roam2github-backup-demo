@@ -42274,7 +42274,7 @@
                     }
                   },
                   {
-                    "string": "User Settings and Graph Settings have been unified into our new Settings modal.",
+                    "string": "User Settings and Graph Settings have been unified into the new Settings modal.",
                     "create-time": 1618559866624,
                     ":create/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
@@ -42310,7 +42310,7 @@
                       }
                     ],
                     "uid": "NYSVrmDt-",
-                    "edit-time": 1618559894909,
+                    "edit-time": 1618572935465,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     }
@@ -42340,7 +42340,7 @@
                 "edit-time": 1618559785282,
                 "children": [
                   {
-                    "string": "Empty link tags in pasted content will no longer be rendered.",
+                    "string": "Empty `<a>` (link) tags in pasted content will no longer be rendered.",
                     "create-time": 1618559785273,
                     ":create/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
@@ -42376,7 +42376,7 @@
                       }
                     ],
                     "uid": "w4d72iBS-",
-                    "edit-time": 1618559798629,
+                    "edit-time": 1618572971144,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     }
@@ -66475,11 +66475,25 @@
   {
     "create-time": 1618559306790,
     "title": "April 16th, 2021",
-    "uid": "04-16-2021",
-    "edit-time": 1618559306790,
     ":create/user": {
       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1618573434166,
+        "uid": "IYMC2vP60",
+        "edit-time": 1618573434166,
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        }
+      }
+    ],
+    "uid": "04-16-2021",
+    "edit-time": 1618559306790,
     ":edit/user": {
       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     }

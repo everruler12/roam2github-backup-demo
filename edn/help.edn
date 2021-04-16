@@ -159,8 +159,10 @@
   [53
    :user/settings
    {:namespace-options [:none :partial :full],
+    :hide-code-blocks? true,
+    :allow-custom-components? true,
     :right-sidebar-pinned {}}
-   536878273]
+   536961635]
   [53 :user/uid "eyxGl1TJWCTcRVSJVJDyoLzWVqk2" 536871015]
   [58 :user/uid "gPJkxQgM6VNyg6MNQkYH4GVjo6o2" 536871015]
   [61 :user/uid "oh3UBcgBMfZQN6zmPgQjHn9bR6R2" 536871015]
@@ -54180,8 +54182,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuida37de299-735f-4619-9070-3c7b37e93716"
-   536961607]
+   "uuidf9c44de4-5be6-4d58-93f3-8400a009b8a8"
+   536961638]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -69162,6 +69164,7 @@
   [44826 :create/user 53 536961324]
   [44826 :edit/time 1618559307307 536961329]
   [44826 :edit/user 53 536961324]
+  [44827 :block/children 44865 536961633]
   [44827 :block/uid "04-16-2021" 536961326]
   [44827 :create/time 1618559306790 536961326]
   [44827 :create/user 53 536961326]
@@ -69170,7 +69173,7 @@
   [44827 :log/id 1618559306771 536961326]
   [44827 :node/title "April 16th, 2021" 536961326]
   [44828 :block/children 44836 536961378]
-  [44828 :block/open true 536961327]
+  [44828 :block/open true 536961626]
   [44828 :block/order 0 536961345]
   [44828 :block/page 4296 536961328]
   [44828 :block/parents 4296 536961328]
@@ -69185,7 +69188,7 @@
   [44828 :edit/user 53 536961327]
   [44830 :block/children 44832 536961357]
   [44830 :block/children 44840 536961427]
-  [44830 :block/open false 536961492]
+  [44830 :block/open false 536961628]
   [44830 :block/order 1 536961378]
   [44830 :block/page 4296 536961347]
   [44830 :block/parents 4296 536961347]
@@ -69199,7 +69202,7 @@
   [44830 :edit/time 1618559402061 536961351]
   [44830 :edit/user 53 536961346]
   [44831 :block/children 44839 536961420]
-  [44831 :block/open true 536961349]
+  [44831 :block/open true 536961629]
   [44831 :block/order 2 536961416]
   [44831 :block/page 4296 536961350]
   [44831 :block/parents 4296 536961350]
@@ -69239,7 +69242,7 @@
   [44836 :attrs/lookup 44847 536961484]
   [44836 :attrs/lookup 44848 536961484]
   [44836 :block/children 44847 536961478]
-  [44836 :block/open false 536961490]
+  [44836 :block/open false 536961613]
   [44836 :block/order 0 536961378]
   [44836 :block/page 4296 536961377]
   [44836 :block/parents 4296 536961377]
@@ -69288,12 +69291,12 @@
   [44839 :block/parents 44831 536961421]
   [44839
    :block/string
-   "Empty link tags in pasted content will no longer be rendered."
-   536961424]
+   "Empty `<a>` (link) tags in pasted content will no longer be rendered."
+   536961632]
   [44839 :block/uid "w4d72iBS-" 536961417]
   [44839 :create/time 1618559785273 536961417]
   [44839 :create/user 53 536961417]
-  [44839 :edit/time 1618559798629 536961424]
+  [44839 :edit/time 1618572971144 536961632]
   [44839 :edit/user 53 536961417]
   [44839
    :entity/attrs
@@ -69318,12 +69321,12 @@
   [44840 :block/parents 44830 536961428]
   [44840
    :block/string
-   "User Settings and Graph Settings have been unified into our new Settings modal."
-   536961432]
+   "User Settings and Graph Settings have been unified into the new Settings modal."
+   536961617]
   [44840 :block/uid "NYSVrmDt-" 536961427]
   [44840 :create/time 1618559866624 536961427]
   [44840 :create/user 53 536961427]
-  [44840 :edit/time 1618559894909 536961432]
+  [44840 :edit/time 1618572935465 536961617]
   [44840 :edit/user 53 536961427]
   [44840
    :entity/attrs
@@ -69556,10 +69559,20 @@
   [44864 :edit/time 1618569538834 536961600]
   [44864 :edit/user 3422 536961600]
   [44864 :node/title "Futurism" 536961600]
-  [44865 :block/uid "LWL7hHJfX" 536961607]
-  [44865 :user/display-name "Erik Newhard" 536961607]
-  [44865
+  [44865 :block/open true 536961633]
+  [44865 :block/order 0 536961633]
+  [44865 :block/page 44827 536961634]
+  [44865 :block/parents 44827 536961634]
+  [44865 :block/string "" 536961633]
+  [44865 :block/uid "IYMC2vP60" 536961633]
+  [44865 :create/time 1618573434166 536961633]
+  [44865 :create/user 53 536961633]
+  [44865 :edit/time 1618573434166 536961633]
+  [44865 :edit/user 53 536961633]
+  [44866 :block/uid "Ga99VHF29" 536961638]
+  [44866 :user/display-name "Erik Newhard" 536961638]
+  [44866
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536961607]
-  [44865 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961607]]}
+   536961638]
+  [44866 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961638]]}
