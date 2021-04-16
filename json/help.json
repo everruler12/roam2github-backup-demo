@@ -44,76 +44,6 @@
             }
           },
           {
-            "edit-time": 1614792907702,
-            "children": [
-              {
-                "edit-time": 1616549717847,
-                "refs": [
-                  {
-                    "uid": "CV_O2qTlP"
-                  }
-                ],
-                "uid": "Dqnmt4naU",
-                ":block/refs": [
-                  {
-                    ":block/uid": "CV_O2qTlP"
-                  }
-                ],
-                "string": "Applying Custom Themes for your RoamResearch Knowledge Graph by [[Conor White-Sullivan]]",
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1616549695260,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "heading": 3
-              },
-              {
-                "string": "{{[[video]]: https://youtu.be/UY-sAC2eGyI }}",
-                "create-time": 1614763149971,
-                ":block/refs": [
-                  {
-                    ":block/uid": "2h9V-FtAO"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "2h9V-FtAO"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "uid": "vjoBuVU1B",
-                "edit-time": 1614763151107,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "refs": [
-              {
-                "uid": "oEhVJ0Eaw"
-              }
-            ],
-            "uid": "0qmlzLSK2",
-            ":block/refs": [
-              {
-                ":block/uid": "oEhVJ0Eaw"
-              }
-            ],
-            "string": "Roam Team Videos::",
-            ":create/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            "create-time": 1614763160361,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            "heading": 2
-          },
-          {
             "edit-time": 1614777511281,
             "children": [
               {
@@ -191,7 +121,7 @@
                 "edit-time": 1615273744527,
                 "children": [
                   {
-                    "string": "{{[[video]]: https://www.youtube.com/watch?v=kUgAqyzwGzw}}",
+                    "string": "{{[[video]]: https://www.youtube.com/watch?v=kUgAqyzwGzw&t=99s}}",
                     "create-time": 1615273744631,
                     ":block/refs": [
                       {
@@ -207,7 +137,7 @@
                       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                     },
                     "uid": "0BcWgfdYQ",
-                    "edit-time": 1615273752625,
+                    "edit-time": 1618564790448,
                     ":edit/user": {
                       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                     }
@@ -300,6 +230,76 @@
             "create-time": 1614777583898,
             ":edit/user": {
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "heading": 2
+          },
+          {
+            "edit-time": 1618564610152,
+            "children": [
+              {
+                "edit-time": 1618564610152,
+                "refs": [
+                  {
+                    "uid": "CV_O2qTlP"
+                  }
+                ],
+                "uid": "Dqnmt4naU",
+                ":block/refs": [
+                  {
+                    ":block/uid": "CV_O2qTlP"
+                  }
+                ],
+                "string": "Applying Custom Themes for your RoamResearch Knowledge Graph by [[Conor White-Sullivan]]",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1616549695260,
+                ":edit/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                "heading": 3
+              },
+              {
+                "string": "{{[[video]]: https://youtu.be/UY-sAC2eGyI }}",
+                "create-time": 1614763149971,
+                ":block/refs": [
+                  {
+                    ":block/uid": "2h9V-FtAO"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "2h9V-FtAO"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "uid": "vjoBuVU1B",
+                "edit-time": 1618564610152,
+                ":edit/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "oEhVJ0Eaw"
+              }
+            ],
+            "uid": "0qmlzLSK2",
+            ":block/refs": [
+              {
+                ":block/uid": "oEhVJ0Eaw"
+              }
+            ],
+            "string": "Roam Team Videos::",
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "create-time": 1614763160361,
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
             },
             "heading": 2
           }
@@ -18113,9 +18113,25 @@
                 }
               },
               {
-                "string": "If you want more thorough encryption, you can use [Encrypted Blocks](https://roamresearch.com/#/app/help/page/_KIKZibNb). For more details on how we treat our users data, you can see our [Privacy Policy](https://roamresearch.com/#/app/help/page/y7wOdeUpZ).",
+                "string": "If you want more thorough encryption, you can use the [[Encrypted Block]]. For more details on how we treat our users data, you can see our [[Privacy Policy]].",
+                "refs": [
+                  {
+                    "uid": "cHzdtfW_s"
+                  },
+                  {
+                    "uid": "bnQcAUM0i"
+                  }
+                ],
                 "uid": "mIBozyqvY",
-                "edit-time": 1615441190065,
+                "edit-time": 1618562109487,
+                ":block/refs": [
+                  {
+                    ":block/uid": "cHzdtfW_s"
+                  },
+                  {
+                    ":block/uid": "bnQcAUM0i"
+                  }
+                ],
                 ":edit/user": {
                   ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                 }
