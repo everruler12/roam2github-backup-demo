@@ -7378,6 +7378,8 @@
   [3422
    :user/settings
    {:namespace-options [:none :partial :full],
+    :hide-code-blocks? true,
+    :allow-custom-components? true,
     :right-sidebar-pinned
     {"sidebar-mentions-3VEv-jR5D"
      {:window-id "sidebar-mentions-3VEv-jR5D",
@@ -7388,8 +7390,10 @@
       :pinned? true,
       :collapsed? false,
       :content-id "a4ul9zL8E"}},
-    :global-filters {:includes (), :removes ()}}
-   536961511]
+    :global-filters {:includes (), :removes ()},
+    :showing-own-icons? false,
+    :showing-user-icons? true}
+   536961652]
   [3422 :user/uid "0srxZalJfufGq6CwC9viQbR4ctU2" 536881508]
   [3439 :block/string "" 536881564]
   [3439 :block/uid "k5fhAr6AI" 536881564]
@@ -54151,8 +54155,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuidfdab14dc-ed7e-45fa-86c8-725e7624d78b"
-   536961650]
+   "uuid49261da4-61e5-4f5f-a926-95ad0d6cdafc"
+   536961656]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -69556,10 +69560,10 @@
   [44867 :create/user 53 536961648]
   [44867 :edit/time 1618647110183 536961648]
   [44867 :edit/user 53 536961648]
-  [44868 :block/uid "LZnYwLaYz" 536961650]
-  [44868 :user/display-name "Erik Newhard" 536961650]
+  [44868 :block/uid "99Pi9TBg3" 536961656]
+  [44868 :user/display-name "Erik Newhard" 536961656]
   [44868
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536961650]
-  [44868 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961650]]}
+   536961656]
+  [44868 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961656]]}
