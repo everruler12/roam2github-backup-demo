@@ -50085,12 +50085,12 @@
   [12111 :block/uid "ZeoagsT6P" 536912997]
   [12111 :edit/time 1616392708507 536912997]
   [12111 :edit/user 3 536912997]
-  [12112 :block/children 12116 536913024]
-  [12112 :block/children 12117 536913024]
-  [12112 :block/children 12118 536913024]
-  [12112 :block/children 12119 536913024]
-  [12112 :block/children 12120 536913024]
-  [12112 :block/children 12121 536913024]
+  [12112 :block/children 44880 536961759]
+  [12112 :block/children 44881 536961759]
+  [12112 :block/children 44882 536961759]
+  [12112 :block/children 44883 536961759]
+  [12112 :block/children 44884 536961759]
+  [12112 :block/children 44885 536961759]
   [12112 :block/heading 3 536919275]
   [12112 :block/open false 536913037]
   [12112 :block/order 22 536913924]
@@ -50106,90 +50106,13 @@
   [12112 :create/time 1616392724876 536913001]
   [12112 :create/user 3 536913001]
   [12112 :edit/seen-by 3 536913032]
+  [12112 :edit/seen-by 3422 536961757]
   [12112 :edit/time 1616558226980 536919340]
   [12112 :edit/user 3 536913001]
   [12115 :block/string "" 536913020]
   [12115 :block/uid "XXwJTI5XE" 536913020]
   [12115 :edit/time 1616392765777 536913020]
   [12115 :edit/user 3 536913020]
-  [12116 :block/open true 536913024]
-  [12116 :block/order 0 536913035]
-  [12116 :block/page 412 536913025]
-  [12116 :block/parents 412 536913025]
-  [12116 :block/parents 575 536913025]
-  [12116 :block/parents 12112 536913025]
-  [12116
-   :block/string
-   "First navigate to the page you want to export and then press **Export** inside the **... Share menu **in the top right of your screen:"
-   536913024]
-  [12116 :block/uid "i-cI7aCz9" 536913024]
-  [12116 :edit/time 1616392793158 536913024]
-  [12116 :edit/user 3 536913024]
-  [12117 :block/open true 536913024]
-  [12117 :block/order 1 536913035]
-  [12117 :block/page 412 536913026]
-  [12117 :block/parents 412 536913026]
-  [12117 :block/parents 575 536913026]
-  [12117 :block/parents 12112 536913026]
-  [12117
-   :block/string
-   "![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/64001263310/original/g1W7uQMutrhZins74VE4jkaMOjsIg2kXUg.png?1595898413)"
-   536913024]
-  [12117 :block/uid "qFRW8HhCl" 536913024]
-  [12117 :edit/time 1616392793158 536913024]
-  [12117 :edit/user 3 536913024]
-  [12118 :block/open true 536913024]
-  [12118 :block/order 2 536913035]
-  [12118 :block/page 412 536913027]
-  [12118 :block/parents 412 536913027]
-  [12118 :block/parents 575 536913027]
-  [12118 :block/parents 12112 536913027]
-  [12118
-   :block/string
-   "Next you can choose between Markdown and JSON formats for the page you want to export. We recommend exporting into JSON if you want to import the page into another Roam graph as it keeps more Roam-specific information than Markdown allows for."
-   536913024]
-  [12118 :block/uid "MP9nO4pNa" 536913024]
-  [12118 :edit/time 1616392793158 536913024]
-  [12118 :edit/user 3 536913024]
-  [12119 :block/open true 536913024]
-  [12119 :block/order 3 536913035]
-  [12119 :block/page 412 536913028]
-  [12119 :block/parents 412 536913028]
-  [12119 :block/parents 575 536913028]
-  [12119 :block/parents 12112 536913028]
-  [12119
-   :block/string
-   "![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/64001263339/original/sm7A-n6J0AAzMgIogkMpXQurLtZuW9nFQA.png?1595898579)"
-   536913024]
-  [12119 :block/uid "L7nkKrKO7" 536913024]
-  [12119 :edit/time 1616392793158 536913024]
-  [12119 :edit/user 3 536913024]
-  [12120 :block/open true 536913024]
-  [12120 :block/order 4 536913035]
-  [12120 :block/page 412 536913029]
-  [12120 :block/parents 412 536913029]
-  [12120 :block/parents 575 536913029]
-  [12120 :block/parents 12112 536913029]
-  [12120
-   :block/string
-   "Your file will download once you press the **Export button**:"
-   536913024]
-  [12120 :block/uid "Lj0Cpu1NF" 536913024]
-  [12120 :edit/time 1616392793158 536913024]
-  [12120 :edit/user 3 536913024]
-  [12121 :block/open true 536913024]
-  [12121 :block/order 5 536913035]
-  [12121 :block/page 412 536913030]
-  [12121 :block/parents 412 536913030]
-  [12121 :block/parents 575 536913030]
-  [12121 :block/parents 12112 536913030]
-  [12121
-   :block/string
-   "![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/64001263382/original/VtoLkm7e1HPsJxpHML5Vi7RwPuKaB7DEAA.png?1595898687)"
-   536913024]
-  [12121 :block/uid "bjbzQ9FGt" 536913024]
-  [12121 :edit/time 1616392793158 536913024]
-  [12121 :edit/user 3 536913024]
   [12123 :block/string "" 536913033]
   [12123 :block/uid "RjEpphl_Z" 536913033]
   [12123 :edit/time 1616392793203 536913033]
@@ -54158,8 +54081,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid629623fb-fb84-430c-a607-c1358aae6ac3"
-   536961757]
+   "uuidfb9728a6-578b-494a-9ade-7c7fe5dc020d"
+   536961760]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -69746,10 +69669,89 @@
   [44879 :create/user 53 536961737]
   [44879 :edit/time 1618724954460 536961741]
   [44879 :edit/user 53 536961737]
-  [44880 :block/uid "RVwZXeDji" 536961757]
-  [44880 :user/display-name "Erik Newhard" 536961757]
+  [44880 :block/open true 536961759]
+  [44880 :block/order 2 536961759]
+  [44880 :block/page 412 536961759]
+  [44880 :block/parents 412 536961759]
+  [44880 :block/parents 575 536961759]
+  [44880 :block/parents 12112 536961759]
   [44880
+   :block/string
+   "Next you can choose between Markdown and JSON formats for the page you want to export. We recommend exporting into JSON if you want to import the page into another Roam graph as it keeps more Roam-specific information than Markdown allows for."
+   536961759]
+  [44880 :block/uid "MP9nO4pNa" 536961759]
+  [44880 :edit/time 1616392793158 536961759]
+  [44880 :edit/user 3 536961759]
+  [44881 :block/open true 536961759]
+  [44881 :block/order 5 536961759]
+  [44881 :block/page 412 536961759]
+  [44881 :block/parents 412 536961759]
+  [44881 :block/parents 575 536961759]
+  [44881 :block/parents 12112 536961759]
+  [44881
+   :block/string
+   "![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/64001263382/original/VtoLkm7e1HPsJxpHML5Vi7RwPuKaB7DEAA.png?1595898687)"
+   536961759]
+  [44881 :block/uid "bjbzQ9FGt" 536961759]
+  [44881 :edit/time 1616392793158 536961759]
+  [44881 :edit/user 3 536961759]
+  [44882 :block/open true 536961759]
+  [44882 :block/order 3 536961759]
+  [44882 :block/page 412 536961759]
+  [44882 :block/parents 412 536961759]
+  [44882 :block/parents 575 536961759]
+  [44882 :block/parents 12112 536961759]
+  [44882
+   :block/string
+   "![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/64001263339/original/sm7A-n6J0AAzMgIogkMpXQurLtZuW9nFQA.png?1595898579)"
+   536961759]
+  [44882 :block/uid "L7nkKrKO7" 536961759]
+  [44882 :edit/time 1616392793158 536961759]
+  [44882 :edit/user 3 536961759]
+  [44883 :block/open true 536961759]
+  [44883 :block/order 4 536961759]
+  [44883 :block/page 412 536961759]
+  [44883 :block/parents 412 536961759]
+  [44883 :block/parents 575 536961759]
+  [44883 :block/parents 12112 536961759]
+  [44883
+   :block/string
+   "Your file will download once you press the **Export button**:"
+   536961759]
+  [44883 :block/uid "Lj0Cpu1NF" 536961759]
+  [44883 :edit/time 1616392793158 536961759]
+  [44883 :edit/user 3 536961759]
+  [44884 :block/open true 536961759]
+  [44884 :block/order 0 536961759]
+  [44884 :block/page 412 536961759]
+  [44884 :block/parents 412 536961759]
+  [44884 :block/parents 575 536961759]
+  [44884 :block/parents 12112 536961759]
+  [44884
+   :block/string
+   "First navigate to the page you want to export and then press **Export** inside the **... Share menu **in the top right of your screen:"
+   536961759]
+  [44884 :block/uid "i-cI7aCz9" 536961759]
+  [44884 :edit/seen-by 3422 536961759]
+  [44884 :edit/time 1616392793158 536961759]
+  [44884 :edit/user 3 536961759]
+  [44885 :block/open true 536961759]
+  [44885 :block/order 1 536961759]
+  [44885 :block/page 412 536961759]
+  [44885 :block/parents 412 536961759]
+  [44885 :block/parents 575 536961759]
+  [44885 :block/parents 12112 536961759]
+  [44885
+   :block/string
+   "![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/64001263310/original/g1W7uQMutrhZins74VE4jkaMOjsIg2kXUg.png?1595898413)"
+   536961759]
+  [44885 :block/uid "qFRW8HhCl" 536961759]
+  [44885 :edit/time 1616392793158 536961759]
+  [44885 :edit/user 3 536961759]
+  [44886 :block/uid "31hpWE_2h" 536961760]
+  [44886 :user/display-name "Erik Newhard" 536961760]
+  [44886
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536961757]
-  [44880 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961757]]}
+   536961760]
+  [44886 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961760]]}
