@@ -22575,18 +22575,6 @@
         }
       },
       {
-        "string": "",
-        "create-time": 1616207622938,
-        "uid": "4u41rzgpN",
-        "edit-time": 1616207622938,
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        }
-      },
-      {
         "edit-time": 1614653158266,
         "children": [
           {
