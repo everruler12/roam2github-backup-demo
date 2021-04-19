@@ -14210,6 +14210,7 @@
   [6912 :create/user 3 536889571]
   [6912 :edit/seen-by 3 536917619]
   [6912 :edit/seen-by 3422 536899885]
+  [6912 :edit/seen-by 6897 536961780]
   [6912 :edit/time 1614785310691 536889571]
   [6912 :edit/user 3 536889571]
   [6912 :node/title "Sharing" 536889571]
@@ -27337,6 +27338,7 @@
   [9330 :create/user 3 536899876]
   [9330 :edit/seen-by 3 536917625]
   [9330 :edit/seen-by 3422 536899915]
+  [9330 :edit/seen-by 6897 536961780]
   [9330 :edit/time 1615021999856 536899896]
   [9330 :edit/user 3422 536899876]
   [9331 :block/children 9338 536899924]
@@ -27421,6 +27423,7 @@
   [9337 :create/time 1615022273271 536899917]
   [9337 :create/user 3422 536899917]
   [9337 :edit/seen-by 3 536917625]
+  [9337 :edit/seen-by 6897 536961780]
   [9337 :edit/time 1615022552551 536899926]
   [9337 :edit/user 3422 536899917]
   [9338 :block/open true 536899922]
@@ -54070,8 +54073,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid0157051f-238c-47aa-92df-b833c33fb138"
-   536961780]
+   "uuid8b3dc235-347a-4b5c-bf8b-1c6f9a2d6d9b"
+   536961782]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -55838,6 +55841,7 @@
   [12905 :create/time 1616526298198 536917614]
   [12905 :create/user 3 536917614]
   [12905 :edit/seen-by 3 536917619]
+  [12905 :edit/seen-by 6897 536961780]
   [12905 :edit/time 1616526921686 536917758]
   [12905 :edit/user 3 536917614]
   [12907 :block/open true 536917755]
@@ -58357,6 +58361,7 @@
   [13172 :block/uid "IOByPgUap" 536918573]
   [13172 :create/time 1616548638935 536918573]
   [13172 :create/user 3 536918573]
+  [13172 :edit/seen-by 6897 536961781]
   [13172 :edit/time 1616548638935 536918573]
   [13172 :edit/user 3 536918573]
   [13173 :block/open true 536918575]
@@ -69774,10 +69779,10 @@
   [44889 :block/uid "4u41rzgpN" 536961779]
   [44889 :edit/time 1618839359722 536961779]
   [44889 :edit/user 3422 536961779]
-  [44890 :block/uid "tKO1IFCZV" 536961780]
-  [44890 :user/display-name "Erik Newhard" 536961780]
+  [44890 :block/uid "-9LY3iYgG" 536961782]
+  [44890 :user/display-name "Erik Newhard" 536961782]
   [44890
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536961780]
-  [44890 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961780]]}
+   536961782]
+  [44890 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961782]]}
