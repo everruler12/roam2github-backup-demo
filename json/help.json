@@ -26926,19 +26926,6 @@
         "edit-time": 1615180695696,
         "children": [
           {
-            "string": "It's **super** easy to get started with Roam, but it takes time to master. Get a head-start by skimming these docs! ",
-            "create-time": 1616567952831,
-            "heading": 2,
-            ":create/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            "uid": "dhkERGJ56",
-            "edit-time": 1616567952831,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          },
-          {
             "string": "",
             "create-time": 1616649431054,
             "uid": "hp-thgF5j",

@@ -7042,7 +7042,7 @@
   [3319 :block/children 43722 536958288]
   [3319 :block/heading 1 536958181]
   [3319 :block/open true 536880748]
-  [3319 :block/order 4 536958292]
+  [3319 :block/order 3 536961793]
   [3319 :block/page 651 536880749]
   [3319 :block/parents 651 536880749]
   [3319 :block/parents 10510 536905190]
@@ -7081,7 +7081,7 @@
   [3327 :block/children 13277 536920235]
   [3327 :block/heading 1 536881419]
   [3327 :block/open true 536880748]
-  [3327 :block/order 6 536958292]
+  [3327 :block/order 5 536961793]
   [3327 :block/page 651 536880750]
   [3327 :block/parents 651 536880750]
   [3327 :block/parents 10510 536905192]
@@ -7090,6 +7090,7 @@
   [3327 :edit/seen-by 3 536880961]
   [3327 :edit/seen-by 53 536887615]
   [3327 :edit/seen-by 1388 536893959]
+  [3327 :edit/seen-by 3422 536961794]
   [3327 :edit/time 1614695417049 536880973]
   [3327 :edit/user 3 536880748]
   [3328 :block/heading 2 536881495]
@@ -7109,24 +7110,6 @@
   [3328 :edit/seen-by 1388 536893959]
   [3328 :edit/time 1616527523839 536917816]
   [3328 :edit/user 3 536889892]
-  [3329 :block/children 7440 536892727]
-  [3329 :block/children 7444 536958066]
-  [3329 :block/children 7448 536892737]
-  [3329 :block/children 44823 536961307]
-  [3329 :block/heading 1 536920392]
-  [3329 :block/open true 536880748]
-  [3329 :block/order 2 536958292]
-  [3329 :block/page 651 536880751]
-  [3329 :block/parents 651 536880751]
-  [3329 :block/parents 10510 536905189]
-  [3329 :block/string "Getting started" 536913967]
-  [3329 :block/uid "DTYzJNcdp" 536880748]
-  [3329 :edit/seen-by 3 536880752]
-  [3329 :edit/seen-by 53 536891789]
-  [3329 :edit/seen-by 1388 536893804]
-  [3329 :edit/seen-by 3422 536881599]
-  [3329 :edit/time 1616398040243 536913967]
-  [3329 :edit/user 3 536880748]
   [3330 :block/children 3396 536881253]
   [3330 :block/children 7420 536892655]
   [3330 :block/children 7421 536892655]
@@ -7137,7 +7120,7 @@
   [3330 :block/order 0 536880748]
   [3330 :block/page 651 536880751]
   [3330 :block/parents 651 536880751]
-  [3330 :block/parents 3329 536880751]
+  [3330 :block/parents 44891 536961793]
   [3330
    :block/string
    "Roam is **super** easy to get started with, and here are some quick things to get you going:"
@@ -7268,8 +7251,8 @@
   [3396 :block/order 4 536892655]
   [3396 :block/page 651 536881176]
   [3396 :block/parents 651 536881176]
-  [3396 :block/parents 3329 536881176]
   [3396 :block/parents 3330 536881176]
+  [3396 :block/parents 44891 536961793]
   [3396 :block/refs 585 536881493]
   [3396 :block/refs 3347 536881451]
   [3396
@@ -7345,6 +7328,7 @@
   [3419 :block/uid "8ic6t-v-b" 536881498]
   [3419 :edit/seen-by 3 536881504]
   [3419 :edit/seen-by 53 536887619]
+  [3419 :edit/seen-by 3422 536961794]
   [3419 :edit/time 1614698797527 536881498]
   [3419 :edit/user 3 536881498]
   [3420 :block/heading 2 536881498]
@@ -16591,7 +16575,7 @@
   [7257 :block/order 0 536891796]
   [7257 :block/page 651 536891797]
   [7257 :block/parents 651 536891797]
-  [7257 :block/parents 3329 536891797]
+  [7257 :block/parents 44891 536961793]
   [7257
    :block/string
    "Roam takes a little while to really settle into. Here are some quick things to get you going:"
@@ -17382,8 +17366,8 @@
   [7420 :block/order 1 536892655]
   [7420 :block/page 651 536892660]
   [7420 :block/parents 651 536892660]
-  [7420 :block/parents 3329 536892660]
   [7420 :block/parents 3330 536892660]
+  [7420 :block/parents 44891 536961793]
   [7420 :block/refs 454 536892657]
   [7420
    :block/string
@@ -17399,8 +17383,8 @@
   [7421 :block/order 2 536892655]
   [7421 :block/page 651 536892661]
   [7421 :block/parents 651 536892661]
-  [7421 :block/parents 3329 536892661]
   [7421 :block/parents 3330 536892661]
+  [7421 :block/parents 44891 536961793]
   [7421 :block/refs 391 536892658]
   [7421
    :block/string
@@ -17417,8 +17401,8 @@
   [7422 :block/order 3 536892655]
   [7422 :block/page 651 536892662]
   [7422 :block/parents 651 536892662]
-  [7422 :block/parents 3329 536892662]
   [7422 :block/parents 3330 536892662]
+  [7422 :block/parents 44891 536961793]
   [7422 :block/refs 351 536892659]
   [7422
    :block/string
@@ -17433,9 +17417,9 @@
   [7423 :block/order 0 536892655]
   [7423 :block/page 651 536892662]
   [7423 :block/parents 651 536892662]
-  [7423 :block/parents 3329 536892662]
   [7423 :block/parents 3330 536892662]
   [7423 :block/parents 7422 536892662]
+  [7423 :block/parents 44891 536961793]
   [7423
    :block/string
    "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Fvg4SUhgwIf.gif?alt=media&token=f4f682cb-e612-447a-83c1-9f4934818eaa)"
@@ -17450,8 +17434,8 @@
   [7424 :block/order 0 536892655]
   [7424 :block/page 651 536892663]
   [7424 :block/parents 651 536892663]
-  [7424 :block/parents 3329 536892663]
   [7424 :block/parents 3330 536892663]
+  [7424 :block/parents 44891 536961793]
   [7424 :block/refs 3474 536892656]
   [7424
    :block/string
@@ -17475,8 +17459,8 @@
   [7434 :block/order 1 536892686]
   [7434 :block/page 651 536892691]
   [7434 :block/parents 651 536892691]
-  [7434 :block/parents 3329 536892691]
   [7434 :block/parents 7257 536892691]
+  [7434 :block/parents 44891 536961793]
   [7434 :block/refs 454 536892688]
   [7434
    :block/string
@@ -17492,8 +17476,8 @@
   [7435 :block/order 2 536892686]
   [7435 :block/page 651 536892692]
   [7435 :block/parents 651 536892692]
-  [7435 :block/parents 3329 536892692]
   [7435 :block/parents 7257 536892692]
+  [7435 :block/parents 44891 536961793]
   [7435 :block/refs 391 536892689]
   [7435
    :block/string
@@ -17510,8 +17494,8 @@
   [7436 :block/order 3 536892686]
   [7436 :block/page 651 536892693]
   [7436 :block/parents 651 536892693]
-  [7436 :block/parents 3329 536892693]
   [7436 :block/parents 7257 536892693]
+  [7436 :block/parents 44891 536961793]
   [7436 :block/refs 351 536892690]
   [7436
    :block/string
@@ -17526,9 +17510,9 @@
   [7437 :block/order 0 536892686]
   [7437 :block/page 651 536892693]
   [7437 :block/parents 651 536892693]
-  [7437 :block/parents 3329 536892693]
   [7437 :block/parents 7257 536892693]
   [7437 :block/parents 7436 536892693]
+  [7437 :block/parents 44891 536961793]
   [7437
    :block/string
    "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Fvg4SUhgwIf.gif?alt=media&token=f4f682cb-e612-447a-83c1-9f4934818eaa)"
@@ -17543,8 +17527,8 @@
   [7438 :block/order 0 536892686]
   [7438 :block/page 651 536892694]
   [7438 :block/parents 651 536892694]
-  [7438 :block/parents 3329 536892694]
   [7438 :block/parents 7257 536892694]
+  [7438 :block/parents 44891 536961793]
   [7438 :block/refs 3474 536892687]
   [7438
    :block/string
@@ -17564,8 +17548,8 @@
   [7440 :block/order 0 536958290]
   [7440 :block/page 651 536892701]
   [7440 :block/parents 651 536892701]
-  [7440 :block/parents 3329 536892728]
   [7440 :block/parents 10510 536905189]
+  [7440 :block/parents 44891 536961793]
   [7440 :block/refs 2875 536958076]
   [7440
    :block/string
@@ -17585,9 +17569,9 @@
   [7442 :block/order 1 536961311]
   [7442 :block/page 651 536892719]
   [7442 :block/parents 651 536892719]
-  [7442 :block/parents 3329 536892728]
   [7442 :block/parents 10510 536905189]
   [7442 :block/parents 44823 536961313]
+  [7442 :block/parents 44891 536961793]
   [7442 :block/refs 454 536892716]
   [7442
    :block/string
@@ -17605,9 +17589,9 @@
   [7443 :block/order 2 536961311]
   [7443 :block/page 651 536892720]
   [7443 :block/parents 651 536892720]
-  [7443 :block/parents 3329 536892728]
   [7443 :block/parents 10510 536905189]
   [7443 :block/parents 44823 536961314]
+  [7443 :block/parents 44891 536961793]
   [7443 :block/refs 391 536892717]
   [7443
    :block/string
@@ -17626,8 +17610,8 @@
   [7444 :block/order 2 536961311]
   [7444 :block/page 651 536892721]
   [7444 :block/parents 651 536892721]
-  [7444 :block/parents 3329 536892728]
   [7444 :block/parents 10510 536905189]
+  [7444 :block/parents 44891 536961793]
   [7444 :block/refs 351 536892718]
   [7444
    :block/string
@@ -17643,9 +17627,9 @@
   [7445 :block/order 0 536892714]
   [7445 :block/page 651 536892721]
   [7445 :block/parents 651 536892721]
-  [7445 :block/parents 3329 536892728]
   [7445 :block/parents 7444 536892721]
   [7445 :block/parents 10510 536905189]
+  [7445 :block/parents 44891 536961793]
   [7445
    :block/string
    "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Fvg4SUhgwIf.gif?alt=media&token=f4f682cb-e612-447a-83c1-9f4934818eaa)"
@@ -17660,9 +17644,9 @@
   [7446 :block/order 0 536961311]
   [7446 :block/page 651 536892722]
   [7446 :block/parents 651 536892722]
-  [7446 :block/parents 3329 536892728]
   [7446 :block/parents 10510 536905189]
   [7446 :block/parents 44823 536961312]
+  [7446 :block/parents 44891 536961793]
   [7446 :block/refs 3474 536892715]
   [7446
    :block/string
@@ -17684,8 +17668,8 @@
   [7448 :block/order 3 536961311]
   [7448 :block/page 651 536892733]
   [7448 :block/parents 651 536892733]
-  [7448 :block/parents 3329 536892733]
   [7448 :block/parents 10510 536905189]
+  [7448 :block/parents 44891 536961793]
   [7448 :block/refs 319 536958311]
   [7448 :block/refs 2540 536892748]
   [7448
@@ -36184,11 +36168,10 @@
   [10509 :node/title ".doc-mode" 536905178]
   [10510 :block/children 3319 536905188]
   [10510 :block/children 3327 536905191]
-  [10510 :block/children 3329 536905188]
-  [10510 :block/children 13293 536958290]
   [10510 :block/children 43717 536958249]
   [10510 :block/children 43718 536958252]
   [10510 :block/children 43723 536958292]
+  [10510 :block/children 44891 536961793]
   [10510 :block/open true 536905203]
   [10510 :block/order 0 536905184]
   [10510 :block/page 651 536905185]
@@ -54073,8 +54056,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid2139ed88-104d-4275-be0a-8b0a7f97d3b3"
-   536961783]
+   "uuidea6f7f74-21f1-44f9-8ef8-6b9e017f8429"
+   536961795]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -58828,22 +58811,6 @@
   [13292 :create/user 3 536920370]
   [13292 :edit/time 1616566440536 536920382]
   [13292 :edit/user 3 536920370]
-  [13293 :block/heading 2 536920390]
-  [13293 :block/open true 536920386]
-  [13293 :block/order 0 536920386]
-  [13293 :block/page 651 536920387]
-  [13293 :block/parents 651 536920387]
-  [13293 :block/parents 10510 536920387]
-  [13293
-   :block/string
-   "It's **super** easy to get started with Roam, but it takes time to master. Get a head-start by skimming these docs! "
-   536920386]
-  [13293 :block/uid "dhkERGJ56" 536920386]
-  [13293 :create/time 1616567952831 536920386]
-  [13293 :create/user 3 536920386]
-  [13293 :edit/seen-by 53 536958251]
-  [13293 :edit/time 1616567952831 536920386]
-  [13293 :edit/user 3 536920386]
   [13294 :block/open true 536920414]
   [13294 :block/order 0 536920531]
   [13294 :block/page 419 536920415]
@@ -60481,7 +60448,7 @@
   [43716 :edit/time 1617523885478 536959868]
   [43716 :edit/user 53 536958237]
   [43717 :block/open true 536958249]
-  [43717 :block/order 3 536958292]
+  [43717 :block/order 2 536961793]
   [43717 :block/page 651 536958250]
   [43717 :block/parents 651 536958250]
   [43717 :block/parents 10510 536958250]
@@ -60492,7 +60459,7 @@
   [43717 :edit/time 1616649267943 536958249]
   [43717 :edit/user 53 536958249]
   [43718 :block/open true 536958252]
-  [43718 :block/order 5 536958292]
+  [43718 :block/order 4 536961793]
   [43718 :block/page 651 536958253]
   [43718 :block/parents 651 536958253]
   [43718 :block/parents 10510 536958253]
@@ -60524,16 +60491,17 @@
   [43722 :edit/time 1614819141935 536958289]
   [43722 :edit/user 3 536958289]
   [43723 :block/open true 536958292]
-  [43723 :block/order 1 536958292]
+  [43723 :block/order 0 536961784]
   [43723 :block/page 651 536958293]
   [43723 :block/parents 651 536958293]
   [43723 :block/parents 10510 536958293]
-  [43723 :block/string "" 536958292]
+  [43723 :block/string "" 536961793]
   [43723 :block/uid "hp-thgF5j" 536958292]
   [43723 :create/time 1616649431054 536958292]
   [43723 :create/user 53 536958292]
-  [43723 :edit/time 1616649431054 536958292]
-  [43723 :edit/user 53 536958292]
+  [43723 :edit/seen-by 3422 536961787]
+  [43723 :edit/time 1616649431054 536961793]
+  [43723 :edit/user 53 536961793]
   [43724 :attrs/lookup 7132 536958420]
   [43724 :attrs/lookup 7133 536958417]
   [43724 :attrs/lookup 43724 536958410]
@@ -69015,8 +68983,8 @@
   [44823 :block/order 1 536961307]
   [44823 :block/page 651 536961309]
   [44823 :block/parents 651 536961309]
-  [44823 :block/parents 3329 536961309]
   [44823 :block/parents 10510 536961309]
+  [44823 :block/parents 44891 536961793]
   [44823 :block/refs 44555 536961308]
   [44823
    :block/string
@@ -69786,10 +69754,28 @@
   [44890 :edit/user 3422 536961782]
   [44890 :log/id 1618888286755 536961782]
   [44890 :node/title "April 20th, 2021" 536961782]
-  [44891 :block/uid "7KwNiqZwq" 536961783]
-  [44891 :user/display-name "Erik Newhard" 536961783]
-  [44891
+  [44891 :block/children 7440 536961793]
+  [44891 :block/children 7444 536961793]
+  [44891 :block/children 7448 536961793]
+  [44891 :block/children 44823 536961793]
+  [44891 :block/heading 1 536961793]
+  [44891 :block/open true 536961793]
+  [44891 :block/order 1 536961793]
+  [44891 :block/page 651 536961793]
+  [44891 :block/parents 651 536961793]
+  [44891 :block/parents 10510 536961793]
+  [44891 :block/string "Getting started" 536961793]
+  [44891 :block/uid "DTYzJNcdp" 536961793]
+  [44891 :edit/seen-by 3 536961793]
+  [44891 :edit/seen-by 53 536961793]
+  [44891 :edit/seen-by 1388 536961793]
+  [44891 :edit/seen-by 3422 536961793]
+  [44891 :edit/time 1616398040243 536961793]
+  [44891 :edit/user 3 536961793]
+  [44892 :block/uid "Qr2C4SZXs" 536961795]
+  [44892 :user/display-name "Erik Newhard" 536961795]
+  [44892
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536961783]
-  [44891 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961783]]}
+   536961795]
+  [44892 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961795]]}
