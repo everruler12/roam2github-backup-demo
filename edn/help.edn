@@ -17020,6 +17020,7 @@
   [7330 :create/time 1614802850362 536892250]
   [7330 :create/user 3 536892250]
   [7330 :edit/seen-by 53 536961334]
+  [7330 :edit/seen-by 6897 536961798]
   [7330 :edit/time 1616530462153 536917882]
   [7330 :edit/user 3 536892250]
   [7332 :block/string "" 536892267]
@@ -17027,6 +17028,7 @@
   [7332 :edit/time 1614803236498 536892267]
   [7332 :edit/user 3 536892267]
   [7333 :block/children 44871 536961765]
+  [7333 :block/children 44893 536961799]
   [7333 :block/heading 2 536917903]
   [7333 :block/open true 536892268]
   [7333 :block/order 2 536917900]
@@ -54059,8 +54061,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuidc6292330-20e6-4539-afa7-753fce0f9c5e"
-   536961798]
+   "uuid2291f339-eec6-41da-862c-84dae79122e2"
+   536961850]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -69462,7 +69464,7 @@
   [44871 :block/children 44873 536961683]
   [44871 :block/heading 3 536961668]
   [44871 :block/open true 536961666]
-  [44871 :block/order 0 536961765]
+  [44871 :block/order 1 536961807]
   [44871 :block/page 4296 536961667]
   [44871 :block/parents 4296 536961667]
   [44871 :block/parents 7333 536961766]
@@ -69786,10 +69788,107 @@
   [44892 :create/user 53 536961796]
   [44892 :edit/time 1618922400034 536961796]
   [44892 :edit/user 53 536961796]
-  [44893 :block/uid "bi90LzZlj" 536961798]
-  [44893 :user/display-name "Erik Newhard" 536961798]
-  [44893
+  [44893 :block/children 44894 536961807]
+  [44893 :block/heading 3 536961801]
+  [44893 :block/open true 536961799]
+  [44893 :block/order 0 536961799]
+  [44893 :block/page 4296 536961800]
+  [44893 :block/parents 4296 536961800]
+  [44893 :block/parents 7333 536961800]
+  [44893 :block/parents 10915 536961800]
+  [44893 :block/refs 44890 536961804]
+  [44893 :block/string "[[April 20th, 2021]]" 536961803]
+  [44893 :block/uid "QuxUwuxNe" 536961799]
+  [44893 :create/time 1618931259586 536961799]
+  [44893 :create/user 53 536961799]
+  [44893 :edit/time 1618931276249 536961803]
+  [44893 :edit/user 53 536961799]
+  [44894 :block/children 44895 536961813]
+  [44894 :block/children 44896 536961818]
+  [44894 :block/open true 536961805]
+  [44894 :block/order 0 536961807]
+  [44894 :block/page 4296 536961806]
+  [44894 :block/parents 4296 536961806]
+  [44894 :block/parents 7333 536961806]
+  [44894 :block/parents 10915 536961806]
+  [44894 :block/parents 44893 536961808]
+  [44894 :block/refs 44452 536961810]
+  [44894 :block/string "[[Bug Fixes]] 🛠 " 536961809]
+  [44894 :block/uid "ToA2mn254" 536961805]
+  [44894 :create/time 1618931281596 536961805]
+  [44894 :create/user 53 536961805]
+  [44894 :edit/time 1618931290673 536961809]
+  [44894 :edit/user 53 536961805]
+  [44895 :attrs/lookup 2774 536961839]
+  [44895 :attrs/lookup 44546 536961839]
+  [44895 :attrs/lookup 44895 536961839]
+  [44895 :attrs/lookup 44898 536961839]
+  [44895 :block/children 44898 536961833]
+  [44895 :block/open false 536961840]
+  [44895 :block/order 0 536961813]
+  [44895 :block/page 4296 536961812]
+  [44895 :block/parents 4296 536961812]
+  [44895 :block/parents 7333 536961812]
+  [44895 :block/parents 10915 536961812]
+  [44895 :block/parents 44893 536961812]
+  [44895 :block/parents 44894 536961814]
+  [44895 :block/refs 4254 536961849]
+  [44895
+   :block/string
+   "Fixed Graph Settings not opening and removed sharing tab for [[Local Graph]]"
+   536961848]
+  [44895 :block/uid "5FdTkob3X" 536961811]
+  [44895 :create/time 1618931290902 536961811]
+  [44895 :create/user 53 536961811]
+  [44895 :edit/time 1618931428862 536961848]
+  [44895 :edit/user 53 536961811]
+  [44895
+   :entity/attrs
+   #{[{:source [:block/uid "5FdTkob3X"],
+       :value [:block/uid "5FdTkob3X"]}
+      {:source [:block/uid "7erliNiTd"],
+       :value [:block/uid "5K19Sylm0"]}
+      {:source [:block/uid "7erliNiTd"],
+       :value [:block/uid "evJ14QpsV"]}]}
+   536961839]
+  [44896 :block/open true 536961818]
+  [44896 :block/order 1 536961833]
+  [44896 :block/page 4296 536961819]
+  [44896 :block/parents 4296 536961819]
+  [44896 :block/parents 7333 536961819]
+  [44896 :block/parents 10915 536961819]
+  [44896 :block/parents 44893 536961819]
+  [44896 :block/parents 44894 536961819]
+  [44896 :block/string "" 536961818]
+  [44896 :block/uid "ue4Gf_T-X" 536961818]
+  [44896 :create/time 1618931316863 536961818]
+  [44896 :create/user 53 536961818]
+  [44896 :edit/time 1618931316863 536961818]
+  [44896 :edit/user 53 536961818]
+  [44898 :block/open true 536961831]
+  [44898 :block/order 0 536961833]
+  [44898 :block/page 4296 536961832]
+  [44898 :block/parents 4296 536961832]
+  [44898 :block/parents 7333 536961832]
+  [44898 :block/parents 10915 536961832]
+  [44898 :block/parents 44893 536961832]
+  [44898 :block/parents 44894 536961832]
+  [44898 :block/parents 44895 536961834]
+  [44898 :block/refs 2774 536961838]
+  [44898 :block/refs 44546 536961836]
+  [44898
+   :block/string
+   "Brought to you by:: [[Bardia Pourvakil]]"
+   536961837]
+  [44898 :block/uid "7erliNiTd" 536961831]
+  [44898 :create/time 1618931342691 536961831]
+  [44898 :create/user 53 536961831]
+  [44898 :edit/time 1618931357063 536961837]
+  [44898 :edit/user 53 536961831]
+  [44899 :block/uid "y7SZB6aqR" 536961850]
+  [44899 :user/display-name "Erik Newhard" 536961850]
+  [44899
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536961798]
-  [44893 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961798]]}
+   536961850]
+  [44899 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536961850]]}
