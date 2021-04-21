@@ -42175,7 +42175,8 @@
                     "create-time": 1618980801167,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   },
                   {
                     "edit-time": 1618980997706,
@@ -42277,7 +42278,8 @@
                     "create-time": 1618980996327,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -42298,8 +42300,7 @@
                 "create-time": 1618980794223,
                 ":edit/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "heading": 3
+                }
               },
               {
                 "edit-time": 1618931276249,
@@ -42378,7 +42379,8 @@
                     "create-time": 1618931281596,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -42399,8 +42401,7 @@
                 "create-time": 1618931259586,
                 ":edit/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "heading": 3
+                }
               },
               {
                 "edit-time": 1618724642653,
@@ -42511,13 +42512,14 @@
                     "create-time": 1618724642634,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   },
                   {
                     "edit-time": 1618724658651,
                     "children": [
                       {
-                        "string": "Redo now will work more than once",
+                        "string": "Redo will now work more than once",
                         "create-time": 1618724850081,
                         ":create/user": {
                           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
@@ -42553,7 +42555,7 @@
                           }
                         ],
                         "uid": "cw3dosu8-",
-                        "edit-time": 1618724864506,
+                        "edit-time": 1618989222069,
                         ":edit/user": {
                           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                         }
@@ -42577,7 +42579,8 @@
                     "create-time": 1618724653968,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -42598,8 +42601,7 @@
                 "create-time": 1618724636701,
                 ":edit/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "heading": 3
+                }
               },
               {
                 "edit-time": 1618559307307,
@@ -42674,7 +42676,8 @@
                     "create-time": 1618559307294,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   },
                   {
                     "edit-time": 1618559402061,
@@ -42776,7 +42779,8 @@
                     "create-time": 1618559400823,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   },
                   {
                     "edit-time": 1618559785282,
@@ -42842,7 +42846,8 @@
                     "create-time": 1618559402052,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -42863,8 +42868,7 @@
                 "create-time": 1618559299336,
                 ":edit/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "heading": 3
+                }
               },
               {
                 "edit-time": 1618469212484,
@@ -42949,7 +42953,8 @@
                     "create-time": 1618469212473,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -42970,8 +42975,7 @@
                 "create-time": 1618469208473,
                 ":edit/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "heading": 3
+                }
               },
               {
                 "edit-time": 1618382103990,
@@ -43040,7 +43044,8 @@
                     "create-time": 1618382103980,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   },
                   {
                     "edit-time": 1618384112438,
@@ -43106,7 +43111,8 @@
                     "create-time": 1618382136951,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -43127,8 +43133,7 @@
                 "create-time": 1618382093863,
                 ":edit/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "heading": 3
+                }
               },
               {
                 "edit-time": 1618251847930,
@@ -43207,7 +43212,8 @@
                     "create-time": 1618251848136,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -43228,8 +43234,7 @@
                 "create-time": 1618251842633,
                 ":edit/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "heading": 3
+                }
               },
               {
                 "edit-time": 1617988408689,
@@ -43298,7 +43303,8 @@
                     "create-time": 1617988416701,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -43319,8 +43325,7 @@
                 "create-time": 1617988335412,
                 ":edit/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "heading": 3
+                }
               },
               {
                 "edit-time": 1617801330162,
@@ -44483,7 +44488,8 @@
                     "create-time": 1617802477034,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -44504,8 +44510,7 @@
                 "create-time": 1617801326683,
                 ":edit/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "heading": 3
+                }
               },
               {
                 "edit-time": 1617775021357,
@@ -44654,7 +44659,8 @@
                     "create-time": 1617775021342,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   },
                   {
                     "edit-time": 1617782236457,
@@ -44690,7 +44696,8 @@
                     "create-time": 1617782234793,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -44711,8 +44718,7 @@
                 "create-time": 1617775014031,
                 ":edit/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "heading": 3
+                }
               },
               {
                 "edit-time": 1617566918981,
@@ -44787,7 +44793,8 @@
                     "create-time": 1617566922118,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -44808,8 +44815,7 @@
                 "create-time": 1617566911165,
                 ":edit/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "heading": 3
+                }
               },
               {
                 "edit-time": 1617366297965,
@@ -44968,7 +44974,8 @@
                     "create-time": 1617366342751,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   },
                   {
                     "edit-time": 1617380168176,
@@ -45004,7 +45011,8 @@
                     "create-time": 1617366374826,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -45025,8 +45033,7 @@
                 "create-time": 1617366291409,
                 ":edit/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "heading": 3
+                }
               },
               {
                 "edit-time": 1617174738516,
@@ -45065,7 +45072,8 @@
                     "create-time": 1617174738503,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   },
                   {
                     "edit-time": 1617179820221,
@@ -45149,7 +45157,8 @@
                     "create-time": 1617174919165,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   },
                   {
                     "edit-time": 1617179826238,
@@ -45185,7 +45194,8 @@
                     "create-time": 1617174779865,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -45206,14 +45216,13 @@
                 "create-time": 1617174692613,
                 ":edit/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "heading": 3
+                }
               },
               {
                 "edit-time": 1616915847783,
                 "children": [
                   {
-                    "edit-time": 1616915884094,
+                    "edit-time": 1618989077843,
                     "children": [
                       {
                         "string": "You can now export in [[Flattened Markdown]], which removes all indentation and block formatting",
@@ -45249,17 +45258,18 @@
                         ":block/uid": "h_pvMVa7e"
                       }
                     ],
-                    "string": "[[New Features]]",
+                    "string": "[[New Features]] 🚀",
                     ":create/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
                     "create-time": 1616915878879,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   },
                   {
-                    "edit-time": 1616915835547,
+                    "edit-time": 1618989073544,
                     "children": [
                       {
                         "string": "[[Block Embed]]s will remember whether you closed or opened them between page reloads",
@@ -45329,14 +45339,15 @@
                         ":block/uid": "_EqbjQSAF"
                       }
                     ],
-                    "string": "[[Quality of Life Improvements]]",
+                    "string": "[[Quality of Life Improvements]] ✨",
                     ":create/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
                     "create-time": 1616915808660,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -45357,14 +45368,13 @@
                 "create-time": 1616915842044,
                 ":edit/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "heading": 3
+                }
               },
               {
                 "edit-time": 1616649100657,
                 "children": [
                   {
-                    "edit-time": 1616751343040,
+                    "edit-time": 1618989091087,
                     "children": [
                       {
                         "string": "New Help Graph!",
@@ -45390,17 +45400,18 @@
                         ":block/uid": "h_pvMVa7e"
                       }
                     ],
-                    "string": "[[New Features]]",
+                    "string": "[[New Features]] 🚀",
                     ":create/user": {
                       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                     },
                     "create-time": 1616751340220,
                     ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
                   },
                   {
-                    "edit-time": 1616649157867,
+                    "edit-time": 1618989097354,
                     "children": [
                       {
                         "string": "Added warning banner to experimental graphs",
@@ -45426,14 +45437,15 @@
                         ":block/uid": "_EqbjQSAF"
                       }
                     ],
-                    "string": "[[Quality of Life Improvements]]",
+                    "string": "[[Quality of Life Improvements]] ✨",
                     ":create/user": {
                       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                     },
                     "create-time": 1616649122903,
                     ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -45454,8 +45466,7 @@
                 "create-time": 1616649091765,
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "heading": 3
+                }
               }
             ],
             "uid": "iC6e5W-IU",
