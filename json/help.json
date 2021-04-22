@@ -18039,15 +18039,25 @@
             },
             "children": [
               {
-                "string": "Local graphs are stored in your browser's local storage. This means that if you clear your browser data then you will lose all the data in your local graph. To mitigate this risk, we recommend you set up daily automatic backups.",
+                "string": "Local graphs are stored in your browser's local storage. This means that if you clear your browser data then you will lose all the data in your local graph. To mitigate this risk, we recommend you [set up daily automatic backups](((xUCBFCJ02))).",
                 "create-time": 1618925130828,
-                "uid": "CrrOo2ZSL",
-                "edit-time": 1619046072108,
+                ":block/refs": [
+                  {
+                    ":block/uid": "xUCBFCJ02"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "xUCBFCJ02"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
+                "uid": "CrrOo2ZSL",
+                "edit-time": 1619091010656,
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 }
               }
             ],
@@ -18093,27 +18103,41 @@
             },
             "children": [
               {
-                "string": "Whenever you create a hosted graph, by default, only you can access your data. You can also set up read and write access for specific emails or even make your hosted graph publicly readable or editable (you cannot however share your local graph with anyone). No one on the Roam team can access your data without your written permission.",
-                "create-time": 1618925221506,
-                "uid": "83R-ojxu5",
-                "edit-time": 1619046072108,
+                "string": "By default, hosted graphs you create are accessible only to you. You can also set up read and write access for specific emails or even make your hosted graph publicly readable or editable (you cannot however share your local graph with anyone). ",
+                "create-time": 1619090290675,
                 ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
+                "children": [
+                  {
+                    "string": "No one on the Roam team can access your data without your written permission.",
+                    "create-time": 1618925221506,
+                    "uid": "83R-ojxu5",
+                    "edit-time": 1619090290688,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    }
+                  }
+                ],
+                "uid": "FnDy-wjs2",
+                "edit-time": 1619090290675,
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 }
               },
               {
-                "string": "Local graphs are accessible to anyone who accesses Roam (even their own account) on the browser your local graph is stored currently. We are in the midst of removing the behaviour and only the user who made the local graph will have access to it.",
+                "string": "Local graphs are accessible to anyone who accesses Roam (even their own account) on the browser your local graph is stored currently. We are in the midst of removing this behaviour and only the user who made the local graph will have access to it.",
                 "create-time": 1618930222037,
                 "uid": "bLfPDV0Z_",
-                "edit-time": 1619046072108,
+                "edit-time": 1619090314514,
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 }
               }
             ],

@@ -11856,6 +11856,7 @@
   [6660 :create/time 1614782970963 536888721]
   [6660 :create/user 3 536888721]
   [6660 :edit/seen-by 3 536920535]
+  [6660 :edit/seen-by 53 536962364]
   [6660 :edit/seen-by 3422 536899801]
   [6660 :edit/seen-by 3987 536958926]
   [6660 :edit/seen-by 6897 536912022]
@@ -54066,8 +54067,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid94743b84-35b4-438c-9b33-330aafd9067f"
-   536962337]
+   "uuide1ef4f5b-ca68-4ef5-a1e4-5b07eabc5965"
+   536962367]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -70313,6 +70314,7 @@
   [44919 :block/uid "3fmrz3XwY" 536962131]
   [44919 :create/time 1618863629362 536962131]
   [44919 :create/user 3 536962131]
+  [44919 :edit/seen-by 53 536962362]
   [44919 :edit/time 1619046121408 536962182]
   [44919 :edit/user 3 536962131]
   [44920 :block/open true 536962131]
@@ -70321,15 +70323,17 @@
   [44920 :block/parents 412 536962132]
   [44920 :block/parents 44916 536962132]
   [44920 :block/parents 44919 536962132]
+  [44920 :block/refs 9321 536962366]
   [44920
    :block/string
-   "Local graphs are stored in your browser's local storage. This means that if you clear your browser data then you will lose all the data in your local graph. To mitigate this risk, we recommend you set up daily automatic backups."
-   536962131]
+   "Local graphs are stored in your browser's local storage. This means that if you clear your browser data then you will lose all the data in your local graph. To mitigate this risk, we recommend you [set up daily automatic backups](((xUCBFCJ02)))."
+   536962365]
   [44920 :block/uid "CrrOo2ZSL" 536962131]
   [44920 :create/time 1618925130828 536962131]
   [44920 :create/user 3 536962131]
-  [44920 :edit/time 1619046072108 536962131]
-  [44920 :edit/user 3 536962131]
+  [44920 :edit/seen-by 53 536962362]
+  [44920 :edit/time 1619091010656 536962365]
+  [44920 :edit/user 53 536962365]
   [44921 :block/children 44922 536962131]
   [44921 :block/heading 3 536962146]
   [44921 :block/open false 536962172]
@@ -70361,8 +70365,8 @@
   [44922 :create/user 3 536962131]
   [44922 :edit/time 1619046072108 536962131]
   [44922 :edit/user 3 536962131]
-  [44923 :block/children 44924 536962131]
   [44923 :block/children 44925 536962131]
+  [44923 :block/children 44983 536962346]
   [44923 :block/heading 3 536962147]
   [44923 :block/open false 536962173]
   [44923 :block/order 4 536962261]
@@ -70373,38 +70377,42 @@
   [44923 :block/uid "Wk4tKpTb2" 536962131]
   [44923 :create/time 1618863640766 536962131]
   [44923 :create/user 3 536962131]
+  [44923 :edit/seen-by 53 536962337]
   [44923 :edit/time 1619046122999 536962184]
   [44923 :edit/user 3 536962131]
   [44924 :block/open true 536962131]
-  [44924 :block/order 0 536962131]
+  [44924 :block/order 0 536962349]
   [44924 :block/page 412 536962134]
   [44924 :block/parents 412 536962134]
   [44924 :block/parents 44916 536962134]
   [44924 :block/parents 44923 536962134]
+  [44924 :block/parents 44983 536962350]
   [44924
    :block/string
-   "Whenever you create a hosted graph, by default, only you can access your data. You can also set up read and write access for specific emails or even make your hosted graph publicly readable or editable (you cannot however share your local graph with anyone). No one on the Roam team can access your data without your written permission."
-   536962131]
+   "No one on the Roam team can access your data without your written permission."
+   536962348]
   [44924 :block/uid "83R-ojxu5" 536962131]
   [44924 :create/time 1618925221506 536962131]
   [44924 :create/user 3 536962131]
-  [44924 :edit/time 1619046072108 536962131]
-  [44924 :edit/user 3 536962131]
+  [44924 :edit/seen-by 53 536962337]
+  [44924 :edit/time 1619090290688 536962348]
+  [44924 :edit/user 53 536962338]
   [44925 :block/open true 536962131]
-  [44925 :block/order 1 536962131]
+  [44925 :block/order 1 536962349]
   [44925 :block/page 412 536962134]
   [44925 :block/parents 412 536962134]
   [44925 :block/parents 44916 536962134]
   [44925 :block/parents 44923 536962134]
   [44925
    :block/string
-   "Local graphs are accessible to anyone who accesses Roam (even their own account) on the browser your local graph is stored currently. We are in the midst of removing the behaviour and only the user who made the local graph will have access to it."
-   536962131]
+   "Local graphs are accessible to anyone who accesses Roam (even their own account) on the browser your local graph is stored currently. We are in the midst of removing this behaviour and only the user who made the local graph will have access to it."
+   536962355]
   [44925 :block/uid "bLfPDV0Z_" 536962131]
   [44925 :create/time 1618930222037 536962131]
   [44925 :create/user 3 536962131]
-  [44925 :edit/time 1619046072108 536962131]
-  [44925 :edit/user 3 536962131]
+  [44925 :edit/seen-by 53 536962354]
+  [44925 :edit/time 1619090314514 536962355]
+  [44925 :edit/user 53 536962355]
   [44926 :block/children 44978 536962302]
   [44926 :block/heading 3 536962148]
   [44926 :block/open false 536962174]
@@ -70906,10 +70914,26 @@
   [44982 :create/user 53 536962320]
   [44982 :edit/time 1619090239819 536962334]
   [44982 :edit/user 53 536962320]
-  [44983 :block/uid "BMyhcrbbB" 536962337]
-  [44983 :user/display-name "Erik Newhard" 536962337]
+  [44983 :block/children 44924 536962349]
+  [44983 :block/open false 536962353]
+  [44983 :block/order 0 536962346]
+  [44983 :block/page 412 536962347]
+  [44983 :block/parents 412 536962347]
+  [44983 :block/parents 44916 536962347]
+  [44983 :block/parents 44923 536962347]
   [44983
+   :block/string
+   "By default, hosted graphs you create are accessible only to you. You can also set up read and write access for specific emails or even make your hosted graph publicly readable or editable (you cannot however share your local graph with anyone). "
+   536962346]
+  [44983 :block/uid "FnDy-wjs2" 536962346]
+  [44983 :create/time 1619090290675 536962346]
+  [44983 :create/user 53 536962346]
+  [44983 :edit/time 1619090290675 536962346]
+  [44983 :edit/user 53 536962346]
+  [44984 :block/uid "jFBQsik0p" 536962367]
+  [44984 :user/display-name "Erik Newhard" 536962367]
+  [44984
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536962337]
-  [44983 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536962337]]}
+   536962367]
+  [44984 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536962367]]}

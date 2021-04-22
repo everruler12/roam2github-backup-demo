@@ -283,12 +283,13 @@
     - ### **Are my uploaded files/images automatically indexed by Google?**
         - Absolutely not!
     - ### **Where are local graphs stored?**
-        - Local graphs are stored in your browser's local storage. This means that if you clear your browser data then you will lose all the data in your local graph. To mitigate this risk, we recommend you set up daily automatic backups.
+        - Local graphs are stored in your browser's local storage. This means that if you clear your browser data then you will lose all the data in your local graph. To mitigate this risk, we recommend you [set up daily automatic backups](((xUCBFCJ02))).
     - ### **Can I store my data on my computer?**
         - Right now, the only way to store data is in your browser's local storage. We will soon be offering a local file storage solution where you can have your Roam data stored inside your computer's file system.
     - ### **Who can access my data?**
-        - By default,Whenever you create a hosted graph,, only you can access your data. You can also set up read and write access for specific emails or even make your hosted graph publicly readable or editable (you cannot however share your local graph with anyone). No one on the Roam team can access your data without your written permission.
-        - Local graphs are accessible to anyone who accesses Roam (even their own account) on the browser your local graph is stored currently. We are in the midst of removing the behaviour and only the user who made the local graph will have access to it.
+        - By default, hosted graphs you create are accessible only to you. You can also set up read and write access for specific emails or even make your hosted graph publicly readable or editable (you cannot however share your local graph with anyone). 
+            - No one on the Roam team can access your data without your written permission.
+        - Local graphs are accessible to anyone who accesses Roam (even their own account) on the browser your local graph is stored currently. We are in the midst of removing this behaviour and only the user who made the local graph will have access to it.
     - ### **Can anyone access my pages / graphs?**
         - No, unless you want them to. 
             - If you set your graph to publicly readable or editable, 
