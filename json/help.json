@@ -42586,6 +42586,48 @@
                     "edit-time": 1619067430578,
                     "children": [
                       {
+                        "string": "Fixed performance regression",
+                        "create-time": 1619108693525,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Filipe Silva]]",
+                            "create-time": 1619108699767,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "IFYmBp-zm"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "IFYmBp-zm"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "oyd8LuXo0",
+                            "edit-time": 1619108707459,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "uid": "LMQLCINZB",
+                        "edit-time": 1619108699619,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
                         "string": "Made settings modal mobile-friendly.",
                         "create-time": 1619067430569,
                         ":create/user": {

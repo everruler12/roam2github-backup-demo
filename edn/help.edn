@@ -54067,8 +54067,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuiddead69b4-1e16-408b-94a8-e132b252e4d5"
-   536962368]
+   "uuidde6b209b-39c1-41b4-91ad-9317617c5c09"
+   536962385]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -70703,6 +70703,7 @@
   [44953 :edit/time 1619067397442 536962205]
   [44953 :edit/user 53 536962205]
   [44965 :block/children 44972 536962228]
+  [44965 :block/children 44986 536962372]
   [44965 :block/heading 3 536962218]
   [44965 :block/open true 536962218]
   [44965 :block/order 0 536962218]
@@ -70727,8 +70728,8 @@
   [44972 :attrs/lookup 44972 536962246]
   [44972 :attrs/lookup 44973 536962246]
   [44972 :block/children 44973 536962240]
-  [44972 :block/open false 536962247]
-  [44972 :block/order 0 536962228]
+  [44972 :block/open false 536962384]
+  [44972 :block/order 1 536962377]
   [44972 :block/page 4296 536962226]
   [44972 :block/parents 4296 536962226]
   [44972 :block/parents 7333 536962226]
@@ -70930,10 +70931,62 @@
   [44983 :create/user 53 536962346]
   [44983 :edit/time 1619090290675 536962346]
   [44983 :edit/user 53 536962346]
-  [44984 :block/uid "4-eogYwTI" 536962368]
-  [44984 :user/display-name "Erik Newhard" 536962368]
-  [44984
+  [44985 :block/string "" 536962371]
+  [44985 :block/uid "STlpWEuC3" 536962371]
+  [44985 :edit/time 1619108692635 536962371]
+  [44985 :edit/user 53 536962371]
+  [44986 :attrs/lookup 2768 536962381]
+  [44986 :attrs/lookup 44546 536962381]
+  [44986 :attrs/lookup 44986 536962381]
+  [44986 :attrs/lookup 44987 536962381]
+  [44986 :block/children 44987 536962377]
+  [44986 :block/open false 536962382]
+  [44986 :block/order 0 536962372]
+  [44986 :block/page 4296 536962373]
+  [44986 :block/parents 4296 536962373]
+  [44986 :block/parents 7333 536962373]
+  [44986 :block/parents 10915 536962373]
+  [44986 :block/parents 44948 536962373]
+  [44986 :block/parents 44965 536962373]
+  [44986 :block/string "Fixed performance regression" 536962374]
+  [44986 :block/uid "LMQLCINZB" 536962372]
+  [44986 :create/time 1619108693525 536962372]
+  [44986 :create/user 53 536962372]
+  [44986 :edit/time 1619108699619 536962374]
+  [44986 :edit/user 53 536962372]
+  [44986
+   :entity/attrs
+   #{[{:source [:block/uid "LMQLCINZB"],
+       :value [:block/uid "LMQLCINZB"]}
+      {:source [:block/uid "oyd8LuXo0"],
+       :value [:block/uid "5K19Sylm0"]}
+      {:source [:block/uid "oyd8LuXo0"],
+       :value [:block/uid "IFYmBp-zm"]}]}
+   536962381]
+  [44987 :block/open true 536962375]
+  [44987 :block/order 0 536962377]
+  [44987 :block/page 4296 536962376]
+  [44987 :block/parents 4296 536962376]
+  [44987 :block/parents 7333 536962376]
+  [44987 :block/parents 10915 536962376]
+  [44987 :block/parents 44948 536962376]
+  [44987 :block/parents 44965 536962376]
+  [44987 :block/parents 44986 536962378]
+  [44987 :block/refs 2768 536962380]
+  [44987 :block/refs 44546 536962380]
+  [44987
+   :block/string
+   "Brought to you by:: [[Filipe Silva]]"
+   536962379]
+  [44987 :block/uid "oyd8LuXo0" 536962375]
+  [44987 :create/time 1619108699767 536962375]
+  [44987 :create/user 53 536962375]
+  [44987 :edit/time 1619108707459 536962379]
+  [44987 :edit/user 53 536962375]
+  [44988 :block/uid "ERmSjUEvq" 536962385]
+  [44988 :user/display-name "Erik Newhard" 536962385]
+  [44988
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536962368]
-  [44984 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536962368]]}
+   536962385]
+  [44988 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536962385]]}
