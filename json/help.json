@@ -17974,7 +17974,7 @@
         "heading": 1
       },
       {
-        "edit-time": 1619046107657,
+        "edit-time": 1619109695724,
         "children": [
           {
             "string": "**How secure are my uploaded files?**",
@@ -17985,15 +17985,15 @@
             },
             "children": [
               {
-                "string": "When you upload an image, audio, or PDF file, it is stored on Google Firebase servers . While the link is public, it has a random unique identifier that is impossible for someone to just guess. So any images you upload are private so long as you keep the links private. If someone obtains access to your file's link then they can access it. No one can delete any files you have uploaded. We are releasing a file manager soon so you can view all your uploaded files and delete any files you do not want stored on Google's servers.",
+                "string": "When you upload an image, audio, or PDF file, it is stored on Google Firebase servers. While the link is public, it has a random unique identifier that is impossible for someone to just guess. So any images you upload are private so long as you keep the links private. If someone obtains access to your file's link then they can access it. No one can delete any files you have uploaded. We are releasing a file manager soon so you can view all your uploaded files and delete any files you do not want stored on Google's servers.",
                 "create-time": 1618871702058,
                 "uid": "FYEaECD1h",
-                "edit-time": 1619046072108,
+                "edit-time": 1619109602343,
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 }
               }
             ],
@@ -18440,13 +18440,13 @@
             ":block/uid": "Dz5EfmkDa"
           }
         ],
-        "string": "[Security]([[Security]])",
+        "string": "[Security]([[Security]]) ",
         ":create/user": {
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
         "create-time": 1619046041587,
         ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
         },
         "heading": 1
       },
@@ -67751,11 +67751,25 @@
   {
     "create-time": 1619051513046,
     "title": "April 22nd, 2021",
-    "uid": "04-22-2021",
-    "edit-time": 1619051513046,
     ":create/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1619111869037,
+        "uid": "e3w6tX0zw",
+        "edit-time": 1619111869037,
+        ":create/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        }
+      }
+    ],
+    "uid": "04-22-2021",
+    "edit-time": 1619051513046,
     ":edit/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     }

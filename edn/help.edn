@@ -54067,8 +54067,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuidde6b209b-39c1-41b4-91ad-9317617c5c09"
-   536962385]
+   "uuid94bb585e-35fb-41e2-a502-f33a24f7d6e8"
+   536962396]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -70290,13 +70290,13 @@
   [44916 :block/page 412 536962118]
   [44916 :block/parents 412 536962118]
   [44916 :block/refs 44917 536962123]
-  [44916 :block/string "[Security]([[Security]])" 536962168]
+  [44916 :block/string "[Security]([[Security]]) " 536962393]
   [44916 :block/uid "dCU8DZ4hj" 536962117]
   [44916 :create/time 1619046041587 536962117]
   [44916 :create/user 3 536962117]
   [44916 :edit/seen-by 53 536962250]
-  [44916 :edit/time 1619046107657 536962168]
-  [44916 :edit/user 3 536962117]
+  [44916 :edit/time 1619109695724 536962393]
+  [44916 :edit/user 53 536962393]
   [44917 :block/uid "Dz5EfmkDa" 536962123]
   [44917 :create/time 1619046047883 536962123]
   [44917 :create/user 3 536962123]
@@ -70662,13 +70662,14 @@
   [44941 :block/parents 44940 536962142]
   [44941
    :block/string
-   "When you upload an image, audio, or PDF file, it is stored on Google Firebase servers . While the link is public, it has a random unique identifier that is impossible for someone to just guess. So any images you upload are private so long as you keep the links private. If someone obtains access to your file's link then they can access it. No one can delete any files you have uploaded. We are releasing a file manager soon so you can view all your uploaded files and delete any files you do not want stored on Google's servers."
-   536962131]
+   "When you upload an image, audio, or PDF file, it is stored on Google Firebase servers. While the link is public, it has a random unique identifier that is impossible for someone to just guess. So any images you upload are private so long as you keep the links private. If someone obtains access to your file's link then they can access it. No one can delete any files you have uploaded. We are releasing a file manager soon so you can view all your uploaded files and delete any files you do not want stored on Google's servers."
+   536962392]
   [44941 :block/uid "FYEaECD1h" 536962131]
   [44941 :create/time 1618871702058 536962131]
   [44941 :create/user 3 536962131]
-  [44941 :edit/time 1619046072108 536962131]
-  [44941 :edit/user 3 536962131]
+  [44941 :edit/seen-by 53 536962391]
+  [44941 :edit/time 1619109602343 536962392]
+  [44941 :edit/user 53 536962392]
   [44942 :block/string "" 536962143]
   [44942 :block/uid "KgYtnAMnq" 536962143]
   [44942 :edit/time 1619046072246 536962143]
@@ -70677,6 +70678,7 @@
   [44946 :block/uid "zqXLeX5sH" 536962170]
   [44946 :edit/time 1619046108052 536962170]
   [44946 :edit/user 3 536962170]
+  [44947 :block/children 44988 536962394]
   [44947 :block/uid "04-22-2021" 536962192]
   [44947 :create/time 1619051513046 536962192]
   [44947 :create/user 3422 536962192]
@@ -70776,7 +70778,7 @@
   [44973 :edit/user 53 536962237]
   [44974 :block/children 44975 536962261]
   [44974 :block/heading 3 536962264]
-  [44974 :block/open false 536962265]
+  [44974 :block/open false 536962390]
   [44974 :block/order 1 536962252]
   [44974 :block/page 412 536962253]
   [44974 :block/parents 412 536962253]
@@ -70983,10 +70985,20 @@
   [44987 :create/user 53 536962375]
   [44987 :edit/time 1619108707459 536962379]
   [44987 :edit/user 53 536962375]
-  [44988 :block/uid "ERmSjUEvq" 536962385]
-  [44988 :user/display-name "Erik Newhard" 536962385]
-  [44988
+  [44988 :block/open true 536962394]
+  [44988 :block/order 0 536962394]
+  [44988 :block/page 44947 536962395]
+  [44988 :block/parents 44947 536962395]
+  [44988 :block/string "" 536962394]
+  [44988 :block/uid "e3w6tX0zw" 536962394]
+  [44988 :create/time 1619111869037 536962394]
+  [44988 :create/user 3 536962394]
+  [44988 :edit/time 1619111869037 536962394]
+  [44988 :edit/user 3 536962394]
+  [44989 :block/uid "sP88o8zd2" 536962396]
+  [44989 :user/display-name "Erik Newhard" 536962396]
+  [44989
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536962385]
-  [44988 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536962385]]}
+   536962396]
+  [44989 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536962396]]}
