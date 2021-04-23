@@ -21712,6 +21712,7 @@
   [8084 :edit/user 3 536917371]
   [8086 :block/children 8088 536894575]
   [8086 :block/children 8090 536894582]
+  [8086 :block/children 45003 536962494]
   [8086 :block/heading 3 536917383]
   [8086 :block/open true 536896104]
   [8086 :block/order 3 536896100]
@@ -21736,7 +21737,7 @@
   [8087 :edit/time 1614855082365 536894574]
   [8087 :edit/user 53 536894574]
   [8088 :block/open true 536894575]
-  [8088 :block/order 1 536894582]
+  [8088 :block/order 2 536962494]
   [8088 :block/page 356 536894577]
   [8088 :block/parents 356 536894577]
   [8088 :block/parents 6417 536896100]
@@ -21762,7 +21763,7 @@
   [8089 :edit/time 1614855087106 536894581]
   [8089 :edit/user 53 536894581]
   [8090 :block/open true 536894582]
-  [8090 :block/order 0 536894582]
+  [8090 :block/order 1 536962494]
   [8090 :block/page 356 536894584]
   [8090 :block/parents 356 536894584]
   [8090 :block/parents 6417 536896100]
@@ -21777,15 +21778,15 @@
   [8090 :block/refs 8065 536894583]
   [8090
    :block/string
-   "Finds all blocks on daily pages and blocks mentioning a date between two days. You can use the following as a shorthand: [[today]], [[tomorrow]], [[yesterday]], [[last week]], [[next week]], [[last month]], and [[next month]]. ^^Only works on Daily Notes page^^."
-   536917372]
+   "You can use the following as a shorthand: [[today]], [[tomorrow]], [[yesterday]], [[last week]], [[next week]], [[last month]], and [[next month]]. "
+   536962496]
   [8090 :block/uid "E9gkHEO8V" 536894582]
   [8090 :create/time 1614855088197 536894582]
   [8090 :create/user 53 536894582]
   [8090 :edit/seen-by 3 536917353]
   [8090 :edit/seen-by 3422 536897119]
-  [8090 :edit/time 1616495802692 536917372]
-  [8090 :edit/user 3 536917372]
+  [8090 :edit/time 1619167429589 536962496]
+  [8090 :edit/user 53 536962489]
   [8091 :block/children 8083 536894597]
   [8091 :block/children 8084 536894600]
   [8091 :block/heading 3 536917382]
@@ -54069,8 +54070,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuide4194dd1-df53-4ce0-bf3b-e5b6ca1223e7"
-   536962489]
+   "uuid56d84eec-9e79-44a4-a957-d8c5699053c1"
+   536962497]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -71256,10 +71257,26 @@
   [45002 :create/user 53 536962481]
   [45002 :edit/time 1619165325505 536962485]
   [45002 :edit/user 53 536962481]
-  [45003 :block/uid "WbdFkfVXv" 536962489]
-  [45003 :user/display-name "Erik Newhard" 536962489]
+  [45003 :block/open true 536962494]
+  [45003 :block/order 0 536962494]
+  [45003 :block/page 356 536962495]
+  [45003 :block/parents 356 536962495]
+  [45003 :block/parents 6417 536962495]
+  [45003 :block/parents 8086 536962495]
+  [45003 :block/parents 12876 536962495]
   [45003
+   :block/string
+   "Finds all blocks on daily pages and blocks mentioning a date between two days. ^^**This only works on Daily Notes page**^^."
+   536962494]
+  [45003 :block/uid "kZCwOh0Z4" 536962494]
+  [45003 :create/time 1619167429569 536962494]
+  [45003 :create/user 53 536962494]
+  [45003 :edit/time 1619167429569 536962494]
+  [45003 :edit/user 53 536962494]
+  [45004 :block/uid "-SIusuKCc" 536962497]
+  [45004 :user/display-name "Erik Newhard" 536962497]
+  [45004
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536962489]
-  [45003 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536962489]]}
+   536962497]
+  [45004 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536962497]]}
