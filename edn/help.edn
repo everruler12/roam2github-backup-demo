@@ -48717,6 +48717,7 @@
   [11840 :block/uid "DWlIo5LM1" 536911728]
   [11840 :create/time 1615442711642 536911728]
   [11840 :create/user 3422 536911728]
+  [11840 :edit/seen-by 53 536962504]
   [11840 :edit/time 1615442711642 536911728]
   [11840 :edit/user 3422 536911728]
   [11841 :block/children 11842 536919210]
@@ -48732,6 +48733,7 @@
   [11841 :create/time 1615442711642 536911728]
   [11841 :create/user 3422 536911728]
   [11841 :edit/seen-by 3 536919198]
+  [11841 :edit/seen-by 53 536962502]
   [11841 :edit/time 1615442711642 536911728]
   [11841 :edit/user 3422 536911728]
   [11842 :block/open true 536911728]
@@ -48746,6 +48748,7 @@
   [11842 :block/uid "oqq1ygX5D" 536911728]
   [11842 :create/time 1615442711642 536911728]
   [11842 :create/user 3422 536911728]
+  [11842 :edit/seen-by 53 536962503]
   [11842 :edit/time 1615442711642 536911728]
   [11842 :edit/user 3422 536911728]
   [11843 :block/open true 536911728]
@@ -54070,8 +54073,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid1211e49b-bdb6-4feb-b4bd-3119a65dae5f"
-   536962502]
+   "uuid7b7ad399-e6ca-47ed-b147-ad543f9a44ee"
+   536962507]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -70787,7 +70790,7 @@
   [44973 :edit/user 53 536962237]
   [44974 :block/children 44975 536962261]
   [44974 :block/heading 3 536962264]
-  [44974 :block/open false 536962390]
+  [44974 :block/open false 536962506]
   [44974 :block/order 1 536962252]
   [44974 :block/page 412 536962253]
   [44974 :block/parents 412 536962253]
@@ -71293,10 +71296,10 @@
   [45005 :create/user 3422 536962499]
   [45005 :edit/time 1619170883473 536962501]
   [45005 :edit/user 3422 536962499]
-  [45006 :block/uid "Xecm0P4YP" 536962502]
-  [45006 :user/display-name "Erik Newhard" 536962502]
+  [45006 :block/uid "FhFnRFG3w" 536962507]
+  [45006 :user/display-name "Erik Newhard" 536962507]
   [45006
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536962502]
-  [45006 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536962502]]}
+   536962507]
+  [45006 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536962507]]}
