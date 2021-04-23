@@ -1225,6 +1225,7 @@
   [412 :edit/seen-by 3 536912844]
   [412 :edit/seen-by 53 536961299]
   [412 :edit/seen-by 3422 536897160]
+  [412 :edit/seen-by 3987 536962397]
   [412 :edit/seen-by 6897 536908228]
   [412 :edit/seen-by 9445 536908432]
   [412 :edit/time 1614649398166 536871814]
@@ -54067,8 +54068,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid5f8878a3-0981-4986-937d-4e755b95a1cb"
-   536962396]
+   "uuid5e833120-3ae1-4401-bd31-31bc5ee170e1"
+   536962398]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -70295,6 +70296,7 @@
   [44916 :create/time 1619046041587 536962117]
   [44916 :create/user 3 536962117]
   [44916 :edit/seen-by 53 536962250]
+  [44916 :edit/seen-by 3987 536962397]
   [44916 :edit/time 1619109695724 536962393]
   [44916 :edit/user 53 536962393]
   [44917 :block/uid "Dz5EfmkDa" 536962123]
@@ -70652,6 +70654,7 @@
   [44940 :create/time 1618863572911 536962131]
   [44940 :create/user 3 536962131]
   [44940 :edit/seen-by 53 536962251]
+  [44940 :edit/seen-by 3987 536962397]
   [44940 :edit/time 1619046120026 536962181]
   [44940 :edit/user 3 536962131]
   [44941 :block/open true 536962131]
@@ -70668,6 +70671,7 @@
   [44941 :create/time 1618871702058 536962131]
   [44941 :create/user 3 536962131]
   [44941 :edit/seen-by 53 536962391]
+  [44941 :edit/seen-by 3987 536962397]
   [44941 :edit/time 1619109602343 536962392]
   [44941 :edit/user 53 536962392]
   [44942 :block/string "" 536962143]
@@ -70995,10 +70999,17 @@
   [44988 :create/user 3 536962394]
   [44988 :edit/time 1619111869037 536962394]
   [44988 :edit/user 3 536962394]
-  [44989 :block/uid "VkU8JGzXq" 536962396]
-  [44989 :user/display-name "Erik Newhard" 536962396]
-  [44989
+  [44989 :block/uid "04-23-2021" 536962396]
+  [44989 :create/time 1619138380140 536962396]
+  [44989 :create/user 3422 536962396]
+  [44989 :edit/time 1619138380140 536962396]
+  [44989 :edit/user 3422 536962396]
+  [44989 :log/id 1619138380139 536962396]
+  [44989 :node/title "April 23rd, 2021" 536962396]
+  [44990 :block/uid "hvtTyNzyj" 536962398]
+  [44990 :user/display-name "Erik Newhard" 536962398]
+  [44990
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536962396]
-  [44989 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536962396]]}
+   536962398]
+  [44990 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536962398]]}
