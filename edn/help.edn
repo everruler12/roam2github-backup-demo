@@ -903,6 +903,7 @@
   [351 :edit/seen-by 3 536916904]
   [351 :edit/seen-by 53 536959843]
   [351 :edit/seen-by 3422 536897114]
+  [351 :edit/seen-by 6897 536962508]
   [351 :edit/seen-by 9445 536900549]
   [351 :edit/time 1614794946588 536891503]
   [351 :edit/user 53 536891503]
@@ -2235,6 +2236,7 @@
   [719 :create/time 1614653049989 536873165]
   [719 :create/user 3 536873165]
   [719 :edit/seen-by 3422 536897114]
+  [719 :edit/seen-by 6897 536962508]
   [719 :edit/time 1614768435360 536883650]
   [719 :edit/user 3 536873165]
   [720 :block/open true 536873172]
@@ -2897,6 +2899,7 @@
   [801 :create/time 1614653538252 536873473]
   [801 :create/user 3 536873473]
   [801 :edit/seen-by 3422 536906361]
+  [801 :edit/seen-by 6897 536962509]
   [801 :edit/time 1614653538253 536873473]
   [801 :edit/user 3 536873473]
   [801
@@ -5589,6 +5592,7 @@
   [2333 :create/user 3 536877006]
   [2333 :edit/seen-by 53 536961795]
   [2333 :edit/seen-by 3422 536897114]
+  [2333 :edit/seen-by 6897 536962508]
   [2333 :edit/seen-by 9445 536900549]
   [2333 :edit/time 1616494404212 536916898]
   [2333 :edit/user 3 536908981]
@@ -13105,6 +13109,7 @@
   [6744 :create/time 1614783897856 536888866]
   [6744 :create/user 3 536888866]
   [6744 :edit/seen-by 3422 536906395]
+  [6744 :edit/seen-by 6897 536962509]
   [6744 :edit/time 1614792907702 536891111]
   [6744 :edit/user 3 536888866]
   [6745 :block/children 10670 536906439]
@@ -13122,6 +13127,7 @@
   [6745 :create/time 1614783897856 536888866]
   [6745 :create/user 3 536888866]
   [6745 :edit/seen-by 3422 536906430]
+  [6745 :edit/seen-by 6897 536962509]
   [6745 :edit/time 1615209921338 536906434]
   [6745 :edit/user 3422 536906431]
   [6748 :block/children 6749 536888866]
@@ -37456,6 +37462,7 @@
   [10670 :block/uid "r5r-Uhbtl" 536906436]
   [10670 :create/time 1615209923007 536906436]
   [10670 :create/user 3422 536906436]
+  [10670 :edit/seen-by 6897 536962509]
   [10670 :edit/time 1615209961744 536906448]
   [10670 :edit/user 3422 536906436]
   [10673 :block/children 10675 536906486]
@@ -54073,8 +54080,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid7b7ad399-e6ca-47ed-b147-ad543f9a44ee"
-   536962507]
+   "uuid4cac401d-a1aa-47be-bafe-8e309dc3c10f"
+   536962510]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -70673,14 +70680,14 @@
   [44941 :block/parents 44940 536962142]
   [44941
    :block/string
-   "When you upload an image, audio, or PDF file, it is stored on Google Firebase servers. While the link is public, it has a random unique identifier that is impossible for someone to just guess. So any images you upload are private so long as you keep the links private. If someone obtains access to your file's link then they can access it. No one can delete any files you have uploaded. We are releasing a file manager soon so you can view all your uploaded files and delete any files you do not want stored on Google's servers."
-   536962392]
+   "When you upload an image, audio, or PDF file, it is stored on Google Firebase servers. While the link is public, it has a random unique identifier. So any images you upload are private so long as you keep the links private. If someone obtains access to your file's link then they can access it. No one can delete any files you have uploaded. We are releasing a file manager soon so you can view all your uploaded files and delete any files you do not want stored on Google's servers."
+   536962507]
   [44941 :block/uid "FYEaECD1h" 536962131]
   [44941 :create/time 1618871702058 536962131]
   [44941 :create/user 3 536962131]
   [44941 :edit/seen-by 53 536962391]
   [44941 :edit/seen-by 3987 536962397]
-  [44941 :edit/time 1619109602343 536962392]
+  [44941 :edit/time 1619181010168 536962507]
   [44941 :edit/user 53 536962392]
   [44942 :block/string "" 536962143]
   [44942 :block/uid "KgYtnAMnq" 536962143]
@@ -71296,10 +71303,10 @@
   [45005 :create/user 3422 536962499]
   [45005 :edit/time 1619170883473 536962501]
   [45005 :edit/user 3422 536962499]
-  [45006 :block/uid "FhFnRFG3w" 536962507]
-  [45006 :user/display-name "Erik Newhard" 536962507]
+  [45006 :block/uid "_CnqJjNhR" 536962510]
+  [45006 :user/display-name "Erik Newhard" 536962510]
   [45006
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536962507]
-  [45006 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536962507]]}
+   536962510]
+  [45006 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536962510]]}
