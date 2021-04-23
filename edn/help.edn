@@ -54070,8 +54070,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid56d84eec-9e79-44a4-a957-d8c5699053c1"
-   536962497]
+   "uuid8215066f-316c-445b-b628-20add2fed458"
+   536962502]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -71273,10 +71273,30 @@
   [45003 :create/user 53 536962494]
   [45003 :edit/time 1619167429569 536962494]
   [45003 :edit/user 53 536962494]
-  [45004 :block/uid "-SIusuKCc" 536962497]
-  [45004 :user/display-name "Erik Newhard" 536962497]
-  [45004
+  [45004 :block/children 45005 536962499]
+  [45004 :block/uid "ZQ8sXpP49" 536962497]
+  [45004 :create/time 1619170748327 536962497]
+  [45004 :create/user 3422 536962497]
+  [45004 :edit/time 1619170748327 536962497]
+  [45004 :edit/user 3422 536962497]
+  [45004 :node/title "Customizable Hotkeys" 536962497]
+  [45005 :block/open true 536962499]
+  [45005 :block/order 0 536962499]
+  [45005 :block/page 45004 536962500]
+  [45005 :block/parents 45004 536962500]
+  [45005
+   :block/string
+   "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FOJFPJqjqmA.gif?alt=media&token=647cbbae-59d5-4a41-811f-f3f8a275068d)"
+   536962501]
+  [45005 :block/uid "3HccsaMof" 536962499]
+  [45005 :create/time 1619170864502 536962499]
+  [45005 :create/user 3422 536962499]
+  [45005 :edit/time 1619170883473 536962501]
+  [45005 :edit/user 3422 536962499]
+  [45006 :block/uid "_zdh2LxyQ" 536962502]
+  [45006 :user/display-name "Erik Newhard" 536962502]
+  [45006
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536962497]
-  [45004 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536962497]]}
+   536962502]
+  [45006 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536962502]]}
