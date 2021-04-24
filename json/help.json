@@ -42819,11 +42819,27 @@
                           {
                             "string": "Brought to you by:: [[Joshua Brown]]",
                             "create-time": 1619263036818,
-                            "uid": "7ci-b4WBd",
-                            "edit-time": 1619263044977,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "IdWJv42cv"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "IdWJv42cv"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
                             ":create/user": {
                               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                             },
+                            "uid": "7ci-b4WBd",
+                            "edit-time": 1619263044977,
                             ":edit/user": {
                               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                             }
@@ -68124,10 +68140,10 @@
     }
   },
   {
-    "create-time": 1619263044962,
+    "create-time": 1619267370242,
     "title": "April 24th, 2021",
     "uid": "04-24-2021",
-    "edit-time": 1619263044962,
+    "edit-time": 1619267370243,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
