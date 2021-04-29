@@ -42605,9 +42605,15 @@
                         },
                         "children": [
                           {
-                            "string": "Brought to you by:: [[Bardia Pourvakil]]",
+                            "string": "Brought to you by:: [[Bardia Pourvakil]] [[Kifah Meeran]] [[Joshua Brown]]",
                             "create-time": 1619674711618,
                             ":block/refs": [
+                              {
+                                ":block/uid": "w3-eryhFP"
+                              },
+                              {
+                                ":block/uid": "IdWJv42cv"
+                              },
                               {
                                 ":block/uid": "evJ14QpsV"
                               },
@@ -42616,6 +42622,12 @@
                               }
                             ],
                             "refs": [
+                              {
+                                "uid": "w3-eryhFP"
+                              },
+                              {
+                                "uid": "IdWJv42cv"
+                              },
                               {
                                 "uid": "evJ14QpsV"
                               },
@@ -42627,7 +42639,7 @@
                               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                             },
                             "uid": "8GvysEfgm",
-                            "edit-time": 1619674720963,
+                            "edit-time": 1619677914200,
                             ":edit/user": {
                               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                             }

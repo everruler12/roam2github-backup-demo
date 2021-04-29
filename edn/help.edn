@@ -54083,8 +54083,8 @@
   [12638 :version/id "0.8.4" 536915101]
   [12638
    :version/nonce
-   "uuid69de23e9-d77a-44a7-955f-d2f0b5f5c420"
-   536962716]
+   "uuid0becfb9b-e5da-45ee-a269-dc76b3618024"
+   536962723]
   [12639 :block/string "" 536915108]
   [12639 :block/uid "XJBISiZfi" 536915108]
   [12639 :edit/time 1616473969351 536915108]
@@ -71720,12 +71720,14 @@
   [45029 :create/user 53 536962677]
   [45029 :edit/time 1619674206348 536962686]
   [45029 :edit/user 53 536962677]
+  [45030 :attrs/lookup 2527 536962721]
+  [45030 :attrs/lookup 2760 536962721]
   [45030 :attrs/lookup 2774 536962706]
   [45030 :attrs/lookup 44546 536962706]
   [45030 :attrs/lookup 45030 536962706]
   [45030 :attrs/lookup 45031 536962706]
   [45030 :block/children 45031 536962702]
-  [45030 :block/open false 536962707]
+  [45030 :block/open false 536962722]
   [45030 :block/order 0 536962687]
   [45030 :block/page 4296 536962685]
   [45030 :block/parents 4296 536962685]
@@ -71749,8 +71751,20 @@
       {:source [:block/uid "8GvysEfgm"],
        :value [:block/uid "5K19Sylm0"]}
       {:source [:block/uid "8GvysEfgm"],
-       :value [:block/uid "evJ14QpsV"]}]}
-   536962706]
+       :value [:block/uid "evJ14QpsV"]}]
+     [{:source [:block/uid "EwEymFFE4"],
+       :value [:block/uid "EwEymFFE4"]}
+      {:source [:block/uid "8GvysEfgm"],
+       :value [:block/uid "5K19Sylm0"]}
+      {:source [:block/uid "8GvysEfgm"],
+       :value [:block/uid "w3-eryhFP"]}]
+     [{:source [:block/uid "EwEymFFE4"],
+       :value [:block/uid "EwEymFFE4"]}
+      {:source [:block/uid "8GvysEfgm"],
+       :value [:block/uid "5K19Sylm0"]}
+      {:source [:block/uid "8GvysEfgm"],
+       :value [:block/uid "IdWJv42cv"]}]}
+   536962721]
   [45031 :block/open true 536962700]
   [45031 :block/order 0 536962702]
   [45031 :block/page 4296 536962701]
@@ -71760,16 +71774,18 @@
   [45031 :block/parents 45015 536962701]
   [45031 :block/parents 45029 536962701]
   [45031 :block/parents 45030 536962703]
+  [45031 :block/refs 2527 536962720]
+  [45031 :block/refs 2760 536962720]
   [45031 :block/refs 2774 536962705]
   [45031 :block/refs 44546 536962705]
   [45031
    :block/string
-   "Brought to you by:: [[Bardia Pourvakil]]"
-   536962704]
+   "Brought to you by:: [[Bardia Pourvakil]] [[Kifah Meeran]] [[Joshua Brown]]"
+   536962719]
   [45031 :block/uid "8GvysEfgm" 536962700]
   [45031 :create/time 1619674711618 536962700]
   [45031 :create/user 53 536962700]
-  [45031 :edit/time 1619674720963 536962704]
+  [45031 :edit/time 1619677914200 536962719]
   [45031 :edit/user 53 536962700]
   [45032 :block/open true 536962708]
   [45032 :block/order 0 536962710]
@@ -71791,10 +71807,10 @@
   [45032 :create/user 53 536962708]
   [45032 :edit/time 1619674728494 536962712]
   [45032 :edit/user 53 536962708]
-  [45033 :block/uid "HBjppLvLH" 536962716]
-  [45033 :user/display-name "Erik Newhard" 536962716]
+  [45033 :block/uid "VSyHNUybx" 536962723]
+  [45033 :user/display-name "Erik Newhard" 536962723]
   [45033
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536962716]
-  [45033 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536962716]]}
+   536962723]
+  [45033 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536962723]]}
