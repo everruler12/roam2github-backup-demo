@@ -2,6 +2,7 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[April 29th, 2021]]
         - [[April 28th, 2021]]
             - ### [[Bug Fixes]] 🛠
                 - Fixed bug which created orphan blocks when deleting in [[Linked References]]
