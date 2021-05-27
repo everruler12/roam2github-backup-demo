@@ -2,9 +2,96 @@
     - [Updating Roam]([[Updating Roam]])
     - [Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)
     - ## **New Changes**
+        - [[May 25th, 2021]]
+            - ### [[Bug Fixes]] 🛠 
+                - Reverted Block embeds will now be expanded by default
+                    - Brought to you by:: [[Joshua Brown]]
+                - Comment button will no longer keep showing up after taking screenshots or switching apps
+                    - Brought to you by:: [[Joshua Brown]]
+                - Made date picker faster
+                    - Brought to you by:: [[Kifah Meeran]]
+            - ### [[New Features]] 🚀 #.hide
+                - Added support for [[Kroki]] diagrams ([Link](https://kroki.io)) #.hide
+                    - How it works::
+                        1. Write your kroki code in a code/regular block, for instance,
+                            - ```plain text
+graph TD
+  A[ Anyone ] -->|Can help | B( Go to github.com/yuzutech/kroki )
+  B --> C{ How to contribute? }
+  C --> D[ Reporting bugs ]
+  C --> E[ Sharing ideas ]
+  C --> F[ Advocating ]```
+                        2. Then use the following syntax
+                            - `{{[[kroki]]: TYPE_HERE: BLOCK_REF_HERE}}`
+                                - so for instance, `{{[[kroki]]: mermaid:((13fZ8yxDr))}}` will produce:
+                                    - {{[[kroki]]: mermaid:((13fZ8yxDr))}}
+                    - Screenshots::
+                        - ![](https://camo.githubusercontent.com/a4f4453e86abb6804f9f92ca477e8be856653aad9571ad62b728b22ee4e0634a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666972657363726970742d35373761322e61707073706f742e636f6d2f6f2f696d6773253246617070253246726f616d2d7465616d253246682d65424e786637314a2e706e673f616c743d6d6564696126746f6b656e3d31386662333735362d336163372d346262362d616363612d393166333562626638633432)
+                    - Brought to you by:: [[Wilker Lucio]]
+        - [[May 17th, 2021]]
+            - ### [[New Features]] 🚀
+                - You can now quickly jump to/between [[Daily Notes]] pages using the date picker!
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fy0yYV8dNw_.png?alt=media&token=df5b78f9-3a25-4a8c-8b7c-3eed0dba191e)
+                    - Brought to you by:: [[Kifah Meeran]] [[Joshua Brown]]
+                    - Special mention to:: [[Roam42]] [[Clara Pastore]]
+            - Open graph-view for page has been moved into the dropdown menu
+            - [[Secret Feature]] - to be announced after round on testing
+        - [[May 16th, 2021]]
+            - ### [[Quality of Life Improvements]] ✨
+                - [[Pages]] [[Sharing]] has been re-introduced
+                    - Brought to you by:: [[Bardia Pourvakil]]
+                - [[Query]] will load 50 results at a time ((to prevent humongous queries from freezing Roam))
+                    - Brought to you by:: [[Joshua Brown]]
+                - [[Query]] results can now be grouped by pages
+                    - Brought to you by:: [[Joshua Brown]]
+                - You can now show/hide paths of blocks in [[Query]] results
+                    - Brought to you by:: [[Joshua Brown]]
+            - ### [[Developer Notes]] 🧑‍💻 
+                - Added `data-uid` to [[Block References]]
+                    - Brought to you by:: [[Bardia Pourvakil]]
+        - [[May 12th, 2021]]
+            - ### [[Bug Fixes]] 🛠 
+                - Long-pressing the expand/collapse button will expand all blocks in linked references, like in normal blocks.
+                    - Brought to you by:: [[Stian Håklev]]
+                - Fixed PDFs not rendering
+                    - Brought to you by:: [[Filipe Silva]]
+        - [[May 7th, 2021]]
+            - ### [[Quality of Life Improvements]] ✨
+                - Block embeds will now be expanded by default
+                    - Brought to you by:: [[Stian Håklev]]
+        - [[May 4th, 2021]]
+            - ### [[Quality of Life Improvements]] ✨
+                - You can now shift-click breadcrumbs/path of zoomed-in block to open in [[Right Sidebar]]
+                    - Brought to you by:: [[Stian Håklev]]
+                - ### [[Bug Fixes]] 🛠 
+                    - Made [[Query]] and [[Linked References]] slightly faster
+                        - Brought to you by:: [[Joshua Brown]]
+                    - Pasting blocks containing images will no longer destroy block structure
+                        - Brought to you by:: [[Joshua Brown]]
+                    - Made text highlights legible in [[Block References]] previews
+                        - Brought to you by:: [[Bardia Pourvakil]]
+                    - ### [[Developer Notes]] 🧑‍💻
+                        - iFrame Components are a new possibility for extending Roam. Write components using any JS framework, host it on your own server, but interact with Roam graph data. Documentation https://roamresearch.com/#/app/developer-documentation/page/YNgZSgVSS.
+        - [[May 3rd, 2021]]
+            - ### [[New Features]] 🚀
+                - Hidden feature for [[Roam Team]]'s internal use, will be notifying believers if no bugs in next few days, and rest of the community shortly after that.
+        - [[April 30th, 2021]]
+            - ### [[Quality of Life Improvements]] ✨
+                - Added syntax highlighting for [[SPARQL]] and [[Turtle]]
+                    - [[Kifah Meeran]]
+                - ### [[Developer Notes]] 🧑‍💻
+                    - As part of our ongoing effort to keep Roam secure, we're improving how extension settings are stored. **Please review your roam/js, roam/css and Custom Components settings and re-enable the ones you want to use again. **
+                        - Brought to you by::[[Filipe Silva]]
+            - ### [[Bug Fixes]] 🛠
+                - Auto-backups will no longer trigger when you switch/reload your graph.
+                    - Brought to you by:: [[Adam Sherwood]] [[Wilker Lucio]]
+                - The block info pop-up will no longer show up while dragging blocks on [[Safari]]
+                    - Brought to you by:: [[Kifah Meeran]]
+                - Fixed a bug with graph settings not appearing on local graphs
+                    - Brought to you by:: [[Kifah Meeran]]
         - [[April 29th, 2021]]
             - ### [[New Features]] 🚀
-                - You can now easily manage/delete all your uploaded files by going to `... > Settings > File Manager`
+                - You can now easily manage/delete all your uploaded files by going to `... > Settings > Files`
                     - Brought to you by:: [[Bardia Pourvakil]] [[Kifah Meeran]] [[Joshua Brown]]
             - ### [[Bug Fixes]] 🛠
                 - Pasted HTML links/images whose URL contains brackets will no longer break [[Alias]]. Go ahead, paste that [[Wikipedia]] page!

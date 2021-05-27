@@ -898,8 +898,34 @@
     },
     "children": [
       {
+        "string": "Turn key commands instruction on with custom components like this",
+        "create-time": 1621450034015,
+        ":create/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "children": [
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FCGJbyfjuGM.gif?alt=media&token=8bcd4699-2548-43b1-844c-dc91d675ae9f)",
+            "create-time": 1621450206354,
+            "uid": "o6uyFqegt",
+            "edit-time": 1621450214365,
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            }
+          }
+        ],
+        "uid": "ZsaHDoMqW",
+        "edit-time": 1621450257614,
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        }
+      },
+      {
         "string": "{{roam/render: ((IzVR1PHWM))}}",
-        "create-time": 1616395500016,
+        "create-time": 1621432822672,
         ":block/refs": [
           {
             ":block/uid": "IzVR1PHWM"
@@ -911,12 +937,12 @@
           }
         ],
         ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
         },
-        "uid": "A2p4UbLhY",
-        "edit-time": 1616395635030,
+        "uid": "5RqhDjKBt",
+        "edit-time": 1621432827122,
         ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
         }
       },
       {
@@ -4307,28 +4333,6 @@
                     "edit-time": 1615045353925,
                     "children": [
                       {
-                        "string": "[[The Beginning of Infinity]]",
-                        "create-time": 1615044784697,
-                        ":block/refs": [
-                          {
-                            ":block/uid": "RGQorRldO"
-                          }
-                        ],
-                        "refs": [
-                          {
-                            "uid": "RGQorRldO"
-                          }
-                        ],
-                        ":create/user": {
-                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                        },
-                        "uid": "SCPGWz57x",
-                        "edit-time": 1615045353925,
-                        ":edit/user": {
-                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                        }
-                      },
-                      {
                         "string": "[[Good Strategy/Bad Strategy]]",
                         "create-time": 1615044784697,
                         ":block/refs": [
@@ -4345,7 +4349,29 @@
                           ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                         },
                         "uid": "ikBk9Ir0v",
-                        "edit-time": 1615045353925,
+                        "edit-time": 1621262980627,
+                        ":edit/user": {
+                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                        }
+                      },
+                      {
+                        "string": "[[The Beginning of Infinity]]",
+                        "create-time": 1615044784697,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "RGQorRldO"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "RGQorRldO"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                        },
+                        "uid": "SCPGWz57x",
+                        "edit-time": 1621262980614,
                         ":edit/user": {
                           ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                         }
@@ -4367,7 +4393,7 @@
                           ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                         },
                         "uid": "r8anlu2bt",
-                        "edit-time": 1615045353925,
+                        "edit-time": 1621262980610,
                         ":edit/user": {
                           ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                         }
@@ -4389,7 +4415,7 @@
                           ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                         },
                         "uid": "ArapzaRjc",
-                        "edit-time": 1615045353925,
+                        "edit-time": 1621262980624,
                         ":edit/user": {
                           ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                         }
@@ -4411,7 +4437,7 @@
                           ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                         },
                         "uid": "ojOfn1nat",
-                        "edit-time": 1615045353925,
+                        "edit-time": 1621262980607,
                         ":edit/user": {
                           ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                         }
@@ -7683,9 +7709,9 @@
       },
       {
         "string": "**Each bullet you see is a __block__, and we write them inside pages like this one.**",
-        "create-time": 1615032374028,
+        "create-time": 1621263181644,
         ":create/user": {
-          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
         },
         "children": [
           {
@@ -7724,9 +7750,9 @@
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
                 "uid": "ZHbYIuYIw",
-                "edit-time": 1615032855557,
+                "edit-time": 1621263210115,
                 ":edit/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                 }
               }
             ],
@@ -7737,10 +7763,10 @@
             }
           }
         ],
-        "uid": "J3diqpl0I",
-        "edit-time": 1615032374028,
+        "uid": "RqB_Z18kR",
+        "edit-time": 1621263368257,
         ":edit/user": {
-          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
         }
       },
       {
@@ -13434,13 +13460,7 @@
           }
         ],
         "string": "[Themes]([[Themes]])",
-        ":block/props": {
-          ":hiccup": {
-            ":run-js?": {
-              "CHxhvJ7VwhSEeJI217QsbgO8hpu1": true
-            }
-          }
-        },
+        ":block/props": {},
         ":create/user": {
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
@@ -13449,13 +13469,7 @@
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
         "heading": 1,
-        "props": {
-          "hiccup": {
-            "run-js?": {
-              "CHxhvJ7VwhSEeJI217QsbgO8hpu1": true
-            }
-          }
-        }
+        "props": {}
       },
       {
         "edit-time": 1616550136131,
@@ -18763,7 +18777,7 @@
                 },
                 "children": [
                   {
-                    "string": "Please refer to our [[Roam Change Log]] for the newest updates. ",
+                    "string": "Please refer to our [[Change Log]] for the newest updates. ",
                     "create-time": 1615440831802,
                     ":block/refs": [
                       {
@@ -18779,9 +18793,9 @@
                       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                     },
                     "uid": "gDSf8UirG",
-                    "edit-time": 1615441190065,
+                    "edit-time": 1621194565484,
                     ":edit/user": {
-                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                     }
                   }
                 ],
@@ -23055,6 +23069,438 @@
             ":edit/user": {
               ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
             }
+          },
+          {
+            "string": "Hickey Design Process",
+            "create-time": 1620761781894,
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                "string": "Problems::",
+                "refs": [
+                  {
+                    "uid": "97HMz9WEJ"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "Take wants/needs and translate them into problems",
+                    "uid": "tnmGilF4I",
+                    "edit-time": 1620761788768,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Symptoms::",
+                    "refs": [
+                      {
+                        "uid": "5kfqwgeVw"
+                      }
+                    ],
+                    "uid": "-xCvyXNUO",
+                    "edit-time": 1620761788768,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5kfqwgeVw"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Causes::",
+                    "refs": [
+                      {
+                        "uid": "85mI5bmLm"
+                      }
+                    ],
+                    "uid": "ubmbUT0hf",
+                    "edit-time": 1620761788768,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "85mI5bmLm"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "uid": "j2E1Nic6A",
+                "edit-time": 1620761788768,
+                ":block/refs": [
+                  {
+                    ":block/uid": "97HMz9WEJ"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Requirements::",
+                "refs": [
+                  {
+                    "uid": "oC_P1nOwL"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "Knowns::",
+                    "refs": [
+                      {
+                        "uid": "betia6NIK"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "string": "What I know how to do",
+                        "uid": "CF4FFSmLI",
+                        "edit-time": 1620761788768,
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        }
+                      }
+                    ],
+                    "uid": "-pljqCHW6",
+                    "edit-time": 1620761788768,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "betia6NIK"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Unknowns::",
+                    "refs": [
+                      {
+                        "uid": "MpFmapLyn"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "string": "What I don't know how to do",
+                        "uid": "xK6yEUuB8",
+                        "edit-time": 1620761788768,
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        }
+                      }
+                    ],
+                    "uid": "13rmbIfs4",
+                    "edit-time": 1620761788768,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "MpFmapLyn"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Domain-side::",
+                    "refs": [
+                      {
+                        "uid": "RpvkVy_jl"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "string": "Business requirement",
+                        "uid": "A5CnZPJ6Q",
+                        "edit-time": 1620761788768,
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        }
+                      }
+                    ],
+                    "uid": "bNpkly39d",
+                    "edit-time": 1620761788768,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "RpvkVy_jl"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Solution-side::",
+                    "refs": [
+                      {
+                        "uid": "otdhkmjMW"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "string": "Technical constraints (it has to compile to JS, for example)",
+                        "uid": "NUlrhPRa_",
+                        "edit-time": 1620761788768,
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        }
+                      }
+                    ],
+                    "uid": "7MP_8XJbB",
+                    "edit-time": 1620761788768,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "otdhkmjMW"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Unstated::",
+                    "refs": [
+                      {
+                        "uid": "a4pYPyMXD"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "string": "Things that everyone wants the system to avoid",
+                        "children": [
+                          {
+                            "string": "Doesn't crash, use too much memory, require too much energy, are examples of unstated requirements",
+                            "uid": "FR2MC2arQ",
+                            "edit-time": 1620761788768,
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            }
+                          }
+                        ],
+                        "uid": "h0T9Md2DD",
+                        "edit-time": 1620761788768,
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        }
+                      }
+                    ],
+                    "uid": "wVni29VHl",
+                    "edit-time": 1620761788768,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "a4pYPyMXD"
+                      }
+                    ],
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "uid": "6bw8vwSfg",
+                "edit-time": 1620761788768,
+                ":block/refs": [
+                  {
+                    ":block/uid": "oC_P1nOwL"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Solutions::",
+                "refs": [
+                  {
+                    "uid": "PKrTM3pfv"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "Solution A",
+                    "children": [
+                      {
+                        "string": "Benefits::",
+                        "refs": [
+                          {
+                            "uid": "ycbVqlgPC"
+                          }
+                        ],
+                        "uid": "mZbRYlcz1",
+                        "edit-time": 1620761788768,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "ycbVqlgPC"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        }
+                      },
+                      {
+                        "string": "Tradeoffs::",
+                        "refs": [
+                          {
+                            "uid": "fYd40Hcw3"
+                          }
+                        ],
+                        "uid": "8AWMEbP3A",
+                        "edit-time": 1620761788768,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "fYd40Hcw3"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        }
+                      },
+                      {
+                        "string": "Costs::",
+                        "refs": [
+                          {
+                            "uid": "Y5GLI4K3l"
+                          }
+                        ],
+                        "uid": "9j4LIqnZz",
+                        "edit-time": 1620761788768,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Y5GLI4K3l"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        }
+                      },
+                      {
+                        "string": "Problem fit::",
+                        "refs": [
+                          {
+                            "uid": "jzu60ouvq"
+                          }
+                        ],
+                        "uid": "fRkcPWMzM",
+                        "edit-time": 1620761788768,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "jzu60ouvq"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        }
+                      }
+                    ],
+                    "uid": "wkO5fR4TP",
+                    "edit-time": 1620761788768,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Solution B",
+                    "children": [
+                      {
+                        "string": "Benefits::",
+                        "refs": [
+                          {
+                            "uid": "ycbVqlgPC"
+                          }
+                        ],
+                        "uid": "A-kp6HCSs",
+                        "edit-time": 1620761788768,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "ycbVqlgPC"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        }
+                      },
+                      {
+                        "string": "Tradeoffs::",
+                        "refs": [
+                          {
+                            "uid": "fYd40Hcw3"
+                          }
+                        ],
+                        "uid": "NKN_1G8Fz",
+                        "edit-time": 1620761788768,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "fYd40Hcw3"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        }
+                      },
+                      {
+                        "string": "Costs::",
+                        "refs": [
+                          {
+                            "uid": "Y5GLI4K3l"
+                          }
+                        ],
+                        "uid": "E6qArhXau",
+                        "edit-time": 1620761788768,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Y5GLI4K3l"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        }
+                      },
+                      {
+                        "string": "Problem fit::",
+                        "refs": [
+                          {
+                            "uid": "jzu60ouvq"
+                          }
+                        ],
+                        "uid": "T87ZKlLb7",
+                        "edit-time": 1620761788768,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "jzu60ouvq"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        }
+                      }
+                    ],
+                    "uid": "MLEianuYL",
+                    "edit-time": 1620761788768,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "uid": "ueo7AMRPP",
+                "edit-time": 1620761788768,
+                ":block/refs": [
+                  {
+                    ":block/uid": "PKrTM3pfv"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              }
+            ],
+            "uid": "jf53ba3rJ",
+            "edit-time": 1620761788352,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
           }
         ],
         "uid": "4ysx8_TBu",
@@ -27019,6 +27465,53 @@
                     "edit-time": 1616208632271,
                     ":edit/user": {
                       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "edit-time": 1620662805734,
+                    "refs": [
+                      {
+                        "uid": "sB0yQf6IR"
+                      }
+                    ],
+                    "uid": "RrTlhKeJk",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sB0yQf6IR"
+                      }
+                    ],
+                    "string": "[Roam Essentials](https://nesslabs.com/roam-essentials) by [[Anne-Laure Le Cunff]] $49",
+                    ":create/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    "create-time": 1620662690870,
+                    ":edit/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    "heading": 2
+                  },
+                  {
+                    "string": "Learn how to make the most out of Roam with real-life examples and powerful mental models. Nesslabs's Anne-Laure Le Cunff will guide you through the essentials with short videos and templates for a variety of workflows, helping you kickstart your Roam journey.",
+                    "create-time": 1620662777744,
+                    "uid": "jsCfIX3gh",
+                    "edit-time": 1620662794061,
+                    ":create/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    }
+                  },
+                  {
+                    "string": "",
+                    "create-time": 1620662754872,
+                    "uid": "k9XusirW5",
+                    "edit-time": 1620662754872,
+                    ":create/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                     }
                   }
                 ],
@@ -42541,7 +43034,7 @@
   },
   {
     "create-time": 1614776091631,
-    "title": "Roam Change Log",
+    "title": "Change Log",
     ":create/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     },
@@ -42592,13 +43085,1919 @@
             },
             "children": [
               {
+                "edit-time": 1621922110612,
+                "children": [
+                  {
+                    "edit-time": 1621922178083,
+                    "children": [
+                      {
+                        "edit-time": 1621922141250,
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Joshua Brown]]",
+                            "create-time": 1621922588587,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "IdWJv42cv"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "IdWJv42cv"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "XH8Cpz9eV",
+                            "edit-time": 1621922593516,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "GIS4PCuUD"
+                          }
+                        ],
+                        "uid": "QqPX4Q7Du",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "GIS4PCuUD"
+                          }
+                        ],
+                        "string": "Reverted ((GIS4PCuUD))",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1621922110593,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Comment button will no longer keep showing up after taking screenshots or switching apps",
+                        "create-time": 1621922142573,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Joshua Brown]]",
+                            "create-time": 1621922581878,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "IdWJv42cv"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "IdWJv42cv"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "JL0fnCa3A",
+                            "edit-time": 1621922587989,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "uid": "O5j6Hkjnk",
+                        "edit-time": 1621923524063,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Made date picker faster",
+                        "create-time": 1621922166924,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Kifah Meeran]]",
+                            "create-time": 1621922573744,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "w3-eryhFP"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "w3-eryhFP"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "44LRUgAQP",
+                            "edit-time": 1621922581400,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "uid": "OZ1BLWMCY",
+                        "edit-time": 1621922204899,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "uid": "inO3MDcYU",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]] 🛠 ",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1621922177189,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  },
+                  {
+                    "edit-time": 1621950004991,
+                    "children": [
+                      {
+                        "edit-time": 1621949994107,
+                        "children": [
+                          {
+                            "edit-time": 1621922722397,
+                            "children": [
+                              {
+                                "string": "Write your kroki code in a code/regular block, for instance,",
+                                "create-time": 1621922813333,
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "children": [
+                                  {
+                                    "string": "```plain text\ngraph TD\n  A[ Anyone ] -->|Can help | B( Go to github.com/yuzutech/kroki )\n  B --> C{ How to contribute? }\n  C --> D[ Reporting bugs ]\n  C --> E[ Sharing ideas ]\n  C --> F[ Advocating ]```",
+                                    "create-time": 1621922871144,
+                                    "uid": "13fZ8yxDr",
+                                    "edit-time": 1621923660912,
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "uid": "kb4IwxLj9",
+                                "edit-time": 1621922871167,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              },
+                              {
+                                "string": "Then use the following syntax",
+                                "create-time": 1621922839113,
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "children": [
+                                  {
+                                    "string": "`{{[[kroki]]: TYPE_HERE: BLOCK_REF_HERE}}`",
+                                    "create-time": 1621922741398,
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    "children": [
+                                      {
+                                        "string": "so for instance, `{{[[kroki]]: mermaid:((13fZ8yxDr))}}` will produce:",
+                                        "create-time": 1621922723290,
+                                        ":create/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        },
+                                        "children": [
+                                          {
+                                            "string": "{{[[kroki]]: mermaid:((13fZ8yxDr))}}",
+                                            "create-time": 1621922912130,
+                                            ":block/refs": [
+                                              {
+                                                ":block/uid": "13fZ8yxDr"
+                                              },
+                                              {
+                                                ":block/uid": "Z4inhsIfA"
+                                              }
+                                            ],
+                                            "refs": [
+                                              {
+                                                "uid": "13fZ8yxDr"
+                                              },
+                                              {
+                                                "uid": "Z4inhsIfA"
+                                              }
+                                            ],
+                                            ":create/user": {
+                                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                            },
+                                            "uid": "doTfwPp1i",
+                                            "edit-time": 1621923306289,
+                                            ":edit/user": {
+                                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                            }
+                                          }
+                                        ],
+                                        "uid": "qK2c1ohDl",
+                                        "edit-time": 1621923291408,
+                                        ":edit/user": {
+                                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "dmKqlL4vL",
+                                    "edit-time": 1621922761515,
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "uid": "4-SBg0MMK",
+                                "edit-time": 1621922847623,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "0BOXaEXNf"
+                              }
+                            ],
+                            "uid": "apb6_F7R1",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "0BOXaEXNf"
+                              }
+                            ],
+                            "string": "How it works::",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1621922721688,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          },
+                          {
+                            "edit-time": 1621923447855,
+                            "children": [
+                              {
+                                "string": "![](https://camo.githubusercontent.com/a4f4453e86abb6804f9f92ca477e8be856653aad9571ad62b728b22ee4e0634a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666972657363726970742d35373761322e61707073706f742e636f6d2f6f2f696d6773253246617070253246726f616d2d7465616d253246682d65424e786637314a2e706e673f616c743d6d6564696126746f6b656e3d31386662333735362d336163372d346262362d616363612d393166333562626638633432)",
+                                "create-time": 1621923447847,
+                                "uid": "R1jVsuFPo",
+                                "edit-time": 1621923491563,
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "Aa7fywYAg"
+                              }
+                            ],
+                            "uid": "nkJuHm2zv",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "Aa7fywYAg"
+                              }
+                            ],
+                            "string": "Screenshots::",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1621923443898,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          },
+                          {
+                            "string": "Brought to you by:: [[Wilker Lucio]]",
+                            "create-time": 1621923408290,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              },
+                              {
+                                ":block/uid": "A1MxhqDRI"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "5K19Sylm0"
+                              },
+                              {
+                                "uid": "A1MxhqDRI"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "XMiypOVXQ",
+                            "edit-time": 1621923416245,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "dpLdzMqar"
+                          },
+                          {
+                            "uid": "-UhkK0udN"
+                          }
+                        ],
+                        "uid": "juWT6PCW3",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "dpLdzMqar"
+                          },
+                          {
+                            ":block/uid": "-UhkK0udN"
+                          }
+                        ],
+                        "string": "Added support for [[Kroki]] diagrams ([Link](https://kroki.io)) #.hide",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1621922650545,
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "dpLdzMqar"
+                      },
+                      {
+                        "uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "uid": "80S0GDrCM",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "dpLdzMqar"
+                      },
+                      {
+                        ":block/uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "string": "[[New Features]] 🚀 #.hide",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1621922648400,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "heading": 3
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "05-25-2021"
+                  }
+                ],
+                "uid": "ZupD3G3NA",
+                ":block/refs": [
+                  {
+                    ":block/uid": "05-25-2021"
+                  }
+                ],
+                "string": "[[May 25th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1621922105707,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
+              },
+              {
+                "edit-time": 1621950018550,
+                "children": [
+                  {
+                    "edit-time": 1621318368070,
+                    "children": [
+                      {
+                        "edit-time": 1621318437910,
+                        "children": [
+                          {
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fy0yYV8dNw_.png?alt=media&token=df5b78f9-3a25-4a8c-8b7c-3eed0dba191e)",
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fy0yYV8dNw_.png?alt=media&token=df5b78f9-3a25-4a8c-8b7c-3eed0dba191e": {
+                                  "width": 347,
+                                  "height": null
+                                }
+                              }
+                            },
+                            "create-time": 1621318678785,
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fy0yYV8dNw_.png?alt=media&token=df5b78f9-3a25-4a8c-8b7c-3eed0dba191e": {
+                                  ":width": 347,
+                                  ":height": null
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "E6BWxJ06S",
+                            "edit-time": 1621318688731,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          },
+                          {
+                            "string": "Brought to you by:: [[Kifah Meeran]] [[Joshua Brown]]",
+                            "create-time": 1621318448447,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "w3-eryhFP"
+                              },
+                              {
+                                ":block/uid": "IdWJv42cv"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "w3-eryhFP"
+                              },
+                              {
+                                "uid": "IdWJv42cv"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "xErJjWxk-",
+                            "edit-time": 1621318457298,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          },
+                          {
+                            "string": "Special mention to:: [[Roam42]] [[Clara Pastore]]",
+                            "create-time": 1621318493793,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "pxtI56Wn5"
+                              },
+                              {
+                                ":block/uid": "bi6DFS7g3"
+                              },
+                              {
+                                ":block/uid": "ExJzrkebg"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "pxtI56Wn5"
+                              },
+                              {
+                                "uid": "bi6DFS7g3"
+                              },
+                              {
+                                "uid": "ExJzrkebg"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "bLg8JaFzZ",
+                            "edit-time": 1621318513170,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "eOaNXBvXZ"
+                          }
+                        ],
+                        "uid": "OKMUuH_TZ",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "eOaNXBvXZ"
+                          }
+                        ],
+                        "string": "You can now quickly jump to/between [[Daily Notes]] pages using the date picker!",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1621318369275,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "uid": "3DQQuG_61",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "string": "[[New Features]] 🚀",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1621318341157,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  },
+                  {
+                    "string": "Open graph-view for page has been moved into the dropdown menu",
+                    "create-time": 1621322222903,
+                    "uid": "SzzE3Whn1",
+                    "edit-time": 1621322239656,
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    }
+                  },
+                  {
+                    "string": "[[Secret Feature]] - to be announced after round on testing",
+                    "create-time": 1621316221901,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "EpL5GUHaa"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "EpL5GUHaa"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "uid": "V1RLPs0ai",
+                    "edit-time": 1621316259228,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "05-17-2021"
+                  }
+                ],
+                "uid": "DfQWNRv0u",
+                ":block/refs": [
+                  {
+                    ":block/uid": "05-17-2021"
+                  }
+                ],
+                "string": "[[May 17th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1621316209749,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "edit-time": 1621138716953,
+                "children": [
+                  {
+                    "edit-time": 1621138724262,
+                    "children": [
+                      {
+                        "edit-time": 1621139024158,
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Bardia Pourvakil]]",
+                            "create-time": 1621139024142,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "evJ14QpsV"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "evJ14QpsV"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "bNPRAmxRQ",
+                            "edit-time": 1621139033330,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "a4ul9zL8E"
+                          },
+                          {
+                            "uid": "vh3S6FSr1"
+                          }
+                        ],
+                        "uid": "jvxTbwfDH",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "a4ul9zL8E"
+                          },
+                          {
+                            ":block/uid": "vh3S6FSr1"
+                          }
+                        ],
+                        "string": "[[Pages]] [[Sharing]] has been re-introduced",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1621138999214,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "edit-time": 1621139192605,
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Joshua Brown]]",
+                            "create-time": 1621139036845,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "IdWJv42cv"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "IdWJv42cv"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "XTl8p53F7",
+                            "edit-time": 1621139205367,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "Gx35Ef0-S"
+                          }
+                        ],
+                        "uid": "n30CO7Nqi",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Gx35Ef0-S"
+                          }
+                        ],
+                        "string": "[[Query]] will load 50 results at a time ((to prevent humongous queries from freezing Roam))",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1621139170481,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "edit-time": 1621139313888,
+                        "children": [
+                          {
+                            "string": "((XTl8p53F7))",
+                            "create-time": 1621139277318,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "XTl8p53F7"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "XTl8p53F7"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "SIGPUaQzD",
+                            "edit-time": 1621139277318,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "Gx35Ef0-S"
+                          }
+                        ],
+                        "uid": "2moN9WFnh",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Gx35Ef0-S"
+                          }
+                        ],
+                        "string": "[[Query]] results can now be grouped by pages",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1621139205340,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "edit-time": 1621139329437,
+                        "children": [
+                          {
+                            "string": "((XTl8p53F7))",
+                            "create-time": 1621139279815,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "XTl8p53F7"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "XTl8p53F7"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "6VVwT3-4j",
+                            "edit-time": 1621139279815,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "Gx35Ef0-S"
+                          }
+                        ],
+                        "uid": "2T6bVpz91",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Gx35Ef0-S"
+                          }
+                        ],
+                        "string": "You can now show/hide paths of blocks in [[Query]] results",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1621139217713,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "uid": "MJjtOk61Z",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]] ✨",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1621138717257,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  },
+                  {
+                    "edit-time": 1621138976720,
+                    "children": [
+                      {
+                        "edit-time": 1621138985301,
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Bardia Pourvakil]]",
+                            "create-time": 1621138989597,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "evJ14QpsV"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "evJ14QpsV"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "2_WawTDm_",
+                            "edit-time": 1621138996642,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "l8uKkdhbc"
+                          }
+                        ],
+                        "uid": "O0UPtXOzi",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "l8uKkdhbc"
+                          }
+                        ],
+                        "string": "Added `data-uid` to [[Block References]]",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1621138976712,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "RtfLGrv81"
+                      }
+                    ],
+                    "uid": "m9XfXMrEn",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "RtfLGrv81"
+                      }
+                    ],
+                    "string": "[[Developer Notes]] 🧑‍💻 ",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1621138772654,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "05-16-2021"
+                  }
+                ],
+                "uid": "lbU-r-De_",
+                ":block/refs": [
+                  {
+                    ":block/uid": "05-16-2021"
+                  }
+                ],
+                "string": "[[May 16th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1621138714031,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
+              },
+              {
+                "edit-time": 1620797576654,
+                "children": [
+                  {
+                    "edit-time": 1620797612883,
+                    "children": [
+                      {
+                        "string": "Long-pressing the expand/collapse button will expand all blocks in linked references, like in normal blocks.",
+                        "create-time": 1620797581384,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Stian Håklev]]",
+                            "create-time": 1620830311958,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "dkdjGsM4C"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "dkdjGsM4C"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "UGMyrMwMt",
+                            "edit-time": 1620830318634,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "uid": "IYauW1xDj",
+                        "edit-time": 1620797662335,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Fixed PDFs not rendering",
+                        "create-time": 1620830304805,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Filipe Silva]]",
+                            "create-time": 1620830333498,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "IFYmBp-zm"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "IFYmBp-zm"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "-eigl4u1B",
+                            "edit-time": 1620830344705,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "uid": "JrsqbdqL4",
+                        "edit-time": 1620830311235,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "uid": "0u0Wl6vmu",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]] 🛠 ",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1620797576635,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "05-12-2021"
+                  }
+                ],
+                "uid": "Ul5lnxtlq",
+                ":block/refs": [
+                  {
+                    ":block/uid": "05-12-2021"
+                  }
+                ],
+                "string": "[[May 12th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1620797569027,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
+              },
+              {
+                "edit-time": 1620367923735,
+                "children": [
+                  {
+                    "edit-time": 1620367929376,
+                    "children": [
+                      {
+                        "string": "Block embeds will now be expanded by default",
+                        "create-time": 1620367929368,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Stian Håklev]]",
+                            "create-time": 1620830319567,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "dkdjGsM4C"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "dkdjGsM4C"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "5TKzzlFoq",
+                            "edit-time": 1620830327556,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "uid": "GIS4PCuUD",
+                        "edit-time": 1620367958095,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "uid": "8TT_rhYkG",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]] ✨",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1620367928070,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "05-07-2021"
+                  }
+                ],
+                "uid": "P8T_Qf2UF",
+                ":block/refs": [
+                  {
+                    ":block/uid": "05-07-2021"
+                  }
+                ],
+                "string": "[[May 7th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1620367920920,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
+              },
+              {
+                "edit-time": 1620192793907,
+                "children": [
+                  {
+                    "edit-time": 1620192808238,
+                    "children": [
+                      {
+                        "edit-time": 1620192861306,
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Stian Håklev]]",
+                            "create-time": 1620193108859,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "dkdjGsM4C"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "dkdjGsM4C"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "weIHAZIU9",
+                            "edit-time": 1620193118017,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "JG_fewIU6"
+                          }
+                        ],
+                        "uid": "Lj2yxiYiT",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "JG_fewIU6"
+                          }
+                        ],
+                        "string": "You can now shift-click breadcrumbs/path of zoomed-in block to open in [[Right Sidebar]]",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1620192808225,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "edit-time": 1620193130095,
+                        "children": [
+                          {
+                            "edit-time": 1620193155865,
+                            "children": [
+                              {
+                                "string": "Brought to you by:: [[Joshua Brown]]",
+                                "create-time": 1620193155836,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "IdWJv42cv"
+                                  },
+                                  {
+                                    ":block/uid": "5K19Sylm0"
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "IdWJv42cv"
+                                  },
+                                  {
+                                    "uid": "5K19Sylm0"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "uid": "gD8iisbWU",
+                                "edit-time": 1620193163679,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "Gx35Ef0-S"
+                              },
+                              {
+                                "uid": "D8ld3cXC3"
+                              }
+                            ],
+                            "uid": "kzEpLBSEj",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "Gx35Ef0-S"
+                              },
+                              {
+                                ":block/uid": "D8ld3cXC3"
+                              }
+                            ],
+                            "string": "Made [[Query]] and [[Linked References]] slightly faster",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1620193130083,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          },
+                          {
+                            "string": "Pasting blocks containing images will no longer destroy block structure",
+                            "create-time": 1620192961675,
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "children": [
+                              {
+                                "string": "Brought to you by:: [[Joshua Brown]]",
+                                "create-time": 1620193082869,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "IdWJv42cv"
+                                  },
+                                  {
+                                    ":block/uid": "5K19Sylm0"
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "IdWJv42cv"
+                                  },
+                                  {
+                                    "uid": "5K19Sylm0"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "uid": "9AwSd_r2I",
+                                "edit-time": 1620193096823,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "uid": "1ozZGAt0u",
+                            "edit-time": 1620193001725,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          },
+                          {
+                            "edit-time": 1620193046977,
+                            "children": [
+                              {
+                                "string": "Brought to you by:: [[Bardia Pourvakil]]",
+                                "create-time": 1620193097876,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "evJ14QpsV"
+                                  },
+                                  {
+                                    ":block/uid": "5K19Sylm0"
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "evJ14QpsV"
+                                  },
+                                  {
+                                    "uid": "5K19Sylm0"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "uid": "kndL3pV1u",
+                                "edit-time": 1620193107008,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "l8uKkdhbc"
+                              }
+                            ],
+                            "uid": "Lc1eOyibT",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "l8uKkdhbc"
+                              }
+                            ],
+                            "string": "Made text highlights legible in [[Block References]] previews",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1620193001714,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          },
+                          {
+                            "edit-time": 1620211198765,
+                            "children": [
+                              {
+                                "string": "iFrame Components are a new possibility for extending Roam. Write components using any JS framework, host it on your own server, but interact with Roam graph data. Documentation https://roamresearch.com/#/app/developer-documentation/page/YNgZSgVSS.",
+                                "create-time": 1620193046963,
+                                "uid": "kiQayH2o4",
+                                "edit-time": 1621194594716,
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "RtfLGrv81"
+                              }
+                            ],
+                            "uid": "S5UjGbjnq",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "RtfLGrv81"
+                              }
+                            ],
+                            "string": "[[Developer Notes]] 🧑‍💻",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1620211197682,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "heading": 3
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "xxFKZqzYN"
+                          }
+                        ],
+                        "uid": "Zn_FsP4TZ",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "xxFKZqzYN"
+                          }
+                        ],
+                        "string": "[[Bug Fixes]] 🛠 ",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1620192861880,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "heading": 3
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "uid": "L10lbo39S",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]] ✨",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1620192793886,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "05-04-2021"
+                  }
+                ],
+                "uid": "GVE3CYvH5",
+                ":block/refs": [
+                  {
+                    ":block/uid": "05-04-2021"
+                  }
+                ],
+                "string": "[[May 4th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1620192788759,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
+              },
+              {
+                "edit-time": 1620092468205,
+                "children": [
+                  {
+                    "edit-time": 1620127376534,
+                    "children": [
+                      {
+                        "string": "Hidden feature for [[Roam Team]]'s internal use, will be notifying believers if no bugs in next few days, and rest of the community shortly after that.",
+                        "create-time": 1620092512453,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "rJvvlfY_y"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "rJvvlfY_y"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "uid": "biegTI-F4",
+                        "edit-time": 1620092621775,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "uid": "hAds7Btey",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "string": "[[New Features]] 🚀",
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "create-time": 1620092468191,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "05-03-2021"
+                  }
+                ],
+                "uid": "GyVo3Hkhw",
+                ":block/refs": [
+                  {
+                    ":block/uid": "05-03-2021"
+                  }
+                ],
+                "string": "[[May 3rd, 2021]]",
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1620092464704,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "edit-time": 1619763161189,
+                "children": [
+                  {
+                    "edit-time": 1620062266394,
+                    "children": [
+                      {
+                        "edit-time": 1620062294653,
+                        "children": [
+                          {
+                            "string": "[[Kifah Meeran]]",
+                            "create-time": 1620062367928,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "w3-eryhFP"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "w3-eryhFP"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "CBRjs8842",
+                            "edit-time": 1620062371114,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "edvBHH7JX"
+                          },
+                          {
+                            "uid": "L1EttkagY"
+                          }
+                        ],
+                        "uid": "AJ1Nu1xbY",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "edvBHH7JX"
+                          },
+                          {
+                            ":block/uid": "L1EttkagY"
+                          }
+                        ],
+                        "string": "Added syntax highlighting for [[SPARQL]] and [[Turtle]]",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1620062266385,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "edit-time": 1619765059640,
+                        "children": [
+                          {
+                            "string": "As part of our ongoing effort to keep Roam secure, we're improving how extension settings are stored. **Please review your roam/js, roam/css and Custom Components settings and re-enable the ones you want to use again. **",
+                            "create-time": 1619765051658,
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "children": [
+                              {
+                                "string": "Brought to you by::[[Filipe Silva]]",
+                                "create-time": 1619765067901,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "IFYmBp-zm"
+                                  },
+                                  {
+                                    ":block/uid": "5K19Sylm0"
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "IFYmBp-zm"
+                                  },
+                                  {
+                                    "uid": "5K19Sylm0"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "uid": "COznN-0m6",
+                                "edit-time": 1619765075186,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "uid": "jn6DHb-J7",
+                            "edit-time": 1619765053939,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "RtfLGrv81"
+                          }
+                        ],
+                        "uid": "6ncnfWr_w",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "RtfLGrv81"
+                          }
+                        ],
+                        "string": "[[Developer Notes]] 🧑‍💻",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1619765058283,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "heading": 3
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "uid": "fWjRbInlN",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]] ✨",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1620062252852,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  },
+                  {
+                    "edit-time": 1619763177261,
+                    "children": [
+                      {
+                        "string": "Auto-backups will no longer trigger when you switch/reload your graph.",
+                        "create-time": 1619763216081,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Adam Sherwood]] [[Wilker Lucio]]",
+                            "create-time": 1619764185049,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "EJIFQrIL3"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              },
+                              {
+                                ":block/uid": "A1MxhqDRI"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "EJIFQrIL3"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              },
+                              {
+                                "uid": "A1MxhqDRI"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "G7nCDUaGe",
+                            "edit-time": 1619764194049,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "uid": "8cTgcjuY-",
+                        "edit-time": 1619764666208,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "edit-time": 1619764218997,
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Kifah Meeran]]",
+                            "create-time": 1619764175112,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "w3-eryhFP"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "w3-eryhFP"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "julfPllLp",
+                            "edit-time": 1619764181742,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "s6_qhdpmE"
+                          }
+                        ],
+                        "uid": "ojGTtjOkC",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "s6_qhdpmE"
+                          }
+                        ],
+                        "string": "The block info pop-up will no longer show up while dragging blocks on [[Safari]]",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1619763177247,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Fixed a bug with graph settings not appearing on local graphs",
+                        "create-time": 1619782151997,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Kifah Meeran]]",
+                            "create-time": 1620062357939,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "w3-eryhFP"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "w3-eryhFP"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "woBgm0vmK",
+                            "edit-time": 1620062365192,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "uid": "jmLlejqqm",
+                        "edit-time": 1619782169356,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "uid": "UU1Z7YZj2",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]] 🛠",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1619763161171,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "04-30-2021"
+                  }
+                ],
+                "uid": "i5RxXu_bN",
+                ":block/refs": [
+                  {
+                    ":block/uid": "04-30-2021"
+                  }
+                ],
+                "string": "[[April 30th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1619763158419,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
+              },
+              {
                 "edit-time": 1619673622667,
                 "children": [
                   {
                     "edit-time": 1619674206348,
                     "children": [
                       {
-                        "string": "You can now easily manage/delete all your uploaded files by going to `... > Settings > File Manager`",
+                        "string": "You can now easily manage/delete all your uploaded files by going to `... > Settings > Files`",
                         "create-time": 1619674206338,
                         ":create/user": {
                           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
@@ -42646,9 +45045,9 @@
                           }
                         ],
                         "uid": "EwEymFFE4",
-                        "edit-time": 1619674311573,
+                        "edit-time": 1621194676875,
                         ":edit/user": {
-                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                         }
                       }
                     ],
@@ -42763,7 +45162,7 @@
                             ":create/user": {
                               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                             },
-                            "uid": "krKdwXeKQ",
+                            "uid": "0KQIIJquu",
                             "edit-time": 1619674728494,
                             ":edit/user": {
                               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
@@ -46867,7 +49266,7 @@
       }
     ],
     "uid": "Ec97klr7x",
-    "edit-time": 1614776091631,
+    "edit-time": 1621194565484,
     ":edit/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     }
@@ -68498,11 +70897,322 @@
   {
     "create-time": 1619046047883,
     "title": "Security",
-    "uid": "Dz5EfmkDa",
-    "edit-time": 1619046047884,
     ":create/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     },
+    "children": [
+      {
+        "string": "[Security Policy](https://github.com/Roam-Research/issues/security/policy)",
+        "heading": 1,
+        "children": [
+          {
+            "string": "Security is core to our values, and we value the input of security researchers acting in good-faith to help us maintain a high standard for the security and privacy for our users. This includes encouraging responsible vulnerability research and disclosure. This policy sets out our definition of good-faith in the context of finding and reporting vulnerabilities, as well as what you can expect from us in return.",
+            "uid": "7FteVz6CF",
+            "edit-time": 1620316867838,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          },
+          {
+            "string": "[🔗](https://github.com/Roam-Research/issues/security/policy#expectations)Expectations",
+            "heading": 1,
+            "children": [
+              {
+                "string": "When working with us according to this policy, you can expect us to:",
+                "children": [
+                  {
+                    "string": "Work with you to understand and validate your report, including a timely initial response to the submission;",
+                    "uid": "-FakN4o8s",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Work to remediate discovered vulnerabilities in a timely manner; and",
+                    "uid": "Y0U_rfiDV",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Recognize your contribution to improving our security if you are the first to report a unique vulnerability, and your report triggers a code or configuration change.",
+                    "uid": "XvvRF9EgK",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "uid": "IJ3J22vNE",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              }
+            ],
+            "uid": "MpDTPrWG5",
+            "edit-time": 1620316867838,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          },
+          {
+            "string": "[🔗](https://github.com/Roam-Research/issues/security/policy#official-communication-channels)Official Communication Channels",
+            "heading": 1,
+            "children": [
+              {
+                "string": "The primary communication channel in via email to [security@roamresearch.com](mailto:security@roamresearch.com). Afterwards communication proceeds to a [Security Advisory](https://help.github.com/en/github/managing-security-vulnerabilities/about-github-security-advisories) on GitHub.",
+                "uid": "8m66F9xdw",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Security Advisories are separate from public issues in that only you and the Roam team can see them, which allows us to work on fixing the problem without publicizing it further for exploitation.",
+                "uid": "buGYTPieM",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              }
+            ],
+            "uid": "PkR9D1Pyz",
+            "edit-time": 1620316867838,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          },
+          {
+            "string": "[🔗](https://github.com/Roam-Research/issues/security/policy#disclosure-policy)Disclosure Policy",
+            "heading": 1,
+            "children": [
+              {
+                "string": "We follow a [Coordinated Disclosure](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html#responsible-or-coordinated-disclosure) model, also known as Responsible Disclosure.",
+                "uid": "n53Ipz24c",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Coordinated disclosure attempts to find a reasonable middle ground between Private and Full disclosure models. With coordinated disclosure, the initial report is made privately, but with the full details being published once a patch has been made available.",
+                "uid": "zft2qQPhL",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Addressing vulnerabilities requires time and resources. While discussing the initial report we'll agree with you on a deadline for addressing it. If this deadline is not met, then you may adopt the full disclosure approach, and publish the full details. In our case the default deadline is 90 days.",
+                "uid": "dAn9qM1kh",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Google's Project Zero adopts a similar approach, where the full details of the vulnerability are published after 90 days regardless of whether or not the organisation has published a patch.",
+                "uid": "jl056ykei",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              }
+            ],
+            "uid": "Nk2ARqnoL",
+            "edit-time": 1620316867838,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          },
+          {
+            "string": "[🔗](https://github.com/Roam-Research/issues/security/policy#ground-rules)Ground Rules",
+            "heading": 1,
+            "children": [
+              {
+                "string": "To encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:",
+                "children": [
+                  {
+                    "string": "Play by the rules. This includes following this policy and any other relevant agreements;",
+                    "uid": "ojy-XZG79",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Report any vulnerability you’ve discovered promptly;",
+                    "uid": "sZLr1EXtv",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;",
+                    "uid": "d3ZC0jWqk",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Use only the Official Communication Channels to discuss vulnerability information with us;",
+                    "uid": "BSgkWohDv",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;",
+                    "uid": "cKlQ9TagN",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;",
+                    "uid": "C8IIsKUpM",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "If a vulnerability provides unintended access to data: Limit the amount of data you access to the minimum required for effectively demonstrating a Proof of Concept; and cease testing and submit a report immediately if you encounter any user data during testing, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information;",
+                    "uid": "tq0qJReP5",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "You should only interact with test accounts you own or with explicit permission from the account holder; and",
+                    "uid": "NmSsLhCS_",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Do not engage in extortion.",
+                    "uid": "GG_evbAFM",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "uid": "G2XvgQd_7",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              }
+            ],
+            "uid": "S1mjdNXJA",
+            "edit-time": 1620316867838,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          },
+          {
+            "string": "[🔗](https://github.com/Roam-Research/issues/security/policy#safe-harbor)Safe Harbor",
+            "heading": 1,
+            "children": [
+              {
+                "string": "When conducting vulnerability research according to this policy, we consider this research conducted under this policy to be:",
+                "children": [
+                  {
+                    "string": "Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;",
+                    "uid": "9rl7TyFgf",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;",
+                    "uid": "QQY6w7wKD",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and",
+                    "uid": "YtXRwByTF",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Lawful, helpful to the overall security of the Internet, and conducted in good faith.",
+                    "uid": "S7suMk6US",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "uid": "i7300r8U2",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "You are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.",
+                "uid": "BZpd0Zon4",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "If at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report through one of our Official Channels before going any further.",
+                "uid": "wfyG05fz6",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              }
+            ],
+            "uid": "Z9_JodpvW",
+            "edit-time": 1620316867838,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          }
+        ],
+        "uid": "w9itNRdZ8",
+        "edit-time": 1620316916871,
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        }
+      },
+      {
+        "string": "[Security Advisories](https://github.com/Roam-Research/issues/security/advisories)",
+        "create-time": 1620316831067,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        "uid": "H5L1gcS87",
+        "edit-time": 1620316848581,
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        }
+      }
+    ],
+    "uid": "Dz5EfmkDa",
+    "edit-time": 1619046047884,
     ":edit/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     }
@@ -68641,6 +71351,660 @@
     },
     ":edit/user": {
       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1619743997179,
+    "title": "April 30th, 2021",
+    "uid": "04-30-2021",
+    "edit-time": 1619743997179,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1619763216098,
+    "title": "Safari",
+    "uid": "s6_qhdpmE",
+    "edit-time": 1619763216099,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1619876736425,
+    "title": "May 1st, 2021",
+    "uid": "05-01-2021",
+    "edit-time": 1619876736425,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    }
+  },
+  {
+    "create-time": 1619943751355,
+    "title": "May 2nd, 2021",
+    "uid": "05-02-2021",
+    "edit-time": 1619943751355,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1620062174962,
+    "title": "May 3rd, 2021",
+    "uid": "05-03-2021",
+    "edit-time": 1620062174962,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1620062294656,
+    "title": "SPARQL",
+    "uid": "edvBHH7JX",
+    "edit-time": 1620062294658,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1620062294656,
+    "title": "Turtle",
+    "uid": "L1EttkagY",
+    "edit-time": 1620062294658,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1620092563527,
+    "title": "Roam Team",
+    "uid": "rJvvlfY_y",
+    "edit-time": 1620092563528,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "create-time": 1620092700519,
+    "title": "drawing",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1620092702386,
+        "uid": "4vBxzl3mW",
+        "edit-time": 1620092709196,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1620092706282,
+        "uid": "6ro-Rpy1p",
+        "edit-time": 1620092706282,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      }
+    ],
+    "uid": "rNVZQWn2i",
+    "edit-time": 1620092700519,
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "create-time": 1620125891786,
+    "title": "May 4th, 2021",
+    "uid": "05-04-2021",
+    "edit-time": 1620125891786,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    }
+  },
+  {
+    "create-time": 1620223420360,
+    "title": "May 5th, 2021",
+    "uid": "05-05-2021",
+    "edit-time": 1620223420360,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    }
+  },
+  {
+    "create-time": 1620269934561,
+    "title": "May 6th, 2021",
+    "uid": "05-06-2021",
+    "edit-time": 1620269934561,
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    }
+  },
+  {
+    "create-time": 1620367923045,
+    "title": "May 7th, 2021",
+    "uid": "05-07-2021",
+    "edit-time": 1620367923045,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1620581753309,
+    "title": "May 9th, 2021",
+    "uid": "05-09-2021",
+    "edit-time": 1620581753310,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1620642707289,
+    "title": "May 10th, 2021",
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1620651027652,
+        "uid": "lfMng6Y0_",
+        "edit-time": 1620651027652,
+        ":create/user": {
+          ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+        },
+        ":edit/user": {
+          ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+        }
+      }
+    ],
+    "uid": "05-10-2021",
+    "edit-time": 1620642707289,
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    }
+  },
+  {
+    "create-time": 1620701799894,
+    "title": "May 11th, 2021",
+    "uid": "05-11-2021",
+    "edit-time": 1620701799894,
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    }
+  },
+  {
+    "create-time": 1620761788760,
+    "title": "Requirements",
+    "uid": "oC_P1nOwL",
+    "edit-time": 1620761788768,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1620761788760,
+    "title": "Domain-side",
+    "uid": "RpvkVy_jl",
+    "edit-time": 1620761788768,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1620761788761,
+    "title": "Solution-side",
+    "uid": "otdhkmjMW",
+    "edit-time": 1620761788768,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1620761788761,
+    "title": "Unstated",
+    "uid": "a4pYPyMXD",
+    "edit-time": 1620761788768,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1620761788761,
+    "title": "Solutions",
+    "uid": "PKrTM3pfv",
+    "edit-time": 1620761788768,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1620761788762,
+    "title": "Benefits",
+    "uid": "ycbVqlgPC",
+    "edit-time": 1620761788768,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1620761788763,
+    "title": "Tradeoffs",
+    "uid": "fYd40Hcw3",
+    "edit-time": 1620761788768,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1620761788763,
+    "title": "Costs",
+    "uid": "Y5GLI4K3l",
+    "edit-time": 1620761788768,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1620761788763,
+    "title": "Problem fit",
+    "uid": "jzu60ouvq",
+    "edit-time": 1620761788768,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1620761788759,
+    "title": "Problems",
+    "uid": "97HMz9WEJ",
+    "edit-time": 1620761788768,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1620761788760,
+    "title": "Symptoms",
+    "uid": "5kfqwgeVw",
+    "edit-time": 1620761788768,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1620761788760,
+    "title": "Causes",
+    "uid": "85mI5bmLm",
+    "edit-time": 1620761788768,
+    ":create/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    },
+    ":edit/user": {
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+    }
+  },
+  {
+    "create-time": 1620797576014,
+    "title": "May 12th, 2021",
+    "uid": "05-12-2021",
+    "edit-time": 1620797576014,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1620915657240,
+    "title": "May 13th, 2021",
+    "uid": "05-13-2021",
+    "edit-time": 1620915657240,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1621109857081,
+    "title": "May 15th, 2021",
+    "uid": "05-15-2021",
+    "edit-time": 1621109857081,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1621138716268,
+    "title": "May 16th, 2021",
+    "uid": "05-16-2021",
+    "edit-time": 1621138716268,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1621262614513,
+    "title": "May 17th, 2021",
+    "uid": "05-17-2021",
+    "edit-time": 1621262614513,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1621316233981,
+    "title": "Secret Feature",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "children": [
+      {
+        "edit-time": 1621468113192,
+        "children": [
+          {
+            "string": "https://twitter.com/Conaw/status/1395106529427214337?s=20",
+            "create-time": 1621468115015,
+            "uid": "WDKNe8Jre",
+            "edit-time": 1621468116526,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "V1RLPs0ai"
+          }
+        ],
+        "uid": "lLqEokLHU",
+        ":block/refs": [
+          {
+            ":block/uid": "V1RLPs0ai"
+          }
+        ],
+        "string": "((V1RLPs0ai))",
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "create-time": 1621468113192,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      }
+    ],
+    "uid": "EpL5GUHaa",
+    "edit-time": 1621316233994,
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "create-time": 1621318498886,
+    "title": "Special mention to",
+    "uid": "pxtI56Wn5",
+    "edit-time": 1621318498887,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1621318513172,
+    "title": "Roam42",
+    "uid": "bi6DFS7g3",
+    "edit-time": 1621318513173,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1621318513172,
+    "title": "Clara Pastore",
+    "uid": "ExJzrkebg",
+    "edit-time": 1621318513173,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1621351765680,
+    "title": "May 18th, 2021",
+    "uid": "05-18-2021",
+    "edit-time": 1621351765680,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    }
+  },
+  {
+    "create-time": 1621412497599,
+    "title": "May 19th, 2021",
+    "uid": "05-19-2021",
+    "edit-time": 1621412497599,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1621485445157,
+    "title": "May 20th, 2021",
+    "uid": "05-20-2021",
+    "edit-time": 1621485445157,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1621561572715,
+    "title": "May 21st, 2021",
+    "uid": "05-21-2021",
+    "edit-time": 1621561572715,
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    }
+  },
+  {
+    "create-time": 1621877760578,
+    "title": "May 24th, 2021",
+    "uid": "05-24-2021",
+    "edit-time": 1621877760578,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1621922110031,
+    "title": "May 25th, 2021",
+    "uid": "05-25-2021",
+    "edit-time": 1621922110031,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1621922658764,
+    "title": "Kroki",
+    "uid": "-UhkK0udN",
+    "edit-time": 1621922658766,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1621922721390,
+    "title": "How it works",
+    "uid": "0BOXaEXNf",
+    "edit-time": 1621922721412,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1621922913358,
+    "title": "kroki",
+    "uid": "Z4inhsIfA",
+    "edit-time": 1621922913359,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1622007034333,
+    "title": "May 26th, 2021",
+    "uid": "05-26-2021",
+    "edit-time": 1622007034333,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1622128610765,
+    "title": "May 27th, 2021",
+    "uid": "05-27-2021",
+    "edit-time": 1622128610765,
+    ":create/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    },
+    ":edit/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     }
   }
 ]
