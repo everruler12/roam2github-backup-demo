@@ -43225,6 +43225,48 @@
                         ":edit/user": {
                           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                         }
+                      },
+                      {
+                        "string": "Fixed pasting multiple blocks multiple times",
+                        "create-time": 1622453678659,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Filipe Silva]]",
+                            "create-time": 1622453689528,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "IFYmBp-zm"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "IFYmBp-zm"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "Jx1JB5GBY",
+                            "edit-time": 1622453697154,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "uid": "JqcTS2M6N",
+                        "edit-time": 1622453761999,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
                       }
                     ],
                     "refs": [
@@ -72032,10 +72074,10 @@
     }
   },
   {
-    "create-time": 1622449209028,
+    "create-time": 1622454481833,
     "title": "May 31st, 2021",
     "uid": "05-31-2021",
-    "edit-time": 1622449209029,
+    "edit-time": 1622454481833,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
