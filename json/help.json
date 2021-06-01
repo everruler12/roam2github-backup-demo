@@ -72064,25 +72064,53 @@
   {
     "create-time": 1622424539065,
     "title": "May 30th, 2021",
-    "uid": "05-30-2021",
-    "edit-time": 1622424539065,
     ":create/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1622520554933,
+        "uid": "xX9JVR3mP",
+        "edit-time": 1622520554933,
+        ":create/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        }
+      }
+    ],
+    "uid": "05-30-2021",
+    "edit-time": 1622424539065,
     ":edit/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     }
   },
   {
-    "create-time": 1622509468450,
+    "create-time": 1622520445707,
     "title": "June 1st, 2021",
-    "uid": "06-01-2021",
-    "edit-time": 1622509468450,
     ":create/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1622520510209,
+        "uid": "_pqD648OH",
+        "edit-time": 1622520510209,
+        ":create/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        }
+      }
+    ],
+    "uid": "06-01-2021",
+    "edit-time": 1622520445708,
     ":edit/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     }
   }
 ]
