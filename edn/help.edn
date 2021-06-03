@@ -7468,6 +7468,7 @@
   [3474 :create/time 1614758050935 536870912]
   [3474 :create/user 3 536870912]
   [3474 :edit/seen-by 53 536870912]
+  [3474 :edit/seen-by 9445 536872072]
   [3474 :edit/time 1614784518266 536870912]
   [3474 :edit/user 3 536870912]
   [3474 :entity/attrs #{} 536870912]
@@ -7767,6 +7768,7 @@
   [3550 :block/uid "iFHd3Ns_W" 536870912]
   [3550 :create/time 1614761627443 536870912]
   [3550 :create/user 3 536870912]
+  [3550 :edit/seen-by 9445 536872072]
   [3550 :edit/time 1614792907702 536870912]
   [3550 :edit/user 3 536870912]
   [3553 :block/children 11950 536870912]
@@ -8002,6 +8004,7 @@
   [3627 :block/uid "qJd7-eGa_" 536870912]
   [3627 :create/time 1614763008072 536870912]
   [3627 :create/user 3 536870912]
+  [3627 :edit/seen-by 9445 536872073]
   [3627 :edit/time 1616207332123 536870912]
   [3627 :edit/user 3 536870912]
   [3629 :block/string "" 536870912]
@@ -8159,6 +8162,7 @@
   [3738 :block/uid "wAIwtPtaE" 536870912]
   [3738 :create/time 1614763550231 536870912]
   [3738 :create/user 3 536870912]
+  [3738 :edit/seen-by 9445 536872072]
   [3738 :edit/time 1614763555005 536870912]
   [3738 :edit/user 3 536870912]
   [3738 :entity/attrs #{} 536870912]
@@ -28308,10 +28312,12 @@
   [9445
    :user/settings
    {:namespace-options [:none :partial :full],
+    :hide-code-blocks? true,
+    :allow-custom-components? true,
     :right-sidebar-pinned {},
     :showing-own-icons? false,
     :showing-inline-references? false}
-   536871101]
+   536872071]
   [9445 :user/uid "TA5u8OWeTwRw1lcal0Jvoou6wRo1" 536870912]
   [9449 :block/children 9450 536870912]
   [9449 :block/children 9482 536870912]
@@ -36391,6 +36397,7 @@
   [10549 :block/uid "pSgR0pi0k" 536870912]
   [10549 :create/time 1615192682439 536870912]
   [10549 :create/user 3 536870912]
+  [10549 :edit/seen-by 9445 536872072]
   [10549 :edit/time 1615192684794 536870912]
   [10549 :edit/user 3 536870912]
   [10554 :block/open true 536870912]
@@ -71885,8 +71892,8 @@
   [45034 :version/id "0.8.5" 536870912]
   [45034
    :version/nonce
-   "uuidff658534-b202-41b2-a8f8-326cab58dec9"
-   536872072]
+   "uuid3739b1cb-36bc-4b62-a44e-6c4bd284aa92"
+   536872075]
   [45034
    :version/upgraded-nonce
    "uuid6ef09d55-8f2b-40a0-a0ba-d6bd86a1f663"
@@ -75552,17 +75559,17 @@
   [45318 :create/user 53 536872056]
   [45318 :edit/time 1622660284734 536872060]
   [45318 :edit/user 53 536872056]
-  [45319 :block/uid "Fc1-6Q6tw" 536872071]
-  [45319 :user/display-name "Erik Newhard" 536872071]
+  [45319 :block/uid "mKyq1AkwR" 536872074]
+  [45319 :user/display-name "Erik Newhard" 536872074]
   [45319
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536872071]
-  [45319 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872071]
-  [45320 :block/uid "06-03-2021" 536872072]
-  [45320 :create/time 1622716887482 536872072]
-  [45320 :create/user 45319 536872072]
-  [45320 :edit/time 1622716887482 536872072]
-  [45320 :edit/user 45319 536872072]
-  [45320 :log/id 1622716887481 536872072]
-  [45320 :node/title "June 3rd, 2021" 536872072]]}
+   536872074]
+  [45319 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872074]
+  [45320 :block/uid "06-03-2021" 536872075]
+  [45320 :create/time 1622720763783 536872075]
+  [45320 :create/user 45319 536872075]
+  [45320 :edit/time 1622720763783 536872075]
+  [45320 :edit/user 45319 536872075]
+  [45320 :log/id 1622720763782 536872075]
+  [45320 :node/title "June 3rd, 2021" 536872075]]}
