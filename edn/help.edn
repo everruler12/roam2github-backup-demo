@@ -14094,8 +14094,10 @@
    :user/settings
    {:namespace-options [:none :partial :full],
     :hide-code-blocks? true,
-    :right-sidebar-pinned {}}
-   536871004]
+    :right-sidebar-pinned {},
+    :show-week-numbers true,
+    :first-day-of-week 1}
+   536872238]
   [6897 :user/uid "3VEyz63XIsX18jHTxX7ofCDmMLv2" 536870912]
   [6901 :block/heading 3 536870912]
   [6901 :block/open true 536870912]
@@ -71893,8 +71895,8 @@
   [45034 :version/id "0.8.5" 536870912]
   [45034
    :version/nonce
-   "uuid33871420-0a0e-418c-93ca-badaa5ed5c68"
-   536872235]
+   "uuid0485c50f-b790-4e51-bb8f-13d46d301622"
+   536872240]
   [45034
    :version/upgraded-nonce
    "uuid6ef09d55-8f2b-40a0-a0ba-d6bd86a1f663"
@@ -75931,10 +75933,10 @@
   [45342 :create/user 53 536872201]
   [45342 :edit/time 1622797006271 536872206]
   [45342 :edit/user 53 536872201]
-  [45343 :block/uid "cPI06TYTG" 536872235]
-  [45343 :user/display-name "Erik Newhard" 536872235]
+  [45343 :block/uid "Vvl7rO_Qs" 536872240]
+  [45343 :user/display-name "Erik Newhard" 536872240]
   [45343
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536872235]
-  [45343 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872235]]}
+   536872240]
+  [45343 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872240]]}
