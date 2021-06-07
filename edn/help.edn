@@ -6324,12 +6324,6 @@
   [2757 :edit/time 1614683615515 536870912]
   [2757 :edit/user 3 536870912]
   [2757 :node/title "Conor White-Sullivan" 536870912]
-  [2760 :block/uid "IdWJv42cv" 536870912]
-  [2760 :create/time 1614683626385 536870912]
-  [2760 :create/user 3 536870912]
-  [2760 :edit/time 1614683626385 536870912]
-  [2760 :edit/user 3 536870912]
-  [2760 :node/title "Joshua Brown" 536870912]
   [2768 :block/uid "IFYmBp-zm" 536870912]
   [2768 :create/time 1614683657211 536870912]
   [2768 :create/user 3 536870912]
@@ -60213,6 +60207,7 @@
   [13460 :block/uid "TzOqYf3No" 536870912]
   [13460 :create/time 1616602186530 536870912]
   [13460 :create/user 3 536870912]
+  [13460 :edit/seen-by 6897 536872345]
   [13460 :edit/time 1616602186530 536870912]
   [13460 :edit/user 3 536870912]
   [13463 :block/heading 3 536870912]
@@ -66317,12 +66312,6 @@
   [44542 :block/uid "VGWDMjIeD" 536870912]
   [44542 :edit/time 1617566927153 536870912]
   [44542 :edit/user 53 536870912]
-  [44543 :attrs/lookup 2760 536870912]
-  [44543 :attrs/lookup 2768 536870912]
-  [44543 :attrs/lookup 44543 536870912]
-  [44543 :attrs/lookup 44544 536870912]
-  [44543 :attrs/lookup 44546 536870912]
-  [44543 :block/children 44544 536870912]
   [44543 :block/open false 536870912]
   [44543 :block/order 0 536870912]
   [44543 :block/page 4296 536870912]
@@ -66340,48 +66329,7 @@
   [44543 :create/user 53 536870912]
   [44543 :edit/time 1617566975450 536870912]
   [44543 :edit/user 53 536870912]
-  [44543
-   :entity/attrs
-   #{[{:source [:block/uid "Q_8qJDN_2"],
-       :value [:block/uid "Q_8qJDN_2"]}
-      {:source [:block/uid "7xrYEqyxy"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "7xrYEqyxy"],
-       :value [:block/uid "IFYmBp-zm"]}]
-     [{:source [:block/uid "Q_8qJDN_2"],
-       :value [:block/uid "Q_8qJDN_2"]}
-      {:source [:block/uid "7xrYEqyxy"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "7xrYEqyxy"],
-       :value [:block/uid "IdWJv42cv"]}]}
-   536870912]
-  [44544 :block/open true 536870912]
-  [44544 :block/order 0 536870912]
-  [44544 :block/page 4296 536870912]
-  [44544 :block/parents 4296 536870912]
-  [44544 :block/parents 7333 536870912]
-  [44544 :block/parents 10915 536870912]
-  [44544 :block/parents 44539 536870912]
-  [44544 :block/parents 44540 536870912]
-  [44544 :block/parents 44543 536870912]
-  [44544 :block/refs 2760 536870912]
-  [44544 :block/refs 2768 536870912]
-  [44544 :block/refs 44546 536870912]
-  [44544
-   :block/string
-   "Brought to you by:: [[Joshua Brown]] and [[Filipe Silva]]"
-   536870912]
-  [44544 :block/uid "7xrYEqyxy" 536870912]
-  [44544 :create/time 1617566937383 536870912]
-  [44544 :create/user 53 536870912]
-  [44544 :edit/time 1617567007252 536870912]
-  [44544 :edit/user 53 536870912]
-  [44546 :block/uid "5K19Sylm0" 536870912]
-  [44546 :create/time 1617566945180 536870912]
-  [44546 :create/user 53 536870912]
-  [44546 :edit/time 1617566945181 536870912]
-  [44546 :edit/user 53 536870912]
-  [44546 :node/title "Brought to you by" 536870912]
+  [44543 :entity/attrs #{} 536872323]
   [44547 :block/string "" 536870912]
   [44547 :block/uid "QOuDPtbKn" 536870912]
   [44547 :edit/time 1617566948980 536870912]
@@ -67069,12 +67017,6 @@
   [44656 :edit/seen-by 53 536870912]
   [44656 :edit/time 1617775097624 536870912]
   [44656 :edit/user 53 536870912]
-  [44657 :attrs/lookup 2760 536870912]
-  [44657 :attrs/lookup 2770 536870912]
-  [44657 :attrs/lookup 44546 536870912]
-  [44657 :attrs/lookup 44657 536870912]
-  [44657 :attrs/lookup 44684 536870912]
-  [44657 :attrs/lookup 44688 536870912]
   [44657 :block/children 44659 536870912]
   [44657 :block/children 44660 536870912]
   [44657 :block/children 44661 536870912]
@@ -67082,7 +67024,6 @@
   [44657 :block/children 44663 536870912]
   [44657 :block/children 44664 536870912]
   [44657 :block/children 44665 536870912]
-  [44657 :block/children 44688 536870912]
   [44657 :block/open true 536870912]
   [44657 :block/order 0 536870912]
   [44657 :block/page 4296 536870912]
@@ -67102,21 +67043,7 @@
   [44657 :edit/seen-by 53 536870912]
   [44657 :edit/time 1617801347769 536870912]
   [44657 :edit/user 53 536870912]
-  [44657
-   :entity/attrs
-   #{[{:source [:block/uid "UCqIRzQhN"],
-       :value [:block/uid "UCqIRzQhN"]}
-      {:source [:block/uid "c9MibzCXM"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "nIX5vVtUt"],
-       :value [:block/uid "EJIFQrIL3"]}]
-     [{:source [:block/uid "UCqIRzQhN"],
-       :value [:block/uid "UCqIRzQhN"]}
-      {:source [:block/uid "c9MibzCXM"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "nIX5vVtUt"],
-       :value [:block/uid "IdWJv42cv"]}]}
-   536870912]
+  [44657 :entity/attrs #{} 536872323]
   [44659 :block/open true 536870912]
   [44659 :block/order 1 536870912]
   [44659 :block/page 4296 536870912]
@@ -67285,27 +67212,6 @@
   [44683 :block/uid "Xfnmgq3rO" 536870912]
   [44683 :edit/time 1617801177432 536870912]
   [44683 :edit/user 53 536870912]
-  [44684 :block/open true 536870912]
-  [44684 :block/order 0 536870912]
-  [44684 :block/page 4296 536870912]
-  [44684 :block/parents 4296 536870912]
-  [44684 :block/parents 7333 536870912]
-  [44684 :block/parents 10915 536870912]
-  [44684 :block/parents 44655 536870912]
-  [44684 :block/parents 44656 536870912]
-  [44684 :block/parents 44657 536870912]
-  [44684 :block/parents 44688 536870912]
-  [44684 :block/refs 2760 536870912]
-  [44684 :block/refs 2770 536870912]
-  [44684
-   :block/string
-   "[[Adam Sherwood]] and [[Joshua Brown]]"
-   536870912]
-  [44684 :block/uid "nIX5vVtUt" 536870912]
-  [44684 :create/time 1617801180862 536870912]
-  [44684 :create/user 53 536870912]
-  [44684 :edit/time 1617801236244 536870912]
-  [44684 :edit/user 53 536870912]
   [44686 :block/refs 2527 536870912]
   [44686 :block/refs 2774 536870912]
   [44686
@@ -67315,24 +67221,6 @@
   [44686 :block/uid "pU7jWG1Yt" 536870912]
   [44686 :edit/time 1617801230123 536870912]
   [44686 :edit/user 53 536870912]
-  [44688 :block/children 44684 536870912]
-  [44688 :block/open false 536870912]
-  [44688 :block/order 7 536870912]
-  [44688 :block/page 4296 536870912]
-  [44688 :block/parents 4296 536870912]
-  [44688 :block/parents 7333 536870912]
-  [44688 :block/parents 10915 536870912]
-  [44688 :block/parents 44655 536870912]
-  [44688 :block/parents 44656 536870912]
-  [44688 :block/parents 44657 536870912]
-  [44688 :block/refs 44546 536870912]
-  [44688 :block/string "Brought to you by::" 536870912]
-  [44688 :block/uid "c9MibzCXM" 536870912]
-  [44688 :create/time 1617801233531 536870912]
-  [44688 :create/user 53 536870912]
-  [44688 :edit/seen-by 3 536870912]
-  [44688 :edit/time 1617801233531 536870912]
-  [44688 :edit/user 53 536870912]
   [44689 :block/string "" 536870912]
   [44689 :block/uid "-wO2w9lzh" 536870912]
   [44689 :edit/time 1617801260397 536870912]
@@ -67425,42 +67313,6 @@
   [44695 :create/user 53 536870912]
   [44695 :edit/time 1617803528185 536870912]
   [44695 :edit/user 53 536870912]
-  [44697 :block/children 44698 536870912]
-  [44697 :block/open false 536870912]
-  [44697 :block/order 2 536870912]
-  [44697 :block/page 4296 536870912]
-  [44697 :block/parents 4296 536870912]
-  [44697 :block/parents 7333 536870912]
-  [44697 :block/parents 10915 536870912]
-  [44697 :block/parents 44690 536870912]
-  [44697 :block/parents 44701 536870912]
-  [44697 :block/refs 44546 536870912]
-  [44697 :block/string "Brought to you by::" 536870912]
-  [44697 :block/uid "-gIN9ScG1" 536870912]
-  [44697 :create/time 1617801230749 536870912]
-  [44697 :create/user 53 536870912]
-  [44697 :edit/time 1617801357456 536870912]
-  [44697 :edit/user 53 536870912]
-  [44698 :block/open true 536870912]
-  [44698 :block/order 0 536870912]
-  [44698 :block/page 4296 536870912]
-  [44698 :block/parents 4296 536870912]
-  [44698 :block/parents 7333 536870912]
-  [44698 :block/parents 10915 536870912]
-  [44698 :block/parents 44690 536870912]
-  [44698 :block/parents 44697 536870912]
-  [44698 :block/parents 44701 536870912]
-  [44698 :block/refs 2527 536870912]
-  [44698 :block/refs 2774 536870912]
-  [44698
-   :block/string
-   "[[Kifah Meeran]] and [[Bardia Pourvakil]]"
-   536870912]
-  [44698 :block/uid "X7_ij_nr_" 536870912]
-  [44698 :create/time 1617801228102 536870912]
-  [44698 :create/user 53 536870912]
-  [44698 :edit/time 1617801357456 536870912]
-  [44698 :edit/user 53 536870912]
   [44699 :block/string "" 536870912]
   [44699 :block/uid "x-rhxwpO-" 536870912]
   [44699 :edit/time 1617801357509 536870912]
@@ -67469,14 +67321,7 @@
   [44700 :block/uid "67W5Cmp98" 536870912]
   [44700 :edit/time 1617801627039 536870912]
   [44700 :edit/user 53 536870912]
-  [44701 :attrs/lookup 2527 536870912]
-  [44701 :attrs/lookup 2774 536870912]
-  [44701 :attrs/lookup 44546 536870912]
-  [44701 :attrs/lookup 44697 536870912]
-  [44701 :attrs/lookup 44698 536870912]
-  [44701 :attrs/lookup 44701 536870912]
   [44701 :block/children 44692 536870912]
-  [44701 :block/children 44697 536870912]
   [44701 :block/children 44702 536870912]
   [44701 :block/heading 3 536870912]
   [44701 :block/open true 536870912]
@@ -67493,21 +67338,7 @@
   [44701 :create/user 53 536870912]
   [44701 :edit/time 1617802482101 536870912]
   [44701 :edit/user 53 536870912]
-  [44701
-   :entity/attrs
-   #{[{:source [:block/uid "gW78FrsYZ"],
-       :value [:block/uid "gW78FrsYZ"]}
-      {:source [:block/uid "-gIN9ScG1"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "X7_ij_nr_"],
-       :value [:block/uid "evJ14QpsV"]}]
-     [{:source [:block/uid "gW78FrsYZ"],
-       :value [:block/uid "gW78FrsYZ"]}
-      {:source [:block/uid "-gIN9ScG1"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "X7_ij_nr_"],
-       :value [:block/uid "w3-eryhFP"]}]}
-   536870912]
+  [44701 :entity/attrs #{} 536872323]
   [44702 :block/children 44771 536870912]
   [44702 :block/open false 536870912]
   [44702 :block/order 0 536870912]
@@ -68815,11 +68646,6 @@
   [44794 :edit/time 1618251923933 536870912]
   [44794 :edit/user 53 536870912]
   [44794 :entity/attrs #{} 536870912]
-  [44795 :attrs/lookup 2768 536870912]
-  [44795 :attrs/lookup 44546 536870912]
-  [44795 :attrs/lookup 44795 536870912]
-  [44795 :attrs/lookup 44800 536870912]
-  [44795 :block/children 44800 536870912]
   [44795 :block/open false 536870912]
   [44795 :block/order 0 536870912]
   [44795 :block/page 4296 536870912]
@@ -68834,15 +68660,7 @@
   [44795 :create/user 53 536870912]
   [44795 :edit/time 1618036856291 536870912]
   [44795 :edit/user 53 536870912]
-  [44795
-   :entity/attrs
-   #{[{:source [:block/uid "iCbrcJ2Ns"],
-       :value [:block/uid "iCbrcJ2Ns"]}
-      {:source [:block/uid "dNE6VqBBv"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "dNE6VqBBv"],
-       :value [:block/uid "IFYmBp-zm"]}]}
-   536870912]
+  [44795 :entity/attrs #{} 536872323]
   [44796 :block/uid "04-10-2021" 536870912]
   [44796 :create/time 1618036860757 536870912]
   [44796 :create/user 53 536870912]
@@ -68879,26 +68697,6 @@
   [44799 :create/user 53 536870912]
   [44799 :edit/time 1618166416837 536870912]
   [44799 :edit/user 53 536870912]
-  [44800 :block/open true 536870912]
-  [44800 :block/order 0 536870912]
-  [44800 :block/page 4296 536870912]
-  [44800 :block/parents 4296 536870912]
-  [44800 :block/parents 7333 536870912]
-  [44800 :block/parents 10915 536870912]
-  [44800 :block/parents 44792 536870912]
-  [44800 :block/parents 44794 536870912]
-  [44800 :block/parents 44795 536870912]
-  [44800 :block/refs 2768 536870912]
-  [44800 :block/refs 44546 536870912]
-  [44800
-   :block/string
-   "Brought to you by:: [[Filipe Silva]]"
-   536870912]
-  [44800 :block/uid "dNE6VqBBv" 536870912]
-  [44800 :create/time 1618167866204 536870912]
-  [44800 :create/user 53 536870912]
-  [44800 :edit/time 1618167912646 536870912]
-  [44800 :edit/user 53 536870912]
   [44802 :block/refs 2768 536870912]
   [44802 :block/string "[[Filipe Silva]]" 536870912]
   [44802 :block/uid "M5PCB4iL4" 536870912]
@@ -68941,11 +68739,6 @@
   [44805 :create/user 53 536870912]
   [44805 :edit/time 1618251924878 536870912]
   [44805 :edit/user 53 536870912]
-  [44806 :attrs/lookup 8838 536870912]
-  [44806 :attrs/lookup 44546 536870912]
-  [44806 :attrs/lookup 44806 536870912]
-  [44806 :attrs/lookup 44808 536870912]
-  [44806 :block/children 44808 536870912]
   [44806 :block/open false 536870912]
   [44806 :block/order 0 536870912]
   [44806 :block/page 4296 536870912]
@@ -68964,41 +68757,13 @@
   [44806 :create/user 53 536870912]
   [44806 :edit/time 1618252780908 536870912]
   [44806 :edit/user 53 536870912]
-  [44806
-   :entity/attrs
-   #{[{:source [:block/uid "oG0lNRWu4"],
-       :value [:block/uid "oG0lNRWu4"]}
-      {:source [:block/uid "fB10YwsVY"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "fB10YwsVY"],
-       :value [:block/uid "dkdjGsM4C"]}]}
-   536870912]
+  [44806 :entity/attrs #{} 536872323]
   [44807 :block/uid "-v8qpYUMt" 536870912]
   [44807 :create/time 1618251868430 536870912]
   [44807 :create/user 53 536870912]
   [44807 :edit/time 1618251868430 536870912]
   [44807 :edit/user 53 536870912]
   [44807 :node/title "Elixir" 536870912]
-  [44808 :block/open true 536870912]
-  [44808 :block/order 0 536870912]
-  [44808 :block/page 4296 536870912]
-  [44808 :block/parents 4296 536870912]
-  [44808 :block/parents 7333 536870912]
-  [44808 :block/parents 10915 536870912]
-  [44808 :block/parents 44804 536870912]
-  [44808 :block/parents 44805 536870912]
-  [44808 :block/parents 44806 536870912]
-  [44808 :block/refs 8838 536870912]
-  [44808 :block/refs 44546 536870912]
-  [44808
-   :block/string
-   "Brought to you by:: [[Stian Håklev]]"
-   536870912]
-  [44808 :block/uid "fB10YwsVY" 536870912]
-  [44808 :create/time 1618251883237 536870912]
-  [44808 :create/user 53 536870912]
-  [44808 :edit/time 1618251892723 536870912]
-  [44808 :edit/user 53 536870912]
   [44809 :block/uid "04-13-2021" 536870912]
   [44809 :create/time 1618294809917 536870912]
   [44809 :create/user 3422 536870912]
@@ -69044,11 +68809,6 @@
   [44812 :create/user 53 536870912]
   [44812 :edit/time 1618382110422 536870912]
   [44812 :edit/user 53 536870912]
-  [44813 :attrs/lookup 2527 536870912]
-  [44813 :attrs/lookup 44546 536870912]
-  [44813 :attrs/lookup 44813 536870912]
-  [44813 :attrs/lookup 44814 536870912]
-  [44813 :block/children 44814 536870912]
   [44813 :block/open false 536870912]
   [44813 :block/order 0 536870912]
   [44813 :block/page 4296 536870912]
@@ -69066,35 +68826,7 @@
   [44813 :create/user 53 536870912]
   [44813 :edit/time 1618382126992 536870912]
   [44813 :edit/user 53 536870912]
-  [44813
-   :entity/attrs
-   #{[{:source [:block/uid "bNBmAP4EV"],
-       :value [:block/uid "bNBmAP4EV"]}
-      {:source [:block/uid "r7QALxczU"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "r7QALxczU"],
-       :value [:block/uid "w3-eryhFP"]}]}
-   536870912]
-  [44814 :block/open true 536870912]
-  [44814 :block/order 0 536870912]
-  [44814 :block/page 4296 536870912]
-  [44814 :block/parents 4296 536870912]
-  [44814 :block/parents 7333 536870912]
-  [44814 :block/parents 10915 536870912]
-  [44814 :block/parents 44810 536870912]
-  [44814 :block/parents 44812 536870912]
-  [44814 :block/parents 44813 536870912]
-  [44814 :block/refs 2527 536870912]
-  [44814 :block/refs 44546 536870912]
-  [44814
-   :block/string
-   "Brought to you by:: [[Kifah Meeran]]"
-   536870912]
-  [44814 :block/uid "r7QALxczU" 536870912]
-  [44814 :create/time 1618382126985 536870912]
-  [44814 :create/user 53 536870912]
-  [44814 :edit/time 1618382136030 536870912]
-  [44814 :edit/user 53 536870912]
+  [44813 :entity/attrs #{} 536872323]
   [44815 :block/children 44816 536870912]
   [44815 :block/heading 3 536870912]
   [44815 :block/open true 536870912]
@@ -69111,11 +68843,6 @@
   [44815 :create/user 53 536870912]
   [44815 :edit/time 1618384112438 536870912]
   [44815 :edit/user 53 536870912]
-  [44816 :attrs/lookup 2774 536870912]
-  [44816 :attrs/lookup 44546 536870912]
-  [44816 :attrs/lookup 44816 536870912]
-  [44816 :attrs/lookup 44915 536870912]
-  [44816 :block/children 44915 536870912]
   [44816 :block/open false 536870912]
   [44816 :block/order 0 536870912]
   [44816 :block/page 4296 536870912]
@@ -69130,15 +68857,7 @@
   [44816 :create/user 53 536870912]
   [44816 :edit/time 1618384118489 536870912]
   [44816 :edit/user 53 536870912]
-  [44816
-   :entity/attrs
-   #{[{:source [:block/uid "bQ_-r5A6Y"],
-       :value [:block/uid "bQ_-r5A6Y"]}
-      {:source [:block/uid "xeCc3gmvq"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "xeCc3gmvq"],
-       :value [:block/uid "evJ14QpsV"]}]}
-   536870912]
+  [44816 :entity/attrs #{} 536872323]
   [44817 :block/children 44819 536870912]
   [44817 :block/open true 536870912]
   [44817 :block/order 18 536872082]
@@ -69176,12 +68895,6 @@
   [44819 :create/user 53 536870912]
   [44819 :edit/time 1618469236738 536870912]
   [44819 :edit/user 53 536870912]
-  [44820 :attrs/lookup 2757 536870912]
-  [44820 :attrs/lookup 2774 536870912]
-  [44820 :attrs/lookup 44546 536870912]
-  [44820 :attrs/lookup 44820 536870912]
-  [44820 :attrs/lookup 44843 536870912]
-  [44820 :block/children 44843 536870912]
   [44820 :block/open false 536870912]
   [44820 :block/order 0 536870912]
   [44820 :block/page 4296 536870912]
@@ -69200,21 +68913,7 @@
   [44820 :create/user 53 536870912]
   [44820 :edit/time 1618472194187 536870912]
   [44820 :edit/user 53 536870912]
-  [44820
-   :entity/attrs
-   #{[{:source [:block/uid "PJcvEe3xH"],
-       :value [:block/uid "PJcvEe3xH"]}
-      {:source [:block/uid "VzQCd0P_Q"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "VzQCd0P_Q"],
-       :value [:block/uid "evJ14QpsV"]}]
-     [{:source [:block/uid "PJcvEe3xH"],
-       :value [:block/uid "PJcvEe3xH"]}
-      {:source [:block/uid "VzQCd0P_Q"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "VzQCd0P_Q"],
-       :value [:block/uid "CV_O2qTlP"]}]}
-   536870912]
+  [44820 :entity/attrs #{} 536872323]
   [44821 :block/open true 536870912]
   [44821 :block/order 0 536870912]
   [44821 :block/page 4254 536870912]
@@ -69332,7 +69031,6 @@
   [44831 :create/user 53 536870912]
   [44831 :edit/time 1618559785282 536870912]
   [44831 :edit/user 53 536870912]
-  [44832 :block/children 44846 536870912]
   [44832 :block/open false 536870912]
   [44832 :block/order 0 536870912]
   [44832 :block/page 4296 536870912]
@@ -69350,16 +69048,11 @@
   [44832 :create/user 53 536870912]
   [44832 :edit/time 1618559639062 536870912]
   [44832 :edit/user 53 536870912]
+  [44832 :entity/attrs #{} 536872343]
   [44834 :block/string "" 536870912]
   [44834 :block/uid "PQ3SFjUiU" 536870912]
   [44834 :edit/time 1618559504229 536870912]
   [44834 :edit/user 53 536870912]
-  [44836 :attrs/lookup 2760 536870912]
-  [44836 :attrs/lookup 44546 536870912]
-  [44836 :attrs/lookup 44836 536870912]
-  [44836 :attrs/lookup 44847 536870912]
-  [44836 :attrs/lookup 44848 536870912]
-  [44836 :block/children 44847 536870912]
   [44836 :block/open false 536870912]
   [44836 :block/order 0 536870912]
   [44836 :block/page 4296 536870912]
@@ -69377,30 +69070,11 @@
   [44836 :create/user 53 536870912]
   [44836 :edit/time 1618599018242 536870912]
   [44836 :edit/user 53 536870912]
-  [44836
-   :entity/attrs
-   #{[{:source [:block/uid "X5G619r3J"],
-       :value [:block/uid "X5G619r3J"]}
-      {:source [:block/uid "0_vFUHxhi"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "0_vFUHxhi"],
-       :value [:block/uid "IdWJv42cv"]}]
-     [{:source [:block/uid "X5G619r3J"],
-       :value [:block/uid "X5G619r3J"]}
-      {:source [:block/uid "0_vFUHxhi"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "0_vFUHxhi"],
-       :value [:block/uid "A1MxhqDRI"]}]}
-   536870912]
+  [44836 :entity/attrs #{} 536872323]
   [44837 :block/string "" 536870912]
   [44837 :block/uid "8kaBB6bnH" 536870912]
   [44837 :edit/time 1618559781643 536870912]
   [44837 :edit/user 53 536870912]
-  [44839 :attrs/lookup 2770 536870912]
-  [44839 :attrs/lookup 44546 536870912]
-  [44839 :attrs/lookup 44839 536870912]
-  [44839 :attrs/lookup 44844 536870912]
-  [44839 :block/children 44844 536870912]
   [44839 :block/open false 536870912]
   [44839 :block/order 0 536870912]
   [44839 :block/page 4296 536870912]
@@ -69418,20 +69092,7 @@
   [44839 :create/user 53 536870912]
   [44839 :edit/time 1618572971144 536870912]
   [44839 :edit/user 53 536870912]
-  [44839
-   :entity/attrs
-   #{[{:source [:block/uid "w4d72iBS-"],
-       :value [:block/uid "w4d72iBS-"]}
-      {:source [:block/uid "Z0bNDOuAH"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "Z0bNDOuAH"],
-       :value [:block/uid "EJIFQrIL3"]}]}
-   536870912]
-  [44840 :attrs/lookup 2774 536870912]
-  [44840 :attrs/lookup 44546 536870912]
-  [44840 :attrs/lookup 44840 536870912]
-  [44840 :attrs/lookup 44845 536870912]
-  [44840 :block/children 44845 536870912]
+  [44839 :entity/attrs #{} 536872323]
   [44840 :block/open false 536870912]
   [44840 :block/order 1 536870912]
   [44840 :block/page 4296 536870912]
@@ -69449,123 +69110,11 @@
   [44840 :create/user 53 536870912]
   [44840 :edit/time 1618572935465 536870912]
   [44840 :edit/user 53 536870912]
-  [44840
-   :entity/attrs
-   #{[{:source [:block/uid "NYSVrmDt-"],
-       :value [:block/uid "NYSVrmDt-"]}
-      {:source [:block/uid "WQZs9Hal0"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "WQZs9Hal0"],
-       :value [:block/uid "evJ14QpsV"]}]}
-   536870912]
+  [44840 :entity/attrs #{} 536872323]
   [44842 :block/string "" 536870912]
   [44842 :block/uid "znqo5PlFa" 536870912]
   [44842 :edit/time 1618559913157 536870912]
   [44842 :edit/user 53 536870912]
-  [44843 :block/open true 536870912]
-  [44843 :block/order 0 536870912]
-  [44843 :block/page 4296 536870912]
-  [44843 :block/parents 4296 536870912]
-  [44843 :block/parents 7333 536870912]
-  [44843 :block/parents 10915 536870912]
-  [44843 :block/parents 44817 536870912]
-  [44843 :block/parents 44819 536870912]
-  [44843 :block/parents 44820 536870912]
-  [44843 :block/refs 2757 536870912]
-  [44843 :block/refs 2774 536870912]
-  [44843 :block/refs 44546 536870912]
-  [44843
-   :block/string
-   "Brought to you by:: [[Bardia Pourvakil]] [[Conor White-Sullivan]]"
-   536870912]
-  [44843 :block/uid "VzQCd0P_Q" 536870912]
-  [44843 :create/time 1618559913846 536870912]
-  [44843 :create/user 53 536870912]
-  [44843 :edit/time 1618559923649 536870912]
-  [44843 :edit/user 53 536870912]
-  [44844 :block/open true 536870912]
-  [44844 :block/order 0 536870912]
-  [44844 :block/page 4296 536870912]
-  [44844 :block/parents 4296 536870912]
-  [44844 :block/parents 7333 536870912]
-  [44844 :block/parents 10915 536870912]
-  [44844 :block/parents 44826 536870912]
-  [44844 :block/parents 44831 536870912]
-  [44844 :block/parents 44839 536870912]
-  [44844 :block/refs 2770 536870912]
-  [44844 :block/refs 44546 536870912]
-  [44844
-   :block/string
-   "Brought to you by:: [[Adam Sherwood]]"
-   536870912]
-  [44844 :block/uid "Z0bNDOuAH" 536870912]
-  [44844 :create/time 1618559927971 536870912]
-  [44844 :create/user 53 536870912]
-  [44844 :edit/time 1618559938100 536870912]
-  [44844 :edit/user 53 536870912]
-  [44845 :block/open true 536870912]
-  [44845 :block/order 0 536870912]
-  [44845 :block/page 4296 536870912]
-  [44845 :block/parents 4296 536870912]
-  [44845 :block/parents 7333 536870912]
-  [44845 :block/parents 10915 536870912]
-  [44845 :block/parents 44826 536870912]
-  [44845 :block/parents 44830 536870912]
-  [44845 :block/parents 44840 536870912]
-  [44845 :block/refs 2774 536870912]
-  [44845 :block/refs 44546 536870912]
-  [44845
-   :block/string
-   "Brought to you by:: [[Bardia Pourvakil]]"
-   536870912]
-  [44845 :block/uid "WQZs9Hal0" 536870912]
-  [44845 :create/time 1618559941494 536870912]
-  [44845 :create/user 53 536870912]
-  [44845 :edit/time 1618559951820 536870912]
-  [44845 :edit/user 53 536870912]
-  [44846 :block/open true 536870912]
-  [44846 :block/order 0 536870912]
-  [44846 :block/page 4296 536870912]
-  [44846 :block/parents 4296 536870912]
-  [44846 :block/parents 7333 536870912]
-  [44846 :block/parents 10915 536870912]
-  [44846 :block/parents 44826 536870912]
-  [44846 :block/parents 44830 536870912]
-  [44846 :block/parents 44832 536870912]
-  [44846 :block/refs 44845 536870912]
-  [44846 :block/string "((WQZs9Hal0))" 536870912]
-  [44846 :block/uid "5WNLa-s1n" 536870912]
-  [44846 :create/time 1618559959363 536870912]
-  [44846 :create/user 53 536870912]
-  [44846 :edit/time 1618559960531 536870912]
-  [44846 :edit/user 53 536870912]
-  [44847 :block/open true 536870912]
-  [44847 :block/order 0 536870912]
-  [44847 :block/page 4296 536870912]
-  [44847 :block/parents 4296 536870912]
-  [44847 :block/parents 7333 536870912]
-  [44847 :block/parents 10915 536870912]
-  [44847 :block/parents 44826 536870912]
-  [44847 :block/parents 44828 536870912]
-  [44847 :block/parents 44836 536870912]
-  [44847 :block/refs 2760 536870912]
-  [44847 :block/refs 44546 536870912]
-  [44847 :block/refs 44848 536870912]
-  [44847
-   :block/string
-   "Brought to you by:: [[Wilker Lucio]] [[Joshua Brown]]"
-   536870912]
-  [44847 :block/uid "0_vFUHxhi" 536870912]
-  [44847 :create/time 1618559963860 536870912]
-  [44847 :create/user 53 536870912]
-  [44847 :edit/time 1618559990533 536870912]
-  [44847 :edit/user 53 536870912]
-  [44848 :block/uid "A1MxhqDRI" 536870912]
-  [44848 :create/time 1618559982014 536870912]
-  [44848 :create/user 53 536870912]
-  [44848 :edit/time 1618559982015 536870912]
-  [44848 :edit/user 53 536870912]
-  [44848 :node/title "Wilker Lucio" 536870912]
   [44851 :block/children 44852 536870912]
   [44851 :block/children 44853 536870912]
   [44851 :block/heading 2 536870912]
@@ -69768,7 +69317,6 @@
   [44873 :create/user 53 536870912]
   [44873 :edit/time 1618724658651 536870912]
   [44873 :edit/user 53 536870912]
-  [44874 :block/children 44878 536870912]
   [44874 :block/open false 536870912]
   [44874 :block/order 0 536870912]
   [44874 :block/page 4296 536870912]
@@ -69783,11 +69331,7 @@
   [44874 :create/user 53 536870912]
   [44874 :edit/time 1618724894501 536870912]
   [44874 :edit/user 53 536870912]
-  [44875 :attrs/lookup 2760 536870912]
-  [44875 :attrs/lookup 44546 536870912]
-  [44875 :attrs/lookup 44875 536870912]
-  [44875 :attrs/lookup 44879 536870912]
-  [44875 :block/children 44879 536870912]
+  [44874 :entity/attrs #{} 536872343]
   [44875 :block/open false 536870912]
   [44875 :block/order 0 536870912]
   [44875 :block/page 4296 536870912]
@@ -69802,21 +69346,7 @@
   [44875 :create/user 53 536870912]
   [44875 :edit/time 1618989222069 536870912]
   [44875 :edit/user 53 536870912]
-  [44875
-   :entity/attrs
-   #{[{:source [:block/uid "cw3dosu8-"],
-       :value [:block/uid "cw3dosu8-"]}
-      {:source [:block/uid "z399B5DI0"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "z399B5DI0"],
-       :value [:block/uid "IdWJv42cv"]}]}
-   536870912]
-  [44876 :attrs/lookup 2527 536870912]
-  [44876 :attrs/lookup 2774 536870912]
-  [44876 :attrs/lookup 44546 536870912]
-  [44876 :attrs/lookup 44876 536870912]
-  [44876 :attrs/lookup 44877 536870912]
-  [44876 :block/children 44877 536870912]
+  [44875 :entity/attrs #{} 536872323]
   [44876 :block/open false 536870912]
   [44876 :block/order 1 536870912]
   [44876 :block/page 4296 536870912]
@@ -69834,78 +69364,7 @@
   [44876 :create/user 53 536870912]
   [44876 :edit/time 1618724913945 536870912]
   [44876 :edit/user 53 536870912]
-  [44876
-   :entity/attrs
-   #{[{:source [:block/uid "3xrSMXWnu"],
-       :value [:block/uid "3xrSMXWnu"]}
-      {:source [:block/uid "A5uJB4_hG"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "A5uJB4_hG"],
-       :value [:block/uid "w3-eryhFP"]}]
-     [{:source [:block/uid "3xrSMXWnu"],
-       :value [:block/uid "3xrSMXWnu"]}
-      {:source [:block/uid "A5uJB4_hG"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "A5uJB4_hG"],
-       :value [:block/uid "evJ14QpsV"]}]}
-   536870912]
-  [44877 :block/open true 536870912]
-  [44877 :block/order 0 536870912]
-  [44877 :block/page 4296 536870912]
-  [44877 :block/parents 4296 536870912]
-  [44877 :block/parents 7333 536870912]
-  [44877 :block/parents 10915 536870912]
-  [44877 :block/parents 44871 536870912]
-  [44877 :block/parents 44872 536870912]
-  [44877 :block/parents 44876 536870912]
-  [44877 :block/refs 2527 536870912]
-  [44877 :block/refs 2774 536870912]
-  [44877 :block/refs 44546 536870912]
-  [44877
-   :block/string
-   "Brought to you by:: [[Kifah Meeran]] [[Bardia Pourvakil]]"
-   536870912]
-  [44877 :block/uid "A5uJB4_hG" 536870912]
-  [44877 :create/time 1618724919016 536870912]
-  [44877 :create/user 53 536870912]
-  [44877 :edit/time 1618724939275 536870912]
-  [44877 :edit/user 53 536870912]
-  [44878 :block/open true 536870912]
-  [44878 :block/order 0 536870912]
-  [44878 :block/page 4296 536870912]
-  [44878 :block/parents 4296 536870912]
-  [44878 :block/parents 7333 536870912]
-  [44878 :block/parents 10915 536870912]
-  [44878 :block/parents 44871 536870912]
-  [44878 :block/parents 44872 536870912]
-  [44878 :block/parents 44874 536870912]
-  [44878 :block/refs 44877 536870912]
-  [44878 :block/string "((A5uJB4_hG))" 536870912]
-  [44878 :block/uid "KtKcesaKe" 536870912]
-  [44878 :create/time 1618724943223 536870912]
-  [44878 :create/user 53 536870912]
-  [44878 :edit/time 1618724943223 536870912]
-  [44878 :edit/user 53 536870912]
-  [44879 :block/open true 536870912]
-  [44879 :block/order 0 536870912]
-  [44879 :block/page 4296 536870912]
-  [44879 :block/parents 4296 536870912]
-  [44879 :block/parents 7333 536870912]
-  [44879 :block/parents 10915 536870912]
-  [44879 :block/parents 44871 536870912]
-  [44879 :block/parents 44873 536870912]
-  [44879 :block/parents 44875 536870912]
-  [44879 :block/refs 2760 536870912]
-  [44879 :block/refs 44546 536870912]
-  [44879
-   :block/string
-   "Brought to you by:: [[Joshua Brown]]"
-   536870912]
-  [44879 :block/uid "z399B5DI0" 536870912]
-  [44879 :create/time 1618724948878 536870912]
-  [44879 :create/user 53 536870912]
-  [44879 :edit/time 1618724954460 536870912]
-  [44879 :edit/user 53 536870912]
+  [44876 :entity/attrs #{} 536872323]
   [44880 :block/open true 536870912]
   [44880 :block/order 2 536870912]
   [44880 :block/page 412 536870912]
@@ -70062,6 +69521,7 @@
   [44893 :block/uid "QuxUwuxNe" 536870912]
   [44893 :create/time 1618931259586 536870912]
   [44893 :create/user 53 536870912]
+  [44893 :edit/seen-by 74 536872311]
   [44893 :edit/seen-by 6897 536870912]
   [44893 :edit/time 1618931276249 536870912]
   [44893 :edit/user 53 536870912]
@@ -70079,14 +69539,10 @@
   [44894 :block/uid "ToA2mn254" 536870912]
   [44894 :create/time 1618931281596 536870912]
   [44894 :create/user 53 536870912]
+  [44894 :edit/seen-by 74 536872311]
   [44894 :edit/seen-by 6897 536870912]
   [44894 :edit/time 1618931290673 536870912]
   [44894 :edit/user 53 536870912]
-  [44895 :attrs/lookup 2774 536870912]
-  [44895 :attrs/lookup 44546 536870912]
-  [44895 :attrs/lookup 44895 536870912]
-  [44895 :attrs/lookup 44898 536870912]
-  [44895 :block/children 44898 536870912]
   [44895 :block/open false 536870912]
   [44895 :block/order 0 536870912]
   [44895 :block/page 4296 536870912]
@@ -70103,37 +69559,10 @@
   [44895 :block/uid "5FdTkob3X" 536870912]
   [44895 :create/time 1618931290902 536870912]
   [44895 :create/user 53 536870912]
+  [44895 :edit/seen-by 74 536872311]
   [44895 :edit/time 1618931428862 536870912]
   [44895 :edit/user 53 536870912]
-  [44895
-   :entity/attrs
-   #{[{:source [:block/uid "5FdTkob3X"],
-       :value [:block/uid "5FdTkob3X"]}
-      {:source [:block/uid "7erliNiTd"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "7erliNiTd"],
-       :value [:block/uid "evJ14QpsV"]}]}
-   536870912]
-  [44898 :block/open true 536870912]
-  [44898 :block/order 0 536870912]
-  [44898 :block/page 4296 536870912]
-  [44898 :block/parents 4296 536870912]
-  [44898 :block/parents 7333 536870912]
-  [44898 :block/parents 10915 536870912]
-  [44898 :block/parents 44893 536870912]
-  [44898 :block/parents 44894 536870912]
-  [44898 :block/parents 44895 536870912]
-  [44898 :block/refs 2774 536870912]
-  [44898 :block/refs 44546 536870912]
-  [44898
-   :block/string
-   "Brought to you by:: [[Bardia Pourvakil]]"
-   536870912]
-  [44898 :block/uid "7erliNiTd" 536870912]
-  [44898 :create/time 1618931342691 536870912]
-  [44898 :create/user 53 536870912]
-  [44898 :edit/time 1618931357063 536870912]
-  [44898 :edit/user 53 536870912]
+  [44895 :entity/attrs #{} 536872314]
   [44900 :block/uid "04-21-2021" 536870912]
   [44900 :create/time 1618955535707 536870912]
   [44900 :create/user 53 536870912]
@@ -70176,12 +69605,6 @@
   [44903 :create/user 53 536870912]
   [44903 :edit/time 1618980820390 536870912]
   [44903 :edit/user 53 536870912]
-  [44904 :attrs/lookup 2527 536870912]
-  [44904 :attrs/lookup 2760 536870912]
-  [44904 :attrs/lookup 44546 536870912]
-  [44904 :attrs/lookup 44904 536870912]
-  [44904 :attrs/lookup 44907 536870912]
-  [44904 :block/children 44907 536870912]
   [44904 :block/open false 536870912]
   [44904 :block/order 0 536870912]
   [44904 :block/page 4296 536870912]
@@ -70199,21 +69622,7 @@
   [44904 :create/user 53 536870912]
   [44904 :edit/time 1618980861534 536870912]
   [44904 :edit/user 53 536870912]
-  [44904
-   :entity/attrs
-   #{[{:source [:block/uid "eGlEOv6v6"],
-       :value [:block/uid "eGlEOv6v6"]}
-      {:source [:block/uid "L0KNTXmxW"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "L0KNTXmxW"],
-       :value [:block/uid "w3-eryhFP"]}]
-     [{:source [:block/uid "eGlEOv6v6"],
-       :value [:block/uid "eGlEOv6v6"]}
-      {:source [:block/uid "L0KNTXmxW"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "L0KNTXmxW"],
-       :value [:block/uid "IdWJv42cv"]}]}
-   536870912]
+  [44904 :entity/attrs #{} 536872323]
   [44905 :block/children 44906 536870912]
   [44905 :block/children 44913 536870912]
   [44905 :block/heading 3 536870912]
@@ -70231,11 +69640,6 @@
   [44905 :create/user 53 536870912]
   [44905 :edit/time 1618980997706 536870912]
   [44905 :edit/user 53 536870912]
-  [44906 :attrs/lookup 2527 536870912]
-  [44906 :attrs/lookup 44546 536870912]
-  [44906 :attrs/lookup 44906 536870912]
-  [44906 :attrs/lookup 44908 536870912]
-  [44906 :block/children 44908 536870912]
   [44906 :block/open false 536870912]
   [44906 :block/order 0 536870912]
   [44906 :block/page 4296 536870912]
@@ -70253,53 +69657,7 @@
   [44906 :create/user 53 536870912]
   [44906 :edit/time 1618981025334 536870912]
   [44906 :edit/user 53 536870912]
-  [44906
-   :entity/attrs
-   #{[{:source [:block/uid "vMEP4UIR5"],
-       :value [:block/uid "vMEP4UIR5"]}
-      {:source [:block/uid "CqjbAjVrI"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "CqjbAjVrI"],
-       :value [:block/uid "w3-eryhFP"]}]}
-   536870912]
-  [44907 :block/open true 536870912]
-  [44907 :block/order 0 536870912]
-  [44907 :block/page 4296 536870912]
-  [44907 :block/parents 4296 536870912]
-  [44907 :block/parents 7333 536870912]
-  [44907 :block/parents 10915 536870912]
-  [44907 :block/parents 44902 536870912]
-  [44907 :block/parents 44903 536870912]
-  [44907 :block/parents 44904 536870912]
-  [44907 :block/refs 2527 536870912]
-  [44907 :block/refs 2760 536870912]
-  [44907 :block/refs 44546 536870912]
-  [44907
-   :block/string
-   "Brought to you by:: [[Kifah Meeran]] [[Joshua Brown]]"
-   536870912]
-  [44907 :block/uid "L0KNTXmxW" 536870912]
-  [44907 :create/time 1618981194219 536870912]
-  [44907 :create/user 53 536870912]
-  [44907 :edit/time 1618981205280 536870912]
-  [44907 :edit/user 53 536870912]
-  [44908 :block/open true 536870912]
-  [44908 :block/order 0 536870912]
-  [44908 :block/page 4296 536870912]
-  [44908 :block/parents 4296 536870912]
-  [44908 :block/parents 7333 536870912]
-  [44908 :block/parents 10915 536870912]
-  [44908 :block/parents 44902 536870912]
-  [44908 :block/parents 44905 536870912]
-  [44908 :block/parents 44906 536870912]
-  [44908 :block/refs 2527 536870912]
-  [44908 :block/refs 44546 536870912]
-  [44908 :block/string "Brought to you by::[[Kifah Meeran]]" 536870912]
-  [44908 :block/uid "CqjbAjVrI" 536870912]
-  [44908 :create/time 1618981206503 536870912]
-  [44908 :create/user 53 536870912]
-  [44908 :edit/time 1618981215393 536870912]
-  [44908 :edit/user 53 536870912]
+  [44906 :entity/attrs #{} 536872323]
   [44911 :block/string "" 536870912]
   [44911 :block/uid "_Fbdx7qAo" 536870912]
   [44911 :edit/time 1618981230619 536870912]
@@ -70308,7 +69666,6 @@
   [44912 :block/uid "v54TGasmI" 536870912]
   [44912 :edit/time 1618981230742 536870912]
   [44912 :edit/user 53 536870912]
-  [44913 :block/children 44914 536870912]
   [44913 :block/open false 536870912]
   [44913 :block/order 1 536870912]
   [44913 :block/page 4296 536870912]
@@ -70326,42 +69683,7 @@
   [44913 :create/user 53 536870912]
   [44913 :edit/time 1618981265882 536870912]
   [44913 :edit/user 53 536870912]
-  [44914 :block/open true 536870912]
-  [44914 :block/order 0 536870912]
-  [44914 :block/page 4296 536870912]
-  [44914 :block/parents 4296 536870912]
-  [44914 :block/parents 7333 536870912]
-  [44914 :block/parents 10915 536870912]
-  [44914 :block/parents 44902 536870912]
-  [44914 :block/parents 44905 536870912]
-  [44914 :block/parents 44913 536870912]
-  [44914 :block/refs 44908 536870912]
-  [44914 :block/string "((CqjbAjVrI))" 536870912]
-  [44914 :block/uid "f1juWv0lj" 536870912]
-  [44914 :create/time 1618981267438 536870912]
-  [44914 :create/user 53 536870912]
-  [44914 :edit/time 1618981270877 536870912]
-  [44914 :edit/user 53 536870912]
-  [44915 :block/open true 536870912]
-  [44915 :block/order 0 536870912]
-  [44915 :block/page 4296 536870912]
-  [44915 :block/parents 4296 536870912]
-  [44915 :block/parents 7333 536870912]
-  [44915 :block/parents 10915 536870912]
-  [44915 :block/parents 44810 536870912]
-  [44915 :block/parents 44815 536870912]
-  [44915 :block/parents 44816 536870912]
-  [44915 :block/refs 2774 536870912]
-  [44915 :block/refs 44546 536870912]
-  [44915
-   :block/string
-   "Brought to you by:: [[Bardia Pourvakil]]"
-   536870912]
-  [44915 :block/uid "xeCc3gmvq" 536870912]
-  [44915 :create/time 1618981370773 536870912]
-  [44915 :create/user 53 536870912]
-  [44915 :edit/time 1618981377823 536870912]
-  [44915 :edit/user 53 536870912]
+  [44913 :entity/attrs #{} 536872343]
   [44916 :block/children 44919 536870912]
   [44916 :block/children 44921 536870912]
   [44916 :block/children 44923 536870912]
@@ -70826,11 +70148,6 @@
   [44971 :block/uid "G9Mvd9lIi" 536870912]
   [44971 :edit/time 1619067427713 536870912]
   [44971 :edit/user 53 536870912]
-  [44972 :attrs/lookup 2770 536870912]
-  [44972 :attrs/lookup 44546 536870912]
-  [44972 :attrs/lookup 44972 536870912]
-  [44972 :attrs/lookup 44973 536870912]
-  [44972 :block/children 44973 536870912]
   [44972 :block/open false 536870912]
   [44972 :block/order 1 536870912]
   [44972 :block/page 4296 536870912]
@@ -70848,35 +70165,7 @@
   [44972 :create/user 53 536870912]
   [44972 :edit/time 1619067458763 536870912]
   [44972 :edit/user 53 536870912]
-  [44972
-   :entity/attrs
-   #{[{:source [:block/uid "sJVSS_NAA"],
-       :value [:block/uid "sJVSS_NAA"]}
-      {:source [:block/uid "kld4XMakB"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "kld4XMakB"],
-       :value [:block/uid "EJIFQrIL3"]}]}
-   536870912]
-  [44973 :block/open true 536870912]
-  [44973 :block/order 0 536870912]
-  [44973 :block/page 4296 536870912]
-  [44973 :block/parents 4296 536870912]
-  [44973 :block/parents 7333 536870912]
-  [44973 :block/parents 10915 536870912]
-  [44973 :block/parents 44948 536870912]
-  [44973 :block/parents 44965 536870912]
-  [44973 :block/parents 44972 536870912]
-  [44973 :block/refs 2770 536870912]
-  [44973 :block/refs 44546 536870912]
-  [44973
-   :block/string
-   "Brought to you by:: [[Adam Sherwood]]"
-   536870912]
-  [44973 :block/uid "kld4XMakB" 536870912]
-  [44973 :create/time 1619067458754 536870912]
-  [44973 :create/user 53 536870912]
-  [44973 :edit/time 1619067472313 536870912]
-  [44973 :edit/user 53 536870912]
+  [44972 :entity/attrs #{} 536872323]
   [44974 :block/children 44975 536870912]
   [44974 :block/heading 3 536870912]
   [44974 :block/open false 536870912]
@@ -71038,11 +70327,6 @@
   [44985 :block/uid "STlpWEuC3" 536870912]
   [44985 :edit/time 1619108692635 536870912]
   [44985 :edit/user 53 536870912]
-  [44986 :attrs/lookup 2768 536870912]
-  [44986 :attrs/lookup 44546 536870912]
-  [44986 :attrs/lookup 44986 536870912]
-  [44986 :attrs/lookup 44987 536870912]
-  [44986 :block/children 44987 536870912]
   [44986 :block/open false 536870912]
   [44986 :block/order 0 536870912]
   [44986 :block/page 4296 536870912]
@@ -71057,35 +70341,7 @@
   [44986 :create/user 53 536870912]
   [44986 :edit/time 1619108699619 536870912]
   [44986 :edit/user 53 536870912]
-  [44986
-   :entity/attrs
-   #{[{:source [:block/uid "LMQLCINZB"],
-       :value [:block/uid "LMQLCINZB"]}
-      {:source [:block/uid "oyd8LuXo0"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "oyd8LuXo0"],
-       :value [:block/uid "IFYmBp-zm"]}]}
-   536870912]
-  [44987 :block/open true 536870912]
-  [44987 :block/order 0 536870912]
-  [44987 :block/page 4296 536870912]
-  [44987 :block/parents 4296 536870912]
-  [44987 :block/parents 7333 536870912]
-  [44987 :block/parents 10915 536870912]
-  [44987 :block/parents 44948 536870912]
-  [44987 :block/parents 44965 536870912]
-  [44987 :block/parents 44986 536870912]
-  [44987 :block/refs 2768 536870912]
-  [44987 :block/refs 44546 536870912]
-  [44987
-   :block/string
-   "Brought to you by:: [[Filipe Silva]]"
-   536870912]
-  [44987 :block/uid "oyd8LuXo0" 536870912]
-  [44987 :create/time 1619108699767 536870912]
-  [44987 :create/user 53 536870912]
-  [44987 :edit/time 1619108707459 536870912]
-  [44987 :edit/user 53 536870912]
+  [44986 :entity/attrs #{} 536872323]
   [44988 :block/open true 536870912]
   [44988 :block/order 0 536870912]
   [44988 :block/page 44947 536870912]
@@ -71115,6 +70371,7 @@
   [44990 :block/uid "EszchYrAX" 536870912]
   [44990 :create/time 1619165081426 536870912]
   [44990 :create/user 53 536870912]
+  [44990 :edit/seen-by 74 536872304]
   [44990 :edit/time 1619165090386 536870912]
   [44990 :edit/user 53 536870912]
   [44991 :block/children 44992 536870912]
@@ -71136,9 +70393,9 @@
   [44991 :block/uid "uK6pND05j" 536870912]
   [44991 :create/time 1619165090366 536870912]
   [44991 :create/user 53 536870912]
+  [44991 :edit/seen-by 74 536872305]
   [44991 :edit/time 1619165094901 536870912]
   [44991 :edit/user 53 536870912]
-  [44992 :block/children 44999 536870912]
   [44992 :block/open false 536870912]
   [44992 :block/order 0 536870912]
   [44992 :block/page 4296 536870912]
@@ -71155,9 +70412,10 @@
   [44992 :block/uid "AmV4mtZzm" 536870912]
   [44992 :create/time 1619165094891 536870912]
   [44992 :create/user 53 536870912]
+  [44992 :edit/seen-by 74 536872306]
   [44992 :edit/time 1619165143430 536870912]
   [44992 :edit/user 53 536870912]
-  [44993 :block/children 44998 536870912]
+  [44992 :entity/attrs #{} 536872343]
   [44993 :block/open false 536870912]
   [44993 :block/order 1 536870912]
   [44993 :block/page 4296 536870912]
@@ -71173,9 +70431,10 @@
   [44993 :block/uid "B4STvvwBK" 536870912]
   [44993 :create/time 1619165143414 536870912]
   [44993 :create/user 53 536870912]
+  [44993 :edit/seen-by 74 536872307]
   [44993 :edit/time 1619165179485 536870912]
   [44993 :edit/user 53 536870912]
-  [44994 :block/children 44997 536870912]
+  [44993 :entity/attrs #{} 536872343]
   [44994 :block/open false 536870912]
   [44994 :block/order 2 536870912]
   [44994 :block/page 4296 536870912]
@@ -71191,13 +70450,10 @@
   [44994 :block/uid "FYMIMwI2c" 536870912]
   [44994 :create/time 1619165179472 536870912]
   [44994 :create/user 53 536870912]
+  [44994 :edit/seen-by 74 536872308]
   [44994 :edit/time 1619165201318 536870912]
   [44994 :edit/user 53 536870912]
-  [44995 :attrs/lookup 2770 536870912]
-  [44995 :attrs/lookup 44546 536870912]
-  [44995 :attrs/lookup 44995 536870912]
-  [44995 :attrs/lookup 44996 536870912]
-  [44995 :block/children 44996 536870912]
+  [44994 :entity/attrs #{} 536872343]
   [44995 :block/open false 536870912]
   [44995 :block/order 3 536870912]
   [44995 :block/page 4296 536870912]
@@ -71213,90 +70469,10 @@
   [44995 :block/uid "ktFhSuOpy" 536870912]
   [44995 :create/time 1619165201303 536870912]
   [44995 :create/user 53 536870912]
+  [44995 :edit/seen-by 74 536872309]
   [44995 :edit/time 1619165248596 536870912]
   [44995 :edit/user 53 536870912]
-  [44995
-   :entity/attrs
-   #{[{:source [:block/uid "ktFhSuOpy"],
-       :value [:block/uid "ktFhSuOpy"]}
-      {:source [:block/uid "RRz1CDLBy"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "RRz1CDLBy"],
-       :value [:block/uid "EJIFQrIL3"]}]}
-   536870912]
-  [44996 :block/open true 536870912]
-  [44996 :block/order 0 536870912]
-  [44996 :block/page 4296 536870912]
-  [44996 :block/parents 4296 536870912]
-  [44996 :block/parents 7333 536870912]
-  [44996 :block/parents 10915 536870912]
-  [44996 :block/parents 44990 536870912]
-  [44996 :block/parents 44991 536870912]
-  [44996 :block/parents 44995 536870912]
-  [44996 :block/refs 2770 536870912]
-  [44996 :block/refs 44546 536870912]
-  [44996
-   :block/string
-   "Brought to you by:: [[Adam Sherwood]]"
-   536870912]
-  [44996 :block/uid "RRz1CDLBy" 536870912]
-  [44996 :create/time 1619165249917 536870912]
-  [44996 :create/user 53 536870912]
-  [44996 :edit/time 1619165257056 536870912]
-  [44996 :edit/user 53 536870912]
-  [44997 :block/open true 536870912]
-  [44997 :block/order 0 536870912]
-  [44997 :block/page 4296 536870912]
-  [44997 :block/parents 4296 536870912]
-  [44997 :block/parents 7333 536870912]
-  [44997 :block/parents 10915 536870912]
-  [44997 :block/parents 44990 536870912]
-  [44997 :block/parents 44991 536870912]
-  [44997 :block/parents 44994 536870912]
-  [44997 :block/refs 44996 536870912]
-  [44997 :block/string "((RRz1CDLBy))" 536870912]
-  [44997 :block/uid "krB-GOHTg" 536870912]
-  [44997 :create/time 1619165260714 536870912]
-  [44997 :create/user 53 536870912]
-  [44997 :edit/time 1619165262867 536870912]
-  [44997 :edit/user 53 536870912]
-  [44998 :block/open true 536870912]
-  [44998 :block/order 0 536870912]
-  [44998 :block/page 4296 536870912]
-  [44998 :block/parents 4296 536870912]
-  [44998 :block/parents 7333 536870912]
-  [44998 :block/parents 10915 536870912]
-  [44998 :block/parents 44990 536870912]
-  [44998 :block/parents 44991 536870912]
-  [44998 :block/parents 44993 536870912]
-  [44998 :block/refs 44996 536870912]
-  [44998 :block/string "((RRz1CDLBy))" 536870912]
-  [44998 :block/uid "8JEOdrHYP" 536870912]
-  [44998 :create/time 1619165263642 536870912]
-  [44998 :create/user 53 536870912]
-  [44998 :edit/time 1619165265183 536870912]
-  [44998 :edit/user 53 536870912]
-  [44999 :block/open true 536870912]
-  [44999 :block/order 0 536870912]
-  [44999 :block/page 4296 536870912]
-  [44999 :block/parents 4296 536870912]
-  [44999 :block/parents 7333 536870912]
-  [44999 :block/parents 10915 536870912]
-  [44999 :block/parents 44990 536870912]
-  [44999 :block/parents 44991 536870912]
-  [44999 :block/parents 44992 536870912]
-  [44999 :block/refs 44996 536870912]
-  [44999 :block/string "((RRz1CDLBy))" 536870912]
-  [44999 :block/uid "NYAHfAlKJ" 536870912]
-  [44999 :create/time 1619165266745 536870912]
-  [44999 :create/user 53 536870912]
-  [44999 :edit/time 1619165268264 536870912]
-  [44999 :edit/user 53 536870912]
-  [45000 :attrs/lookup 2527 536870912]
-  [45000 :attrs/lookup 44546 536870912]
-  [45000 :attrs/lookup 45000 536870912]
-  [45000 :attrs/lookup 45002 536870912]
-  [45000 :block/children 45002 536870912]
+  [44995 :entity/attrs #{} 536872323]
   [45000 :block/open false 536870912]
   [45000 :block/order 4 536870912]
   [45000 :block/page 4296 536870912]
@@ -71315,41 +70491,13 @@
   [45000 :create/user 53 536870912]
   [45000 :edit/time 1619165314623 536870912]
   [45000 :edit/user 53 536870912]
-  [45000
-   :entity/attrs
-   #{[{:source [:block/uid "IWTV644BO"],
-       :value [:block/uid "IWTV644BO"]}
-      {:source [:block/uid "UrBTpx3Hq"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "UrBTpx3Hq"],
-       :value [:block/uid "w3-eryhFP"]}]}
-   536870912]
+  [45000 :entity/attrs #{} 536872323]
   [45001 :block/uid "oxkJJUv2z" 536870912]
   [45001 :create/time 1619165314625 536870912]
   [45001 :create/user 53 536870912]
   [45001 :edit/time 1619165314626 536870912]
   [45001 :edit/user 53 536870912]
   [45001 :node/title "Mobile Menu Bar" 536870912]
-  [45002 :block/open true 536870912]
-  [45002 :block/order 0 536870912]
-  [45002 :block/page 4296 536870912]
-  [45002 :block/parents 4296 536870912]
-  [45002 :block/parents 7333 536870912]
-  [45002 :block/parents 10915 536870912]
-  [45002 :block/parents 44990 536870912]
-  [45002 :block/parents 44991 536870912]
-  [45002 :block/parents 45000 536870912]
-  [45002 :block/refs 2527 536870912]
-  [45002 :block/refs 44546 536870912]
-  [45002
-   :block/string
-   "Brought to you by:: [[Kifah Meeran]]"
-   536870912]
-  [45002 :block/uid "UrBTpx3Hq" 536870912]
-  [45002 :create/time 1619165318856 536870912]
-  [45002 :create/user 53 536870912]
-  [45002 :edit/time 1619165325505 536870912]
-  [45002 :edit/user 53 536870912]
   [45003 :block/open true 536870912]
   [45003 :block/order 0 536870912]
   [45003 :block/page 356 536870912]
@@ -71386,11 +70534,6 @@
   [45005 :create/user 3422 536870912]
   [45005 :edit/time 1619170883473 536870912]
   [45005 :edit/user 3422 536870912]
-  [45006 :attrs/lookup 2760 536870912]
-  [45006 :attrs/lookup 44546 536870912]
-  [45006 :attrs/lookup 45006 536870912]
-  [45006 :attrs/lookup 45007 536870912]
-  [45006 :block/children 45007 536870912]
   [45006 :block/open false 536870912]
   [45006 :block/order 5 536870912]
   [45006 :block/page 4296 536870912]
@@ -71405,35 +70548,7 @@
   [45006 :create/user 53 536870912]
   [45006 :edit/time 1619263036833 536870912]
   [45006 :edit/user 53 536870912]
-  [45006
-   :entity/attrs
-   #{[{:source [:block/uid "QZdhB4PGS"],
-       :value [:block/uid "QZdhB4PGS"]}
-      {:source [:block/uid "7ci-b4WBd"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "7ci-b4WBd"],
-       :value [:block/uid "IdWJv42cv"]}]}
-   536870912]
-  [45007 :block/open true 536870912]
-  [45007 :block/order 0 536870912]
-  [45007 :block/page 4296 536870912]
-  [45007 :block/parents 4296 536870912]
-  [45007 :block/parents 7333 536870912]
-  [45007 :block/parents 10915 536870912]
-  [45007 :block/parents 44990 536870912]
-  [45007 :block/parents 44991 536870912]
-  [45007 :block/parents 45006 536870912]
-  [45007 :block/refs 2760 536870912]
-  [45007 :block/refs 44546 536870912]
-  [45007
-   :block/string
-   "Brought to you by:: [[Joshua Brown]]"
-   536870912]
-  [45007 :block/uid "7ci-b4WBd" 536870912]
-  [45007 :create/time 1619263036818 536870912]
-  [45007 :create/user 53 536870912]
-  [45007 :edit/time 1619263044977 536870912]
-  [45007 :edit/user 53 536870912]
+  [45006 :entity/attrs #{} 536872323]
   [45008 :block/uid "04-26-2021" 536870912]
   [45008 :create/time 1619414785759 536870912]
   [45008 :create/user 3 536870912]
@@ -71453,6 +70568,7 @@
   [45009 :block/uid "wXACJ3z8h" 536870912]
   [45009 :create/time 1619597729466 536870912]
   [45009 :create/user 53 536870912]
+  [45009 :edit/seen-by 74 536872301]
   [45009 :edit/time 1619597734381 536870912]
   [45009 :edit/user 53 536870912]
   [45010 :block/uid "04-28-2021" 536870912]
@@ -71476,13 +70592,9 @@
   [45011 :block/uid "B25ViTj6s" 536870912]
   [45011 :create/time 1619597734363 536870912]
   [45011 :create/user 53 536870912]
+  [45011 :edit/seen-by 74 536872302]
   [45011 :edit/time 1619597736087 536870912]
   [45011 :edit/user 53 536870912]
-  [45012 :attrs/lookup 2760 536870912]
-  [45012 :attrs/lookup 44546 536870912]
-  [45012 :attrs/lookup 45012 536870912]
-  [45012 :attrs/lookup 45013 536870912]
-  [45012 :block/children 45013 536870912]
   [45012 :block/open false 536870912]
   [45012 :block/order 0 536870912]
   [45012 :block/page 4296 536870912]
@@ -71499,37 +70611,10 @@
   [45012 :block/uid "G99p9F7fo" 536870912]
   [45012 :create/time 1619597737053 536870912]
   [45012 :create/user 53 536870912]
+  [45012 :edit/seen-by 74 536872303]
   [45012 :edit/time 1619597763753 536870912]
   [45012 :edit/user 53 536870912]
-  [45012
-   :entity/attrs
-   #{[{:source [:block/uid "G99p9F7fo"],
-       :value [:block/uid "G99p9F7fo"]}
-      {:source [:block/uid "PBb9DF6qZ"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "PBb9DF6qZ"],
-       :value [:block/uid "IdWJv42cv"]}]}
-   536870912]
-  [45013 :block/open true 536870912]
-  [45013 :block/order 0 536870912]
-  [45013 :block/page 4296 536870912]
-  [45013 :block/parents 4296 536870912]
-  [45013 :block/parents 7333 536870912]
-  [45013 :block/parents 10915 536870912]
-  [45013 :block/parents 45009 536870912]
-  [45013 :block/parents 45011 536870912]
-  [45013 :block/parents 45012 536870912]
-  [45013 :block/refs 2760 536870912]
-  [45013 :block/refs 44546 536870912]
-  [45013
-   :block/string
-   "Brought to you by:: [[Joshua Brown]]"
-   536870912]
-  [45013 :block/uid "PBb9DF6qZ" 536870912]
-  [45013 :create/time 1619597763741 536870912]
-  [45013 :create/user 53 536870912]
-  [45013 :edit/time 1619597773558 536870912]
-  [45013 :edit/user 53 536870912]
+  [45012 :entity/attrs #{} 536872323]
   [45014 :block/uid "04-29-2021" 536870912]
   [45014 :create/time 1619656446670 536870912]
   [45014 :create/user 3422 536870912]
@@ -71552,6 +70637,7 @@
   [45015 :create/time 1619673617242 536870912]
   [45015 :create/user 53 536870912]
   [45015 :edit/seen-by 3 536871245]
+  [45015 :edit/seen-by 74 536872294]
   [45015 :edit/time 1619673622667 536870912]
   [45015 :edit/user 53 536870912]
   [45016 :block/children 45017 536870912]
@@ -71569,13 +70655,9 @@
   [45016 :block/uid "Q3pC5YKUA" 536870912]
   [45016 :create/time 1619673776928 536870912]
   [45016 :create/user 53 536870912]
+  [45016 :edit/seen-by 74 536872297]
   [45016 :edit/time 1619674197211 536870912]
   [45016 :edit/user 53 536870912]
-  [45017 :attrs/lookup 2527 536870912]
-  [45017 :attrs/lookup 44546 536870912]
-  [45017 :attrs/lookup 45017 536870912]
-  [45017 :attrs/lookup 45026 536870912]
-  [45017 :block/children 45026 536870912]
   [45017 :block/open false 536870912]
   [45017 :block/order 0 536870912]
   [45017 :block/page 4296 536870912]
@@ -71593,17 +70675,10 @@
   [45017 :block/uid "EG4Y4tOFu" 536870912]
   [45017 :create/time 1619673781281 536870912]
   [45017 :create/user 53 536870912]
+  [45017 :edit/seen-by 74 536872298]
   [45017 :edit/time 1619674156451 536870912]
   [45017 :edit/user 53 536870912]
-  [45017
-   :entity/attrs
-   #{[{:source [:block/uid "EG4Y4tOFu"],
-       :value [:block/uid "EG4Y4tOFu"]}
-      {:source [:block/uid "9yPEdbhR7"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "9yPEdbhR7"],
-       :value [:block/uid "w3-eryhFP"]}]}
-   536870912]
+  [45017 :entity/attrs #{} 536872323]
   [45018 :block/open true 536870912]
   [45018 :block/order 2 536870912]
   [45018 :block/page 4296 536870912]
@@ -71643,9 +70718,9 @@
   [45021 :block/uid "eM96Z-RB3" 536870912]
   [45021 :create/time 1619673914927 536870912]
   [45021 :create/user 53 536870912]
+  [45021 :edit/seen-by 74 536872300]
   [45021 :edit/time 1619673914927 536870912]
   [45021 :edit/user 53 536870912]
-  [45022 :block/children 45025 536870912]
   [45022 :block/open false 536870912]
   [45022 :block/order 0 536870912]
   [45022 :block/page 4296 536870912]
@@ -71661,13 +70736,10 @@
   [45022 :block/uid "JtN6spR4t" 536870912]
   [45022 :create/time 1619673958997 536870912]
   [45022 :create/user 53 536870912]
+  [45022 :edit/seen-by 74 536872342]
   [45022 :edit/time 1619673965628 536870912]
   [45022 :edit/user 53 536870912]
-  [45023 :attrs/lookup 2774 536870912]
-  [45023 :attrs/lookup 44546 536870912]
-  [45023 :attrs/lookup 45023 536870912]
-  [45023 :attrs/lookup 45024 536870912]
-  [45023 :block/children 45024 536870912]
+  [45022 :entity/attrs #{} 536872343]
   [45023 :block/open false 536870912]
   [45023 :block/order 1 536870912]
   [45023 :block/page 4296 536870912]
@@ -71682,76 +70754,8 @@
   [45023 :create/user 53 536870912]
   [45023 :edit/time 1619674023959 536870912]
   [45023 :edit/user 53 536870912]
-  [45023
-   :entity/attrs
-   #{[{:source [:block/uid "1X9lkvNK8"],
-       :value [:block/uid "1X9lkvNK8"]}
-      {:source [:block/uid "RpSOW7KZF"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "RpSOW7KZF"],
-       :value [:block/uid "evJ14QpsV"]}]}
-   536870912]
-  [45024 :block/open true 536870912]
-  [45024 :block/order 0 536870912]
-  [45024 :block/page 4296 536870912]
-  [45024 :block/parents 4296 536870912]
-  [45024 :block/parents 7333 536870912]
-  [45024 :block/parents 10915 536870912]
-  [45024 :block/parents 45015 536870912]
-  [45024 :block/parents 45021 536870912]
-  [45024 :block/parents 45023 536870912]
-  [45024 :block/refs 2774 536870912]
-  [45024 :block/refs 44546 536870912]
-  [45024
-   :block/string
-   "Brought to you by:: [[Bardia Pourvakil]]"
-   536870912]
-  [45024 :block/uid "RpSOW7KZF" 536870912]
-  [45024 :create/time 1619674058816 536870912]
-  [45024 :create/user 53 536870912]
-  [45024 :edit/time 1619674065992 536870912]
-  [45024 :edit/user 53 536870912]
-  [45025 :block/open true 536870912]
-  [45025 :block/order 0 536870912]
-  [45025 :block/page 4296 536870912]
-  [45025 :block/parents 4296 536870912]
-  [45025 :block/parents 7333 536870912]
-  [45025 :block/parents 10915 536870912]
-  [45025 :block/parents 45015 536870912]
-  [45025 :block/parents 45021 536870912]
-  [45025 :block/parents 45022 536870912]
-  [45025 :block/refs 45024 536870912]
-  [45025 :block/string "((RpSOW7KZF))" 536870912]
-  [45025 :block/uid "h7LGl_ufQ" 536870912]
-  [45025 :create/time 1619674068788 536870912]
-  [45025 :create/user 53 536870912]
-  [45025 :edit/time 1619674070080 536870912]
-  [45025 :edit/user 53 536870912]
-  [45026 :block/open true 536870912]
-  [45026 :block/order 0 536870912]
-  [45026 :block/page 4296 536870912]
-  [45026 :block/parents 4296 536870912]
-  [45026 :block/parents 7333 536870912]
-  [45026 :block/parents 10915 536870912]
-  [45026 :block/parents 45015 536870912]
-  [45026 :block/parents 45016 536870912]
-  [45026 :block/parents 45017 536870912]
-  [45026 :block/refs 2527 536870912]
-  [45026 :block/refs 44546 536870912]
-  [45026
-   :block/string
-   "Brought to you by:: [[Kifah Meeran]]"
-   536870912]
-  [45026 :block/uid "9yPEdbhR7" 536870912]
-  [45026 :create/time 1619674075326 536870912]
-  [45026 :create/user 53 536870912]
-  [45026 :edit/time 1619674081197 536870912]
-  [45026 :edit/user 53 536870912]
-  [45027 :attrs/lookup 2760 536870912]
-  [45027 :attrs/lookup 44546 536870912]
+  [45023 :entity/attrs #{} 536872323]
   [45027 :attrs/lookup 45027 536870912]
-  [45027 :attrs/lookup 45033 536870912]
-  [45027 :block/children 45033 536870912]
   [45027 :block/open false 536870912]
   [45027 :block/order 1 536870912]
   [45027 :block/page 4296 536870912]
@@ -71767,6 +70771,7 @@
   [45027 :block/uid "qbu_Kjban" 536870912]
   [45027 :create/time 1619674123548 536870912]
   [45027 :create/user 53 536870912]
+  [45027 :edit/seen-by 74 536872299]
   [45027 :edit/time 1619674140815 536870912]
   [45027 :edit/user 53 536870912]
   [45027
@@ -71799,15 +70804,9 @@
   [45029 :create/time 1619674194844 536870912]
   [45029 :create/user 53 536870912]
   [45029 :edit/seen-by 3 536871245]
+  [45029 :edit/seen-by 74 536872295]
   [45029 :edit/time 1619674206348 536870912]
   [45029 :edit/user 53 536870912]
-  [45030 :attrs/lookup 2527 536870912]
-  [45030 :attrs/lookup 2760 536870912]
-  [45030 :attrs/lookup 2774 536870912]
-  [45030 :attrs/lookup 44546 536870912]
-  [45030 :attrs/lookup 45030 536870912]
-  [45030 :attrs/lookup 45032 536870912]
-  [45030 :block/children 45032 536870912]
   [45030 :block/open false 536870912]
   [45030 :block/order 0 536870912]
   [45030 :block/page 4296 536870912]
@@ -71824,84 +70823,19 @@
   [45030 :create/time 1619674206338 536870912]
   [45030 :create/user 53 536870912]
   [45030 :edit/seen-by 3 536871245]
+  [45030 :edit/seen-by 74 536872296]
   [45030 :edit/time 1621194676875 536871247]
   [45030 :edit/user 3 536871246]
-  [45030
-   :entity/attrs
-   #{[{:source [:block/uid "EwEymFFE4"],
-       :value [:block/uid "EwEymFFE4"]}
-      {:source [:block/uid "8GvysEfgm"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "8GvysEfgm"],
-       :value [:block/uid "IdWJv42cv"]}]
-     [{:source [:block/uid "EwEymFFE4"],
-       :value [:block/uid "EwEymFFE4"]}
-      {:source [:block/uid "8GvysEfgm"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "8GvysEfgm"],
-       :value [:block/uid "evJ14QpsV"]}]
-     [{:source [:block/uid "EwEymFFE4"],
-       :value [:block/uid "EwEymFFE4"]}
-      {:source [:block/uid "8GvysEfgm"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "8GvysEfgm"],
-       :value [:block/uid "w3-eryhFP"]}]}
-   536870912]
+  [45030 :entity/attrs #{} 536872323]
   [45031 :block/uid "MRbowQ-Rt" 536870975]
   [45031 :graph/name "help" 536870912]
   [45031 :graph/t 1620367926309 536870912]
-  [45032 :block/open true 536870912]
-  [45032 :block/order 0 536870912]
-  [45032 :block/page 4296 536870912]
-  [45032 :block/parents 4296 536870912]
-  [45032 :block/parents 7333 536870912]
-  [45032 :block/parents 10915 536870912]
-  [45032 :block/parents 45015 536870912]
-  [45032 :block/parents 45029 536870912]
-  [45032 :block/parents 45030 536870912]
-  [45032 :block/refs 2527 536870912]
-  [45032 :block/refs 2760 536870912]
-  [45032 :block/refs 2774 536870912]
-  [45032 :block/refs 44546 536870912]
-  [45032
-   :block/string
-   "Brought to you by:: [[Bardia Pourvakil]] [[Kifah Meeran]] [[Joshua Brown]]"
-   536870912]
-  [45032 :block/uid "8GvysEfgm" 536870912]
-  [45032 :create/time 1619674711618 536870912]
-  [45032 :create/user 53 536870912]
-  [45032 :edit/time 1619677914200 536870912]
-  [45032 :edit/user 53 536870912]
-  [45033 :block/open true 536870912]
-  [45033 :block/order 0 536870912]
-  [45033 :block/page 4296 536870912]
-  [45033 :block/parents 4296 536870912]
-  [45033 :block/parents 7333 536870912]
-  [45033 :block/parents 10915 536870912]
-  [45033 :block/parents 45015 536870912]
-  [45033 :block/parents 45016 536870912]
-  [45033 :block/parents 45027 536870912]
-  [45033 :block/refs 2760 536870912]
-  [45033 :block/refs 44546 536870912]
-  [45033
-   :block/string
-   "Brought to you by:: [[Joshua Brown]]"
-   536870912]
-  [45033 :block/uid "0KQIIJquu" 536870912]
-  [45033 :create/time 1619674722818 536870912]
-  [45033 :create/user 53 536870912]
-  [45033 :edit/time 1619674728494 536870912]
-  [45033 :edit/user 53 536870912]
-  [45033
-   :version/nonce
-   "uuid23a88167-7958-4227-92c9-468237408b3e"
-   536871136]
   [45034 :block/uid "foxbWEQxW" 536870975]
   [45034 :version/id "0.8.5" 536870912]
   [45034
    :version/nonce
-   "uuidb5b4902c-c890-4019-b694-326d931e599e"
-   536872252]
+   "uuid276833dd-8c10-42a0-b571-20cb9c99b1c1"
+   536872347]
   [45034
    :version/upgraded-nonce
    "uuid6ef09d55-8f2b-40a0-a0ba-d6bd86a1f663"
@@ -71926,6 +70860,7 @@
   [45036 :block/uid "i5RxXu_bN" 536870912]
   [45036 :create/time 1619763158419 536870912]
   [45036 :create/user 53 536870912]
+  [45036 :edit/seen-by 74 536872285]
   [45036 :edit/time 1619763161189 536870912]
   [45036 :edit/user 53 536870912]
   [45037 :block/children 45038 536870912]
@@ -71944,13 +70879,9 @@
   [45037 :block/uid "UU1Z7YZj2" 536870912]
   [45037 :create/time 1619763161171 536870912]
   [45037 :create/user 53 536870912]
+  [45037 :edit/seen-by 74 536872290]
   [45037 :edit/time 1619763177261 536870912]
   [45037 :edit/user 53 536870912]
-  [45038 :attrs/lookup 2527 536870912]
-  [45038 :attrs/lookup 44546 536870912]
-  [45038 :attrs/lookup 45038 536870912]
-  [45038 :attrs/lookup 45041 536870912]
-  [45038 :block/children 45041 536870912]
   [45038 :block/open false 536870912]
   [45038 :block/order 1 536870912]
   [45038 :block/page 4296 536870912]
@@ -71967,23 +70898,10 @@
   [45038 :block/uid "ojGTtjOkC" 536870912]
   [45038 :create/time 1619763177247 536870912]
   [45038 :create/user 53 536870912]
+  [45038 :edit/seen-by 74 536872292]
   [45038 :edit/time 1619764218997 536870912]
   [45038 :edit/user 53 536870912]
-  [45038
-   :entity/attrs
-   #{[{:source [:block/uid "ojGTtjOkC"],
-       :value [:block/uid "ojGTtjOkC"]}
-      {:source [:block/uid "julfPllLp"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "julfPllLp"],
-       :value [:block/uid "w3-eryhFP"]}]}
-   536870912]
-  [45039 :attrs/lookup 2770 536870912]
-  [45039 :attrs/lookup 44546 536870912]
-  [45039 :attrs/lookup 44848 536870912]
-  [45039 :attrs/lookup 45039 536870912]
-  [45039 :attrs/lookup 45042 536870912]
-  [45039 :block/children 45042 536870912]
+  [45038 :entity/attrs #{} 536872323]
   [45039 :block/open false 536870912]
   [45039 :block/order 0 536870912]
   [45039 :block/page 4296 536870912]
@@ -71999,75 +70917,16 @@
   [45039 :block/uid "8cTgcjuY-" 536870912]
   [45039 :create/time 1619763216081 536870912]
   [45039 :create/user 53 536870912]
+  [45039 :edit/seen-by 74 536872291]
   [45039 :edit/time 1619764666208 536870912]
   [45039 :edit/user 53 536870912]
-  [45039
-   :entity/attrs
-   #{[{:source [:block/uid "8cTgcjuY-"],
-       :value [:block/uid "8cTgcjuY-"]}
-      {:source [:block/uid "G7nCDUaGe"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "G7nCDUaGe"],
-       :value [:block/uid "A1MxhqDRI"]}]
-     [{:source [:block/uid "8cTgcjuY-"],
-       :value [:block/uid "8cTgcjuY-"]}
-      {:source [:block/uid "G7nCDUaGe"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "G7nCDUaGe"],
-       :value [:block/uid "EJIFQrIL3"]}]}
-   536870912]
+  [45039 :entity/attrs #{} 536872323]
   [45040 :block/uid "s6_qhdpmE" 536870912]
   [45040 :create/time 1619763216098 536870912]
   [45040 :create/user 53 536870912]
   [45040 :edit/time 1619763216099 536870912]
   [45040 :edit/user 53 536870912]
   [45040 :node/title "Safari" 536870912]
-  [45041 :block/open true 536870912]
-  [45041 :block/order 0 536870912]
-  [45041 :block/page 4296 536870912]
-  [45041 :block/parents 4296 536870912]
-  [45041 :block/parents 7333 536870912]
-  [45041 :block/parents 10915 536870912]
-  [45041 :block/parents 45036 536870912]
-  [45041 :block/parents 45037 536870912]
-  [45041 :block/parents 45038 536870912]
-  [45041 :block/refs 2527 536870912]
-  [45041 :block/refs 44546 536870912]
-  [45041
-   :block/string
-   "Brought to you by:: [[Kifah Meeran]]"
-   536870912]
-  [45041 :block/uid "julfPllLp" 536870912]
-  [45041 :create/time 1619764175112 536870912]
-  [45041 :create/user 53 536870912]
-  [45041 :edit/time 1619764181742 536870912]
-  [45041 :edit/user 53 536870912]
-  [45042 :block/open true 536870912]
-  [45042 :block/order 0 536870912]
-  [45042 :block/page 4296 536870912]
-  [45042 :block/parents 4296 536870912]
-  [45042 :block/parents 7333 536870912]
-  [45042 :block/parents 10915 536870912]
-  [45042 :block/parents 45036 536870912]
-  [45042 :block/parents 45037 536870912]
-  [45042 :block/parents 45039 536870912]
-  [45042 :block/refs 2770 536870912]
-  [45042 :block/refs 44546 536870912]
-  [45042 :block/refs 44848 536870912]
-  [45042
-   :block/string
-   "Brought to you by:: [[Adam Sherwood]] [[Wilker Lucio]]"
-   536870912]
-  [45042 :block/uid "G7nCDUaGe" 536870912]
-  [45042 :create/time 1619764185049 536870912]
-  [45042 :create/user 53 536870912]
-  [45042 :edit/time 1619764194049 536870912]
-  [45042 :edit/user 53 536870912]
-  [45048 :attrs/lookup 2768 536870912]
-  [45048 :attrs/lookup 44546 536870912]
-  [45048 :attrs/lookup 45048 536870912]
-  [45048 :attrs/lookup 45050 536870912]
-  [45048 :block/children 45050 536870912]
   [45048 :block/open false 536870912]
   [45048 :block/order 0 536870912]
   [45048 :block/page 4296 536870912]
@@ -72084,17 +70943,10 @@
   [45048 :block/uid "jn6DHb-J7" 536870912]
   [45048 :create/time 1619765051658 536870912]
   [45048 :create/user 53 536870912]
+  [45048 :edit/seen-by 74 536872289]
   [45048 :edit/time 1619765053939 536870912]
   [45048 :edit/user 53 536870912]
-  [45048
-   :entity/attrs
-   #{[{:source [:block/uid "jn6DHb-J7"],
-       :value [:block/uid "jn6DHb-J7"]}
-      {:source [:block/uid "COznN-0m6"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "COznN-0m6"],
-       :value [:block/uid "IFYmBp-zm"]}]}
-   536870912]
+  [45048 :entity/attrs #{} 536872323]
   [45049 :block/children 45048 536870912]
   [45049 :block/heading 3 536870912]
   [45049 :block/open true 536870912]
@@ -72110,31 +70962,9 @@
   [45049 :block/uid "6ncnfWr_w" 536870912]
   [45049 :create/time 1619765058283 536870912]
   [45049 :create/user 53 536870912]
+  [45049 :edit/seen-by 74 536872288]
   [45049 :edit/time 1619765059640 536870912]
   [45049 :edit/user 53 536870912]
-  [45050 :block/open true 536870912]
-  [45050 :block/order 0 536870912]
-  [45050 :block/page 4296 536870912]
-  [45050 :block/parents 4296 536870912]
-  [45050 :block/parents 7333 536870912]
-  [45050 :block/parents 10915 536870912]
-  [45050 :block/parents 45036 536870912]
-  [45050 :block/parents 45048 536870912]
-  [45050 :block/parents 45049 536870912]
-  [45050 :block/parents 45056 536870912]
-  [45050 :block/refs 2768 536870912]
-  [45050 :block/refs 44546 536870912]
-  [45050 :block/string "Brought to you by::[[Filipe Silva]]" 536870912]
-  [45050 :block/uid "COznN-0m6" 536870912]
-  [45050 :create/time 1619765067901 536870912]
-  [45050 :create/user 53 536870912]
-  [45050 :edit/time 1619765075186 536870912]
-  [45050 :edit/user 53 536870912]
-  [45051 :attrs/lookup 2527 536870912]
-  [45051 :attrs/lookup 44546 536870912]
-  [45051 :attrs/lookup 45051 536870912]
-  [45051 :attrs/lookup 45060 536870912]
-  [45051 :block/children 45060 536870912]
   [45051 :block/open false 536870912]
   [45051 :block/order 2 536870912]
   [45051 :block/page 4296 536870912]
@@ -72150,17 +70980,10 @@
   [45051 :block/uid "jmLlejqqm" 536870912]
   [45051 :create/time 1619782151997 536870912]
   [45051 :create/user 53 536870912]
+  [45051 :edit/seen-by 74 536872293]
   [45051 :edit/time 1619782169356 536870912]
   [45051 :edit/user 53 536870912]
-  [45051
-   :entity/attrs
-   #{[{:source [:block/uid "jmLlejqqm"],
-       :value [:block/uid "jmLlejqqm"]}
-      {:source [:block/uid "woBgm0vmK"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "woBgm0vmK"],
-       :value [:block/uid "w3-eryhFP"]}]}
-   536870912]
+  [45051 :entity/attrs #{} 536872323]
   [45052 :block/uid "05-01-2021" 536870912]
   [45052 :create/time 1619876736425 536870912]
   [45052 :create/user 6897 536870912]
@@ -72197,6 +71020,7 @@
   [45056 :block/uid "fWjRbInlN" 536870912]
   [45056 :create/time 1620062252852 536870912]
   [45056 :create/user 53 536870912]
+  [45056 :edit/seen-by 74 536872286]
   [45056 :edit/time 1620062266394 536870912]
   [45056 :edit/user 53 536870912]
   [45057 :block/children 45061 536870912]
@@ -72217,6 +71041,7 @@
   [45057 :block/uid "AJ1Nu1xbY" 536870912]
   [45057 :create/time 1620062266385 536870912]
   [45057 :create/user 53 536870912]
+  [45057 :edit/seen-by 74 536872287]
   [45057 :edit/time 1620062294653 536870912]
   [45057 :edit/user 53 536870912]
   [45058 :block/uid "edvBHH7JX" 536870912]
@@ -72231,26 +71056,6 @@
   [45059 :edit/time 1620062294658 536870912]
   [45059 :edit/user 53 536870912]
   [45059 :node/title "Turtle" 536870912]
-  [45060 :block/open true 536870912]
-  [45060 :block/order 0 536870912]
-  [45060 :block/page 4296 536870912]
-  [45060 :block/parents 4296 536870912]
-  [45060 :block/parents 7333 536870912]
-  [45060 :block/parents 10915 536870912]
-  [45060 :block/parents 45036 536870912]
-  [45060 :block/parents 45037 536870912]
-  [45060 :block/parents 45051 536870912]
-  [45060 :block/refs 2527 536870912]
-  [45060 :block/refs 44546 536870912]
-  [45060
-   :block/string
-   "Brought to you by:: [[Kifah Meeran]]"
-   536870912]
-  [45060 :block/uid "woBgm0vmK" 536870912]
-  [45060 :create/time 1620062357939 536870912]
-  [45060 :create/user 53 536870912]
-  [45060 :edit/time 1620062365192 536870912]
-  [45060 :edit/user 53 536870912]
   [45061 :block/open true 536870912]
   [45061 :block/order 0 536870912]
   [45061 :block/page 4296 536870912]
@@ -72374,6 +71179,7 @@
   [45070 :create/time 1620192788759 536870912]
   [45070 :create/user 53 536870912]
   [45070 :edit/seen-by 3 536870912]
+  [45070 :edit/seen-by 74 536872274]
   [45070 :edit/seen-by 6897 536871114]
   [45070 :edit/time 1620192793907 536870912]
   [45070 :edit/user 53 536870912]
@@ -72393,14 +71199,10 @@
   [45071 :create/time 1620192793886 536870912]
   [45071 :create/user 53 536870912]
   [45071 :edit/seen-by 3 536870912]
+  [45071 :edit/seen-by 74 536872275]
   [45071 :edit/seen-by 6897 536871114]
   [45071 :edit/time 1620192808238 536870912]
   [45071 :edit/user 53 536870912]
-  [45072 :attrs/lookup 8838 536870912]
-  [45072 :attrs/lookup 44546 536870912]
-  [45072 :attrs/lookup 45072 536870912]
-  [45072 :attrs/lookup 45080 536870912]
-  [45072 :block/children 45080 536870912]
   [45072 :block/open false 536870912]
   [45072 :block/order 0 536870912]
   [45072 :block/page 4296 536870912]
@@ -72417,17 +71219,10 @@
   [45072 :block/uid "Lj2yxiYiT" 536870912]
   [45072 :create/time 1620192808225 536870912]
   [45072 :create/user 53 536870912]
+  [45072 :edit/seen-by 74 536872276]
   [45072 :edit/time 1620192861306 536870912]
   [45072 :edit/user 53 536870912]
-  [45072
-   :entity/attrs
-   #{[{:source [:block/uid "Lj2yxiYiT"],
-       :value [:block/uid "Lj2yxiYiT"]}
-      {:source [:block/uid "weIHAZIU9"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "weIHAZIU9"],
-       :value [:block/uid "dkdjGsM4C"]}]}
-   536870912]
+  [45072 :entity/attrs #{} 536872323]
   [45073 :block/children 45074 536870912]
   [45073 :block/children 45075 536870912]
   [45073 :block/children 45082 536870912]
@@ -72447,13 +71242,9 @@
   [45073 :create/time 1620192861880 536870912]
   [45073 :create/user 53 536870912]
   [45073 :edit/seen-by 3 536870912]
+  [45073 :edit/seen-by 74 536872277]
   [45073 :edit/time 1620193130095 536870912]
   [45073 :edit/user 53 536870912]
-  [45074 :attrs/lookup 2760 536870912]
-  [45074 :attrs/lookup 44546 536870912]
-  [45074 :attrs/lookup 45074 536870912]
-  [45074 :attrs/lookup 45078 536870912]
-  [45074 :block/children 45078 536870912]
   [45074 :block/open false 536870912]
   [45074 :block/order 1 536870912]
   [45074 :block/page 4296 536870912]
@@ -72470,22 +71261,10 @@
   [45074 :block/uid "1ozZGAt0u" 536870912]
   [45074 :create/time 1620192961675 536870912]
   [45074 :create/user 53 536870912]
+  [45074 :edit/seen-by 74 536872279]
   [45074 :edit/time 1620193001725 536870912]
   [45074 :edit/user 53 536870912]
-  [45074
-   :entity/attrs
-   #{[{:source [:block/uid "1ozZGAt0u"],
-       :value [:block/uid "1ozZGAt0u"]}
-      {:source [:block/uid "9AwSd_r2I"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "9AwSd_r2I"],
-       :value [:block/uid "IdWJv42cv"]}]}
-   536870912]
-  [45075 :attrs/lookup 2774 536870912]
-  [45075 :attrs/lookup 44546 536870912]
-  [45075 :attrs/lookup 45075 536870912]
-  [45075 :attrs/lookup 45079 536870912]
-  [45075 :block/children 45079 536870912]
+  [45074 :entity/attrs #{} 536872281]
   [45075 :block/open false 536870912]
   [45075 :block/order 2 536870912]
   [45075 :block/page 4296 536870912]
@@ -72503,17 +71282,10 @@
   [45075 :block/uid "Lc1eOyibT" 536870912]
   [45075 :create/time 1620193001714 536870912]
   [45075 :create/user 53 536870912]
+  [45075 :edit/seen-by 74 536872282]
   [45075 :edit/time 1620193046977 536870912]
   [45075 :edit/user 53 536870912]
-  [45075
-   :entity/attrs
-   #{[{:source [:block/uid "Lc1eOyibT"],
-       :value [:block/uid "Lc1eOyibT"]}
-      {:source [:block/uid "kndL3pV1u"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "kndL3pV1u"],
-       :value [:block/uid "evJ14QpsV"]}]}
-   536870912]
+  [45075 :entity/attrs #{} 536872323]
   [45077 :block/open true 536870912]
   [45077 :block/order 0 536870912]
   [45077 :block/page 4296 536870912]
@@ -72532,75 +71304,9 @@
   [45077 :create/time 1620193046963 536870912]
   [45077 :create/user 53 536870912]
   [45077 :edit/seen-by 3 536870912]
+  [45077 :edit/seen-by 74 536872284]
   [45077 :edit/time 1621194594716 536871237]
   [45077 :edit/user 3 536870912]
-  [45078 :block/open true 536870912]
-  [45078 :block/order 0 536870912]
-  [45078 :block/page 4296 536870912]
-  [45078 :block/parents 4296 536870912]
-  [45078 :block/parents 7333 536870912]
-  [45078 :block/parents 10915 536870912]
-  [45078 :block/parents 45070 536870912]
-  [45078 :block/parents 45071 536870912]
-  [45078 :block/parents 45073 536870912]
-  [45078 :block/parents 45074 536870912]
-  [45078 :block/refs 2760 536870912]
-  [45078 :block/refs 44546 536870912]
-  [45078
-   :block/string
-   "Brought to you by:: [[Joshua Brown]]"
-   536870912]
-  [45078 :block/uid "9AwSd_r2I" 536870912]
-  [45078 :create/time 1620193082869 536870912]
-  [45078 :create/user 53 536870912]
-  [45078 :edit/time 1620193096823 536870912]
-  [45078 :edit/user 53 536870912]
-  [45079 :block/open true 536870912]
-  [45079 :block/order 0 536870912]
-  [45079 :block/page 4296 536870912]
-  [45079 :block/parents 4296 536870912]
-  [45079 :block/parents 7333 536870912]
-  [45079 :block/parents 10915 536870912]
-  [45079 :block/parents 45070 536870912]
-  [45079 :block/parents 45071 536870912]
-  [45079 :block/parents 45073 536870912]
-  [45079 :block/parents 45075 536870912]
-  [45079 :block/refs 2774 536870912]
-  [45079 :block/refs 44546 536870912]
-  [45079
-   :block/string
-   "Brought to you by:: [[Bardia Pourvakil]]"
-   536870912]
-  [45079 :block/uid "kndL3pV1u" 536870912]
-  [45079 :create/time 1620193097876 536870912]
-  [45079 :create/user 53 536870912]
-  [45079 :edit/time 1620193107008 536870912]
-  [45079 :edit/user 53 536870912]
-  [45080 :block/open true 536870912]
-  [45080 :block/order 0 536870912]
-  [45080 :block/page 4296 536870912]
-  [45080 :block/parents 4296 536870912]
-  [45080 :block/parents 7333 536870912]
-  [45080 :block/parents 10915 536870912]
-  [45080 :block/parents 45070 536870912]
-  [45080 :block/parents 45071 536870912]
-  [45080 :block/parents 45072 536870912]
-  [45080 :block/refs 8838 536870912]
-  [45080 :block/refs 44546 536870912]
-  [45080
-   :block/string
-   "Brought to you by:: [[Stian Håklev]]"
-   536870912]
-  [45080 :block/uid "weIHAZIU9" 536870912]
-  [45080 :create/time 1620193108859 536870912]
-  [45080 :create/user 53 536870912]
-  [45080 :edit/time 1620193118017 536870912]
-  [45080 :edit/user 53 536870912]
-  [45082 :attrs/lookup 2760 536870912]
-  [45082 :attrs/lookup 44546 536870912]
-  [45082 :attrs/lookup 45082 536870912]
-  [45082 :attrs/lookup 45083 536870912]
-  [45082 :block/children 45083 536870912]
   [45082 :block/open false 536870912]
   [45082 :block/order 0 536870912]
   [45082 :block/page 4296 536870912]
@@ -72619,38 +71325,10 @@
   [45082 :block/uid "kzEpLBSEj" 536870912]
   [45082 :create/time 1620193130083 536870912]
   [45082 :create/user 53 536870912]
+  [45082 :edit/seen-by 74 536872278]
   [45082 :edit/time 1620193155865 536870912]
   [45082 :edit/user 53 536870912]
-  [45082
-   :entity/attrs
-   #{[{:source [:block/uid "kzEpLBSEj"],
-       :value [:block/uid "kzEpLBSEj"]}
-      {:source [:block/uid "gD8iisbWU"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "gD8iisbWU"],
-       :value [:block/uid "IdWJv42cv"]}]}
-   536870912]
-  [45083 :block/open true 536870912]
-  [45083 :block/order 0 536870912]
-  [45083 :block/page 4296 536870912]
-  [45083 :block/parents 4296 536870912]
-  [45083 :block/parents 7333 536870912]
-  [45083 :block/parents 10915 536870912]
-  [45083 :block/parents 45070 536870912]
-  [45083 :block/parents 45071 536870912]
-  [45083 :block/parents 45073 536870912]
-  [45083 :block/parents 45082 536870912]
-  [45083 :block/refs 2760 536870912]
-  [45083 :block/refs 44546 536870912]
-  [45083
-   :block/string
-   "Brought to you by:: [[Joshua Brown]]"
-   536870912]
-  [45083 :block/uid "gD8iisbWU" 536870912]
-  [45083 :create/time 1620193155836 536870912]
-  [45083 :create/user 53 536870912]
-  [45083 :edit/time 1620193163679 536870912]
-  [45083 :edit/user 53 536870912]
+  [45082 :entity/attrs #{} 536872323]
   [45084 :block/children 45077 536870912]
   [45084 :block/heading 3 536870912]
   [45084 :block/open true 536870912]
@@ -72668,6 +71346,7 @@
   [45084 :create/time 1620211197682 536870912]
   [45084 :create/user 53 536870912]
   [45084 :edit/seen-by 3 536870912]
+  [45084 :edit/seen-by 74 536872283]
   [45084 :edit/time 1620211198765 536870912]
   [45084 :edit/user 53 536870912]
   [45085 :block/uid "05-05-2021" 536870912]
@@ -73206,6 +71885,7 @@
   [45127 :block/uid "P8T_Qf2UF" 536870912]
   [45127 :create/time 1620367920920 536870912]
   [45127 :create/user 53 536870912]
+  [45127 :edit/seen-by 74 536872271]
   [45127 :edit/time 1620367923735 536870912]
   [45127 :edit/user 53 536870912]
   [45128 :block/uid "05-07-2021" 536870912]
@@ -73229,13 +71909,9 @@
   [45129 :block/uid "8TT_rhYkG" 536870914]
   [45129 :create/time 1620367928070 536870914]
   [45129 :create/user 53 536870914]
+  [45129 :edit/seen-by 74 536872272]
   [45129 :edit/time 1620367929376 536870920]
   [45129 :edit/user 53 536870914]
-  [45130 :attrs/lookup 8838 536871064]
-  [45130 :attrs/lookup 44546 536871064]
-  [45130 :attrs/lookup 45130 536871064]
-  [45130 :attrs/lookup 45189 536871064]
-  [45130 :block/children 45189 536871055]
   [45130 :block/open false 536871065]
   [45130 :block/order 0 536870922]
   [45130 :block/page 4296 536870919]
@@ -73251,17 +71927,10 @@
   [45130 :block/uid "GIS4PCuUD" 536870918]
   [45130 :create/time 1620367929368 536870918]
   [45130 :create/user 53 536870918]
+  [45130 :edit/seen-by 74 536872273]
   [45130 :edit/time 1620367958095 536870928]
   [45130 :edit/user 53 536870918]
-  [45130
-   :entity/attrs
-   #{[{:source [:block/uid "GIS4PCuUD"],
-       :value [:block/uid "GIS4PCuUD"]}
-      {:source [:block/uid "5TKzzlFoq"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "5TKzzlFoq"],
-       :value [:block/uid "dkdjGsM4C"]}]}
-   536871064]
+  [45130 :entity/attrs #{} 536872323]
   [45131 :block/uid "05-09-2021" 536870936]
   [45131 :create/time 1620581753309 536870936]
   [45131 :create/user 3422 536870936]
@@ -73949,6 +72618,7 @@
   [45183 :block/uid "Ul5lnxtlq" 536871006]
   [45183 :create/time 1620797569027 536871006]
   [45183 :create/user 53 536871006]
+  [45183 :edit/seen-by 74 536872267]
   [45183 :edit/time 1620797576654 536871012]
   [45183 :edit/user 53 536871006]
   [45184 :block/uid "05-12-2021" 536871009]
@@ -73973,13 +72643,9 @@
   [45185 :block/uid "0u0Wl6vmu" 536871010]
   [45185 :create/time 1620797576635 536871010]
   [45185 :create/user 53 536871010]
+  [45185 :edit/seen-by 74 536872268]
   [45185 :edit/time 1620797612883 536871028]
   [45185 :edit/user 53 536871010]
-  [45186 :attrs/lookup 8838 536871052]
-  [45186 :attrs/lookup 44546 536871052]
-  [45186 :attrs/lookup 45186 536871052]
-  [45186 :attrs/lookup 45188 536871052]
-  [45186 :block/children 45188 536871048]
   [45186 :block/open false 536871076]
   [45186 :block/order 0 536871020]
   [45186 :block/page 4296 536871017]
@@ -73995,22 +72661,10 @@
   [45186 :block/uid "IYauW1xDj" 536871016]
   [45186 :create/time 1620797581384 536871016]
   [45186 :create/user 53 536871016]
+  [45186 :edit/seen-by 74 536872269]
   [45186 :edit/time 1620797662335 536871039]
   [45186 :edit/user 53 536871016]
-  [45186
-   :entity/attrs
-   #{[{:source [:block/uid "IYauW1xDj"],
-       :value [:block/uid "IYauW1xDj"]}
-      {:source [:block/uid "UGMyrMwMt"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "UGMyrMwMt"],
-       :value [:block/uid "dkdjGsM4C"]}]}
-   536871052]
-  [45187 :attrs/lookup 2768 536871074]
-  [45187 :attrs/lookup 44546 536871074]
-  [45187 :attrs/lookup 45187 536871074]
-  [45187 :attrs/lookup 45191 536871074]
-  [45187 :block/children 45191 536871068]
+  [45186 :entity/attrs #{} 536872323]
   [45187 :block/open false 536871075]
   [45187 :block/order 1 536871048]
   [45187 :block/page 4296 536871042]
@@ -74023,77 +72677,10 @@
   [45187 :block/uid "JrsqbdqL4" 536871041]
   [45187 :create/time 1620830304805 536871041]
   [45187 :create/user 53 536871041]
+  [45187 :edit/seen-by 74 536872270]
   [45187 :edit/time 1620830311235 536871045]
   [45187 :edit/user 53 536871041]
-  [45187
-   :entity/attrs
-   #{[{:source [:block/uid "JrsqbdqL4"],
-       :value [:block/uid "JrsqbdqL4"]}
-      {:source [:block/uid "-eigl4u1B"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "-eigl4u1B"],
-       :value [:block/uid "IFYmBp-zm"]}]}
-   536871074]
-  [45188 :block/open true 536871046]
-  [45188 :block/order 0 536871048]
-  [45188 :block/page 4296 536871047]
-  [45188 :block/parents 4296 536871047]
-  [45188 :block/parents 7333 536871047]
-  [45188 :block/parents 10915 536871047]
-  [45188 :block/parents 45183 536871047]
-  [45188 :block/parents 45185 536871047]
-  [45188 :block/parents 45186 536871049]
-  [45188 :block/refs 8838 536871051]
-  [45188 :block/refs 44546 536871051]
-  [45188
-   :block/string
-   "Brought to you by:: [[Stian Håklev]]"
-   536871050]
-  [45188 :block/uid "UGMyrMwMt" 536871046]
-  [45188 :create/time 1620830311958 536871046]
-  [45188 :create/user 53 536871046]
-  [45188 :edit/time 1620830318634 536871050]
-  [45188 :edit/user 53 536871046]
-  [45189 :block/open true 536871053]
-  [45189 :block/order 0 536871055]
-  [45189 :block/page 4296 536871054]
-  [45189 :block/parents 4296 536871054]
-  [45189 :block/parents 7333 536871054]
-  [45189 :block/parents 10915 536871054]
-  [45189 :block/parents 45127 536871054]
-  [45189 :block/parents 45129 536871054]
-  [45189 :block/parents 45130 536871056]
-  [45189 :block/refs 8838 536871063]
-  [45189 :block/refs 44546 536871060]
-  [45189
-   :block/string
-   "Brought to you by:: [[Stian Håklev]]"
-   536871062]
-  [45189 :block/uid "5TKzzlFoq" 536871053]
-  [45189 :create/time 1620830319567 536871053]
-  [45189 :create/user 53 536871053]
-  [45189 :edit/time 1620830327556 536871062]
-  [45189 :edit/user 53 536871053]
-  [45191 :block/open true 536871066]
-  [45191 :block/order 0 536871068]
-  [45191 :block/page 4296 536871067]
-  [45191 :block/parents 4296 536871067]
-  [45191 :block/parents 7333 536871067]
-  [45191 :block/parents 10915 536871067]
-  [45191 :block/parents 45183 536871067]
-  [45191 :block/parents 45185 536871067]
-  [45191 :block/parents 45187 536871069]
-  [45191 :block/refs 2768 536871073]
-  [45191 :block/refs 44546 536871071]
-  [45191
-   :block/string
-   "Brought to you by:: [[Filipe Silva]]"
-   536871072]
-  [45191 :block/uid "-eigl4u1B" 536871066]
-  [45191 :create/time 1620830333498 536871066]
-  [45191 :create/user 53 536871066]
-  [45191 :edit/time 1620830344705 536871072]
-  [45191 :edit/user 53 536871066]
+  [45187 :entity/attrs #{} 536872323]
   [45194 :block/uid "05-13-2021" 536871103]
   [45194 :create/time 1620915657240 536871103]
   [45194 :create/user 3422 536871103]
@@ -74175,13 +72762,9 @@
   [45201 :block/uid "m9XfXMrEn" 536871127]
   [45201 :create/time 1621138772654 536871127]
   [45201 :create/user 53 536871127]
+  [45201 :edit/seen-by 74 536872265]
   [45201 :edit/time 1621138976720 536871139]
   [45201 :edit/user 53 536871127]
-  [45203 :attrs/lookup 2774 536871157]
-  [45203 :attrs/lookup 44546 536871157]
-  [45203 :attrs/lookup 45203 536871157]
-  [45203 :attrs/lookup 45204 536871157]
-  [45203 :block/children 45204 536871151]
   [45203 :block/open false 536871520]
   [45203 :block/order 0 536871140]
   [45203 :block/page 4296 536871138]
@@ -74198,42 +72781,10 @@
   [45203 :block/uid "O0UPtXOzi" 536871137]
   [45203 :create/time 1621138976712 536871137]
   [45203 :create/user 53 536871137]
+  [45203 :edit/seen-by 74 536872266]
   [45203 :edit/time 1621138985301 536871145]
   [45203 :edit/user 53 536871137]
-  [45203
-   :entity/attrs
-   #{[{:source [:block/uid "O0UPtXOzi"],
-       :value [:block/uid "O0UPtXOzi"]}
-      {:source [:block/uid "2_WawTDm_"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "2_WawTDm_"],
-       :value [:block/uid "evJ14QpsV"]}]}
-   536871157]
-  [45204 :block/open true 536871149]
-  [45204 :block/order 0 536871151]
-  [45204 :block/page 4296 536871150]
-  [45204 :block/parents 4296 536871150]
-  [45204 :block/parents 7333 536871150]
-  [45204 :block/parents 10915 536871150]
-  [45204 :block/parents 45198 536871150]
-  [45204 :block/parents 45201 536871150]
-  [45204 :block/parents 45203 536871152]
-  [45204 :block/refs 2774 536871156]
-  [45204 :block/refs 44546 536871156]
-  [45204
-   :block/string
-   "Brought to you by:: [[Bardia Pourvakil]]"
-   536871155]
-  [45204 :block/uid "2_WawTDm_" 536871149]
-  [45204 :create/time 1621138989597 536871149]
-  [45204 :create/user 53 536871149]
-  [45204 :edit/time 1621138996642 536871155]
-  [45204 :edit/user 53 536871149]
-  [45206 :attrs/lookup 2774 536871175]
-  [45206 :attrs/lookup 44546 536871175]
-  [45206 :attrs/lookup 45206 536871175]
-  [45206 :attrs/lookup 45207 536871175]
-  [45206 :block/children 45207 536871171]
+  [45203 :entity/attrs #{} 536872323]
   [45206 :block/open false 536871226]
   [45206 :block/order 0 536871161]
   [45206 :block/page 4296 536871160]
@@ -74254,60 +72805,7 @@
   [45206 :edit/seen-by 74 536871516]
   [45206 :edit/time 1621139024158 536871170]
   [45206 :edit/user 53 536871159]
-  [45206
-   :entity/attrs
-   #{[{:source [:block/uid "jvxTbwfDH"],
-       :value [:block/uid "jvxTbwfDH"]}
-      {:source [:block/uid "bNPRAmxRQ"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "bNPRAmxRQ"],
-       :value [:block/uid "evJ14QpsV"]}]}
-   536871175]
-  [45207 :block/open true 536871168]
-  [45207 :block/order 0 536871171]
-  [45207 :block/page 4296 536871169]
-  [45207 :block/parents 4296 536871169]
-  [45207 :block/parents 7333 536871169]
-  [45207 :block/parents 10915 536871169]
-  [45207 :block/parents 45198 536871169]
-  [45207 :block/parents 45200 536871169]
-  [45207 :block/parents 45206 536871172]
-  [45207 :block/refs 2774 536871174]
-  [45207 :block/refs 44546 536871174]
-  [45207
-   :block/string
-   "Brought to you by:: [[Bardia Pourvakil]]"
-   536871173]
-  [45207 :block/uid "bNPRAmxRQ" 536871168]
-  [45207 :create/time 1621139024142 536871168]
-  [45207 :create/user 53 536871168]
-  [45207 :edit/time 1621139033330 536871173]
-  [45207 :edit/user 53 536871168]
-  [45208 :block/open true 536871177]
-  [45208 :block/order 0 536871195]
-  [45208 :block/page 4296 536871178]
-  [45208 :block/parents 4296 536871178]
-  [45208 :block/parents 7333 536871178]
-  [45208 :block/parents 10915 536871178]
-  [45208 :block/parents 45198 536871178]
-  [45208 :block/parents 45200 536871178]
-  [45208 :block/parents 45209 536871196]
-  [45208 :block/refs 2760 536871202]
-  [45208 :block/refs 44546 536871202]
-  [45208
-   :block/string
-   "Brought to you by:: [[Joshua Brown]]"
-   536871201]
-  [45208 :block/uid "XTl8p53F7" 536871177]
-  [45208 :create/time 1621139036845 536871177]
-  [45208 :create/user 53 536871177]
-  [45208 :edit/time 1621139205367 536871201]
-  [45208 :edit/user 53 536871177]
-  [45209 :attrs/lookup 2760 536871203]
-  [45209 :attrs/lookup 44546 536871203]
-  [45209 :attrs/lookup 45208 536871203]
-  [45209 :attrs/lookup 45209 536871203]
-  [45209 :block/children 45208 536871195]
+  [45206 :entity/attrs #{} 536872323]
   [45209 :block/open false 536871219]
   [45209 :block/order 1 536871224]
   [45209 :block/page 4296 536871192]
@@ -74327,16 +72825,7 @@
   [45209 :edit/seen-by 74 536871517]
   [45209 :edit/time 1621139192605 536871198]
   [45209 :edit/user 53 536871190]
-  [45209
-   :entity/attrs
-   #{[{:source [:block/uid "n30CO7Nqi"],
-       :value [:block/uid "n30CO7Nqi"]}
-      {:source [:block/uid "XTl8p53F7"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "XTl8p53F7"],
-       :value [:block/uid "IdWJv42cv"]}]}
-   536871203]
-  [45210 :block/children 45212 536871215]
+  [45209 :entity/attrs #{} 536872323]
   [45210 :block/open false 536871220]
   [45210 :block/order 2 536871224]
   [45210 :block/page 4296 536871200]
@@ -74356,7 +72845,7 @@
   [45210 :edit/seen-by 74 536871518]
   [45210 :edit/time 1621139313888 536871229]
   [45210 :edit/user 53 536871199]
-  [45211 :block/children 45213 536871217]
+  [45210 :entity/attrs #{} 536872343]
   [45211 :block/open false 536871221]
   [45211 :block/order 3 536871224]
   [45211 :block/page 4296 536871210]
@@ -74374,40 +72863,10 @@
   [45211 :create/time 1621139217713 536871209]
   [45211 :create/user 53 536871209]
   [45211 :edit/seen-by 3 536871248]
+  [45211 :edit/seen-by 74 536872264]
   [45211 :edit/time 1621139329437 536871233]
   [45211 :edit/user 53 536871209]
-  [45212 :block/open true 536871215]
-  [45212 :block/order 0 536871215]
-  [45212 :block/page 4296 536871216]
-  [45212 :block/parents 4296 536871216]
-  [45212 :block/parents 7333 536871216]
-  [45212 :block/parents 10915 536871216]
-  [45212 :block/parents 45198 536871216]
-  [45212 :block/parents 45200 536871216]
-  [45212 :block/parents 45210 536871216]
-  [45212 :block/refs 45208 536871215]
-  [45212 :block/string "((XTl8p53F7))" 536871215]
-  [45212 :block/uid "SIGPUaQzD" 536871215]
-  [45212 :create/time 1621139277318 536871215]
-  [45212 :create/user 53 536871215]
-  [45212 :edit/time 1621139277318 536871215]
-  [45212 :edit/user 53 536871215]
-  [45213 :block/open true 536871217]
-  [45213 :block/order 0 536871217]
-  [45213 :block/page 4296 536871218]
-  [45213 :block/parents 4296 536871218]
-  [45213 :block/parents 7333 536871218]
-  [45213 :block/parents 10915 536871218]
-  [45213 :block/parents 45198 536871218]
-  [45213 :block/parents 45200 536871218]
-  [45213 :block/parents 45211 536871218]
-  [45213 :block/refs 45208 536871217]
-  [45213 :block/string "((XTl8p53F7))" 536871217]
-  [45213 :block/uid "6VVwT3-4j" 536871217]
-  [45213 :create/time 1621139279815 536871217]
-  [45213 :create/user 53 536871217]
-  [45213 :edit/time 1621139279815 536871217]
-  [45213 :edit/user 53 536871217]
+  [45211 :entity/attrs #{} 536872343]
   [45215 :block/uid "05-17-2021" 536871249]
   [45215 :create/time 1621262614513 536871249]
   [45215 :create/user 3422 536871249]
@@ -74445,6 +72904,7 @@
   [45237 :create/user 74 536871494]
   [45237 :edit/seen-by 3 536871929]
   [45237 :edit/seen-by 53 536871525]
+  [45237 :edit/seen-by 74 536872255]
   [45237 :edit/time 1621950018550 536871931]
   [45237 :edit/user 3 536871930]
   [45238 :block/open true 536871500]
@@ -74491,19 +72951,9 @@
   [45241 :create/time 1621318341157 536871526]
   [45241 :create/user 53 536871526]
   [45241 :edit/seen-by 3 536871932]
+  [45241 :edit/seen-by 74 536872255]
   [45241 :edit/time 1621318368070 536871528]
   [45241 :edit/user 53 536871526]
-  [45242 :attrs/lookup 2527 536871555]
-  [45242 :attrs/lookup 2760 536871555]
-  [45242 :attrs/lookup 44546 536871555]
-  [45242 :attrs/lookup 45242 536871555]
-  [45242 :attrs/lookup 45243 536871555]
-  [45242 :attrs/lookup 45246 536871568]
-  [45242 :attrs/lookup 45247 536871568]
-  [45242 :attrs/lookup 45248 536871568]
-  [45242 :attrs/lookup 45249 536871568]
-  [45242 :block/children 45243 536871551]
-  [45242 :block/children 45246 536871562]
   [45242 :block/children 45250 536871573]
   [45242 :block/open true 536871959]
   [45242 :block/order 0 536871533]
@@ -74522,95 +72972,10 @@
   [45242 :create/time 1621318369275 536871531]
   [45242 :create/user 53 536871531]
   [45242 :edit/seen-by 3 536871932]
+  [45242 :edit/seen-by 74 536872255]
   [45242 :edit/time 1621318437910 536871545]
   [45242 :edit/user 53 536871531]
-  [45242
-   :entity/attrs
-   #{[{:source [:block/uid "OKMUuH_TZ"],
-       :value [:block/uid "OKMUuH_TZ"]}
-      {:source [:block/uid "bLg8JaFzZ"],
-       :value [:block/uid "pxtI56Wn5"]}
-      {:source [:block/uid "bLg8JaFzZ"],
-       :value [:block/uid "bi6DFS7g3"]}]
-     [{:source [:block/uid "OKMUuH_TZ"],
-       :value [:block/uid "OKMUuH_TZ"]}
-      {:source [:block/uid "bLg8JaFzZ"],
-       :value [:block/uid "pxtI56Wn5"]}
-      {:source [:block/uid "bLg8JaFzZ"],
-       :value [:block/uid "ExJzrkebg"]}]
-     [{:source [:block/uid "OKMUuH_TZ"],
-       :value [:block/uid "OKMUuH_TZ"]}
-      {:source [:block/uid "xErJjWxk-"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "xErJjWxk-"],
-       :value [:block/uid "w3-eryhFP"]}]
-     [{:source [:block/uid "OKMUuH_TZ"],
-       :value [:block/uid "OKMUuH_TZ"]}
-      {:source [:block/uid "xErJjWxk-"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "xErJjWxk-"],
-       :value [:block/uid "IdWJv42cv"]}]}
-   536871568]
-  [45243 :block/open true 536871549]
-  [45243 :block/order 1 536871573]
-  [45243 :block/page 4296 536871550]
-  [45243 :block/parents 4296 536871550]
-  [45243 :block/parents 7333 536871550]
-  [45243 :block/parents 10915 536871550]
-  [45243 :block/parents 45237 536871550]
-  [45243 :block/parents 45241 536871550]
-  [45243 :block/parents 45242 536871552]
-  [45243 :block/refs 2527 536871554]
-  [45243 :block/refs 2760 536871554]
-  [45243 :block/refs 44546 536871554]
-  [45243
-   :block/string
-   "Brought to you by:: [[Kifah Meeran]] [[Joshua Brown]]"
-   536871553]
-  [45243 :block/uid "xErJjWxk-" 536871549]
-  [45243 :create/time 1621318448447 536871549]
-  [45243 :create/user 53 536871549]
-  [45243 :edit/time 1621318457298 536871553]
-  [45243 :edit/user 53 536871549]
-  [45246 :block/open true 536871562]
-  [45246 :block/order 2 536871573]
-  [45246 :block/page 4296 536871563]
-  [45246 :block/parents 4296 536871563]
-  [45246 :block/parents 7333 536871563]
-  [45246 :block/parents 10915 536871563]
-  [45246 :block/parents 45237 536871563]
-  [45246 :block/parents 45241 536871563]
-  [45246 :block/parents 45242 536871563]
-  [45246 :block/refs 45247 536871565]
-  [45246 :block/refs 45248 536871567]
-  [45246 :block/refs 45249 536871567]
-  [45246
-   :block/string
-   "Special mention to:: [[Roam42]] [[Clara Pastore]]"
-   536871566]
-  [45246 :block/uid "bLg8JaFzZ" 536871562]
-  [45246 :create/time 1621318493793 536871562]
-  [45246 :create/user 53 536871562]
-  [45246 :edit/time 1621318513170 536871566]
-  [45246 :edit/user 53 536871562]
-  [45247 :block/uid "pxtI56Wn5" 536871565]
-  [45247 :create/time 1621318498886 536871565]
-  [45247 :create/user 53 536871565]
-  [45247 :edit/time 1621318498887 536871565]
-  [45247 :edit/user 53 536871565]
-  [45247 :node/title "Special mention to" 536871565]
-  [45248 :block/uid "bi6DFS7g3" 536871567]
-  [45248 :create/time 1621318513172 536871567]
-  [45248 :create/user 53 536871567]
-  [45248 :edit/time 1621318513173 536871567]
-  [45248 :edit/user 53 536871567]
-  [45248 :node/title "Roam42" 536871567]
-  [45249 :block/uid "ExJzrkebg" 536871567]
-  [45249 :create/time 1621318513172 536871567]
-  [45249 :create/user 53 536871567]
-  [45249 :edit/time 1621318513173 536871567]
-  [45249 :edit/user 53 536871567]
-  [45249 :node/title "Clara Pastore" 536871567]
+  [45242 :entity/attrs #{} 536872261]
   [45250 :block/open true 536871573]
   [45250 :block/order 0 536871573]
   [45250 :block/page 4296 536871574]
@@ -74634,6 +72999,7 @@
   [45250 :create/time 1621318678785 536871573]
   [45250 :create/user 53 536871573]
   [45250 :edit/seen-by 3 536871932]
+  [45250 :edit/seen-by 74 536872257]
   [45250 :edit/time 1621318688731 536871575]
   [45250 :edit/user 53 536871573]
   [45252 :block/open true 536871582]
@@ -74650,6 +73016,7 @@
   [45252 :block/uid "SzzE3Whn1" 536871582]
   [45252 :create/time 1621322222903 536871582]
   [45252 :create/user 53 536871582]
+  [45252 :edit/seen-by 74 536872263]
   [45252 :edit/time 1621322239656 536871586]
   [45252 :edit/user 53 536871582]
   [45253 :block/uid "05-18-2021" 536871592]
@@ -74752,7 +73119,10 @@
   [45265 :log/id 1621561572714 536871657]
   [45265 :node/title "May 21st, 2021" 536871657]
   [45266 :block/uid "cP-mLlcjh" 536871661]
-  [45266 :window/filters {:includes (), :removes ()} 536871923]
+  [45266
+   :window/filters
+   {:includes ("5K19Sylm0"), :removes ()}
+   536872310]
   [45266
    :window/id
    "BVbsWigfZ4YniEIvPnEMBwqbiSA2-body-outline-Ec97klr7x"
@@ -74788,11 +73158,6 @@
   [45269 :edit/user 53 536871682]
   [45269 :log/id 1621922110004 536871682]
   [45269 :node/title "May 25th, 2021" 536871682]
-  [45270 :attrs/lookup 2760 536871747]
-  [45270 :attrs/lookup 44546 536871747]
-  [45270 :attrs/lookup 45270 536871747]
-  [45270 :attrs/lookup 45277 536871747]
-  [45270 :block/children 45277 536871743]
   [45270 :block/open false 536871918]
   [45270 :block/order 0 536871707]
   [45270 :block/page 4296 536871684]
@@ -74808,20 +73173,7 @@
   [45270 :create/user 53 536871683]
   [45270 :edit/time 1621922141250 536871693]
   [45270 :edit/user 53 536871683]
-  [45270
-   :entity/attrs
-   #{[{:source [:block/uid "QqPX4Q7Du"],
-       :value [:block/uid "QqPX4Q7Du"]}
-      {:source [:block/uid "XH8Cpz9eV"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "XH8Cpz9eV"],
-       :value [:block/uid "IdWJv42cv"]}]}
-   536871747]
-  [45271 :attrs/lookup 2760 536871740]
-  [45271 :attrs/lookup 44546 536871740]
-  [45271 :attrs/lookup 45271 536871740]
-  [45271 :attrs/lookup 45276 536871740]
-  [45271 :block/children 45276 536871736]
+  [45270 :entity/attrs #{} 536872323]
   [45271 :block/open false 536871905]
   [45271 :block/order 1 536871919]
   [45271 :block/page 4296 536871695]
@@ -74839,20 +73191,7 @@
   [45271 :create/user 53 536871694]
   [45271 :edit/time 1621923524063 536871910]
   [45271 :edit/user 53 536871694]
-  [45271
-   :entity/attrs
-   #{[{:source [:block/uid "O5j6Hkjnk"],
-       :value [:block/uid "O5j6Hkjnk"]}
-      {:source [:block/uid "JL0fnCa3A"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "JL0fnCa3A"],
-       :value [:block/uid "IdWJv42cv"]}]}
-   536871740]
-  [45272 :attrs/lookup 2527 536871733]
-  [45272 :attrs/lookup 44546 536871733]
-  [45272 :attrs/lookup 45272 536871733]
-  [45272 :attrs/lookup 45275 536871733]
-  [45272 :block/children 45275 536871727]
+  [45271 :entity/attrs #{} 536872323]
   [45272 :block/open false 536871906]
   [45272 :block/order 2 536871919]
   [45272 :block/page 4296 536871699]
@@ -74867,15 +73206,7 @@
   [45272 :create/user 53 536871698]
   [45272 :edit/time 1621922204899 536871717]
   [45272 :edit/user 53 536871698]
-  [45272
-   :entity/attrs
-   #{[{:source [:block/uid "OZ1BLWMCY"],
-       :value [:block/uid "OZ1BLWMCY"]}
-      {:source [:block/uid "44LRUgAQP"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "44LRUgAQP"],
-       :value [:block/uid "w3-eryhFP"]}]}
-   536871733]
+  [45272 :entity/attrs #{} 536872323]
   [45273 :block/children 45270 536871707]
   [45273 :block/children 45271 536871709]
   [45273 :block/children 45272 536871712]
@@ -74895,66 +73226,6 @@
   [45273 :create/user 53 536871701]
   [45273 :edit/time 1621922178083 536871703]
   [45273 :edit/user 53 536871701]
-  [45275 :block/open true 536871725]
-  [45275 :block/order 0 536871727]
-  [45275 :block/page 4296 536871726]
-  [45275 :block/parents 4296 536871726]
-  [45275 :block/parents 7333 536871726]
-  [45275 :block/parents 10915 536871726]
-  [45275 :block/parents 45268 536871726]
-  [45275 :block/parents 45272 536871728]
-  [45275 :block/parents 45273 536871726]
-  [45275 :block/refs 2527 536871732]
-  [45275 :block/refs 44546 536871730]
-  [45275
-   :block/string
-   "Brought to you by:: [[Kifah Meeran]]"
-   536871731]
-  [45275 :block/uid "44LRUgAQP" 536871725]
-  [45275 :create/time 1621922573744 536871725]
-  [45275 :create/user 53 536871725]
-  [45275 :edit/time 1621922581400 536871731]
-  [45275 :edit/user 53 536871725]
-  [45276 :block/open true 536871734]
-  [45276 :block/order 0 536871736]
-  [45276 :block/page 4296 536871735]
-  [45276 :block/parents 4296 536871735]
-  [45276 :block/parents 7333 536871735]
-  [45276 :block/parents 10915 536871735]
-  [45276 :block/parents 45268 536871735]
-  [45276 :block/parents 45271 536871737]
-  [45276 :block/parents 45273 536871735]
-  [45276 :block/refs 2760 536871739]
-  [45276 :block/refs 44546 536871739]
-  [45276
-   :block/string
-   "Brought to you by:: [[Joshua Brown]]"
-   536871738]
-  [45276 :block/uid "JL0fnCa3A" 536871734]
-  [45276 :create/time 1621922581878 536871734]
-  [45276 :create/user 53 536871734]
-  [45276 :edit/time 1621922587989 536871738]
-  [45276 :edit/user 53 536871734]
-  [45277 :block/open true 536871741]
-  [45277 :block/order 0 536871743]
-  [45277 :block/page 4296 536871742]
-  [45277 :block/parents 4296 536871742]
-  [45277 :block/parents 7333 536871742]
-  [45277 :block/parents 10915 536871742]
-  [45277 :block/parents 45268 536871742]
-  [45277 :block/parents 45270 536871744]
-  [45277 :block/parents 45273 536871742]
-  [45277 :block/refs 2760 536871746]
-  [45277 :block/refs 44546 536871746]
-  [45277
-   :block/string
-   "Brought to you by:: [[Joshua Brown]]"
-   536871745]
-  [45277 :block/uid "XH8Cpz9eV" 536871741]
-  [45277 :create/time 1621922588587 536871741]
-  [45277 :create/user 53 536871741]
-  [45277 :edit/time 1621922593516 536871745]
-  [45277 :edit/user 53 536871741]
   [45278 :block/children 45279 536871759]
   [45278 :block/heading 3 536871758]
   [45278 :block/open true 536871748]
@@ -74974,19 +73245,15 @@
   [45278 :edit/seen-by 74 536871922]
   [45278 :edit/time 1621950004991 536871927]
   [45278 :edit/user 3 536871927]
-  [45279 :attrs/lookup 7836 536871899]
-  [45279 :attrs/lookup 44546 536871891]
-  [45279 :attrs/lookup 44848 536871891]
-  [45279 :attrs/lookup 45279 536871803]
-  [45279 :attrs/lookup 45282 536871803]
-  [45279 :attrs/lookup 45283 536871803]
-  [45279 :attrs/lookup 45287 536871814]
-  [45279 :attrs/lookup 45289 536871817]
-  [45279 :attrs/lookup 45294 536871891]
-  [45279 :attrs/lookup 45295 536871899]
-  [45279 :attrs/lookup 45296 536871899]
+  [45279 :attrs/lookup 7836 536872323]
+  [45279 :attrs/lookup 45279 536872323]
+  [45279 :attrs/lookup 45282 536872323]
+  [45279 :attrs/lookup 45283 536872323]
+  [45279 :attrs/lookup 45287 536872323]
+  [45279 :attrs/lookup 45289 536872323]
+  [45279 :attrs/lookup 45295 536872323]
+  [45279 :attrs/lookup 45296 536872323]
   [45279 :block/children 45283 536871770]
-  [45279 :block/children 45294 536871886]
   [45279 :block/children 45295 536871892]
   [45279 :block/open true 536871754]
   [45279 :block/order 0 536871759]
@@ -75025,17 +73292,11 @@
        :value [:block/uid "4-SBg0MMK"]}]
      [{:source [:block/uid "juWT6PCW3"],
        :value [:block/uid "juWT6PCW3"]}
-      {:source [:block/uid "XMiypOVXQ"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "XMiypOVXQ"],
-       :value [:block/uid "A1MxhqDRI"]}]
-     [{:source [:block/uid "juWT6PCW3"],
-       :value [:block/uid "juWT6PCW3"]}
       {:source [:block/uid "nkJuHm2zv"],
        :value [:block/uid "Aa7fywYAg"]}
       {:source [:block/uid "R1jVsuFPo"],
        :value [:block/uid "R1jVsuFPo"]}]}
-   536871899]
+   536872323]
   [45280 :block/uid "-UhkK0udN" 536871762]
   [45280 :create/time 1621922658764 536871762]
   [45280 :create/user 53 536871762]
@@ -75198,26 +73459,6 @@
   [45292 :edit/time 1621922913359 536871842]
   [45292 :edit/user 53 536871842]
   [45292 :node/title "kroki" 536871842]
-  [45294 :block/open true 536871877]
-  [45294 :block/order 2 536871902]
-  [45294 :block/page 4296 536871878]
-  [45294 :block/parents 4296 536871878]
-  [45294 :block/parents 7333 536871878]
-  [45294 :block/parents 10915 536871878]
-  [45294 :block/parents 45268 536871878]
-  [45294 :block/parents 45278 536871878]
-  [45294 :block/parents 45279 536871878]
-  [45294 :block/refs 44546 536871890]
-  [45294 :block/refs 44848 536871890]
-  [45294
-   :block/string
-   "Brought to you by:: [[Wilker Lucio]]"
-   536871889]
-  [45294 :block/uid "XMiypOVXQ" 536871877]
-  [45294 :create/time 1621923408290 536871877]
-  [45294 :create/user 53 536871877]
-  [45294 :edit/time 1621923416245 536871889]
-  [45294 :edit/user 53 536871877]
   [45295 :block/children 45296 536871898]
   [45295 :block/open true 536871892]
   [45295 :block/order 1 536871902]
@@ -75283,11 +73524,6 @@
   [45301 :edit/user 3422 536871939]
   [45301 :log/id 1622424539063 536871939]
   [45301 :node/title "May 30th, 2021" 536871939]
-  [45302 :attrs/lookup 2768 536871952]
-  [45302 :attrs/lookup 44546 536871952]
-  [45302 :attrs/lookup 45302 536871952]
-  [45302 :attrs/lookup 45303 536871952]
-  [45302 :block/children 45303 536871946]
   [45302 :block/open false 536871955]
   [45302 :block/order 3 536871940]
   [45302 :block/page 4296 536871941]
@@ -75305,35 +73541,7 @@
   [45302 :create/user 53 536871940]
   [45302 :edit/time 1622453761999 536871957]
   [45302 :edit/user 53 536871940]
-  [45302
-   :entity/attrs
-   #{[{:source [:block/uid "JqcTS2M6N"],
-       :value [:block/uid "JqcTS2M6N"]}
-      {:source [:block/uid "Jx1JB5GBY"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "Jx1JB5GBY"],
-       :value [:block/uid "IFYmBp-zm"]}]}
-   536871952]
-  [45303 :block/open true 536871944]
-  [45303 :block/order 0 536871946]
-  [45303 :block/page 4296 536871945]
-  [45303 :block/parents 4296 536871945]
-  [45303 :block/parents 7333 536871945]
-  [45303 :block/parents 10915 536871945]
-  [45303 :block/parents 45268 536871945]
-  [45303 :block/parents 45273 536871945]
-  [45303 :block/parents 45302 536871947]
-  [45303 :block/refs 2768 536871951]
-  [45303 :block/refs 44546 536871949]
-  [45303
-   :block/string
-   "Brought to you by:: [[Filipe Silva]]"
-   536871950]
-  [45303 :block/uid "Jx1JB5GBY" 536871944]
-  [45303 :create/time 1622453689528 536871944]
-  [45303 :create/user 53 536871944]
-  [45303 :edit/time 1622453697154 536871950]
-  [45303 :edit/user 53 536871944]
+  [45302 :entity/attrs #{} 536872323]
   [45304 :block/children 45305 536871961]
   [45304 :block/uid "06-01-2021" 536871960]
   [45304 :create/time 1622520445707 536871960]
@@ -75382,6 +73590,7 @@
   [45308 :block/uid "rIkE31eDR" 536871973]
   [45308 :create/time 1622649186557 536871973]
   [45308 :create/user 53 536871973]
+  [45308 :edit/seen-by 74 536872316]
   [45308 :edit/time 1622649192512 536871978]
   [45308 :edit/user 53 536871973]
   [45309 :block/children 45310 536871986]
@@ -75399,13 +73608,9 @@
   [45309 :block/uid "VIuWDdggX" 536871976]
   [45309 :create/time 1622649192499 536871976]
   [45309 :create/user 53 536871976]
+  [45309 :edit/seen-by 74 536872316]
   [45309 :edit/time 1622659949479 536871984]
   [45309 :edit/user 53 536871976]
-  [45310 :attrs/lookup 8838 536872021]
-  [45310 :attrs/lookup 44546 536872021]
-  [45310 :attrs/lookup 45310 536872021]
-  [45310 :attrs/lookup 45312 536872021]
-  [45310 :block/children 45312 536872017]
   [45310 :block/open false 536872029]
   [45310 :block/order 0 536871986]
   [45310 :block/page 4296 536871983]
@@ -75422,22 +73627,10 @@
   [45310 :block/uid "Fa74g2IGm" 536871982]
   [45310 :create/time 1622659949457 536871982]
   [45310 :create/user 53 536871982]
+  [45310 :edit/seen-by 74 536872316]
   [45310 :edit/time 1622659998102 536872003]
   [45310 :edit/user 53 536871982]
-  [45310
-   :entity/attrs
-   #{[{:source [:block/uid "Fa74g2IGm"],
-       :value [:block/uid "Fa74g2IGm"]}
-      {:source [:block/uid "frMyOX0Ky"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "frMyOX0Ky"],
-       :value [:block/uid "dkdjGsM4C"]}]}
-   536872021]
-  [45311 :attrs/lookup 8838 536872028]
-  [45311 :attrs/lookup 44546 536872028]
-  [45311 :attrs/lookup 45311 536872028]
-  [45311 :attrs/lookup 45313 536872028]
-  [45311 :block/children 45313 536872024]
+  [45310 :entity/attrs #{} 536872323]
   [45311 :block/open false 536872030]
   [45311 :block/order 1 536872068]
   [45311 :block/page 4296 536872005]
@@ -75456,55 +73649,7 @@
   [45311 :create/user 53 536872004]
   [45311 :edit/time 1622660182824 536872014]
   [45311 :edit/user 53 536872004]
-  [45311
-   :entity/attrs
-   #{[{:source [:block/uid "KWgFsTMmw"],
-       :value [:block/uid "KWgFsTMmw"]}
-      {:source [:block/uid "8nfIwEzfA"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "8nfIwEzfA"],
-       :value [:block/uid "dkdjGsM4C"]}]}
-   536872028]
-  [45312 :block/open true 536872015]
-  [45312 :block/order 0 536872017]
-  [45312 :block/page 4296 536872016]
-  [45312 :block/parents 4296 536872016]
-  [45312 :block/parents 7333 536872016]
-  [45312 :block/parents 10915 536872016]
-  [45312 :block/parents 45308 536872016]
-  [45312 :block/parents 45309 536872016]
-  [45312 :block/parents 45310 536872018]
-  [45312 :block/refs 8838 536872020]
-  [45312 :block/refs 44546 536872020]
-  [45312
-   :block/string
-   "Brought to you by:: [[Stian Håklev]]"
-   536872019]
-  [45312 :block/uid "frMyOX0Ky" 536872015]
-  [45312 :create/time 1622660199643 536872015]
-  [45312 :create/user 53 536872015]
-  [45312 :edit/time 1622660204948 536872019]
-  [45312 :edit/user 53 536872015]
-  [45313 :block/open true 536872022]
-  [45313 :block/order 0 536872024]
-  [45313 :block/page 4296 536872023]
-  [45313 :block/parents 4296 536872023]
-  [45313 :block/parents 7333 536872023]
-  [45313 :block/parents 10915 536872023]
-  [45313 :block/parents 45308 536872023]
-  [45313 :block/parents 45309 536872023]
-  [45313 :block/parents 45311 536872025]
-  [45313 :block/refs 8838 536872027]
-  [45313 :block/refs 44546 536872027]
-  [45313
-   :block/string
-   "Brought to you by:: [[Stian Håklev]]"
-   536872026]
-  [45313 :block/uid "8nfIwEzfA" 536872022]
-  [45313 :create/time 1622660205642 536872022]
-  [45313 :create/user 53 536872022]
-  [45313 :edit/time 1622660210979 536872026]
-  [45313 :edit/user 53 536872022]
+  [45311 :entity/attrs #{} 536872323]
   [45314 :block/children 45315 536872044]
   [45314 :block/heading 3 536872041]
   [45314 :block/open true 536872031]
@@ -75521,11 +73666,6 @@
   [45314 :create/user 53 536872031]
   [45314 :edit/time 1622660240759 536872039]
   [45314 :edit/user 53 536872031]
-  [45315 :attrs/lookup 2774 536872062]
-  [45315 :attrs/lookup 44546 536872062]
-  [45315 :attrs/lookup 45315 536872062]
-  [45315 :attrs/lookup 45318 536872062]
-  [45315 :block/children 45318 536872058]
   [45315 :block/open false 536872063]
   [45315 :block/order 0 536872044]
   [45315 :block/page 4296 536872043]
@@ -75541,35 +73681,7 @@
   [45315 :create/user 53 536872042]
   [45315 :edit/time 1622660258287 536872054]
   [45315 :edit/user 53 536872042]
-  [45315
-   :entity/attrs
-   #{[{:source [:block/uid "G6KPmQ49K"],
-       :value [:block/uid "G6KPmQ49K"]}
-      {:source [:block/uid "Nrjmuf7_j"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "Nrjmuf7_j"],
-       :value [:block/uid "evJ14QpsV"]}]}
-   536872062]
-  [45318 :block/open true 536872056]
-  [45318 :block/order 0 536872058]
-  [45318 :block/page 4296 536872057]
-  [45318 :block/parents 4296 536872057]
-  [45318 :block/parents 7333 536872057]
-  [45318 :block/parents 10915 536872057]
-  [45318 :block/parents 45308 536872057]
-  [45318 :block/parents 45314 536872057]
-  [45318 :block/parents 45315 536872059]
-  [45318 :block/refs 2774 536872061]
-  [45318 :block/refs 44546 536872061]
-  [45318
-   :block/string
-   "Brought to you by:: [[Bardia Pourvakil]]"
-   536872060]
-  [45318 :block/uid "Nrjmuf7_j" 536872056]
-  [45318 :create/time 1622660279506 536872056]
-  [45318 :create/user 53 536872056]
-  [45318 :edit/time 1622660284734 536872060]
-  [45318 :edit/user 53 536872056]
+  [45315 :entity/attrs #{} 536872323]
   [45319 :block/children 45321 536872082]
   [45319 :block/open true 536872074]
   [45319 :block/order 0 536872074]
@@ -75582,6 +73694,7 @@
   [45319 :block/uid "QF51Z8BrY" 536872074]
   [45319 :create/time 1622796709420 536872074]
   [45319 :create/user 53 536872074]
+  [45319 :edit/seen-by 74 536872252]
   [45319 :edit/time 1622796714044 536872080]
   [45319 :edit/user 53 536872074]
   [45320 :block/uid "06-04-2021" 536872077]
@@ -75605,6 +73718,7 @@
   [45321 :block/uid "DYvDVThhD" 536872078]
   [45321 :create/time 1622796714022 536872078]
   [45321 :create/user 53 536872078]
+  [45321 :edit/seen-by 74 536872252]
   [45321 :edit/time 1622796717568 536872086]
   [45321 :edit/user 53 536872078]
   [45322 :block/children 45323 536872096]
@@ -75623,14 +73737,9 @@
   [45322 :block/uid "RMH2-dsBU" 536872084]
   [45322 :create/time 1622796717557 536872084]
   [45322 :create/user 53 536872084]
+  [45322 :edit/seen-by 74 536872252]
   [45322 :edit/time 1622796768791 536872094]
   [45322 :edit/user 53 536872084]
-  [45323 :attrs/lookup 2527 536872137]
-  [45323 :attrs/lookup 2760 536872131]
-  [45323 :attrs/lookup 44546 536872131]
-  [45323 :attrs/lookup 45323 536872131]
-  [45323 :attrs/lookup 45329 536872131]
-  [45323 :block/children 45329 536872127]
   [45323 :block/open false 536872229]
   [45323 :block/order 0 536872096]
   [45323 :block/page 4296 536872093]
@@ -75646,27 +73755,8 @@
   [45323 :create/user 53 536872092]
   [45323 :edit/time 1622796779766 536872103]
   [45323 :edit/user 53 536872092]
-  [45323
-   :entity/attrs
-   #{[{:source [:block/uid "ienYlp1Ub"],
-       :value [:block/uid "ienYlp1Ub"]}
-      {:source [:block/uid "aXAL-2iz-"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "aXAL-2iz-"],
-       :value [:block/uid "IdWJv42cv"]}]
-     [{:source [:block/uid "ienYlp1Ub"],
-       :value [:block/uid "ienYlp1Ub"]}
-      {:source [:block/uid "aXAL-2iz-"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "aXAL-2iz-"],
-       :value [:block/uid "w3-eryhFP"]}]}
-   536872137]
-  [45325 :attrs/lookup 2774 536872158]
-  [45325 :attrs/lookup 44546 536872158]
-  [45325 :attrs/lookup 45325 536872158]
-  [45325 :attrs/lookup 45332 536872158]
+  [45323 :entity/attrs #{} 536872323]
   [45325 :block/children 45328 536872122]
-  [45325 :block/children 45332 536872152]
   [45325 :block/open true 536872223]
   [45325 :block/order 1 536872127]
   [45325 :block/page 4296 536872102]
@@ -75683,17 +73773,10 @@
   [45325 :block/uid "oDAL84yf0" 536872101]
   [45325 :create/time 1622796779756 536872101]
   [45325 :create/user 53 536872101]
+  [45325 :edit/seen-by 74 536872252]
   [45325 :edit/time 1622798130798 536872230]
   [45325 :edit/user 53 536872101]
-  [45325
-   :entity/attrs
-   #{[{:source [:block/uid "oDAL84yf0"],
-       :value [:block/uid "oDAL84yf0"]}
-      {:source [:block/uid "zlbcLLRd_"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "zlbcLLRd_"],
-       :value [:block/uid "evJ14QpsV"]}]}
-   536872158]
+  [45325 :entity/attrs #{} 536872253]
   [45328 :block/open true 536872120]
   [45328 :block/order 0 536872122]
   [45328 :block/page 4296 536872121]
@@ -75711,57 +73794,9 @@
   [45328 :block/uid "91r1uad9-" 536872120]
   [45328 :create/time 1622796861197 536872120]
   [45328 :create/user 53 536872120]
+  [45328 :edit/seen-by 74 536872254]
   [45328 :edit/time 1622796910835 536872143]
   [45328 :edit/user 53 536872120]
-  [45329 :block/open true 536872125]
-  [45329 :block/order 0 536872127]
-  [45329 :block/page 4296 536872126]
-  [45329 :block/parents 4296 536872126]
-  [45329 :block/parents 7333 536872126]
-  [45329 :block/parents 10915 536872126]
-  [45329 :block/parents 45319 536872126]
-  [45329 :block/parents 45321 536872126]
-  [45329 :block/parents 45322 536872126]
-  [45329 :block/parents 45323 536872128]
-  [45329 :block/refs 2527 536872136]
-  [45329 :block/refs 2760 536872130]
-  [45329 :block/refs 44546 536872130]
-  [45329
-   :block/string
-   "Brought to you by:: [[Joshua Brown]] [[Kifah Meeran]]"
-   536872138]
-  [45329 :block/uid "aXAL-2iz-" 536872125]
-  [45329 :create/time 1622796866648 536872125]
-  [45329 :create/user 53 536872125]
-  [45329 :edit/time 1622796880107 536872138]
-  [45329 :edit/user 53 536872125]
-  [45332 :block/open true 536872152]
-  [45332 :block/order 1 536872152]
-  [45332 :block/page 4296 536872153]
-  [45332 :block/parents 4296 536872153]
-  [45332 :block/parents 7333 536872153]
-  [45332 :block/parents 10915 536872153]
-  [45332 :block/parents 45319 536872153]
-  [45332 :block/parents 45321 536872153]
-  [45332 :block/parents 45322 536872153]
-  [45332 :block/parents 45325 536872153]
-  [45332 :block/refs 2774 536872157]
-  [45332 :block/refs 44546 536872157]
-  [45332
-   :block/string
-   "Brought to you by:: [[Bardia Pourvakil]]"
-   536872156]
-  [45332 :block/uid "zlbcLLRd_" 536872152]
-  [45332 :create/time 1622796915739 536872152]
-  [45332 :create/user 53 536872152]
-  [45332 :edit/time 1622796921615 536872156]
-  [45332 :edit/user 53 536872152]
-  [45334 :attrs/lookup 2527 536872173]
-  [45334 :attrs/lookup 2774 536872173]
-  [45334 :attrs/lookup 44546 536872173]
-  [45334 :attrs/lookup 45334 536872173]
-  [45334 :attrs/lookup 45335 536872173]
-  [45334 :block/children 45335 536872169]
   [45334 :block/children 45336 536872180]
   [45334 :block/children 45337 536872182]
   [45334 :block/open false 536872234]
@@ -75779,45 +73814,9 @@
   [45334 :create/user 53 536872164]
   [45334 :edit/time 1622796944039 536872168]
   [45334 :edit/user 53 536872164]
-  [45334
-   :entity/attrs
-   #{[{:source [:block/uid "PZfC8IHz0"],
-       :value [:block/uid "PZfC8IHz0"]}
-      {:source [:block/uid "_G8zJworm"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "_G8zJworm"],
-       :value [:block/uid "evJ14QpsV"]}]
-     [{:source [:block/uid "PZfC8IHz0"],
-       :value [:block/uid "PZfC8IHz0"]}
-      {:source [:block/uid "_G8zJworm"],
-       :value [:block/uid "5K19Sylm0"]}
-      {:source [:block/uid "_G8zJworm"],
-       :value [:block/uid "w3-eryhFP"]}]}
-   536872173]
-  [45335 :block/open true 536872166]
-  [45335 :block/order 1 536872188]
-  [45335 :block/page 4296 536872167]
-  [45335 :block/parents 4296 536872167]
-  [45335 :block/parents 7333 536872167]
-  [45335 :block/parents 10915 536872167]
-  [45335 :block/parents 45319 536872167]
-  [45335 :block/parents 45321 536872167]
-  [45335 :block/parents 45322 536872167]
-  [45335 :block/parents 45334 536872170]
-  [45335 :block/refs 2527 536872172]
-  [45335 :block/refs 2774 536872172]
-  [45335 :block/refs 44546 536872172]
-  [45335
-   :block/string
-   "Brought to you by:: [[Bardia Pourvakil]] [[Kifah Meeran]]"
-   536872171]
-  [45335 :block/uid "_G8zJworm" 536872166]
-  [45335 :create/time 1622796944030 536872166]
-  [45335 :create/user 53 536872166]
-  [45335 :edit/time 1622796952724 536872171]
-  [45335 :edit/user 53 536872166]
+  [45334 :entity/attrs #{} 536872323]
   [45336 :block/open true 536872178]
-  [45336 :block/order 2 536872188]
+  [45336 :block/order 1 536872323]
   [45336 :block/page 4296 536872179]
   [45336 :block/parents 4296 536872179]
   [45336 :block/parents 7333 536872179]
@@ -75973,10 +73972,10 @@
   [45346 :create/user 6897 536872248]
   [45346 :edit/time 1623072128909 536872251]
   [45346 :edit/user 6897 536872248]
-  [45347 :block/uid "vUl5a8XST" 536872252]
-  [45347 :user/display-name "Erik Newhard" 536872252]
+  [45347 :block/uid "QxdEV86Bc" 536872346]
+  [45347 :user/display-name "Erik Newhard" 536872346]
   [45347
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536872252]
-  [45347 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872252]]}
+   536872346]
+  [45347 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872346]]}
