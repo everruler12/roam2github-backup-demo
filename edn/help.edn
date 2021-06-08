@@ -70847,7 +70847,7 @@
   [45034 :version/id "0.8.5" 536870912]
   [45034
    :version/nonce
-   "uuid4195ddf7-47bf-4ddb-951d-e43a0c85f955"
+   "uuide6ff504a-f9c6-429d-862f-502f6fbf720f"
    536872369]
   [45034
    :version/upgraded-nonce
@@ -74000,7 +74000,7 @@
   [45348 :edit/user 6897 536872353]
   [45348 :log/id 1623160615667 536872353]
   [45348 :node/title "June 8th, 2021" 536872353]
-  [45349 :block/uid "ZasT8d3Sx" 536872369]
+  [45349 :block/uid "lSs_EaEOb" 536872369]
   [45349 :user/display-name "Erik Newhard" 536872369]
   [45349
    :user/photo-url
