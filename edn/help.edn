@@ -15745,6 +15745,7 @@
   [7139 :create/user 74 536870912]
   [7139 :edit/seen-by 3 536870912]
   [7139 :edit/seen-by 53 536870912]
+  [7139 :edit/seen-by 3422 536872358]
   [7139 :edit/time 1614792355944 536870912]
   [7139 :edit/user 3 536870912]
   [7140 :block/children 7141 536870912]
@@ -15770,6 +15771,7 @@
   [7140 :create/user 74 536870912]
   [7140 :edit/seen-by 3 536870912]
   [7140 :edit/seen-by 53 536870912]
+  [7140 :edit/seen-by 3422 536872358]
   [7140 :edit/time 1614792355944 536870912]
   [7140 :edit/user 3 536870912]
   [7141 :block/children 7142 536870912]
@@ -15783,14 +15785,15 @@
   [7141 :block/parents 7140 536870912]
   [7141
    :block/string
-   "If you click on this you will now see this menu"
-   536870912]
+   "If you click on the above block ref you will now see the below menu:"
+   536872368]
   [7141 :block/uid "0y0msVqXe" 536870912]
   [7141 :create/time 1597108825045 536870912]
   [7141 :create/user 74 536870912]
   [7141 :edit/seen-by 53 536870912]
-  [7141 :edit/time 1614792355944 536870912]
-  [7141 :edit/user 3 536870912]
+  [7141 :edit/seen-by 3422 536872358]
+  [7141 :edit/time 1623174194515 536872368]
+  [7141 :edit/user 3422 536872359]
   [7142 :block/open true 536870912]
   [7142 :block/order 0 536870912]
   [7142 :block/page 340 536870912]
@@ -16038,14 +16041,15 @@
   [7154 :block/refs 5323 536870912]
   [7154
    :block/string
-   "If you select [[Replace With]] you will see this menu"
-   536870912]
+   "If you select [[Replace With]] you will see the below menu:"
+   536872367]
   [7154 :block/uid "eRCg0sGM4" 536870912]
   [7154 :create/time 1597109029259 536870912]
   [7154 :create/user 74 536870912]
   [7154 :edit/seen-by 53 536870912]
-  [7154 :edit/time 1614792355944 536870912]
-  [7154 :edit/user 3 536870912]
+  [7154 :edit/seen-by 3422 536872365]
+  [7154 :edit/time 1623174192629 536872367]
+  [7154 :edit/user 3422 536872366]
   [7155 :block/open true 536870912]
   [7155 :block/order 0 536870912]
   [7155 :block/page 340 536870912]
@@ -70843,8 +70847,8 @@
   [45034 :version/id "0.8.5" 536870912]
   [45034
    :version/nonce
-   "uuid2a52db25-f6bb-4631-9323-10066d0f4b07"
-   536872358]
+   "uuidcddcf469-b571-4cea-8bbe-876b9114beb6"
+   536872369]
   [45034
    :version/upgraded-nonce
    "uuid6ef09d55-8f2b-40a0-a0ba-d6bd86a1f663"
@@ -73996,10 +74000,10 @@
   [45348 :edit/user 6897 536872353]
   [45348 :log/id 1623160615667 536872353]
   [45348 :node/title "June 8th, 2021" 536872353]
-  [45349 :block/uid "iz1_3AnIa" 536872358]
-  [45349 :user/display-name "Erik Newhard" 536872358]
+  [45349 :block/uid "a7HqfejF8" 536872369]
+  [45349 :user/display-name "Erik Newhard" 536872369]
   [45349
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536872358]
-  [45349 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872358]]}
+   536872369]
+  [45349 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872369]]}
