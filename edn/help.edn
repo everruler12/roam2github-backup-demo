@@ -70869,7 +70869,7 @@
   [45034 :version/id "0.8.5" 536870912]
   [45034
    :version/nonce
-   "uuid4b6f48ff-aca0-4cf8-941d-2a56ffa2f88d"
+   "uuidaff25d05-01a0-4c21-9f42-2074bfd1f915"
    536872414]
   [45034
    :version/upgraded-nonce
@@ -74117,7 +74117,7 @@
   [45354 :edit/user 3422 536872411]
   [45354 :log/id 1623216650118 536872411]
   [45354 :node/title "June 9th, 2021" 536872411]
-  [45355 :block/uid "k1zCBcnkh" 536872414]
+  [45355 :block/uid "R8icv8vcf" 536872414]
   [45355 :user/display-name "Erik Newhard" 536872414]
   [45355
    :user/photo-url
