@@ -4029,8 +4029,8 @@
   [1828 :version/id "0.8.5" 536876194]
   [1828
    :version/nonce
-   "uuid612d5b29-50e7-44c2-90c8-e63179a9c49b"
-   536876910]
+   "uuidd2ce1696-b960-4582-bcb0-941f8a9866bc"
+   536876914]
   [1828
    :version/upgraded-nonce
    "uuid47681c6c-bd0f-40f6-96fb-7e00f0d41667"
@@ -5140,12 +5140,12 @@
   [1940 :block/refs 1947 536876893]
   [1940
    :block/string
-   "#[[Tweet reply]] [[@PaulaGhete]] https://twitter.com/PaulaGhete/status/1402621322564444169"
-   536876892]
+   "#[[Tweet reply]]\n[[@PaulaGhete]] 2021-06-09T13:39:16.000Z [*](https://twitter.com/PaulaGhete/status/1402621322564444169)"
+   536876914]
   [1940 :block/uid "_sDIk58OE" 536876863]
   [1940 :create/time 1623295546126 536876863]
   [1940 :create/user 1 536876863]
-  [1940 :edit/time 1623295681944 536876892]
+  [1940 :edit/time 1623299614076 536876914]
   [1940 :edit/user 1 536876863]
   [1941 :block/open true 536876866]
   [1941 :block/order 0 536876889]

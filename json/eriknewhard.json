@@ -6239,7 +6239,7 @@
     },
     "children": [
       {
-        "edit-time": 1623295681944,
+        "edit-time": 1623299614076,
         "children": [
           {
             "string": "What do global solutions look like?\n\nSpreading awareness is insufficient to overcome strongly-held beliefs of individuals and short-term financial incentives of institutions. It ends up coercing feelings of guilt or panic in order to effect change.",
@@ -6283,7 +6283,7 @@
             ":block/uid": "KCY9vwyf6"
           }
         ],
-        "string": "#[[Tweet reply]] [[@PaulaGhete]] https://twitter.com/PaulaGhete/status/1402621322564444169",
+        "string": "#[[Tweet reply]]\n[[@PaulaGhete]] 2021-06-09T13:39:16.000Z [*](https://twitter.com/PaulaGhete/status/1402621322564444169)",
         ":create/user": {
           ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
         },
