@@ -5181,9 +5181,11 @@
   [1947 :edit/time 1623295681980 536876893]
   [1947 :edit/user 1 536876893]
   [1947 :node/title "@PaulaGhete" 536876893]
+  [1948 :block/children 1957 536876930]
   [1948 :block/uid "06-10-2021" 536876910]
   [1948 :create/time 1623298741599 536876910]
   [1948 :create/user 1 536876910]
+  [1948 :edit/seen-by 1 536876959]
   [1948 :edit/time 1623298741599 536876910]
   [1948 :edit/user 1 536876910]
   [1948 :log/id 1623298741598 536876910]
@@ -5198,5 +5200,72 @@
   [1950 :version/id "0.8.6" 536876915]
   [1950
    :version/nonce
-   "uuid17327d79-1c20-41ca-8b85-71007977b1f0" 
-   536876915]]}
+   "uuidcbc8d750-ff07-4cdd-b7df-814ce51b26e9"
+   536877012]
+  [1955 :block/open true 536876923]
+  [1955 :block/order 0 536876936]
+  [1955 :block/page 1948 536876923]
+  [1955 :block/parents 1948 536876923]
+  [1955 :block/parents 1957 536876937]
+  [1955 :block/refs 1956 536876927]
+  [1955
+   :block/string
+   "In the case of American slavery, it took a war to change people's actions. The victors changed the laws. Then the following generations formed moral beliefs from new education based on those laws.\n\nThere's got to be a better way...\n\n(Screenshot from [[@IAmMarkManson]]'s newsletter)\n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Feriknewhard%2FF9j2pAXtiE.png?alt=media&token=d45b644b-9b36-4a3f-ae59-a0344699bfcb)"
+   536876929]
+  [1955 :block/uid "o8pzvQLNU" 536876923]
+  [1955 :create/time 1623373729179 536876923]
+  [1955 :create/user 1 536876923]
+  [1955 :edit/time 1623373751407 536876929]
+  [1955 :edit/user 1 536876923]
+  [1956 :block/uid "vVti0RAsB" 536876927]
+  [1956 :create/time 1623373741523 536876927]
+  [1956 :create/user 1 536876927]
+  [1956 :edit/time 1623373741526 536876927]
+  [1956 :edit/user 1 536876927]
+  [1956 :node/title "@IAmMarkManson" 536876927]
+  [1957 :block/children 1955 536876936]
+  [1957 :block/children 1960 536876946]
+  [1957 :block/children 1962 536876956]
+  [1957 :block/open true 536876930]
+  [1957 :block/order 0 536876930]
+  [1957 :block/page 1948 536876931]
+  [1957 :block/parents 1948 536876931]
+  [1957 :block/refs 1749 536876941]
+  [1957 :block/refs 1947 536876943]
+  [1957
+   :block/string
+   "#[[Tweet reply]] [[@PaulaGhete]] [*](https://twitter.com/PaulaGhete/status/1402906137180217347)"
+   536876942]
+  [1957 :block/uid "9v4TEpSfU" 536876930]
+  [1957 :create/time 1623373775167 536876930]
+  [1957 :create/user 1 536876930]
+  [1957 :edit/seen-by 1 536876959]
+  [1957 :edit/time 1623373813583 536876942]
+  [1957 :edit/user 1 536876930]
+  [1960 :block/open true 536876946]
+  [1960 :block/order 2 536876960]
+  [1960 :block/page 1948 536876947]
+  [1960 :block/parents 1948 536876947]
+  [1960 :block/parents 1957 536876947]
+  [1960
+   :block/string
+   "But ultimately, there's always an emotional reason behind any belief change.\r\n\r\nIn my case, I've identified it as largely influenced by the social group I want to associate with and be accepted by. And whatever gives me the feeling of being most correct in my limited knowledge."
+   536877011]
+  [1960 :block/uid "FEkxqB9S7" 536876946]
+  [1960 :create/time 1623374839245 536876946]
+  [1960 :create/user 1 536876946]
+  [1960 :edit/time 1623376136869 536877011]
+  [1960 :edit/user 1 536876946]
+  [1962 :block/open true 536876956]
+  [1962 :block/order 1 536876956]
+  [1962 :block/page 1948 536876958]
+  [1962 :block/parents 1948 536876958]
+  [1962 :block/parents 1957 536876958]
+  [1962
+   :block/string
+   "It'd be nice if facts, stats, and education changed people's minds. But it doesn't seem that's how the brain works.\r\n\r\nI've had major belief changes in regards to religion and diet. I'd like to think it was for rational reasons based on my personal research and critical thinking."
+   536877009]
+  [1962 :block/uid "jysdF-Rif" 536876956]
+  [1962 :edit/seen-by 1 536876959]
+  [1962 :edit/time 1623376044493 536877009]
+  [1962 :edit/user 1 536876956]]}

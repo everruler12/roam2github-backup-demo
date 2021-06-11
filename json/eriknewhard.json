@@ -6314,11 +6314,85 @@
   {
     "create-time": 1623298741599,
     "title": "June 10th, 2021",
-    "uid": "06-10-2021",
-    "edit-time": 1623298741599,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
+    "children": [
+      {
+        "edit-time": 1623373813583,
+        "children": [
+          {
+            "string": "In the case of American slavery, it took a war to change people's actions. The victors changed the laws. Then the following generations formed moral beliefs from new education based on those laws.\n\nThere's got to be a better way...\n\n(Screenshot from [[@IAmMarkManson]]'s newsletter)\n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Feriknewhard%2FF9j2pAXtiE.png?alt=media&token=d45b644b-9b36-4a3f-ae59-a0344699bfcb)",
+            "create-time": 1623373729179,
+            ":block/refs": [
+              {
+                ":block/uid": "vVti0RAsB"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "vVti0RAsB"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            },
+            "uid": "o8pzvQLNU",
+            "edit-time": 1623373751407,
+            ":edit/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            }
+          },
+          {
+            "string": "It'd be nice if facts, stats, and education changed people's minds. But it doesn't seem that's how the brain works.\r\n\r\nI've had major belief changes in regards to religion and diet. I'd like to think it was for rational reasons based on my personal research and critical thinking.",
+            "uid": "jysdF-Rif",
+            "edit-time": 1623376044493,
+            ":edit/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            }
+          },
+          {
+            "string": "But ultimately, there's always an emotional reason behind any belief change.\r\n\r\nIn my case, I've identified it as largely influenced by the social group I want to associate with and be accepted by. And whatever gives me the feeling of being most correct in my limited knowledge.",
+            "create-time": 1623374839245,
+            "uid": "FEkxqB9S7",
+            "edit-time": 1623376136869,
+            ":create/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            },
+            ":edit/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "X_ogx0Iel"
+          },
+          {
+            "uid": "KCY9vwyf6"
+          }
+        ],
+        "uid": "9v4TEpSfU",
+        ":block/refs": [
+          {
+            ":block/uid": "X_ogx0Iel"
+          },
+          {
+            ":block/uid": "KCY9vwyf6"
+          }
+        ],
+        "string": "#[[Tweet reply]] [[@PaulaGhete]] [*](https://twitter.com/PaulaGhete/status/1402906137180217347)",
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        "create-time": 1623373775167,
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      }
+    ],
+    "uid": "06-10-2021",
+    "edit-time": 1623298741599,
     ":edit/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     }
@@ -6328,6 +6402,18 @@
     "title": "June 11th, 2021",
     "uid": "06-11-2021",
     "edit-time": 1623370565484,
+    ":create/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    },
+    ":edit/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    }
+  },
+  {
+    "create-time": 1623373741523,
+    "title": "@IAmMarkManson",
+    "uid": "vVti0RAsB",
+    "edit-time": 1623373741526,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
