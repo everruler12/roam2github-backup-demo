@@ -86,14 +86,15 @@
    536870912]
   [3
    :user/settings
-   {:link-brackets? true,
-    :rtl? false,
-    :namespace-options [:full :none :partial],
+   {:namespace-options [:full :none :partial],
     :hide-code-blocks? true,
+    :allow-custom-components? true,
+    :link-brackets? true,
+    :rtl? false,
     :showing-own-icons? false,
     :showing-user-icons? true,
     :right-sidebar-pinned {}}
-   536871244]
+   536872571]
   [3 :user/uid "CHxhvJ7VwhSEeJI217QsbgO8hpu1" 536870912]
   [6 :block/children 10701 536870912]
   [6 :block/children 10783 536870912]
@@ -4114,8 +4115,8 @@
   [1370 :edit/time 1614656095075 536870912]
   [1370 :edit/user 3 536870912]
   [1372 :block/children 1386 536870912]
-  [1372 :block/open true 536870912]
-  [1372 :block/order 3 536870912]
+  [1372 :block/open false 536872551]
+  [1372 :block/order 5 536872567]
   [1372 :block/page 433 536870912]
   [1372 :block/parents 433 536870912]
   [1372 :block/string "Plugin" 536870912]
@@ -4145,7 +4146,7 @@
   [1377 :block/children 11223 536870912]
   [1377 :block/children 11233 536870912]
   [1377 :block/open true 536870912]
-  [1377 :block/order 7 536870912]
+  [1377 :block/order 1 536872559]
   [1377 :block/page 433 536870912]
   [1377 :block/parents 433 536870912]
   [1377 :block/refs 319 536870912]
@@ -4418,8 +4419,8 @@
   [1459 :edit/time 1614656469640 536870912]
   [1459 :edit/user 3 536870912]
   [1462 :block/children 13410 536870912]
-  [1462 :block/open true 536870912]
-  [1462 :block/order 1 536870912]
+  [1462 :block/open false 536872563]
+  [1462 :block/order 3 536872569]
   [1462 :block/page 433 536870912]
   [1462 :block/parents 433 536870912]
   [1462 :block/string "Course" 536870912]
@@ -5131,7 +5132,7 @@
   [2189 :block/children 2190 536870912]
   [2189 :block/children 2193 536870912]
   [2189 :block/children 2194 536870912]
-  [2189 :block/open false 536870912]
+  [2189 :block/open false 536872562]
   [2189 :block/order 0 536870912]
   [2189 :block/page 433 536870912]
   [2189 :block/parents 433 536870912]
@@ -5183,7 +5184,7 @@
   [2190 :edit/user 3 536870912]
   [2190 :entity/attrs #{} 536870912]
   [2193 :block/children 11273 536870912]
-  [2193 :block/open false 536870912]
+  [2193 :block/open false 536872547]
   [2193 :block/order 1 536870912]
   [2193 :block/page 433 536870912]
   [2193 :block/parents 433 536870912]
@@ -5203,7 +5204,7 @@
   [2194 :attrs/lookup 11272 536870912]
   [2194 :block/children 2195 536870912]
   [2194 :block/children 11269 536870912]
-  [2194 :block/open false 536870912]
+  [2194 :block/open true 536872548]
   [2194 :block/order 2 536870912]
   [2194 :block/page 433 536870912]
   [2194 :block/parents 433 536870912]
@@ -5214,6 +5215,7 @@
   [2194 :block/uid "BF0KloYYw" 536870912]
   [2194 :create/time 1614677125384 536870912]
   [2194 :create/user 3 536870912]
+  [2194 :edit/seen-by 3 536872560]
   [2194 :edit/seen-by 3422 536870912]
   [2194 :edit/time 1615442197842 536870912]
   [2194 :edit/user 3422 536870912]
@@ -42535,6 +42537,7 @@
   [11246 :block/parents 11269 536870912]
   [11246 :block/string "Agenda" 536870912]
   [11246 :block/uid "CC0OBwRpN" 536870912]
+  [11246 :edit/seen-by 3 536872560]
   [11246 :edit/seen-by 3422 536870912]
   [11246 :edit/time 1615391907917 536870912]
   [11246 :edit/user 3422 536870912]
@@ -42555,6 +42558,7 @@
    "{{[[TODO]]}} Morning walk #goal-health #habit"
    536870912]
   [11247 :block/uid "kQO4Z1CPg" 536870912]
+  [11247 :edit/seen-by 3 536872560]
   [11247 :edit/time 1615391907917 536870912]
   [11247 :edit/user 3422 536870912]
   [11248 :block/uid "a9XxDTNIR" 536870912]
@@ -42692,6 +42696,7 @@
   [11257 :block/refs 772 536870912]
   [11257 :block/string "{{[[TODO]]}} Evening focus hour" 536870912]
   [11257 :block/uid "LG2uaETSQ" 536870912]
+  [11257 :edit/seen-by 3 536872561]
   [11257 :edit/time 1615391907917 536870912]
   [11257 :edit/user 3422 536870912]
   [11258 :block/open true 536870912]
@@ -42862,6 +42867,7 @@
    "Weekly Agenda (created on a different day, and embedded with /Block Reference)"
    536870912]
   [11269 :block/uid "a8dIX0VfI" 536870912]
+  [11269 :edit/seen-by 3 536872560]
   [11269 :edit/seen-by 3422 536870912]
   [11269 :edit/time 1615391907917 536870912]
   [11269 :edit/user 3422 536870912]
@@ -44215,7 +44221,7 @@
   [11405 :block/children 11469 536870912]
   [11405 :block/children 45141 536870979]
   [11405 :block/open true 536871936]
-  [11405 :block/order 8 536870912]
+  [11405 :block/order 2 536872569]
   [11405 :block/page 433 536870912]
   [11405 :block/parents 433 536870912]
   [11405 :block/string "The Roam Team" 536870912]
@@ -52642,7 +52648,7 @@
   [12467 :edit/time 1616398102839 536870912]
   [12467 :edit/user 3 536870912]
   [12468 :block/open true 536870912]
-  [12468 :block/order 6 536870912]
+  [12468 :block/order 8 536872564]
   [12468 :block/page 433 536870912]
   [12468 :block/parents 433 536870912]
   [12468
@@ -59626,8 +59632,8 @@
   [13407 :edit/time 1616600396492 536870912]
   [13407 :edit/user 3 536870912]
   [13408 :block/children 13425 536870912]
-  [13408 :block/open true 536870912]
-  [13408 :block/order 4 536870912]
+  [13408 :block/open false 536872552]
+  [13408 :block/order 6 536872566]
   [13408 :block/page 433 536870912]
   [13408 :block/parents 433 536870912]
   [13408 :block/string "Browser Extension" 536870912]
@@ -59672,8 +59678,8 @@
   [13412 :edit/time 1616600495465 536870912]
   [13412 :edit/user 3 536870912]
   [13413 :block/children 13414 536870912]
-  [13413 :block/open true 536870912]
-  [13413 :block/order 2 536870912]
+  [13413 :block/open false 536872550]
+  [13413 :block/order 4 536872568]
   [13413 :block/page 433 536870912]
   [13413 :block/parents 433 536870912]
   [13413 :block/string "Theme" 536870912]
@@ -60083,8 +60089,8 @@
   [13438 :edit/time 1616601036985 536870912]
   [13438 :edit/user 3 536870912]
   [13439 :block/children 13440 536870912]
-  [13439 :block/open true 536870912]
-  [13439 :block/order 5 536870912]
+  [13439 :block/open false 536872553]
+  [13439 :block/order 7 536872565]
   [13439 :block/page 433 536870912]
   [13439 :block/parents 433 536870912]
   [13439 :block/string "Coaching" 536870912]
@@ -72079,7 +72085,7 @@
   [45141 :block/children 45143 536870986]
   [45141 :block/children 45159 536870986]
   [45141 :block/children 45175 536870986]
-  [45141 :block/open true 536870977]
+  [45141 :block/open false 536872570]
   [45141 :block/order 4 536870979]
   [45141 :block/page 433 536870978]
   [45141 :block/parents 433 536870978]
@@ -74193,8 +74199,8 @@
   [45362 :version/id "0.8.6" 536872449]
   [45362
    :version/nonce
-   "uuide01df919-0d40-4414-863e-7e45f29e31ee"
-   536872544]
+   "uuid0d8296b1-e425-4747-81ee-ec37f3b48c90"
+   536872576]
   [45364 :block/uid "06-14-2021" 536872453]
   [45364 :create/time 1623653801433 536872453]
   [45364 :create/user 3422 536872453]
@@ -74323,17 +74329,17 @@
   [45374 :edit/user 3 536872542]
   [45374 :log/id 1623808890949 536872542]
   [45374 :node/title "June 15th, 2021" 536872542]
-  [45375 :block/uid "A2UAvwZ0G" 536872543]
-  [45375 :user/display-name "Erik Newhard" 536872543]
-  [45375
+  [45375 :block/uid "06-16-2021" 536872543]
+  [45375 :create/time 1623871972520 536872543]
+  [45375 :create/user 3 536872543]
+  [45375 :edit/time 1623871972520 536872543]
+  [45375 :edit/user 3 536872543]
+  [45375 :log/id 1623871972519 536872543]
+  [45375 :node/title "June 16th, 2021" 536872543]
+  [45376 :block/uid "3r5Z5Dc0p" 536872576]
+  [45376 :user/display-name "Erik Newhard" 536872576]
+  [45376
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536872543]
-  [45375 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872543]
-  [45376 :block/uid "06-16-2021" 536872544]
-  [45376 :create/time 1623870464559 536872544]
-  [45376 :create/user 45375 536872544]
-  [45376 :edit/time 1623870464559 536872544]
-  [45376 :edit/user 45375 536872544]
-  [45376 :log/id 1623870464559 536872544]
-  [45376 :node/title "June 16th, 2021" 536872544]]}
+   536872576]
+  [45376 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872576]]}

@@ -19160,867 +19160,6 @@
         }
       },
       {
-        "string": "Course",
-        "create-time": 1614656523796,
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        "children": [
-          {
-            "string": "[Course name](course link) by `[[Author Name]]` __price__",
-            "create-time": 1616600495444,
-            "heading": 3,
-            ":create/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            "children": [
-              {
-                "string": "2-3 sentence blurb describing the course",
-                "create-time": 1616600495444,
-                "uid": "6zgO15Fyr",
-                "edit-time": 1616600538068,
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "uid": "iBLTX7ncx",
-            "edit-time": 1616600522174,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          }
-        ],
-        "uid": "xU-drlkaB",
-        "edit-time": 1616600494895,
-        ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        }
-      },
-      {
-        "string": "Theme",
-        "create-time": 1616600538054,
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        "children": [
-          {
-            "string": "`theme name`",
-            "create-time": 1616600801962,
-            ":create/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            "children": [
-              {
-                "string": "Screenshots::",
-                "create-time": 1616600825306,
-                ":block/refs": [
-                  {
-                    ":block/uid": "Aa7fywYAg"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "Aa7fywYAg"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "uid": "smNoGqsgq",
-                "edit-time": 1616600828596,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Last updated::",
-                "create-time": 1616600828581,
-                ":block/refs": [
-                  {
-                    ":block/uid": "I9wRqoPTi"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "I9wRqoPTi"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "uid": "8eiAm3lLA",
-                "edit-time": 1616600832962,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "edit-time": 1616600867547,
-                "children": [
-                  {
-                    "string": "Twitter:: [link to bio]()",
-                    "create-time": 1616600836265,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "SwSub32Iu"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "SwSub32Iu"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "uid": "1_jUIeJpy",
-                    "edit-time": 1616600872168,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "Love this theme? Say thanks via [PayPal]() (and/or other payment service)",
-                    "create-time": 1616600838571,
-                    "uid": "2DKymX1ff",
-                    "edit-time": 1616600860429,
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "Hc4H-JsI6"
-                  }
-                ],
-                "uid": "FGPLkAwO3",
-                ":block/refs": [
-                  {
-                    ":block/uid": "Hc4H-JsI6"
-                  }
-                ],
-                "string": "Designer:: name",
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1616600832946,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Special Features::",
-                "create-time": 1616600873738,
-                ":block/refs": [
-                  {
-                    ":block/uid": "O3Zn34Tzh"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "O3Zn34Tzh"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "uid": "YKW3cr27m",
-                "edit-time": 1616600878558,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "edit-time": 1616600887439,
-                "children": [
-                  {
-                    "edit-time": 1616600893479,
-                    "children": [
-                      {
-                        "string": "```css\n```",
-                        "create-time": 1616600895711,
-                        "uid": "NXfsSieob",
-                        "edit-time": 1616600900773,
-                        ":create/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "RA1UXmzp0"
-                      }
-                    ],
-                    "uid": "4V-vEJY8W",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "RA1UXmzp0"
-                      }
-                    ],
-                    "string": "{{[[roam/css]]}}",
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "create-time": 1616600889254,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "EiKfxPiuW"
-                  }
-                ],
-                "uid": "GK8JAma_r",
-                ":block/refs": [
-                  {
-                    ":block/uid": "EiKfxPiuW"
-                  }
-                ],
-                "string": "Code::",
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1616600878544,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "uid": "NAzJLKKtB",
-            "edit-time": 1616600825322,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          }
-        ],
-        "uid": "qKtbZQeP7",
-        "edit-time": 1616600547425,
-        ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        }
-      },
-      {
-        "string": "Plugin",
-        "create-time": 1614656160527,
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        "children": [
-          {
-            "string": "`plugin_name`",
-            "create-time": 1614656195089,
-            ":create/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            "children": [
-              {
-                "edit-time": 1616527890079,
-                "children": [
-                  {
-                    "string": "Must include GIF and/or video of usage",
-                    "create-time": 1614758281173,
-                    "uid": "G7HRPC8c9",
-                    "edit-time": 1614758328992,
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "GPmbtPPKA"
-                  }
-                ],
-                "uid": "k48-5Bm-L",
-                ":block/refs": [
-                  {
-                    ":block/uid": "GPmbtPPKA"
-                  }
-                ],
-                "string": "Info::",
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1614656175072,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Link::",
-                "create-time": 1614656310323,
-                ":block/refs": [
-                  {
-                    ":block/uid": "JitGvUhwq"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "JitGvUhwq"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "uid": "a4RFiHjL_",
-                "edit-time": 1614656321527,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "edit-time": 1614758301403,
-                "children": [
-                  {
-                    "string": "Installation, activation and configuration ",
-                    "create-time": 1614758307340,
-                    "uid": "4IkttgR_2",
-                    "edit-time": 1614758317708,
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "GpNXSf4jH"
-                  }
-                ],
-                "uid": "5K7pgoun6",
-                ":block/refs": [
-                  {
-                    ":block/uid": "GpNXSf4jH"
-                  }
-                ],
-                "string": "Getting started::",
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1614656251070,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "edit-time": 1616600406457,
-                "children": [
-                  {
-                    "string": "",
-                    "create-time": 1614758289665,
-                    "uid": "Q8AyNrki1",
-                    "edit-time": 1614758289665,
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "PcezMKruA"
-                  }
-                ],
-                "uid": "7yBSoOaI2",
-                ":block/refs": [
-                  {
-                    ":block/uid": "PcezMKruA"
-                  }
-                ],
-                "string": "Tutorials::",
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1614656243663,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Reference::",
-                "create-time": 1614656254757,
-                ":block/refs": [
-                  {
-                    ":block/uid": "Ggeqouveu"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "Ggeqouveu"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "uid": "M1Ml-vzyv",
-                "edit-time": 1614656260916,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "edit-time": 1614656174128,
-                "children": [
-                  {
-                    "string": "Twitter::",
-                    "create-time": 1614656216260,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "SwSub32Iu"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "SwSub32Iu"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "uid": "YJrwqIr95",
-                    "edit-time": 1614656217735,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "Love this plugin? Say thanks via [Paypal]()",
-                    "create-time": 1614656219299,
-                    "uid": "cHedhXDv3",
-                    "edit-time": 1614656227889,
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "8XZDHOw3E"
-                  }
-                ],
-                "uid": "3PH8ImXA7",
-                ":block/refs": [
-                  {
-                    ":block/uid": "8XZDHOw3E"
-                  }
-                ],
-                "string": "Developer::",
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1614656172620,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Code::",
-                "create-time": 1614656162890,
-                ":block/refs": [
-                  {
-                    ":block/uid": "EiKfxPiuW"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "EiKfxPiuW"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "uid": "Ktyoi-QhC",
-                "edit-time": 1614656170979,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "uid": "4r2OkzOui",
-            "edit-time": 1616600452517,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          }
-        ],
-        "uid": "B4PiGI-oh",
-        "edit-time": 1616600422455,
-        ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        }
-      },
-      {
-        "string": "Browser Extension",
-        "create-time": 1616600440189,
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        "children": [
-          {
-            "string": "`browser_extension_name`",
-            "create-time": 1616601036854,
-            ":create/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            "children": [
-              {
-                "edit-time": 1616601036854,
-                "children": [
-                  {
-                    "string": "Must include GIF and/or video of usage",
-                    "create-time": 1616601036854,
-                    "uid": "LohoTQpY3",
-                    "edit-time": 1616601036854,
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "GPmbtPPKA"
-                  }
-                ],
-                "uid": "ARJ2NVJB3",
-                ":block/refs": [
-                  {
-                    ":block/uid": "GPmbtPPKA"
-                  }
-                ],
-                "string": "Info::",
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1616601036854,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Link::",
-                "create-time": 1616601036854,
-                ":block/refs": [
-                  {
-                    ":block/uid": "JitGvUhwq"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "JitGvUhwq"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "uid": "YDJwOZM1p",
-                "edit-time": 1616601036854,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "edit-time": 1616601036854,
-                "children": [
-                  {
-                    "string": "Installation, activation and configuration ",
-                    "create-time": 1616601036854,
-                    "uid": "j-UJM0zLL",
-                    "edit-time": 1616601036854,
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "GpNXSf4jH"
-                  }
-                ],
-                "uid": "xzOtdi5ZS",
-                ":block/refs": [
-                  {
-                    ":block/uid": "GpNXSf4jH"
-                  }
-                ],
-                "string": "Getting started::",
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1616601036854,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "edit-time": 1616601036854,
-                "children": [
-                  {
-                    "string": "",
-                    "create-time": 1616601036854,
-                    "uid": "RvlxeCLYu",
-                    "edit-time": 1616601036854,
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "PcezMKruA"
-                  }
-                ],
-                "uid": "taTFT4bui",
-                ":block/refs": [
-                  {
-                    ":block/uid": "PcezMKruA"
-                  }
-                ],
-                "string": "Tutorials::",
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1616601036854,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Reference::",
-                "create-time": 1616601036854,
-                ":block/refs": [
-                  {
-                    ":block/uid": "Ggeqouveu"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "Ggeqouveu"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "uid": "y92tTHKS2",
-                "edit-time": 1616601036854,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "edit-time": 1616601036854,
-                "children": [
-                  {
-                    "string": "Twitter::",
-                    "create-time": 1616601036854,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "SwSub32Iu"
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "SwSub32Iu"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    "uid": "2HsqWM8uf",
-                    "edit-time": 1616601036854,
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "Love this plugin? Say thanks via [Paypal]()",
-                    "create-time": 1616601036854,
-                    "uid": "Dom4KlEeh",
-                    "edit-time": 1616601036854,
-                    ":create/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "8XZDHOw3E"
-                  }
-                ],
-                "uid": "jhmSlSyPP",
-                ":block/refs": [
-                  {
-                    ":block/uid": "8XZDHOw3E"
-                  }
-                ],
-                "string": "Developer::",
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "create-time": 1616601036854,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "uid": "p9VGB9F4R",
-            "edit-time": 1616601043412,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          }
-        ],
-        "uid": "GjvZFSyPT",
-        "edit-time": 1616601033919,
-        ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        }
-      },
-      {
-        "string": "Coaching",
-        "create-time": 1616601069778,
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        "children": [
-          {
-            "string": "`Course Author Name`",
-            "create-time": 1616601074457,
-            ":create/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            "children": [
-              {
-                "string": "Info::",
-                "create-time": 1616601090231,
-                ":block/refs": [
-                  {
-                    ":block/uid": "GPmbtPPKA"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "GPmbtPPKA"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                "uid": "iCmXEmga3",
-                "edit-time": 1616601094330,
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Website::",
-                "create-time": 1616601094315,
-                "uid": "LSsFGrTUz",
-                "edit-time": 1616601096736,
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Areas of specialty::",
-                "create-time": 1616601096724,
-                "uid": "Y7uzarNYb",
-                "edit-time": 1616601100750,
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Contact::",
-                "create-time": 1616601101779,
-                "uid": "J116WjGMO",
-                "edit-time": 1616601104749,
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              },
-              {
-                "string": "Price::",
-                "create-time": 1616601104733,
-                "uid": "hxPH_c9ay",
-                "edit-time": 1616601106692,
-                ":create/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                },
-                ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                }
-              }
-            ],
-            "uid": "6fvEWemdo",
-            "edit-time": 1616601090248,
-            ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            }
-          }
-        ],
-        "uid": "ZPEScBNFv",
-        "edit-time": 1616601074472,
-        ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        }
-      },
-      {
-        "string": "To submit a template to be featured here please fill out this typeform",
-        "create-time": 1616398103402,
-        "uid": "thunmEuGE",
-        "edit-time": 1616398202467,
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        }
-      },
-      {
         "edit-time": 1616398198851,
         "children": [
           {
@@ -23621,6 +22760,867 @@
         ],
         "uid": "4ysx8_TBu",
         "edit-time": 1618445330726,
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        }
+      },
+      {
+        "string": "Course",
+        "create-time": 1614656523796,
+        ":create/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        "children": [
+          {
+            "string": "[Course name](course link) by `[[Author Name]]` __price__",
+            "create-time": 1616600495444,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                "string": "2-3 sentence blurb describing the course",
+                "create-time": 1616600495444,
+                "uid": "6zgO15Fyr",
+                "edit-time": 1616600538068,
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              }
+            ],
+            "uid": "iBLTX7ncx",
+            "edit-time": 1616600522174,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          }
+        ],
+        "uid": "xU-drlkaB",
+        "edit-time": 1616600494895,
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        }
+      },
+      {
+        "string": "Theme",
+        "create-time": 1616600538054,
+        ":create/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        "children": [
+          {
+            "string": "`theme name`",
+            "create-time": 1616600801962,
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                "string": "Screenshots::",
+                "create-time": 1616600825306,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Aa7fywYAg"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Aa7fywYAg"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "uid": "smNoGqsgq",
+                "edit-time": 1616600828596,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Last updated::",
+                "create-time": 1616600828581,
+                ":block/refs": [
+                  {
+                    ":block/uid": "I9wRqoPTi"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "I9wRqoPTi"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "uid": "8eiAm3lLA",
+                "edit-time": 1616600832962,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "edit-time": 1616600867547,
+                "children": [
+                  {
+                    "string": "Twitter:: [link to bio]()",
+                    "create-time": 1616600836265,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "SwSub32Iu"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "SwSub32Iu"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "uid": "1_jUIeJpy",
+                    "edit-time": 1616600872168,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Love this theme? Say thanks via [PayPal]() (and/or other payment service)",
+                    "create-time": 1616600838571,
+                    "uid": "2DKymX1ff",
+                    "edit-time": 1616600860429,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Hc4H-JsI6"
+                  }
+                ],
+                "uid": "FGPLkAwO3",
+                ":block/refs": [
+                  {
+                    ":block/uid": "Hc4H-JsI6"
+                  }
+                ],
+                "string": "Designer:: name",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1616600832946,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Special Features::",
+                "create-time": 1616600873738,
+                ":block/refs": [
+                  {
+                    ":block/uid": "O3Zn34Tzh"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "O3Zn34Tzh"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "uid": "YKW3cr27m",
+                "edit-time": 1616600878558,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "edit-time": 1616600887439,
+                "children": [
+                  {
+                    "edit-time": 1616600893479,
+                    "children": [
+                      {
+                        "string": "```css\n```",
+                        "create-time": 1616600895711,
+                        "uid": "NXfsSieob",
+                        "edit-time": 1616600900773,
+                        ":create/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "RA1UXmzp0"
+                      }
+                    ],
+                    "uid": "4V-vEJY8W",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "RA1UXmzp0"
+                      }
+                    ],
+                    "string": "{{[[roam/css]]}}",
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "create-time": 1616600889254,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "EiKfxPiuW"
+                  }
+                ],
+                "uid": "GK8JAma_r",
+                ":block/refs": [
+                  {
+                    ":block/uid": "EiKfxPiuW"
+                  }
+                ],
+                "string": "Code::",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1616600878544,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              }
+            ],
+            "uid": "NAzJLKKtB",
+            "edit-time": 1616600825322,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          }
+        ],
+        "uid": "qKtbZQeP7",
+        "edit-time": 1616600547425,
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        }
+      },
+      {
+        "string": "Plugin",
+        "create-time": 1614656160527,
+        ":create/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        "children": [
+          {
+            "string": "`plugin_name`",
+            "create-time": 1614656195089,
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                "edit-time": 1616527890079,
+                "children": [
+                  {
+                    "string": "Must include GIF and/or video of usage",
+                    "create-time": 1614758281173,
+                    "uid": "G7HRPC8c9",
+                    "edit-time": 1614758328992,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "GPmbtPPKA"
+                  }
+                ],
+                "uid": "k48-5Bm-L",
+                ":block/refs": [
+                  {
+                    ":block/uid": "GPmbtPPKA"
+                  }
+                ],
+                "string": "Info::",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1614656175072,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Link::",
+                "create-time": 1614656310323,
+                ":block/refs": [
+                  {
+                    ":block/uid": "JitGvUhwq"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "JitGvUhwq"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "uid": "a4RFiHjL_",
+                "edit-time": 1614656321527,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "edit-time": 1614758301403,
+                "children": [
+                  {
+                    "string": "Installation, activation and configuration ",
+                    "create-time": 1614758307340,
+                    "uid": "4IkttgR_2",
+                    "edit-time": 1614758317708,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "GpNXSf4jH"
+                  }
+                ],
+                "uid": "5K7pgoun6",
+                ":block/refs": [
+                  {
+                    ":block/uid": "GpNXSf4jH"
+                  }
+                ],
+                "string": "Getting started::",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1614656251070,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "edit-time": 1616600406457,
+                "children": [
+                  {
+                    "string": "",
+                    "create-time": 1614758289665,
+                    "uid": "Q8AyNrki1",
+                    "edit-time": 1614758289665,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "PcezMKruA"
+                  }
+                ],
+                "uid": "7yBSoOaI2",
+                ":block/refs": [
+                  {
+                    ":block/uid": "PcezMKruA"
+                  }
+                ],
+                "string": "Tutorials::",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1614656243663,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Reference::",
+                "create-time": 1614656254757,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Ggeqouveu"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Ggeqouveu"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "uid": "M1Ml-vzyv",
+                "edit-time": 1614656260916,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "edit-time": 1614656174128,
+                "children": [
+                  {
+                    "string": "Twitter::",
+                    "create-time": 1614656216260,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "SwSub32Iu"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "SwSub32Iu"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "uid": "YJrwqIr95",
+                    "edit-time": 1614656217735,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Love this plugin? Say thanks via [Paypal]()",
+                    "create-time": 1614656219299,
+                    "uid": "cHedhXDv3",
+                    "edit-time": 1614656227889,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "8XZDHOw3E"
+                  }
+                ],
+                "uid": "3PH8ImXA7",
+                ":block/refs": [
+                  {
+                    ":block/uid": "8XZDHOw3E"
+                  }
+                ],
+                "string": "Developer::",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1614656172620,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Code::",
+                "create-time": 1614656162890,
+                ":block/refs": [
+                  {
+                    ":block/uid": "EiKfxPiuW"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "EiKfxPiuW"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "uid": "Ktyoi-QhC",
+                "edit-time": 1614656170979,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              }
+            ],
+            "uid": "4r2OkzOui",
+            "edit-time": 1616600452517,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          }
+        ],
+        "uid": "B4PiGI-oh",
+        "edit-time": 1616600422455,
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        }
+      },
+      {
+        "string": "Browser Extension",
+        "create-time": 1616600440189,
+        ":create/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        "children": [
+          {
+            "string": "`browser_extension_name`",
+            "create-time": 1616601036854,
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                "edit-time": 1616601036854,
+                "children": [
+                  {
+                    "string": "Must include GIF and/or video of usage",
+                    "create-time": 1616601036854,
+                    "uid": "LohoTQpY3",
+                    "edit-time": 1616601036854,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "GPmbtPPKA"
+                  }
+                ],
+                "uid": "ARJ2NVJB3",
+                ":block/refs": [
+                  {
+                    ":block/uid": "GPmbtPPKA"
+                  }
+                ],
+                "string": "Info::",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1616601036854,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Link::",
+                "create-time": 1616601036854,
+                ":block/refs": [
+                  {
+                    ":block/uid": "JitGvUhwq"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "JitGvUhwq"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "uid": "YDJwOZM1p",
+                "edit-time": 1616601036854,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "edit-time": 1616601036854,
+                "children": [
+                  {
+                    "string": "Installation, activation and configuration ",
+                    "create-time": 1616601036854,
+                    "uid": "j-UJM0zLL",
+                    "edit-time": 1616601036854,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "GpNXSf4jH"
+                  }
+                ],
+                "uid": "xzOtdi5ZS",
+                ":block/refs": [
+                  {
+                    ":block/uid": "GpNXSf4jH"
+                  }
+                ],
+                "string": "Getting started::",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1616601036854,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "edit-time": 1616601036854,
+                "children": [
+                  {
+                    "string": "",
+                    "create-time": 1616601036854,
+                    "uid": "RvlxeCLYu",
+                    "edit-time": 1616601036854,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "PcezMKruA"
+                  }
+                ],
+                "uid": "taTFT4bui",
+                ":block/refs": [
+                  {
+                    ":block/uid": "PcezMKruA"
+                  }
+                ],
+                "string": "Tutorials::",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1616601036854,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Reference::",
+                "create-time": 1616601036854,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Ggeqouveu"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Ggeqouveu"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "uid": "y92tTHKS2",
+                "edit-time": 1616601036854,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "edit-time": 1616601036854,
+                "children": [
+                  {
+                    "string": "Twitter::",
+                    "create-time": 1616601036854,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "SwSub32Iu"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "SwSub32Iu"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "uid": "2HsqWM8uf",
+                    "edit-time": 1616601036854,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Love this plugin? Say thanks via [Paypal]()",
+                    "create-time": 1616601036854,
+                    "uid": "Dom4KlEeh",
+                    "edit-time": 1616601036854,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "8XZDHOw3E"
+                  }
+                ],
+                "uid": "jhmSlSyPP",
+                ":block/refs": [
+                  {
+                    ":block/uid": "8XZDHOw3E"
+                  }
+                ],
+                "string": "Developer::",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1616601036854,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              }
+            ],
+            "uid": "p9VGB9F4R",
+            "edit-time": 1616601043412,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          }
+        ],
+        "uid": "GjvZFSyPT",
+        "edit-time": 1616601033919,
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        }
+      },
+      {
+        "string": "Coaching",
+        "create-time": 1616601069778,
+        ":create/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        "children": [
+          {
+            "string": "`Course Author Name`",
+            "create-time": 1616601074457,
+            ":create/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            },
+            "children": [
+              {
+                "string": "Info::",
+                "create-time": 1616601090231,
+                ":block/refs": [
+                  {
+                    ":block/uid": "GPmbtPPKA"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "GPmbtPPKA"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "uid": "iCmXEmga3",
+                "edit-time": 1616601094330,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Website::",
+                "create-time": 1616601094315,
+                "uid": "LSsFGrTUz",
+                "edit-time": 1616601096736,
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Areas of specialty::",
+                "create-time": 1616601096724,
+                "uid": "Y7uzarNYb",
+                "edit-time": 1616601100750,
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Contact::",
+                "create-time": 1616601101779,
+                "uid": "J116WjGMO",
+                "edit-time": 1616601104749,
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Price::",
+                "create-time": 1616601104733,
+                "uid": "hxPH_c9ay",
+                "edit-time": 1616601106692,
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              }
+            ],
+            "uid": "6fvEWemdo",
+            "edit-time": 1616601090248,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          }
+        ],
+        "uid": "ZPEScBNFv",
+        "edit-time": 1616601074472,
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        }
+      },
+      {
+        "string": "To submit a template to be featured here please fill out this typeform",
+        "create-time": 1616398103402,
+        "uid": "thunmEuGE",
+        "edit-time": 1616398202467,
+        ":create/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
         ":edit/user": {
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         }
@@ -71186,15 +71186,15 @@
     }
   },
   {
-    "create-time": 1623870464559,
+    "create-time": 1623871972520,
     "title": "June 16th, 2021",
     "uid": "06-16-2021",
-    "edit-time": 1623870464559,
+    "edit-time": 1623871972520,
     ":create/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     },
     ":edit/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     }
   }
 ]
