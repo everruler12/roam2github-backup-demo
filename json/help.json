@@ -71196,5 +71196,17 @@
     ":edit/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     }
+  },
+  {
+    "create-time": 1623888882628,
+    "title": "June 17th, 2021",
+    "uid": "06-17-2021",
+    "edit-time": 1623888882628,
+    ":create/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    },
+    ":edit/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    }
   }
 ]
