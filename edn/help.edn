@@ -105,6 +105,7 @@
   [6 :create/user 3 536870912]
   [6 :edit/seen-by 3 536870912]
   [6 :edit/seen-by 3422 536870912]
+  [6 :edit/seen-by 6897 536872579]
   [6 :edit/seen-by 9445 536871655]
   [6 :edit/time 1614229626805 536870912]
   [6 :edit/user 3 536870912]
@@ -37553,6 +37554,7 @@
   [10684 :block/uid "6AFqTXgXH" 536870912]
   [10684 :create/time 1614769745939 536870912]
   [10684 :create/user 3 536870912]
+  [10684 :edit/seen-by 6897 536872579]
   [10684 :edit/time 1614777511281 536870912]
   [10684 :edit/user 3 536870912]
   [10685 :block/heading 3 536870912]
@@ -54113,6 +54115,7 @@
   [12665 :create/user 3 536870912]
   [12665 :edit/seen-by 3 536870912]
   [12665 :edit/seen-by 3422 536870912]
+  [12665 :edit/seen-by 6897 536872579]
   [12665 :edit/time 1616474455037 536870912]
   [12665 :edit/user 3 536870912]
   [12668 :block/children 7364 536870912]
@@ -74199,8 +74202,8 @@
   [45362 :version/id "0.8.6" 536872449]
   [45362
    :version/nonce
-   "uuid00a3afab-39a4-4f56-9735-90a83976ce27"
-   536872580]
+   "uuid09e243b8-ed1e-4ffa-ad0a-56705a40fde4"
+   536872581]
   [45364 :block/uid "06-14-2021" 536872453]
   [45364 :create/time 1623653801433 536872453]
   [45364 :create/user 3422 536872453]
@@ -74344,17 +74347,17 @@
   [45376 :edit/user 3422 536872577]
   [45376 :log/id 1624025031580 536872577]
   [45376 :node/title "June 18th, 2021" 536872577]
-  [45377 :block/uid "dnJ1GeopS" 536872579]
-  [45377 :user/display-name "Erik Newhard" 536872579]
+  [45377 :block/uid "RSg17TAbY" 536872580]
+  [45377 :user/display-name "Erik Newhard" 536872580]
   [45377
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536872579]
-  [45377 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872579]
-  [45378 :block/uid "06-21-2021" 536872580]
-  [45378 :create/time 1624281502524 536872580]
-  [45378 :create/user 45377 536872580]
-  [45378 :edit/time 1624281502524 536872580]
-  [45378 :edit/user 45377 536872580]
-  [45378 :log/id 1624281502524 536872580]
-  [45378 :node/title "June 21st, 2021" 536872580]]}
+   536872580]
+  [45377 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872580]
+  [45378 :block/uid "06-21-2021" 536872581]
+  [45378 :create/time 1624284204518 536872581]
+  [45378 :create/user 45377 536872581]
+  [45378 :edit/time 1624284204518 536872581]
+  [45378 :edit/user 45377 536872581]
+  [45378 :log/id 1624284204517 536872581]
+  [45378 :node/title "June 21st, 2021" 536872581]]}
