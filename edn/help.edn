@@ -74206,7 +74206,7 @@
   [45362 :version/id "0.8.6" 536872449]
   [45362
    :version/nonce
-   "uuiddd9b8e7f-f84e-480f-a084-d89efdea3c85"
+   "uuid88ee90f4-d327-478c-8fc6-19e9bc358c2f"
    536872594]
   [45364 :block/uid "06-14-2021" 536872453]
   [45364 :create/time 1623653801433 536872453]
@@ -74410,7 +74410,7 @@
   [45383 :edit/seen-by 53 536872593]
   [45383 :edit/time 1624456218461 536872590]
   [45383 :edit/user 53 536872590]
-  [45384 :block/uid "X_84576pn" 536872594]
+  [45384 :block/uid "R6huRwu57" 536872594]
   [45384 :user/display-name "Erik Newhard" 536872594]
   [45384
    :user/photo-url
