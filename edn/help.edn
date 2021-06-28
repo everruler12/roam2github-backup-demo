@@ -63456,6 +63456,7 @@
   [44014 :block/uid "rm88JGZco" 536870912]
   [44014 :create/time 1616915924618 536870912]
   [44014 :create/user 53 536870912]
+  [44014 :edit/seen-by 6897 536872595]
   [44014 :edit/time 1616915967858 536870912]
   [44014 :edit/user 53 536870912]
   [44017 :block/open false 536870912]
@@ -63474,6 +63475,7 @@
   [44017 :block/uid "x3KwLBPV6" 536870912]
   [44017 :create/time 1616916110245 536870912]
   [44017 :create/user 53 536870912]
+  [44017 :edit/seen-by 6897 536872597]
   [44017 :edit/time 1616916143078 536870912]
   [44017 :edit/user 53 536870912]
   [44018
@@ -74206,8 +74208,8 @@
   [45362 :version/id "0.8.6" 536872449]
   [45362
    :version/nonce
-   "uuid529ba57d-f453-4d40-aa45-e283fe03a35c"
-   536872596]
+   "uuid91129bd8-a37f-4e01-86ec-12783441db07"
+   536872599]
   [45364 :block/uid "06-14-2021" 536872453]
   [45364 :create/time 1623653801433 536872453]
   [45364 :create/user 3422 536872453]
@@ -74413,17 +74415,17 @@
   [45383 :edit/seen-by 6897 536872594]
   [45383 :edit/time 1624456218461 536872590]
   [45383 :edit/user 53 536872590]
-  [45384 :block/uid "87OTULeFM" 536872595]
-  [45384 :user/display-name "Erik Newhard" 536872595]
+  [45384 :block/uid "3Xh1_nwKw" 536872598]
+  [45384 :user/display-name "Erik Newhard" 536872598]
   [45384
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536872595]
-  [45384 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872595]
-  [45385 :block/uid "06-28-2021" 536872596]
-  [45385 :create/time 1624881957884 536872596]
-  [45385 :create/user 45384 536872596]
-  [45385 :edit/time 1624881957884 536872596]
-  [45385 :edit/user 45384 536872596]
-  [45385 :log/id 1624881957883 536872596]
-  [45385 :node/title "June 28th, 2021" 536872596]]}
+   536872598]
+  [45384 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872598]
+  [45385 :block/uid "06-28-2021" 536872599]
+  [45385 :create/time 1624886003444 536872599]
+  [45385 :create/user 45384 536872599]
+  [45385 :edit/time 1624886003444 536872599]
+  [45385 :edit/user 45384 536872599]
+  [45385 :log/id 1624886003444 536872599]
+  [45385 :node/title "June 28th, 2021" 536872599]]}
