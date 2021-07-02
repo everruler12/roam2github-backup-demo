@@ -26832,9 +26832,12 @@
   [9258 :block/uid "dDa7r2_ct" 536870912]
   [9258 :edit/time 1614970015497 536870912]
   [9258 :edit/user 6897 536870912]
+  [9260 :block/children 45388 536872607]
+  [9260 :block/open true 536872607]
   [9260 :block/uid "3Ig7BqVCD" 536870912]
   [9260 :create/time 1614970114310 536870912]
   [9260 :create/user 3422 536870912]
+  [9260 :edit/seen-by 3422 536872609]
   [9260 :edit/time 1614970114313 536870912]
   [9260 :edit/user 3422 536870912]
   [9260 :node/title "Shuyi Wang" 536870912]
@@ -74212,8 +74215,8 @@
   [45362 :version/id "0.8.6" 536872449]
   [45362
    :version/nonce
-   "uuid91ba6b8b-6f59-4b52-985a-5179caef990d"
-   536872605]
+   "uuid7aaee238-7d29-403b-8844-b848bc058c4a"
+   536872629]
   [45364 :block/uid "06-14-2021" 536872453]
   [45364 :create/time 1623653801433 536872453]
   [45364 :create/user 3422 536872453]
@@ -74443,10 +74446,48 @@
   [45386 :edit/user 53 536872604]
   [45386 :log/id 1625176097119 536872604]
   [45386 :node/title "July 2nd, 2021" 536872604]
-  [45387 :block/uid "KP5ajsNii" 536872605]
-  [45387 :user/display-name "Erik Newhard" 536872605]
-  [45387
+  [45388 :block/children 45391 536872626]
+  [45388 :block/heading 1 536872607]
+  [45388 :block/open true 536872607]
+  [45388 :block/order 0 536872607]
+  [45388 :block/page 9260 536872608]
+  [45388 :block/parents 9260 536872608]
+  [45388 :block/refs 357 536872621]
+  [45388 :block/refs 2550 536872611]
+  [45388 :block/refs 3675 536872619]
+  [45388 :block/refs 45390 536872623]
+  [45388
+   :block/string
+   "[How to Use Roam Research more Effectively?](https://wshuyi.medium.com/how-to-use-roam-research-more-effectively-257a4a1c81d) ft [[Jamie Miles]]\n#Filter #Tags #Metadata"
+   536872622]
+  [45388 :block/uid "XWHNi4Op7" 536872607]
+  [45388 :edit/seen-by 3422 536872609]
+  [45388 :edit/time 1625191502437 536872622]
+  [45388 :edit/user 3422 536872607]
+  [45390 :block/uid "2lIFMaKKN" 536872623]
+  [45390 :create/time 1625191502440 536872623]
+  [45390 :create/user 3422 536872623]
+  [45390 :edit/time 1625191502442 536872623]
+  [45390 :edit/user 3422 536872623]
+  [45390 :node/title "Metadata" 536872623]
+  [45391 :block/open true 536872624]
+  [45391 :block/order 0 536872626]
+  [45391 :block/page 9260 536872625]
+  [45391 :block/parents 9260 536872625]
+  [45391 :block/parents 45388 536872627]
+  [45391
+   :block/string
+   "https://www.bilibili.com/video/BV1Tv411H7tr"
+   536872628]
+  [45391 :block/uid "uf1BxGWZZ" 536872624]
+  [45391 :create/time 1625191569433 536872624]
+  [45391 :create/user 3422 536872624]
+  [45391 :edit/time 1625191570259 536872628]
+  [45391 :edit/user 3422 536872624]
+  [45392 :block/uid "bbLgFTpRQ" 536872629]
+  [45392 :user/display-name "Erik Newhard" 536872629]
+  [45392
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536872605]
-  [45387 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872605]]}
+   536872629]
+  [45392 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872629]]}

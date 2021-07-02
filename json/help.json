@@ -60235,11 +60235,64 @@
   {
     "create-time": 1614970114310,
     "title": "Shuyi Wang",
-    "uid": "3Ig7BqVCD",
-    "edit-time": 1614970114313,
     ":create/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     },
+    "children": [
+      {
+        "string": "[How to Use Roam Research more Effectively?](https://wshuyi.medium.com/how-to-use-roam-research-more-effectively-257a4a1c81d) ft [[Jamie Miles]]\n#Filter #Tags #Metadata",
+        ":block/refs": [
+          {
+            ":block/uid": "b8TnbBqKZ"
+          },
+          {
+            ":block/uid": "X5u5tsBoT"
+          },
+          {
+            ":block/uid": "nXhOWmKXo"
+          },
+          {
+            ":block/uid": "2lIFMaKKN"
+          }
+        ],
+        "heading": 1,
+        "refs": [
+          {
+            "uid": "b8TnbBqKZ"
+          },
+          {
+            "uid": "X5u5tsBoT"
+          },
+          {
+            "uid": "nXhOWmKXo"
+          },
+          {
+            "uid": "2lIFMaKKN"
+          }
+        ],
+        "children": [
+          {
+            "string": "https://www.bilibili.com/video/BV1Tv411H7tr",
+            "create-time": 1625191569433,
+            "uid": "uf1BxGWZZ",
+            "edit-time": 1625191570259,
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            }
+          }
+        ],
+        "uid": "XWHNi4Op7",
+        "edit-time": 1625191502437,
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        }
+      }
+    ],
+    "uid": "3Ig7BqVCD",
+    "edit-time": 1614970114313,
     ":edit/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     }
@@ -71316,6 +71369,18 @@
     },
     ":edit/user": {
       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1625191502440,
+    "title": "Metadata",
+    "uid": "2lIFMaKKN",
+    "edit-time": 1625191502442,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     }
   }
 ]
