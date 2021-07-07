@@ -74248,7 +74248,7 @@
   [45362 :version/id "0.8.6" 536872449]
   [45362
    :version/nonce
-   "uuid90c14241-ec0d-4b73-a674-87ff8cad98a2"
+   "uuid4a3066ee-e984-44fc-9dda-b31f457f1f25"
    536872677]
   [45364 :block/uid "06-14-2021" 536872453]
   [45364 :create/time 1623653801433 536872453]
@@ -74600,7 +74600,7 @@
   [45403 :edit/time 1625664226695 536872674]
   [45403 :edit/user 3422 536872674]
   [45403 :node/title "Ahmet Sabanci" 536872674]
-  [45404 :block/uid "lJ4FsNQKx" 536872677]
+  [45404 :block/uid "tohYw1JTd" 536872677]
   [45404 :user/display-name "Erik Newhard" 536872677]
   [45404
    :user/photo-url
