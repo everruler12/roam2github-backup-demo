@@ -56639,6 +56639,28 @@
                 ":edit/user": {
                   ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                 }
+              },
+              {
+                "string": "[[Turkish]]",
+                "create-time": 1625664166437,
+                ":block/refs": [
+                  {
+                    ":block/uid": "n-D3RLkt0"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "n-D3RLkt0"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                },
+                "uid": "_rvcJXIJB",
+                "edit-time": 1625664172962,
+                ":edit/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                }
               }
             ],
             "uid": "LFjL1idtn",
@@ -71400,6 +71422,80 @@
     "title": "July 7th, 2021",
     "uid": "07-07-2021",
     "edit-time": 1625663126295,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1625664172963,
+    "title": "Turkish",
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    "children": [
+      {
+        "edit-time": 1625664182171,
+        "children": [
+          {
+            "edit-time": 1625664226692,
+            "refs": [
+              {
+                "uid": "dcMtlb52h"
+              }
+            ],
+            "uid": "TIWyFl0hB",
+            ":block/refs": [
+              {
+                ":block/uid": "dcMtlb52h"
+              }
+            ],
+            "string": "[Roam Research ile Kişisel Bilgi Yönetimi sistemi kurmak](https://www.newslabturkey.org/roam-research-ile-kisisel-bilgi-yonetimi-sistemi-kurmak/) by [[Ahmet Sabanci]]",
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "create-time": 1625664182171,
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            "heading": 3
+          }
+        ],
+        "refs": [
+          {
+            "uid": "cGQjOo9hq"
+          }
+        ],
+        "uid": "DS-7f0eGw",
+        ":block/refs": [
+          {
+            ":block/uid": "cGQjOo9hq"
+          }
+        ],
+        "string": "Articles::",
+        ":create/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "create-time": 1625664182171,
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "heading": 2
+      }
+    ],
+    "uid": "n-D3RLkt0",
+    "edit-time": 1625664172964,
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1625664226694,
+    "title": "Ahmet Sabanci",
+    "uid": "dcMtlb52h",
+    "edit-time": 1625664226695,
     ":create/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     },

@@ -22466,6 +22466,7 @@
   [8201 :block/children 9168 536870912]
   [8201 :block/children 9169 536870912]
   [8201 :block/children 10346 536870912]
+  [8201 :block/children 45394 536872648]
   [8201 :block/heading 2 536870912]
   [8201 :block/open true 536870912]
   [8201 :block/order 5 536870912]
@@ -33412,6 +33413,7 @@
   [10346 :create/time 1615054390271 536870912]
   [10346 :create/user 6897 536870912]
   [10346 :edit/seen-by 3 536870912]
+  [10346 :edit/seen-by 3422 536872647]
   [10346 :edit/time 1615054393877 536870912]
   [10346 :edit/user 6897 536870912]
   [10347 :block/children 12762 536870912]
@@ -33420,6 +33422,7 @@
   [10347 :create/time 1615054393881 536870912]
   [10347 :create/user 6897 536870912]
   [10347 :edit/seen-by 3 536870912]
+  [10347 :edit/seen-by 3422 536872652]
   [10347 :edit/time 1615054393882 536870912]
   [10347 :edit/user 6897 536870912]
   [10347 :entity/attrs #{} 536870912]
@@ -33437,6 +33440,7 @@
   [10348 :create/time 1615054449917 536870912]
   [10348 :create/user 6897 536870912]
   [10348 :edit/seen-by 3 536870912]
+  [10348 :edit/seen-by 3422 536872652]
   [10348 :edit/time 1615054453414 536870912]
   [10348 :edit/user 6897 536870912]
   [10349 :block/children 10350 536870912]
@@ -54688,6 +54692,7 @@
   [12731 :create/time 1616476615714 536870912]
   [12731 :create/user 3 536870912]
   [12731 :edit/seen-by 3 536870912]
+  [12731 :edit/seen-by 3422 536872647]
   [12731 :edit/time 1616476615714 536870912]
   [12731 :edit/user 3 536870912]
   [12732 :block/string "" 536870912]
@@ -54913,6 +54918,7 @@
   [12762 :block/uid "fx-9qz7CR" 536870912]
   [12762 :create/time 1616476919480 536870912]
   [12762 :create/user 3 536870912]
+  [12762 :edit/seen-by 3422 536872652]
   [12762 :edit/time 1616476922140 536870912]
   [12762 :edit/user 3 536870912]
   [12764 :block/heading 2 536870912]
@@ -74242,8 +74248,8 @@
   [45362 :version/id "0.8.6" 536872449]
   [45362
    :version/nonce
-   "uuid798abe2b-45dd-4002-8874-7e283be58a5e"
-   536872647]
+   "uuid8e1846d3-11dd-48bb-ad61-751627876426"
+   536872677]
   [45364 :block/uid "06-14-2021" 536872453]
   [45364 :create/time 1623653801433 536872453]
   [45364 :create/user 3422 536872453]
@@ -74525,10 +74531,79 @@
   [45393 :edit/user 3422 536872646]
   [45393 :log/id 1625663126294 536872646]
   [45393 :node/title "July 7th, 2021" 536872646]
-  [45394 :block/uid "JL8Z_hPI9" 536872647]
-  [45394 :user/display-name "Erik Newhard" 536872647]
-  [45394
+  [45394 :block/open true 536872648]
+  [45394 :block/order 6 536872648]
+  [45394 :block/page 7592 536872649]
+  [45394 :block/parents 7592 536872649]
+  [45394 :block/parents 8201 536872649]
+  [45394 :block/parents 12731 536872649]
+  [45394 :block/refs 45395 536872651]
+  [45394 :block/string "[[Turkish]]" 536872650]
+  [45394 :block/uid "_rvcJXIJB" 536872648]
+  [45394 :create/time 1625664166437 536872648]
+  [45394 :create/user 3422 536872648]
+  [45394 :edit/time 1625664172962 536872650]
+  [45394 :edit/user 3422 536872648]
+  [45395 :attrs/lookup 5796 536872657]
+  [45395 :attrs/lookup 45395 536872657]
+  [45395 :attrs/lookup 45397 536872657]
+  [45395 :attrs/lookup 45398 536872657]
+  [45395 :block/children 45397 536872655]
+  [45395 :block/open true 536872655]
+  [45395 :block/uid "n-D3RLkt0" 536872651]
+  [45395 :create/time 1625664172963 536872651]
+  [45395 :create/user 3422 536872651]
+  [45395 :edit/time 1625664172964 536872651]
+  [45395 :edit/user 3422 536872651]
+  [45395
+   :entity/attrs
+   #{[{:source [:block/uid "n-D3RLkt0"],
+       :value [:block/uid "n-D3RLkt0"]}
+      {:source [:block/uid "DS-7f0eGw"],
+       :value [:block/uid "cGQjOo9hq"]}
+      {:source [:block/uid "TIWyFl0hB"],
+       :value [:block/uid "TIWyFl0hB"]}]}
+   536872657]
+  [45395 :node/title "Turkish" 536872651]
+  [45397 :block/children 45398 536872655]
+  [45397 :block/heading 2 536872655]
+  [45397 :block/open true 536872655]
+  [45397 :block/order 0 536872655]
+  [45397 :block/page 45395 536872660]
+  [45397 :block/parents 45395 536872660]
+  [45397 :block/refs 5796 536872656]
+  [45397 :block/string "Articles::" 536872655]
+  [45397 :block/uid "DS-7f0eGw" 536872655]
+  [45397 :create/time 1625664182171 536872655]
+  [45397 :create/user 3422 536872655]
+  [45397 :edit/time 1625664182171 536872655]
+  [45397 :edit/user 3422 536872655]
+  [45398 :block/heading 3 536872655]
+  [45398 :block/open true 536872655]
+  [45398 :block/order 0 536872655]
+  [45398 :block/page 45395 536872660]
+  [45398 :block/parents 45395 536872660]
+  [45398 :block/parents 45397 536872660]
+  [45398 :block/refs 45403 536872674]
+  [45398
+   :block/string
+   "[Roam Research ile Kişisel Bilgi Yönetimi sistemi kurmak](https://www.newslabturkey.org/roam-research-ile-kisisel-bilgi-yonetimi-sistemi-kurmak/) by [[Ahmet Sabanci]]"
+   536872673]
+  [45398 :block/uid "TIWyFl0hB" 536872655]
+  [45398 :create/time 1625664182171 536872655]
+  [45398 :create/user 3422 536872655]
+  [45398 :edit/time 1625664226692 536872673]
+  [45398 :edit/user 3422 536872655]
+  [45403 :block/uid "dcMtlb52h" 536872674]
+  [45403 :create/time 1625664226694 536872674]
+  [45403 :create/user 3422 536872674]
+  [45403 :edit/time 1625664226695 536872674]
+  [45403 :edit/user 3422 536872674]
+  [45403 :node/title "Ahmet Sabanci" 536872674]
+  [45404 :block/uid "axVe0BjzC" 536872677]
+  [45404 :user/display-name "Erik Newhard" 536872677]
+  [45404
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536872647]
-  [45394 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872647]]}
+   536872677]
+  [45404 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872677]]}
