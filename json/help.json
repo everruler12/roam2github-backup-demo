@@ -43189,6 +43189,91 @@
             },
             "children": [
               {
+                "edit-time": 1625784337763,
+                "children": [
+                  {
+                    "edit-time": 1625784344869,
+                    "children": [
+                      {
+                        "string": "Fixed bug where cursor remained did not move to the end of the generated template content",
+                        "create-time": 1625784385595,
+                        "uid": "a9eCO2WFm",
+                        "edit-time": 1625784439330,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Fixed bug where inline css would get loaded before styling from `roam/css`",
+                        "create-time": 1625784510043,
+                        "uid": "AngHncZd3",
+                        "edit-time": 1625784546958,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Minor bug fixes and improvements.",
+                        "create-time": 1625784473197,
+                        "uid": "vE-5m39n6",
+                        "edit-time": 1625784479599,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "uid": "_8_1MXvJP",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]] 🛠 ",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1625784339788,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "07-08-2021"
+                  }
+                ],
+                "uid": "0C8oPdjJw",
+                ":block/refs": [
+                  {
+                    ":block/uid": "07-08-2021"
+                  }
+                ],
+                "string": "[[July 8th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1625784331276,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
+              },
+              {
                 "string": "[[June 23rd, 2021]]",
                 "refs": [
                   {
@@ -50265,53 +50350,11 @@
   {
     "create-time": 1614776128738,
     "title": "July 2nd, 2020",
+    "uid": "07-02-2020",
+    "edit-time": 1614776128738,
     ":create/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     },
-    "children": [
-      {
-        "string": "test embed",
-        "create-time": 1625781579093,
-        "uid": "DX6VkqdnT",
-        "edit-time": 1625781582287,
-        ":create/user": {
-          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-        },
-        ":edit/user": {
-          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-        }
-      },
-      {
-        "string": "{{[[embed]]: ((DX6VkqdnT))}}",
-        "create-time": 1625781585672,
-        ":block/refs": [
-          {
-            ":block/uid": "Mw11Jsa6V"
-          },
-          {
-            ":block/uid": "DX6VkqdnT"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "Mw11Jsa6V"
-          },
-          {
-            "uid": "DX6VkqdnT"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-        },
-        "uid": "WUQxzvK2K",
-        "edit-time": 1625781593151,
-        ":edit/user": {
-          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-        }
-      }
-    ],
-    "uid": "07-02-2020",
-    "edit-time": 1614776128738,
     ":edit/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     }
@@ -71563,12 +71606,12 @@
     "create-time": 1625771798086,
     "title": "July 8th, 2021",
     "uid": "07-08-2021",
-    "edit-time": 1625771798086,
+    "edit-time": 1625784337763,
     ":create/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     },
     ":edit/user": {
-      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     }
   }
 ]
