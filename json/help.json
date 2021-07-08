@@ -50265,11 +50265,53 @@
   {
     "create-time": 1614776128738,
     "title": "July 2nd, 2020",
-    "uid": "07-02-2020",
-    "edit-time": 1614776128738,
     ":create/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     },
+    "children": [
+      {
+        "string": "test embed",
+        "create-time": 1625781579093,
+        "uid": "DX6VkqdnT",
+        "edit-time": 1625781582287,
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        }
+      },
+      {
+        "string": "{{[[embed]]: ((DX6VkqdnT))}}",
+        "create-time": 1625781585672,
+        ":block/refs": [
+          {
+            ":block/uid": "Mw11Jsa6V"
+          },
+          {
+            ":block/uid": "DX6VkqdnT"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Mw11Jsa6V"
+          },
+          {
+            "uid": "DX6VkqdnT"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        "uid": "WUQxzvK2K",
+        "edit-time": 1625781593151,
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        }
+      }
+    ],
+    "uid": "07-02-2020",
+    "edit-time": 1614776128738,
     ":edit/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     }
@@ -71276,11 +71318,25 @@
   {
     "create-time": 1623431025698,
     "title": "June 11th, 2021",
-    "uid": "06-11-2021",
-    "edit-time": 1623431025698,
     ":create/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1625781571908,
+        "uid": "ih5QkHEhh",
+        "edit-time": 1625781571908,
+        ":create/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        },
+        ":edit/user": {
+          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+        }
+      }
+    ],
+    "uid": "06-11-2021",
+    "edit-time": 1623431025698,
     ":edit/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     }
