@@ -69824,7 +69824,7 @@
   [44917 :node/title "Security" 536870912]
   [44919 :block/children 44920 536870912]
   [44919 :block/heading 3 536870912]
-  [44919 :block/open false 536870912]
+  [44919 :block/open true 536872681]
   [44919 :block/order 2 536870912]
   [44919 :block/page 412 536870912]
   [44919 :block/parents 412 536870912]
@@ -70160,7 +70160,7 @@
   [44939 :edit/user 3 536870912]
   [44940 :block/children 44941 536870912]
   [44940 :block/heading 3 536870912]
-  [44940 :block/open false 536870912]
+  [44940 :block/open false 536872683]
   [44940 :block/order 0 536870912]
   [44940 :block/page 412 536870912]
   [44940 :block/parents 412 536870912]
@@ -74251,8 +74251,8 @@
   [45362 :version/id "0.8.6" 536872449]
   [45362
    :version/nonce
-   "uuidbb347f87-823d-4c46-9f09-a10c4416ee9a"
-   536872681]
+   "uuidbedfff4b-ab17-4498-9cd7-b1c30367c229"
+   536872684]
   [45364 :block/uid "06-14-2021" 536872453]
   [45364 :create/time 1623653801433 536872453]
   [45364 :create/user 3422 536872453]
@@ -74603,17 +74603,17 @@
   [45403 :edit/time 1625664226695 536872674]
   [45403 :edit/user 3422 536872674]
   [45403 :node/title "Ahmet Sabanci" 536872674]
-  [45404 :block/uid "N2pa5Mdat" 536872680]
-  [45404 :user/display-name "Erik Newhard" 536872680]
-  [45404
+  [45404 :block/uid "07-08-2021" 536872680]
+  [45404 :create/time 1625771798086 536872680]
+  [45404 :create/user 3422 536872680]
+  [45404 :edit/time 1625771798086 536872680]
+  [45404 :edit/user 3422 536872680]
+  [45404 :log/id 1625771798086 536872680]
+  [45404 :node/title "July 8th, 2021" 536872680]
+  [45405 :block/uid "TJ8dWqobK" 536872684]
+  [45405 :user/display-name "Erik Newhard" 536872684]
+  [45405
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536872680]
-  [45404 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872680]
-  [45405 :block/uid "07-08-2021" 536872681]
-  [45405 :create/time 1625770962849 536872681]
-  [45405 :create/user 45404 536872681]
-  [45405 :edit/time 1625770962849 536872681]
-  [45405 :edit/user 45404 536872681]
-  [45405 :log/id 1625770962848 536872681]
-  [45405 :node/title "July 8th, 2021" 536872681]]}
+   536872684]
+  [45405 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872684]]}
