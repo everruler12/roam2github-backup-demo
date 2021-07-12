@@ -43195,10 +43195,10 @@
                     "edit-time": 1626041326965,
                     "children": [
                       {
-                        "string": "Changing emails is now possible by going to `Settings > Account`",
+                        "string": "You can now change your sign in email inside the new `Account` panel in the `Settings` menu",
                         "create-time": 1626041326958,
                         "uid": "56tpQCd1z",
-                        "edit-time": 1626041446371,
+                        "edit-time": 1626051571355,
                         ":create/user": {
                           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                         },
@@ -71688,10 +71688,10 @@
     }
   },
   {
-    "create-time": 1626048905797,
+    "create-time": 1626054407773,
     "title": "July 12th, 2021",
     "uid": "07-12-2021",
-    "edit-time": 1626048905797,
+    "edit-time": 1626054407773,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
