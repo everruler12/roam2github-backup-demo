@@ -7408,8 +7408,9 @@
       :content-id "a4ul9zL8E"}},
     :global-filters {:includes (), :removes ()},
     :showing-own-icons? false,
-    :showing-user-icons? true}
-   536871004]
+    :showing-user-icons? true,
+    :show-week-numbers false}
+   536872865]
   [3422 :user/uid "0srxZalJfufGq6CwC9viQbR4ctU2" 536870912]
   [3439 :block/string "" 536870912]
   [3439 :block/uid "k5fhAr6AI" 536870912]
@@ -74229,8 +74230,8 @@
   [45362 :version/id "0.8.6" 536872449]
   [45362
    :version/nonce
-   "uuid88b62684-e285-4105-a7ce-43370141e84f"
-   536872864]
+   "uuid9bfc742a-e378-41f2-b927-71ff6d6c0d7d"
+   536872867]
   [45364 :block/uid "06-14-2021" 536872453]
   [45364 :create/time 1623653801433 536872453]
   [45364 :create/user 3422 536872453]
@@ -74794,17 +74795,17 @@
   [45430 :edit/user 3422 536872861]
   [45430 :log/id 1626134878216 536872861]
   [45430 :node/title "July 12th, 2021" 536872861]
-  [45431 :block/uid "QyhQXVtUa" 536872863]
-  [45431 :user/display-name "Erik Newhard" 536872863]
-  [45431
+  [45431 :block/uid "07-13-2021" 536872863]
+  [45431 :create/time 1626200421060 536872863]
+  [45431 :create/user 3422 536872863]
+  [45431 :edit/time 1626200421060 536872863]
+  [45431 :edit/user 3422 536872863]
+  [45431 :log/id 1626200421060 536872863]
+  [45431 :node/title "July 13th, 2021" 536872863]
+  [45432 :block/uid "kiLH-305M" 536872867]
+  [45432 :user/display-name "Erik Newhard" 536872867]
+  [45432
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536872863]
-  [45431 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872863]
-  [45432 :block/uid "07-13-2021" 536872864]
-  [45432 :create/time 1626199446678 536872864]
-  [45432 :create/user 45431 536872864]
-  [45432 :edit/time 1626199446678 536872864]
-  [45432 :edit/user 45431 536872864]
-  [45432 :log/id 1626199446677 536872864]
-  [45432 :node/title "July 13th, 2021" 536872864]]}
+   536872867]
+  [45432 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872867]]}
