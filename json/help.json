@@ -53753,7 +53753,7 @@
         },
         "children": [
           {
-            "string": "Pull from the internet (nothing gets stored, so if original link is broken, you lose the image)",
+            "string": "Pull from the internet (nothing gets stored, so if original link is broken, you lose the [image](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FE5b-pBgXuQ.png?alt=media&token=b29c9beb-f9f3-44c7-88db-42a6b2b32289))",
             "create-time": 1615264493917,
             ":create/user": {
               ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
@@ -53773,7 +53773,7 @@
               }
             ],
             "uid": "PmmEqjM_N",
-            "edit-time": 1615264910237,
+            "edit-time": 1626134631808,
             ":edit/user": {
               ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
             }
@@ -53791,11 +53791,67 @@
                   {
                     "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Fp8y1UIR1C0.gif?alt=media&token=b7b763f2-b5f6-4e37-a015-0053dc0bf63c)",
                     "create-time": 1615366373456,
-                    "uid": "p5C0KD6Ju",
-                    "edit-time": 1615366407163,
                     ":create/user": {
                       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                     },
+                    "children": [
+                      {
+                        "string": "`/upload` to upload from your local computer\n#[[Key Commands]]",
+                        "create-time": 1615264174021,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "yzdfVWKFY"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "yzdfVWKFY"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                        },
+                        "uid": "zVaylZn1U",
+                        "edit-time": 1626134801872,
+                        ":edit/user": {
+                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                        }
+                      }
+                    ],
+                    "uid": "p5C0KD6Ju",
+                    "edit-time": 1626134796796,
+                    ":edit/user": {
+                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                    }
+                  },
+                  {
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fk6NvrFcN0y.gif?alt=media&token=2983eb2f-ccd4-4d0c-beed-a386bfc5a614)",
+                    "children": [
+                      {
+                        "string": "Highlight a word, press `Cmd+k or Ctrl+k`, paste the image link\n#[[Key Commands]]",
+                        "create-time": 1626134695442,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "yzdfVWKFY"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "yzdfVWKFY"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                        },
+                        "uid": "j2sIgogFt",
+                        "edit-time": 1626134785509,
+                        ":edit/user": {
+                          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                        }
+                      }
+                    ],
+                    "uid": "-5Ci9xXsG",
+                    "edit-time": 1626134738714,
                     ":edit/user": {
                       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                     }
@@ -53820,18 +53876,6 @@
                 ":edit/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 }
-              },
-              {
-                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FE5b-pBgXuQ.png?alt=media&token=b29c9beb-f9f3-44c7-88db-42a6b2b32289)",
-                "create-time": 1615264180894,
-                "uid": "D5rx466Ii",
-                "edit-time": 1615264250421,
-                ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                },
-                ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-                }
               }
             ],
             "uid": "TWrsXErAI",
@@ -53855,18 +53899,6 @@
             "create-time": 1615264763230,
             "uid": "Rd9F09cs2",
             "edit-time": 1615264851829,
-            ":create/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            },
-            ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
-            }
-          },
-          {
-            "string": "`/upload` to upload from your local computer",
-            "create-time": 1615264174021,
-            "uid": "zVaylZn1U",
-            "edit-time": 1615264857269,
             ":create/user": {
               ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
             },
@@ -71688,10 +71720,22 @@
     }
   },
   {
-    "create-time": 1626131046508,
+    "create-time": 1626134878218,
     "title": "July 12th, 2021",
     "uid": "07-12-2021",
-    "edit-time": 1626131046508,
+    "edit-time": 1626134878218,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1626135287989,
+    "title": "July 13th, 2021",
+    "uid": "07-13-2021",
+    "edit-time": 1626135287989,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },

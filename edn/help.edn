@@ -13279,11 +13279,10 @@
   [6781 :edit/seen-by 3422 536870912]
   [6781 :edit/time 1615367095612 536870912]
   [6781 :edit/user 3422 536870912]
-  [6782 :attrs/lookup 177 536870912]
-  [6782 :attrs/lookup 6782 536870912]
-  [6782 :attrs/lookup 10786 536870912]
-  [6782 :attrs/lookup 10787 536870912]
-  [6782 :attrs/lookup 10794 536870912]
+  [6782 :attrs/lookup 177 536872848]
+  [6782 :attrs/lookup 6782 536872848]
+  [6782 :attrs/lookup 10786 536872848]
+  [6782 :attrs/lookup 10794 536872848]
   [6782 :block/children 10786 536870912]
   [6782 :block/children 10789 536870912]
   [6782 :block/open true 536870912]
@@ -13300,15 +13299,9 @@
        :value [:block/uid "99WBdhXtG"]}
       {:source [:block/uid "dsnXEuoLV"],
        :value [:block/uid "yzdfVWKFY"]}
-      {:source [:block/uid "zVaylZn1U"],
-       :value [:block/uid "zVaylZn1U"]}]
-     [{:source [:block/uid "99WBdhXtG"],
-       :value [:block/uid "99WBdhXtG"]}
-      {:source [:block/uid "dsnXEuoLV"],
-       :value [:block/uid "yzdfVWKFY"]}
       {:source [:block/uid "Rd9F09cs2"],
        :value [:block/uid "Rd9F09cs2"]}]}
-   536870912]
+   536872848]
   [6782 :node/title "Images" 536870912]
   [6794 :block/string "" 536870912]
   [6794 :block/uid "u8o-s-eoE" 536870912]
@@ -38565,7 +38558,6 @@
   [10783 :create/user 3 536870912]
   [10783 :edit/time 1616474477790 536870912]
   [10783 :edit/user 3 536870912]
-  [10786 :block/children 10787 536870912]
   [10786 :block/children 10794 536870912]
   [10786 :block/open true 536870912]
   [10786 :block/order 1 536870912]
@@ -38578,35 +38570,6 @@
   [10786 :create/user 3422 536870912]
   [10786 :edit/time 1615264174026 536870912]
   [10786 :edit/user 3422 536870912]
-  [10787 :block/open true 536870912]
-  [10787 :block/order 1 536870912]
-  [10787 :block/page 6782 536870912]
-  [10787 :block/parents 6782 536870912]
-  [10787 :block/parents 10786 536870912]
-  [10787
-   :block/string
-   "`/upload` to upload from your local computer"
-   536870912]
-  [10787 :block/uid "zVaylZn1U" 536870912]
-  [10787 :create/time 1615264174021 536870912]
-  [10787 :create/user 3422 536870912]
-  [10787 :edit/time 1615264857269 536870912]
-  [10787 :edit/user 3422 536870912]
-  [10788 :block/open true 536870912]
-  [10788 :block/order 1 536870912]
-  [10788 :block/page 6782 536870912]
-  [10788 :block/parents 6782 536870912]
-  [10788 :block/parents 10789 536870912]
-  [10788 :block/parents 10790 536870912]
-  [10788
-   :block/string
-   "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FE5b-pBgXuQ.png?alt=media&token=b29c9beb-f9f3-44c7-88db-42a6b2b32289)"
-   536870912]
-  [10788 :block/uid "D5rx466Ii" 536870912]
-  [10788 :create/time 1615264180894 536870912]
-  [10788 :create/user 3422 536870912]
-  [10788 :edit/time 1615264250421 536870912]
-  [10788 :edit/user 3422 536870912]
   [10789 :block/children 10790 536870912]
   [10789 :block/children 10791 536870912]
   [10789 :block/open true 536870912]
@@ -38620,13 +38583,14 @@
   [10789 :block/uid "vibMTql0o" 536870912]
   [10789 :create/time 1615264447156 536870912]
   [10789 :create/user 3422 536870912]
+  [10789 :edit/seen-by 3422 536872832]
   [10789 :edit/time 1615264950979 536870912]
   [10789 :edit/user 3422 536870912]
-  [10790 :attrs/lookup 9442 536870912]
-  [10790 :attrs/lookup 10790 536870912]
-  [10790 :attrs/lookup 11035 536870912]
-  [10790 :attrs/lookup 11038 536870912]
-  [10790 :block/children 10788 536870912]
+  [10790 :attrs/lookup 9442 536872845]
+  [10790 :attrs/lookup 10790 536872845]
+  [10790 :attrs/lookup 11035 536872845]
+  [10790 :attrs/lookup 11038 536872845]
+  [10790 :attrs/lookup 45424 536872845]
   [10790 :block/children 11038 536870912]
   [10790 :block/open true 536870912]
   [10790 :block/order 1 536870912]
@@ -38640,6 +38604,7 @@
   [10790 :block/uid "TWrsXErAI" 536870912]
   [10790 :create/time 1615264483105 536870912]
   [10790 :create/user 3422 536870912]
+  [10790 :edit/seen-by 3422 536872832]
   [10790 :edit/time 1615264932696 536870912]
   [10790 :edit/user 3422 536870912]
   [10790
@@ -38648,9 +38613,15 @@
        :value [:block/uid "TWrsXErAI"]}
       {:source [:block/uid "r__byRhZg"],
        :value [:block/uid "N9Lgf-OyE"]}
+      {:source [:block/uid "-5Ci9xXsG"],
+       :value [:block/uid "-5Ci9xXsG"]}]
+     [{:source [:block/uid "TWrsXErAI"],
+       :value [:block/uid "TWrsXErAI"]}
+      {:source [:block/uid "r__byRhZg"],
+       :value [:block/uid "N9Lgf-OyE"]}
       {:source [:block/uid "p5C0KD6Ju"],
        :value [:block/uid "p5C0KD6Ju"]}]}
-   536870912]
+   536872855]
   [10791 :block/children 10795 536870912]
   [10791 :block/open true 536870912]
   [10791 :block/order 0 536870912]
@@ -38659,12 +38630,12 @@
   [10791 :block/parents 10789 536870912]
   [10791
    :block/string
-   "Pull from the internet (nothing gets stored, so if original link is broken, you lose the image)"
-   536870912]
+   "Pull from the internet (nothing gets stored, so if original link is broken, you lose the [image](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2FE5b-pBgXuQ.png?alt=media&token=b29c9beb-f9f3-44c7-88db-42a6b2b32289))"
+   536872807]
   [10791 :block/uid "PmmEqjM_N" 536870912]
   [10791 :create/time 1615264493917 536870912]
   [10791 :create/user 3422 536870912]
-  [10791 :edit/time 1615264910237 536870912]
+  [10791 :edit/time 1626134631808 536872807]
   [10791 :edit/user 3422 536870912]
   [10794 :block/open true 536870912]
   [10794 :block/order 0 536870912]
@@ -40891,6 +40862,7 @@
   [11034 :create/user 3422 536870912]
   [11034 :edit/time 1615367111207 536870912]
   [11034 :edit/user 3422 536870912]
+  [11035 :block/children 45429 536872857]
   [11035 :block/open true 536870912]
   [11035 :block/order 0 536870912]
   [11035 :block/page 6782 536870912]
@@ -40901,18 +40873,19 @@
   [11035
    :block/string
    "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp-documentation%2Fp8y1UIR1C0.gif?alt=media&token=b7b763f2-b5f6-4e37-a015-0053dc0bf63c)"
-   536870912]
+   536872853]
   [11035 :block/uid "p5C0KD6Ju" 536870912]
   [11035 :create/time 1615366373456 536870912]
   [11035 :create/user 3422 536870912]
-  [11035 :edit/time 1615366407163 536870912]
+  [11035 :edit/time 1626134796796 536872853]
   [11035 :edit/user 3422 536870912]
   [11037 :block/string "" 536870912]
   [11037 :block/uid "OnH69wLtw" 536870912]
   [11037 :edit/time 1615366407422 536870912]
   [11037 :edit/user 3422 536870912]
   [11038 :block/children 11035 536870912]
-  [11038 :block/open true 536870912]
+  [11038 :block/children 45424 536872826]
+  [11038 :block/open true 536872822]
   [11038 :block/order 0 536870912]
   [11038 :block/page 6782 536870912]
   [11038 :block/parents 6782 536870912]
@@ -40923,6 +40896,7 @@
   [11038 :block/uid "r__byRhZg" 536870912]
   [11038 :create/time 1615366410745 536870912]
   [11038 :create/user 3422 536870912]
+  [11038 :edit/seen-by 3422 536872832]
   [11038 :edit/time 1616493294447 536870912]
   [11038 :edit/user 3 536870912]
   [11039 :block/open true 536870912]
@@ -74254,8 +74228,8 @@
   [45362 :version/id "0.8.6" 536872449]
   [45362
    :version/nonce
-   "uuid684a15f0-34f6-41d2-9c34-8a1b9393c2b6"
-   536872805]
+   "uuid7ada2678-f7e6-40bc-867c-206ca8bcd491"
+   536872863]
   [45364 :block/uid "06-14-2021" 536872453]
   [45364 :create/time 1623653801433 536872453]
   [45364 :create/user 3422 536872453]
@@ -74760,17 +74734,76 @@
   [45421 :create/user 3 536872778]
   [45421 :edit/time 1626051571355 536872803]
   [45421 :edit/user 3 536872778]
-  [45422 :block/uid "KhuV4A94B" 536872804]
-  [45422 :user/display-name "Erik Newhard" 536872804]
-  [45422
+  [45424 :block/children 45427 536872843]
+  [45424 :block/open true 536872843]
+  [45424 :block/order 1 536872854]
+  [45424 :block/page 6782 536872827]
+  [45424 :block/parents 6782 536872827]
+  [45424 :block/parents 10789 536872827]
+  [45424 :block/parents 10790 536872827]
+  [45424 :block/parents 11038 536872827]
+  [45424
+   :block/string
+   "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fk6NvrFcN0y.gif?alt=media&token=2983eb2f-ccd4-4d0c-beed-a386bfc5a614)"
+   536872826]
+  [45424 :block/uid "-5Ci9xXsG" 536872826]
+  [45424 :edit/seen-by 3422 536872832]
+  [45424 :edit/time 1626134738714 536872826]
+  [45424 :edit/user 3422 536872826]
+  [45427 :block/open true 536872843]
+  [45427 :block/order 0 536872843]
+  [45427 :block/page 6782 536872844]
+  [45427 :block/parents 6782 536872844]
+  [45427 :block/parents 10789 536872844]
+  [45427 :block/parents 10790 536872844]
+  [45427 :block/parents 11038 536872844]
+  [45427 :block/parents 45424 536872844]
+  [45427 :block/refs 177 536872847]
+  [45427
+   :block/string
+   "Highlight a word, press `Cmd+k or Ctrl+k`, paste the image link\n#[[Key Commands]]"
+   536872846]
+  [45427 :block/uid "j2sIgogFt" 536872843]
+  [45427 :create/time 1626134695442 536872843]
+  [45427 :create/user 3422 536872843]
+  [45427 :edit/time 1626134785509 536872846]
+  [45427 :edit/user 3422 536872843]
+  [45429 :block/open true 536872857]
+  [45429 :block/order 0 536872857]
+  [45429 :block/page 6782 536872858]
+  [45429 :block/parents 6782 536872858]
+  [45429 :block/parents 10789 536872858]
+  [45429 :block/parents 10790 536872858]
+  [45429 :block/parents 11035 536872858]
+  [45429 :block/parents 11038 536872858]
+  [45429 :block/refs 177 536872860]
+  [45429
+   :block/string
+   "`/upload` to upload from your local computer\n#[[Key Commands]]"
+   536872859]
+  [45429 :block/uid "zVaylZn1U" 536872857]
+  [45429 :create/time 1615264174021 536872857]
+  [45429 :create/user 3422 536872857]
+  [45429 :edit/time 1626134801872 536872859]
+  [45429 :edit/user 3422 536872857]
+  [45430 :block/uid "07-12-2021" 536872861]
+  [45430 :create/time 1626134878218 536872861]
+  [45430 :create/user 3422 536872861]
+  [45430 :edit/time 1626134878218 536872861]
+  [45430 :edit/user 3422 536872861]
+  [45430 :log/id 1626134878216 536872861]
+  [45430 :node/title "July 12th, 2021" 536872861]
+  [45431 :block/uid "kvQo0GcPp" 536872862]
+  [45431 :user/display-name "Erik Newhard" 536872862]
+  [45431
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536872804]
-  [45422 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872804]
-  [45423 :block/uid "07-12-2021" 536872805]
-  [45423 :create/time 1626131046508 536872805]
-  [45423 :create/user 45422 536872805]
-  [45423 :edit/time 1626131046508 536872805]
-  [45423 :edit/user 45422 536872805]
-  [45423 :log/id 1626131046508 536872805]
-  [45423 :node/title "July 12th, 2021" 536872805]]}
+   536872862]
+  [45431 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872862]
+  [45432 :block/uid "07-13-2021" 536872863]
+  [45432 :create/time 1626135287989 536872863]
+  [45432 :create/user 45431 536872863]
+  [45432 :edit/time 1626135287989 536872863]
+  [45432 :edit/user 45431 536872863]
+  [45432 :log/id 1626135287988 536872863]
+  [45432 :node/title "July 13th, 2021" 536872863]]}
