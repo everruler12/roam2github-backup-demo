@@ -51,6 +51,8 @@
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
   :harc/e
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
+  :user/display-page
+  {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/one},
   :block/parents
   {:db/valueType :db.type/ref, :db/cardinality :db.cardinality/many},
   :graph/name {:db/unique :db.unique/identity},
@@ -74230,8 +74232,8 @@
   [45362 :version/id "0.8.6" 536872449]
   [45362
    :version/nonce
-   "uuid07a7d833-7bc3-4110-8c96-cc62f201e303"
-   536872868]
+   "uuid3002931e-e811-41fc-8f83-895557bb20ca"
+   536872866]
   [45364 :block/uid "06-14-2021" 536872453]
   [45364 :create/time 1623653801433 536872453]
   [45364 :create/user 3422 536872453]
@@ -74802,17 +74804,22 @@
   [45431 :edit/user 3422 536872863]
   [45431 :log/id 1626200421060 536872863]
   [45431 :node/title "July 13th, 2021" 536872863]
-  [45432 :block/uid "SK3bAJ3YI" 536872867]
+  [45432 :block/uid "4RIhI-hRX" 536872867]
   [45432 :user/display-name "Erik Newhard" 536872867]
   [45432
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
    536872867]
   [45432 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872867]
-  [45433 :block/uid "07-14-2021" 536872868]
-  [45433 :create/time 1626228971721 536872868]
-  [45433 :create/user 45432 536872868]
-  [45433 :edit/time 1626228971721 536872868]
-  [45433 :edit/user 45432 536872868]
-  [45433 :log/id 1626228971720 536872868]
-  [45433 :node/title "July 14th, 2021" 536872868]]}
+  [45433 :version/id "0.8.7" 536872867]
+  [45433
+   :version/nonce
+   "uuid00450ac6-712b-48e8-8fa2-d29399c5afdb"
+   536872868]
+  [45434 :block/uid "07-14-2021" 536872868]
+  [45434 :create/time 1626231827809 536872868]
+  [45434 :create/user 45432 536872868]
+  [45434 :edit/time 1626231827809 536872868]
+  [45434 :edit/user 45432 536872868]
+  [45434 :log/id 1626231827808 536872868]
+  [45434 :node/title "July 14th, 2021" 536872868]]}
