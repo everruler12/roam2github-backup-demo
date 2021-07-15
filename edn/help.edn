@@ -74818,7 +74818,7 @@
   [45433 :version/id "0.8.7" 536872867]
   [45433
    :version/nonce
-   "uuid5912e091-a4a5-4d4e-b274-9c8d1489d5ab"
+   "uuidd0219bcb-6a5b-4114-a4a5-e6b63cc5b80d"
    536872882]
   [45435 :block/uid "07-15-2021" 536872874]
   [45435 :create/time 1626349717476 536872874]
@@ -74827,7 +74827,7 @@
   [45435 :edit/user 6897 536872874]
   [45435 :log/id 1626349717475 536872874]
   [45435 :node/title "July 15th, 2021" 536872874]
-  [45439 :block/uid "wLkTUgFcY" 536872882]
+  [45439 :block/uid "ESYoBmrA8" 536872882]
   [45439 :user/display-name "Erik Newhard" 536872882]
   [45439
    :user/photo-url
