@@ -11948,6 +11948,7 @@
   [6663 :create/user 3 536870912]
   [6663 :edit/seen-by 3 536870912]
   [6663 :edit/seen-by 3422 536870912]
+  [6663 :edit/seen-by 6897 536872885]
   [6663 :edit/time 1615021644093 536870912]
   [6663 :edit/user 3422 536870912]
   [6664 :block/children 6666 536870912]
@@ -27172,6 +27173,7 @@
   [9317 :block/uid "B72g_Y7vT" 536870912]
   [9317 :edit/seen-by 3 536870912]
   [9317 :edit/seen-by 3422 536870912]
+  [9317 :edit/seen-by 6897 536872885]
   [9317 :edit/time 1615019406963 536870912]
   [9317 :edit/user 3422 536870912]
   [9318 :block/string "" 536870912]
@@ -50105,6 +50107,7 @@
   [12112 :create/user 3 536870912]
   [12112 :edit/seen-by 3 536870912]
   [12112 :edit/seen-by 3422 536870912]
+  [12112 :edit/seen-by 6897 536872883]
   [12112 :edit/time 1616558226980 536870912]
   [12112 :edit/user 3 536870912]
   [12115 :block/string "" 536870912]
@@ -69460,6 +69463,7 @@
    "Next you can choose between Markdown and JSON formats for the page you want to export. We recommend exporting into JSON if you want to import the page into another Roam graph as it keeps more Roam-specific information than Markdown allows for."
    536870912]
   [44880 :block/uid "MP9nO4pNa" 536870912]
+  [44880 :edit/seen-by 6897 536872883]
   [44880 :edit/time 1616392793158 536870912]
   [44880 :edit/user 3 536870912]
   [44881 :block/open true 536870912]
@@ -69526,6 +69530,7 @@
    "![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/64001263310/original/g1W7uQMutrhZins74VE4jkaMOjsIg2kXUg.png?1595898413)"
    536870912]
   [44885 :block/uid "qFRW8HhCl" 536870912]
+  [44885 :edit/seen-by 6897 536872884]
   [44885 :edit/time 1616392793158 536870912]
   [44885 :edit/user 3 536870912]
   [44886 :block/uid "04-19-2021" 536870912]
@@ -74819,8 +74824,8 @@
   [45433 :version/id "0.8.7" 536872867]
   [45433
    :version/nonce
-   "uuid52622cac-c86e-4016-a607-373495d9d017"
-   536872884]
+   "uuidc1e62b8a-7aca-4817-a50e-1cc5b46149a2"
+   536872887]
   [45435 :block/uid "07-15-2021" 536872874]
   [45435 :create/time 1626349717476 536872874]
   [45435 :create/user 6897 536872874]
@@ -74828,17 +74833,17 @@
   [45435 :edit/user 6897 536872874]
   [45435 :log/id 1626349717475 536872874]
   [45435 :node/title "July 15th, 2021" 536872874]
-  [45439 :block/uid "GgOJMIR-T" 536872883]
-  [45439 :user/display-name "Erik Newhard" 536872883]
+  [45439 :block/uid "XCtMh8wk0" 536872886]
+  [45439 :user/display-name "Erik Newhard" 536872886]
   [45439
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536872883]
-  [45439 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872883]
-  [45440 :block/uid "07-16-2021" 536872884]
-  [45440 :create/time 1626451581896 536872884]
-  [45440 :create/user 45439 536872884]
-  [45440 :edit/time 1626451581896 536872884]
-  [45440 :edit/user 45439 536872884]
-  [45440 :log/id 1626451581895 536872884]
-  [45440 :node/title "July 16th, 2021" 536872884]]}
+   536872886]
+  [45439 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872886]
+  [45440 :block/uid "07-16-2021" 536872887]
+  [45440 :create/time 1626455683537 536872887]
+  [45440 :create/user 45439 536872887]
+  [45440 :edit/time 1626455683537 536872887]
+  [45440 :edit/user 45439 536872887]
+  [45440 :log/id 1626455683537 536872887]
+  [45440 :node/title "July 16th, 2021" 536872887]]}
