@@ -162,8 +162,8 @@
   [53 :user/display-name "Kifah M" 536870912]
   [53
    :user/photo-url
-   "https://lh3.googleusercontent.com/a/AATXAJysdl2Lfm6WgKeMckH43KgFWzal3oFCI3n0SkMG=s96-c"
-   536870912]
+   "https://lh3.googleusercontent.com/a-/AOh14Gh5UaWe72TkuAtN_7u3jXMpMq9VflbmUhSCSu-VXw=s96-c"
+   536872886]
   [53
    :user/settings
    {:namespace-options [:none :partial :full],
@@ -74629,6 +74629,7 @@
   [45410 :block/children 45411 536872718]
   [45410 :block/children 45413 536872735]
   [45410 :block/children 45415 536872741]
+  [45410 :block/children 45440 536872889]
   [45410 :block/heading 3 536872715]
   [45410 :block/open true 536872709]
   [45410 :block/order 0 536872711]
@@ -74713,6 +74714,7 @@
   [45417 :block/uid "vLe8mq5GG" 536872749]
   [45417 :create/time 1626041303992 536872749]
   [45417 :create/user 3 536872749]
+  [45417 :edit/seen-by 53 536872888]
   [45417 :edit/time 1626041306297 536872751]
   [45417 :edit/user 3 536872749]
   [45418 :block/children 45421 536872778]
@@ -74824,8 +74826,8 @@
   [45433 :version/id "0.8.7" 536872867]
   [45433
    :version/nonce
-   "uuid442dacfb-6cf6-4a96-b0c1-d17958807833"
-   536872887]
+   "uuid3d8cf7a5-2f8f-4910-8c66-3ac4fa57fe89"
+   536872922]
   [45435 :block/uid "07-15-2021" 536872874]
   [45435 :create/time 1626349717476 536872874]
   [45435 :create/user 6897 536872874]
@@ -74833,17 +74835,59 @@
   [45435 :edit/user 6897 536872874]
   [45435 :log/id 1626349717475 536872874]
   [45435 :node/title "July 15th, 2021" 536872874]
-  [45439 :block/uid "hZynjgszU" 536872886]
-  [45439 :user/display-name "Erik Newhard" 536872886]
-  [45439
+  [45439 :block/uid "07-16-2021" 536872887]
+  [45439 :create/time 1626496798463 536872887]
+  [45439 :create/user 53 536872887]
+  [45439 :edit/time 1626496798463 536872887]
+  [45439 :edit/user 53 536872887]
+  [45439 :log/id 1626496798462 536872887]
+  [45439 :node/title "July 16th, 2021" 536872887]
+  [45440 :block/children 45441 536872895]
+  [45440 :block/heading 3 536872898]
+  [45440 :block/open true 536872889]
+  [45440 :block/order 3 536872889]
+  [45440 :block/page 4296 536872890]
+  [45440 :block/parents 4296 536872890]
+  [45440 :block/parents 7333 536872890]
+  [45440 :block/parents 10915 536872890]
+  [45440 :block/parents 45409 536872890]
+  [45440 :block/parents 45410 536872890]
+  [45440 :block/refs 45020 536872894]
+  [45440 :block/string "[[Developer Notes]] 🧑‍💻 " 536872897]
+  [45440 :block/uid "5SBtzAMHV" 536872889]
+  [45440 :create/time 1626496950386 536872889]
+  [45440 :create/user 53 536872889]
+  [45440 :edit/time 1626496962224 536872897]
+  [45440 :edit/user 53 536872889]
+  [45441 :block/open true 536872891]
+  [45441 :block/order 0 536872895]
+  [45441 :block/page 4296 536872892]
+  [45441 :block/parents 4296 536872892]
+  [45441 :block/parents 7333 536872892]
+  [45441 :block/parents 10915 536872892]
+  [45441 :block/parents 45409 536872892]
+  [45441 :block/parents 45410 536872892]
+  [45441 :block/parents 45440 536872896]
+  [45441
+   :block/string
+   "`data.block.create` and `data.block.update` can now be used to set alignment,  heading, and the children blocks' view type. See [developer docs](https://roamresearch.com/#/app/developer-documentation/page/CAtB5a7wv) for more info."
+   536872920]
+  [45441 :block/uid "x_3GXq83U" 536872891]
+  [45441 :create/time 1626496952829 536872891]
+  [45441 :create/user 53 536872891]
+  [45441 :edit/time 1626498159342 536872920]
+  [45441 :edit/user 53 536872891]
+  [45442 :block/uid "1eyxNJw0c" 536872921]
+  [45442 :user/display-name "Erik Newhard" 536872921]
+  [45442
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536872886]
-  [45439 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872886]
-  [45440 :block/uid "07-17-2021" 536872887]
-  [45440 :create/time 1626494687498 536872887]
-  [45440 :create/user 45439 536872887]
-  [45440 :edit/time 1626494687498 536872887]
-  [45440 :edit/user 45439 536872887]
-  [45440 :log/id 1626494687497 536872887]
-  [45440 :node/title "July 17th, 2021" 536872887]]}
+   536872921]
+  [45442 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872921]
+  [45443 :block/uid "07-17-2021" 536872922]
+  [45443 :create/time 1626498190730 536872922]
+  [45443 :create/user 45442 536872922]
+  [45443 :edit/time 1626498190730 536872922]
+  [45443 :edit/user 45442 536872922]
+  [45443 :log/id 1626498190729 536872922]
+  [45443 :node/title "July 17th, 2021" 536872922]]}

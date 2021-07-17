@@ -43292,6 +43292,43 @@
                         ":edit/user": {
                           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                         }
+                      },
+                      {
+                        "edit-time": 1626496962224,
+                        "children": [
+                          {
+                            "string": "`data.block.create` and `data.block.update` can now be used to set alignment,  heading, and the children blocks' view type. See [developer docs](https://roamresearch.com/#/app/developer-documentation/page/CAtB5a7wv) for more info.",
+                            "create-time": 1626496952829,
+                            "uid": "x_3GXq83U",
+                            "edit-time": 1626498159342,
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "RtfLGrv81"
+                          }
+                        ],
+                        "uid": "5SBtzAMHV",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "RtfLGrv81"
+                          }
+                        ],
+                        "string": "[[Developer Notes]] 🧑‍💻 ",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1626496950386,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "heading": 3
                       }
                     ],
                     "refs": [
@@ -71770,10 +71807,22 @@
     }
   },
   {
-    "create-time": 1626494687498,
+    "create-time": 1626496798463,
+    "title": "July 16th, 2021",
+    "uid": "07-16-2021",
+    "edit-time": 1626496798463,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1626498190730,
     "title": "July 17th, 2021",
     "uid": "07-17-2021",
-    "edit-time": 1626494687498,
+    "edit-time": 1626498190730,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
