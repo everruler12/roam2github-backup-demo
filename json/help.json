@@ -71819,15 +71819,15 @@
     }
   },
   {
-    "create-time": 1626818629128,
+    "create-time": 1626819366634,
     "title": "July 20th, 2021",
     "uid": "07-20-2021",
-    "edit-time": 1626818629128,
+    "edit-time": 1626819366634,
     ":create/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     },
     ":edit/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     }
   }
 ]
