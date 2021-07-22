@@ -1663,6 +1663,7 @@
   [527 :create/time 1614650555239 536870912]
   [527 :create/user 3 536870912]
   [527 :edit/seen-by 3 536870912]
+  [527 :edit/seen-by 53 536872923]
   [527 :edit/seen-by 6897 536870940]
   [527 :edit/seen-by 9445 536870912]
   [527 :edit/time 1614650555239 536870912]
@@ -5875,6 +5876,7 @@
   [2540 :create/time 1614682170259 536870912]
   [2540 :create/user 3 536870912]
   [2540 :edit/seen-by 3 536870912]
+  [2540 :edit/seen-by 53 536872923]
   [2540 :edit/seen-by 9445 536870912]
   [2540 :edit/time 1614682171863 536870912]
   [2540 :edit/user 3 536870912]
@@ -57978,6 +57980,7 @@
   [13117 :block/uid "KJ8FBtjZ_" 536870912]
   [13117 :create/time 1616547739760 536870912]
   [13117 :create/user 3 536870912]
+  [13117 :edit/seen-by 53 536872923]
   [13117 :edit/seen-by 6897 536870940]
   [13117 :edit/seen-by 9445 536870912]
   [13117 :edit/time 1616547742609 536870912]
@@ -59444,14 +59447,15 @@
   [13368 :block/refs 2471 536870912]
   [13368
    :block/string
-   "[Roam in Context](https://learn.cortexfutura.com/p/roam-research-coaching?utm_source=roamresearch&utm_medium=graph&utm_campaign=helpgraph) by [[Cortex Futura]]"
-   536870912]
+   "[Roam in Context](https://signup.cortexfutura.com/roam-in-context) by [[Cortex Futura]]"
+   536872924]
   [13368 :block/uid "eBnpsWa0X" 536870912]
   [13368 :create/time 1616570782409 536870912]
   [13368 :create/user 3 536870912]
+  [13368 :edit/seen-by 53 536872923]
   [13368 :edit/seen-by 9445 536870912]
-  [13368 :edit/time 1617274762963 536870912]
-  [13368 :edit/user 3 536870912]
+  [13368 :edit/time 1626933960075 536872924]
+  [13368 :edit/user 53 536872924]
   [13369 :block/children 13370 536870912]
   [13369 :block/children 44551 536870912]
   [13369 :block/heading 2 536870912]
@@ -74826,8 +74830,8 @@
   [45433 :version/id "0.8.7" 536872867]
   [45433
    :version/nonce
-   "uuid5ab4467f-f06f-4ae5-a0a4-3f26e02731ec"
-   536872924]
+   "uuid5d7e432b-1d16-4a07-8162-44f0a2bb3236"
+   536872926]
   [45435 :block/uid "07-15-2021" 536872874]
   [45435 :create/time 1626349717476 536872874]
   [45435 :create/user 6897 536872874]
@@ -74891,17 +74895,17 @@
   [45443 :edit/user 3422 536872922]
   [45443 :log/id 1626898531251 536872922]
   [45443 :node/title "July 21st, 2021" 536872922]
-  [45444 :block/uid "-Zdwmh6d4" 536872923]
-  [45444 :user/display-name "Erik Newhard" 536872923]
+  [45444 :block/uid "RBjreUv8E" 536872925]
+  [45444 :user/display-name "Erik Newhard" 536872925]
   [45444
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536872923]
-  [45444 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872923]
-  [45445 :block/uid "07-22-2021" 536872924]
-  [45445 :create/time 1626933864021 536872924]
-  [45445 :create/user 45444 536872924]
-  [45445 :edit/time 1626933864021 536872924]
-  [45445 :edit/user 45444 536872924]
-  [45445 :log/id 1626933864019 536872924]
-  [45445 :node/title "July 22nd, 2021" 536872924]]}
+   536872925]
+  [45444 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872925]
+  [45445 :block/uid "07-22-2021" 536872926]
+  [45445 :create/time 1626937393679 536872926]
+  [45445 :create/user 45444 536872926]
+  [45445 :edit/time 1626937393679 536872926]
+  [45445 :edit/user 45444 536872926]
+  [45445 :log/id 1626937393678 536872926]
+  [45445 :node/title "July 22nd, 2021" 536872926]]}

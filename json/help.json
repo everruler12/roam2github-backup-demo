@@ -27143,7 +27143,7 @@
             },
             "children": [
               {
-                "edit-time": 1617274762963,
+                "edit-time": 1626933960075,
                 "children": [
                   {
                     "string": "Learn the fundamentals of Roam from seven different perspectives. In six videos per use-case, Roam in Context will teach you Roam's basic features in the context of writing, note-taking, task management, project management, journaling, decision making and research/academia. Pick and choose the focus that fits your needs best – zero previous knowledge required.",
@@ -27169,13 +27169,13 @@
                     ":block/uid": "RkvokA4jz"
                   }
                 ],
-                "string": "[Roam in Context](https://learn.cortexfutura.com/p/roam-research-coaching?utm_source=roamresearch&utm_medium=graph&utm_campaign=helpgraph) by [[Cortex Futura]]",
+                "string": "[Roam in Context](https://signup.cortexfutura.com/roam-in-context) by [[Cortex Futura]]",
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
                 "create-time": 1616570782409,
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 },
                 "heading": 2
               },
@@ -71843,10 +71843,10 @@
     }
   },
   {
-    "create-time": 1626933864021,
+    "create-time": 1626937393679,
     "title": "July 22nd, 2021",
     "uid": "07-22-2021",
-    "edit-time": 1626933864021,
+    "edit-time": 1626937393679,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
