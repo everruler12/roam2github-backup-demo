@@ -9329,6 +9329,7 @@
   [4602 :block/uid "SuFLMZnDt" 536870912]
   [4602 :create/time 1607364346316 536870912]
   [4602 :create/user 3 536870912]
+  [4602 :edit/seen-by 74 536872926]
   [4602 :edit/time 1614803232705 536870912]
   [4602 :edit/user 3 536870912]
   [4603 :block/children 13093 536870912]
@@ -73209,10 +73210,7 @@
   [45265 :log/id 1621561572714 536871657]
   [45265 :node/title "May 21st, 2021" 536871657]
   [45266 :block/uid "cP-mLlcjh" 536871661]
-  [45266
-   :window/filters
-   {:includes ("5K19Sylm0"), :removes ()}
-   536872310]
+  [45266 :window/filters {:includes (), :removes ()} 536872925]
   [45266
    :window/id
    "BVbsWigfZ4YniEIvPnEMBwqbiSA2-body-outline-Ec97klr7x"
@@ -74830,8 +74828,8 @@
   [45433 :version/id "0.8.7" 536872867]
   [45433
    :version/nonce
-   "uuid6a9eb7d4-3fe1-4939-bfca-a763dcc16a99"
-   536872926]
+   "uuidc9ac7a72-a27d-4d2d-92f8-93198c5ada99"
+   536872928]
   [45435 :block/uid "07-15-2021" 536872874]
   [45435 :create/time 1626349717476 536872874]
   [45435 :create/user 6897 536872874]
@@ -74895,17 +74893,17 @@
   [45443 :edit/user 3422 536872922]
   [45443 :log/id 1626898531251 536872922]
   [45443 :node/title "July 21st, 2021" 536872922]
-  [45444 :block/uid "jAttwVHAD" 536872925]
-  [45444 :user/display-name "Erik Newhard" 536872925]
+  [45444 :block/uid "rzV6C0lC1" 536872927]
+  [45444 :user/display-name "Erik Newhard" 536872927]
   [45444
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536872925]
-  [45444 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872925]
-  [45445 :block/uid "07-23-2021" 536872926]
-  [45445 :create/time 1627034634666 536872926]
-  [45445 :create/user 45444 536872926]
-  [45445 :edit/time 1627034634666 536872926]
-  [45445 :edit/user 45444 536872926]
-  [45445 :log/id 1627034634665 536872926]
-  [45445 :node/title "July 23rd, 2021" 536872926]]}
+   536872927]
+  [45444 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872927]
+  [45445 :block/uid "07-23-2021" 536872928]
+  [45445 :create/time 1627038183925 536872928]
+  [45445 :create/user 45444 536872928]
+  [45445 :edit/time 1627038183925 536872928]
+  [45445 :edit/user 45444 536872928]
+  [45445 :log/id 1627038183924 536872928]
+  [45445 :node/title "July 23rd, 2021" 536872928]]}
