@@ -6474,11 +6474,127 @@
   {
     "create-time": 1627603845324,
     "title": "July 30th, 2021",
-    "uid": "07-30-2021",
-    "edit-time": 1627603845324,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
+    "children": [
+      {
+        "string": "{{[[TODO]]}} TODO",
+        "create-time": 1627656061299,
+        ":block/refs": [
+          {
+            ":block/uid": "mbPn6PfGF"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "mbPn6PfGF"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        "uid": "LtGxG0JH6",
+        "edit-time": 1627695384356,
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      },
+      {
+        "string": "{{[[DONE]]}} DONE",
+        "create-time": 1627655798706,
+        ":block/refs": [
+          {
+            ":block/uid": "lUotXPPK1"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "lUotXPPK1"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        "uid": "PUX9zi_7P",
+        "edit-time": 1627695384356,
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      },
+      {
+        "string": "{{[[DONE]]}} not done #.notdone",
+        "create-time": 1627483940904,
+        ":block/refs": [
+          {
+            ":block/uid": "lUotXPPK1"
+          },
+          {
+            ":block/uid": "WUA3RZ6I-"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "lUotXPPK1"
+          },
+          {
+            "uid": "WUA3RZ6I-"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        "uid": "Y-VJq4Qwj",
+        "edit-time": 1627695384356,
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      },
+      {
+        "edit-time": 1627695384356,
+        "children": [
+          {
+            "string": "```css\n.notdone .check-container input:checked~.checkmark {\n    border-radius: 2px !important;\n    border: 1px solid #A7B6C2 !important;\n    background-color: initial !important;\n}\n\n.notdone .check-container input:checked~.checkmark:after {\n    content: '✗';\n    left: -1px;\n    top: -6px;\n    border: none;\n    -webkit-transform: rotate(0deg);\n    -ms-transform: rotate(0deg);\n    transform: rotate(0deg) scale(1);\n}```",
+            "create-time": 1627505975561,
+            "uid": "hF88g1RFq",
+            "edit-time": 1627695384356,
+            ":create/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            },
+            ":edit/user": {
+              ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "N9Cxrt93u"
+          },
+          {
+            "uid": "pm49yQPEV"
+          }
+        ],
+        "uid": "AY4_RD3gF",
+        ":block/refs": [
+          {
+            ":block/uid": "N9Cxrt93u"
+          },
+          {
+            ":block/uid": "pm49yQPEV"
+          }
+        ],
+        "string": "{{[[roam/css]]}} #.rmjs-fav",
+        ":create/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        },
+        "create-time": 1627505975561,
+        ":edit/user": {
+          ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+        }
+      }
+    ],
+    "uid": "07-30-2021",
+    "edit-time": 1627603845324,
     ":edit/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     }
@@ -6488,6 +6604,54 @@
     "title": "July 31st, 2021",
     "uid": "07-31-2021",
     "edit-time": 1627690217439,
+    ":create/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    },
+    ":edit/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    }
+  },
+  {
+    "create-time": 1627695384372,
+    "title": "TODO",
+    "uid": "mbPn6PfGF",
+    "edit-time": 1627695384373,
+    ":create/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    },
+    ":edit/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    }
+  },
+  {
+    "create-time": 1627695384378,
+    "title": "DONE",
+    "uid": "lUotXPPK1",
+    "edit-time": 1627695384378,
+    ":create/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    },
+    ":edit/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    }
+  },
+  {
+    "create-time": 1627695384382,
+    "title": ".notdone",
+    "uid": "WUA3RZ6I-",
+    "edit-time": 1627695384383,
+    ":create/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    },
+    ":edit/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    }
+  },
+  {
+    "create-time": 1627695384386,
+    "title": ".rmjs-fav",
+    "uid": "pm49yQPEV",
+    "edit-time": 1627695384387,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
