@@ -43191,6 +43191,66 @@
             },
             "children": [
               {
+                "edit-time": 1628017211468,
+                "children": [
+                  {
+                    "edit-time": 1628017229841,
+                    "children": [
+                      {
+                        "string": "Fixed bug with image links containing `\\r`",
+                        "create-time": 1628017229832,
+                        "uid": "U_UmvdNzM",
+                        "edit-time": 1628017255477,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "uid": "nglex8ECs",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]]  🛠",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1628017211450,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "08-03-2021"
+                  }
+                ],
+                "uid": "FvlJEp9EP",
+                ":block/refs": [
+                  {
+                    ":block/uid": "08-03-2021"
+                  }
+                ],
+                "string": "[[August 3rd, 2021]]",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1628017149136,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
+              },
+              {
                 "edit-time": 1626041306297,
                 "children": [
                   {
@@ -71867,22 +71927,34 @@
     }
   },
   {
-    "create-time": 1628013666960,
-    "title": "Erik Newhard",
-    "uid": "rsm79eiU7",
-    "edit-time": 1628013666960,
+    "create-time": 1628017144616,
+    "title": "Kifah M",
+    "uid": "S29Gix9Gx",
+    "edit-time": 1628017144616,
     ":create/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
     ":edit/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     }
   },
   {
-    "create-time": 1628013666964,
+    "create-time": 1628017211356,
     "title": "August 3rd, 2021",
     "uid": "08-03-2021",
-    "edit-time": 1628013666964,
+    "edit-time": 1628017211356,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1628017549546,
+    "title": "Erik Newhard",
+    "uid": "uPETP-SO4",
+    "edit-time": 1628017549547,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
