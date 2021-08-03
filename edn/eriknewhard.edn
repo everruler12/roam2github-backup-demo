@@ -62,6 +62,7 @@
  :datoms
  [[1 :block/uid "NDYVON9o3" 536870913]
   [1 :user/display-name "Erik Newhard" 536870913]
+  [1 :user/display-page 2030 536877083]
   [1 :user/email "erik.newhard@gmail.com" 536870913]
   [1
    :user/photo-url
@@ -5267,8 +5268,8 @@
   [1997 :version/id "0.8.7" 536877046]
   [1997
    :version/nonce
-   "uuid15aa7889-9a79-4ae6-ba9c-c2bef7555b47"
-   536877082]
+   "uuida3fedf0b-4cc9-4f45-96a7-0acc412c9168"
+   536877085]
   [2011 :block/uid "07-27-2021" 536877062]
   [2011 :create/time 1627399515800 536877062]
   [2011 :create/user 1 536877062]
@@ -5425,4 +5426,17 @@
   [2029 :edit/time 1627863100046 536877082]
   [2029 :edit/user 1 536877082]
   [2029 :log/id 1627863100045 536877082]
-  [2029 :node/title "August 2nd, 2021" 536877082]]}
+  [2029 :node/title "August 2nd, 2021" 536877082]
+  [2030 :block/uid "bCCzXG2RI" 536877083]
+  [2030 :create/time 1627949429712 536877084]
+  [2030 :create/user 1 536877084]
+  [2030 :edit/time 1627949429712 536877084]
+  [2030 :edit/user 1 536877084]
+  [2030 :node/title "Erik Newhard" 536877084]
+  [2031 :block/uid "08-03-2021" 536877085]
+  [2031 :create/time 1627949429717 536877085]
+  [2031 :create/user 1 536877085]
+  [2031 :edit/time 1627949429717 536877085]
+  [2031 :edit/user 1 536877085]
+  [2031 :log/id 1627949429716 536877085]
+  [2031 :node/title "August 3rd, 2021" 536877085]]}
