@@ -28352,6 +28352,7 @@
    536870912]
   [9445 :block/uid "rjr10J66n" 536870912]
   [9445 :user/display-name "Matt McKinlay" 536870912]
+  [9445 :user/display-page 45452 536872967]
   [9445
    :user/settings
    {:namespace-options [:none :partial :full],
@@ -74832,8 +74833,8 @@
   [45433 :version/id "0.8.7" 536872867]
   [45433
    :version/nonce
-   "uuid6022efc4-2eca-465a-a397-104d9995b81b"
-   536872969]
+   "uuid586b22dc-10fa-49db-94dd-d3e38d4196b5"
+   536872971]
   [45435 :block/uid "07-15-2021" 536872874]
   [45435 :create/time 1626349717476 536872874]
   [45435 :create/user 6897 536872874]
@@ -74970,24 +74971,30 @@
   [45450 :create/user 53 536872948]
   [45450 :edit/time 1628017255477 536872956]
   [45450 :edit/user 53 536872948]
-  [45452 :block/uid "T-Ivnsbqu" 536872967]
-  [45452 :user/display-name "Erik Newhard" 536872967]
-  [45452 :user/display-page 45453 536872967]
-  [45452
+  [45452 :block/uid "PJvTrD7A8" 536872967]
+  [45452 :create/time 1628047615912 536872968]
+  [45452 :create/user 9445 536872968]
+  [45452 :edit/time 1628047615913 536872968]
+  [45452 :edit/user 9445 536872968]
+  [45452 :node/title "Matt McKinlay" 536872968]
+  [45453 :block/uid "6DPHjcUP5" 536872969]
+  [45453 :user/display-name "Erik Newhard" 536872969]
+  [45453 :user/display-page 45454 536872969]
+  [45453
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536872967]
-  [45452 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872967]
-  [45453 :block/uid "W8C_V-fZO" 536872967]
-  [45453 :create/time 1628046083877 536872968]
-  [45453 :create/user 45452 536872968]
-  [45453 :edit/time 1628046083877 536872968]
-  [45453 :edit/user 45452 536872968]
-  [45453 :node/title "Erik Newhard" 536872968]
-  [45454 :block/uid "08-04-2021" 536872969]
-  [45454 :create/time 1628046083889 536872969]
-  [45454 :create/user 45452 536872969]
-  [45454 :edit/time 1628046083889 536872969]
-  [45454 :edit/user 45452 536872969]
-  [45454 :log/id 1628046083888 536872969]
-  [45454 :node/title "August 4th, 2021" 536872969]]}
+   536872969]
+  [45453 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536872969]
+  [45454 :block/uid "pLBoTtDl-" 536872969]
+  [45454 :create/time 1628049674527 536872970]
+  [45454 :create/user 45453 536872970]
+  [45454 :edit/time 1628049674527 536872970]
+  [45454 :edit/user 45453 536872970]
+  [45454 :node/title "Erik Newhard" 536872970]
+  [45455 :block/uid "08-04-2021" 536872971]
+  [45455 :create/time 1628049674531 536872971]
+  [45455 :create/user 45453 536872971]
+  [45455 :edit/time 1628049674531 536872971]
+  [45455 :edit/user 45453 536872971]
+  [45455 :log/id 1628049674530 536872971]
+  [45455 :node/title "August 4th, 2021" 536872971]]}
