@@ -43191,6 +43191,77 @@
             },
             "children": [
               {
+                "edit-time": 1628735516922,
+                "children": [
+                  {
+                    "edit-time": 1628735587256,
+                    "children": [
+                      {
+                        "string": "Fixed [[Mobile Menu Bar]] to insert double brackets instead of single brackets",
+                        "create-time": 1628735517037,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "oxkJJUv2z"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "oxkJJUv2z"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "uid": "BGBQHQ5pN",
+                        "edit-time": 1628735647601,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "uid": "NCkARRevZ",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]] ✨",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1628735587256,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "08-11-2021"
+                  }
+                ],
+                "uid": "yx9j___uD",
+                ":block/refs": [
+                  {
+                    ":block/uid": "08-11-2021"
+                  }
+                ],
+                "string": "[[August 11th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1628735489028,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
+              },
+              {
                 "edit-time": 1628017211468,
                 "children": [
                   {
@@ -43227,7 +43298,8 @@
                     "create-time": 1628017211450,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -71987,10 +72059,34 @@
     }
   },
   {
-    "create-time": 1628734549480,
+    "create-time": 1628735281107,
+    "title": "Joshua Brown",
+    "uid": "VWxX5q1VI",
+    "edit-time": 1628735281107,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1628735281109,
+    "title": "August 11th, 2021",
+    "uid": "08-11-2021",
+    "edit-time": 1628735281109,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1628737281162,
     "title": "Erik Newhard",
-    "uid": "dygzrjp5P",
-    "edit-time": 1628734549480,
+    "uid": "Mgqj_BjZj",
+    "edit-time": 1628737281162,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
@@ -71999,10 +72095,10 @@
     }
   },
   {
-    "create-time": 1628734549485,
+    "create-time": 1628737281178,
     "title": "August 12th, 2021",
     "uid": "08-12-2021",
-    "edit-time": 1628734549485,
+    "edit-time": 1628737281178,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
