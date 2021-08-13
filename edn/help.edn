@@ -75371,9 +75371,9 @@
   [45497 :version/id "0.8.8" 536873136]
   [45497
    :version/nonce
-   "uuid681d583f-771c-45cc-b94c-61886b21ccc9"
+   "uuidd928cc7d-2dcc-4ca4-88b2-ccfef48afac5"
    536873139]
-  [45498 :block/uid "H4p-tS4bi" 536873138]
+  [45498 :block/uid "UOZwPuYNP" 536873138]
   [45498 :user/display-name "Erik Newhard" 536873138]
   [45498 :user/display-page 45499 536873138]
   [45498
@@ -75381,9 +75381,9 @@
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
    536873138]
   [45498 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873138]
-  [45499 :block/uid "Qv95LIpn_" 536873138]
-  [45499 :create/time 1628863268002 536873139]
+  [45499 :block/uid "AvFLYMqDY" 536873138]
+  [45499 :create/time 1628866901596 536873139]
   [45499 :create/user 45498 536873139]
-  [45499 :edit/time 1628863268002 536873139]
+  [45499 :edit/time 1628866901596 536873139]
   [45499 :edit/user 45498 536873139]
   [45499 :node/title "Erik Newhard" 536873139]]}
