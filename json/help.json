@@ -17238,6 +17238,215 @@
             "heading": 3
           },
           {
+            "string": "**How do I move a local graph from one device to another?**",
+            "create-time": 1628838589987,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+            },
+            "children": [
+              {
+                "string": "Your local graphs are only saved and stored on the browser and device you created them from. If you want to transfer your local graph to another computer, you will need to export it and then import it to your new computer. ",
+                "create-time": 1628838637602,
+                ":create/user": {
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                },
+                "children": [
+                  {
+                    "string": "Here's how to do it:",
+                    "create-time": 1628838721074,
+                    ":create/user": {
+                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                    },
+                    "children": [
+                      {
+                        "string": "Export your graph:",
+                        "create-time": 1628838847493,
+                        ":create/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "children": [
+                          {
+                            "string": "First go into your local graph on your original machine.  Once in any page, on the top right, click the three dot menu and then select \"Export All\"",
+                            "create-time": 1628838861961,
+                            ":create/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            "children": [
+                              {
+                                "string": "Make sure to export in EDN, as it is the highest fidelity export format. This will download your entire local graph as a zip file. Make sure to unzip the file before you continue with the following steps.",
+                                "create-time": 1628838872807,
+                                "uid": "4OBAIHE10",
+                                "edit-time": 1628838872947,
+                                ":create/user": {
+                                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                }
+                              }
+                            ],
+                            "uid": "e2TPAMv0m",
+                            "edit-time": 1628838862138,
+                            ":edit/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            }
+                          },
+                          {
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FO8scGluRk2.gif?alt=media&token=173f2105-8e85-48ad-b387-7b4013d79184)",
+                            "create-time": 1628838776865,
+                            "uid": "OhaOuxSPA",
+                            "edit-time": 1628838841958,
+                            ":create/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            }
+                          }
+                        ],
+                        "uid": "T0BrqESNL",
+                        "edit-time": 1628841072064,
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        }
+                      },
+                      {
+                        "string": "Create your new graph on your new computer:",
+                        "create-time": 1628838903058,
+                        ":create/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "children": [
+                          {
+                            "string": "On your new computer, log in to Roam, and then create a new local graph from your graph overview page. ",
+                            "create-time": 1628838907962,
+                            "uid": "Zp7IuFwgG",
+                            "edit-time": 1628838919124,
+                            ":create/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            }
+                          },
+                          {
+                            "string": "The name of this graph can be the same as your previously exported graph.",
+                            "create-time": 1628838920172,
+                            "uid": "b02zBPYRI",
+                            "edit-time": 1628838931569,
+                            ":create/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            }
+                          },
+                          {
+                            "string": "Once created, go into your local graph, and then click on the three-dot menu again.  Then select \"Settings\", \"Graph\", and \"Restore Graph\".",
+                            "create-time": 1628838943684,
+                            ":create/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            "children": [
+                              {
+                                "string": "You will then be prompted to upload a graph. Upload your previous unzipped EDN export from step 1. ",
+                                "create-time": 1628838944584,
+                                "uid": "vFzzYjfiJ",
+                                "edit-time": 1628838960617,
+                                ":create/user": {
+                                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                }
+                              },
+                              {
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fg83gfP1TSr.gif?alt=media&token=13a27700-fa9a-4891-99d9-c32cfeee5d2a)",
+                                "create-time": 1628838971481,
+                                "uid": "3_AEfpCoN",
+                                "edit-time": 1628838997613,
+                                ":create/user": {
+                                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                }
+                              }
+                            ],
+                            "uid": "hd3uXL4tC",
+                            "edit-time": 1628838944301,
+                            ":edit/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            }
+                          }
+                        ],
+                        "uid": "1IHJxg4sZ",
+                        "edit-time": 1628841073662,
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        }
+                      },
+                      {
+                        "string": "Things to watch out for: ",
+                        "create-time": 1628839022060,
+                        ":create/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        },
+                        "children": [
+                          {
+                            "string": "Please note you will now have the same local graph on two computers. If you make changes to one, it will not update on the other. To avoid confusion, please consider deleting the graph from your original computer **after** you've made sure that your import was successful (you'll see the \"Graph restoration was successful!\" message)",
+                            "create-time": 1628839039768,
+                            "uid": "9iq_45Sud",
+                            "edit-time": 1628839053450,
+                            ":create/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            }
+                          },
+                          {
+                            "string": "Make sure you are **not** importing the zip file, but the actual EDN file contained in the previous zip export",
+                            "create-time": 1628841037207,
+                            "uid": "OX--ko2OR",
+                            "edit-time": 1628841053644,
+                            ":create/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                            }
+                          }
+                        ],
+                        "uid": "O0mg-9dxP",
+                        "edit-time": 1628839023996,
+                        ":edit/user": {
+                          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                        }
+                      }
+                    ],
+                    "uid": "svwhiXPCa",
+                    "edit-time": 1628838776474,
+                    ":edit/user": {
+                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                    }
+                  }
+                ],
+                "uid": "VNKT8o2xC",
+                "edit-time": 1628838719860,
+                ":edit/user": {
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                }
+              }
+            ],
+            "uid": "hL4ythtVl",
+            "edit-time": 1628838636000,
+            ":edit/user": {
+              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+            }
+          },
+          {
             "edit-time": 1616558220081,
             "children": [
               {
@@ -72083,22 +72292,22 @@
     }
   },
   {
-    "create-time": 1628838068723,
-    "title": "Erik Newhard",
-    "uid": "zYgtz2Aez",
-    "edit-time": 1628838068723,
+    "create-time": 1628838521661,
+    "title": "August 13th, 2021",
+    "uid": "08-13-2021",
+    "edit-time": 1628838521661,
     ":create/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
     },
     ":edit/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
     }
   },
   {
-    "create-time": 1628838068728,
-    "title": "August 13th, 2021",
-    "uid": "08-13-2021",
-    "edit-time": 1628838068728,
+    "create-time": 1628845275554,
+    "title": "Erik Newhard",
+    "uid": "bTYVPta_z",
+    "edit-time": 1628845275554,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
