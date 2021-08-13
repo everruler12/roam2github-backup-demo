@@ -47241,6 +47241,7 @@
    536870912]
   [11679 :block/uid "TV2-gWvoI" 536870912]
   [11679 :edit/seen-by 3422 536870912]
+  [11679 :edit/seen-by 6897 536873137]
   [11679 :edit/time 1615440590405 536870912]
   [11679 :edit/user 3422 536870912]
   [11680 :block/open true 536870912]
@@ -47255,6 +47256,7 @@
    536870912]
   [11680 :block/uid "h40NEDWqH" 536870912]
   [11680 :edit/seen-by 3422 536870912]
+  [11680 :edit/seen-by 6897 536873136]
   [11680 :edit/time 1615440524636 536870912]
   [11680 :edit/user 3422 536870912]
   [11681 :block/string "" 536870912]
@@ -75366,22 +75368,22 @@
   [45496 :create/user 9445 536873122]
   [45496 :edit/time 1628841053644 536873127]
   [45496 :edit/user 9445 536873122]
-  [45497 :block/uid "2aN6RRCst" 536873136]
-  [45497 :user/display-name "Erik Newhard" 536873136]
-  [45497 :user/display-page 45498 536873136]
+  [45497 :version/id "0.8.8" 536873136]
   [45497
+   :version/nonce
+   "uuid04531a22-bb87-4ecb-bc14-6ca628156ad6"
+   536873139]
+  [45498 :block/uid "LEhLuz3_r" 536873138]
+  [45498 :user/display-name "Erik Newhard" 536873138]
+  [45498 :user/display-page 45499 536873138]
+  [45498
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536873136]
-  [45497 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873136]
-  [45498 :block/uid "QwvBjJXQ4" 536873136]
-  [45498 :create/time 1628852479820 536873137]
-  [45498 :create/user 45497 536873137]
-  [45498 :edit/time 1628852479820 536873137]
-  [45498 :edit/user 45497 536873137]
-  [45498 :node/title "Erik Newhard" 536873137]
-  [45499 :version/id "0.8.8" 536873136]
-  [45499
-   :version/nonce
-   "uuid0ad76a51-8e94-4828-b979-bc6be44dd4dc" 
-   536873137]]}
+   536873138]
+  [45498 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873138]
+  [45499 :block/uid "BjL9ETKun" 536873138]
+  [45499 :create/time 1628856075198 536873139]
+  [45499 :create/user 45498 536873139]
+  [45499 :edit/time 1628856075198 536873139]
+  [45499 :edit/user 45498 536873139]
+  [45499 :node/title "Erik Newhard" 536873139]]}
