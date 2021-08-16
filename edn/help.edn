@@ -32524,7 +32524,7 @@
   [10259 :edit/time 1615050411881 536870912]
   [10259 :edit/user 6897 536870912]
   [10260 :block/children 10265 536870912]
-  [10260 :block/open false 536870912]
+  [10260 :block/open false 536873140]
   [10260 :block/order 2 536870912]
   [10260 :block/page 1467 536870912]
   [10260 :block/parents 1467 536870912]
@@ -75372,26 +75372,26 @@
   [45497 :version/id "0.8.8" 536873136]
   [45497
    :version/nonce
-   "uuidace6ad8d-de4b-41b6-bcab-cd77282ddd46"
-   536873141]
-  [45498 :block/uid "PzveuSMVp" 536873139]
-  [45498 :user/display-name "Erik Newhard" 536873139]
-  [45498 :user/display-page 45499 536873139]
+   "uuidf6723e76-d9e6-4b19-bc88-6dccc124931e"
+   536873143]
+  [45498 :block/uid "XYrhFjJTN" 536873141]
+  [45498 :user/display-name "Erik Newhard" 536873141]
+  [45498 :user/display-page 45499 536873141]
   [45498
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536873139]
-  [45498 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873139]
-  [45499 :block/uid "6m_yVHY-E" 536873139]
-  [45499 :create/time 1629123394507 536873140]
-  [45499 :create/user 45498 536873140]
-  [45499 :edit/time 1629123394507 536873140]
-  [45499 :edit/user 45498 536873140]
-  [45499 :node/title "Erik Newhard" 536873140]
-  [45500 :block/uid "08-16-2021" 536873141]
-  [45500 :create/time 1629123394511 536873141]
-  [45500 :create/user 45498 536873141]
-  [45500 :edit/time 1629123394512 536873141]
-  [45500 :edit/user 45498 536873141]
-  [45500 :log/id 1629123394511 536873141]
-  [45500 :node/title "August 16th, 2021" 536873141]]}
+   536873141]
+  [45498 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873141]
+  [45499 :block/uid "sj89l1Ybz" 536873141]
+  [45499 :create/time 1629126080315 536873142]
+  [45499 :create/user 45498 536873142]
+  [45499 :edit/time 1629126080315 536873142]
+  [45499 :edit/user 45498 536873142]
+  [45499 :node/title "Erik Newhard" 536873142]
+  [45500 :block/uid "08-16-2021" 536873143]
+  [45500 :create/time 1629126080320 536873143]
+  [45500 :create/user 45498 536873143]
+  [45500 :edit/time 1629126080320 536873143]
+  [45500 :edit/user 45498 536873143]
+  [45500 :log/id 1629126080319 536873143]
+  [45500 :node/title "August 16th, 2021" 536873143]]}
