@@ -43403,6 +43403,159 @@
                 "edit-time": 1628735516922,
                 "children": [
                   {
+                    "edit-time": 1629134062598,
+                    "children": [
+                      {
+                        "string": "You can now use [[Video Timestamps]] for Youtube videos!",
+                        "create-time": 1628746745662,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "YhCkenNOy"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "YhCkenNOy"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "uid": "_V9UbRhWa",
+                        "edit-time": 1629134062598,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Either type `/video timestamp` or hit `Cmd/Ctrl+Alt+t` under a video to enter a timestamp",
+                        "create-time": 1628746775911,
+                        "uid": "JE1qPTTVS",
+                        "edit-time": 1629134062598,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "edit-time": 1629134062598,
+                        "children": [
+                          {
+                            "edit-time": 1629134062598,
+                            "children": [
+                              {
+                                "edit-time": 1629134062598,
+                                "children": [
+                                  {
+                                    "string": "#Notes Cmd+U opens search bar",
+                                    "create-time": 1628746871735,
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "dZwwrPIpB"
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "dZwwrPIpB"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    },
+                                    "uid": "GduwF-90V",
+                                    "edit-time": 1629134062598,
+                                    ":edit/user": {
+                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "wOgeziZ8U"
+                                  }
+                                ],
+                                "uid": "AIarI9JA8",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "wOgeziZ8U"
+                                  }
+                                ],
+                                "string": "{{[[video-timestamp]]: 00:07:07}}",
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "create-time": 1628746856850,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "uid": "wAp2aC6aW",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://www.youtube.com/watch?v=4yXK9OMc2OU}}",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1628746847777,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        "uid": "bNnjmb7X6",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        "string": "Example::",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1628746843024,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "uid": "4jLsI9OkQ",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "string": "[[New Features]] 🚀",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1628746721808,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  },
+                  {
                     "edit-time": 1628735587256,
                     "children": [
                       {
@@ -72304,10 +72457,46 @@
     }
   },
   {
-    "create-time": 1629133923052,
+    "create-time": 1629134044968,
+    "title": "Video Timestamps",
+    "uid": "YhCkenNOy",
+    "edit-time": 1629134044969,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1629134044987,
+    "title": "video-timestamp",
+    "uid": "wOgeziZ8U",
+    "edit-time": 1629134044988,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1629134044991,
+    "title": "Notes",
+    "uid": "dZwwrPIpB",
+    "edit-time": 1629134044991,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1629136868792,
     "title": "Erik Newhard",
-    "uid": "ED5U-bHXB",
-    "edit-time": 1629133923052,
+    "uid": "-LF_5bWxf",
+    "edit-time": 1629136868792,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
@@ -72316,10 +72505,10 @@
     }
   },
   {
-    "create-time": 1629133923057,
+    "create-time": 1629136868798,
     "title": "August 16th, 2021",
     "uid": "08-16-2021",
-    "edit-time": 1629133923057,
+    "edit-time": 1629136868798,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
