@@ -45434,9 +45434,9 @@
   [11501 :block/children 11504 536870912]
   [11501 :block/children 11505 536870912]
   [11501 :block/children 11506 536870912]
-  [11501 :block/children 11507 536870912]
+  [11501 :block/children 45521 536873184]
   [11501 :block/heading 3 536870912]
-  [11501 :block/open false 536870912]
+  [11501 :block/open true 536873184]
   [11501 :block/order 8 536870912]
   [11501 :block/page 412 536870912]
   [11501 :block/parents 412 536870912]
@@ -45502,20 +45502,6 @@
   [11506 :block/uid "phd_SgBMd" 536870912]
   [11506 :edit/time 1615392987586 536870912]
   [11506 :edit/user 6897 536870912]
-  [11507 :block/open true 536870912]
-  [11507 :block/order 4 536870912]
-  [11507 :block/page 412 536870912]
-  [11507 :block/parents 412 536870912]
-  [11507 :block/parents 575 536870912]
-  [11507 :block/parents 11501 536870912]
-  [11507
-   :block/string
-   "![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/64001914617/original/K7u-pY8d8JESJwqjb_UCIyBY-gLJdW9uTA.gif?1597880957)"
-   536870912]
-  [11507 :block/uid "PQxZhmRbg" 536870912]
-  [11507 :edit/seen-by 6897 536870912]
-  [11507 :edit/time 1615393003217 536870912]
-  [11507 :edit/user 6897 536870912]
   [11514 :block/string "" 536870912]
   [11514 :block/uid "9bd5oR5DP" 536870912]
   [11514 :edit/time 1615392993661 536870912]
@@ -75375,8 +75361,8 @@
   [45497 :version/id "0.8.8" 536873136]
   [45497
    :version/nonce
-   "uuid4fa06a7f-b93d-4391-8e26-1b862e47e634"
-   536873184]
+   "uuiddc4813ba-d947-4e55-b871-f1aae27b4ab2"
+   536873189]
   [45507 :block/uid "YhCkenNOy" 536873146]
   [45507 :create/time 1629134044968 536873146]
   [45507 :create/user 53 536873146]
@@ -75547,17 +75533,30 @@
   [45520 :edit/user 74 536873182]
   [45520 :log/id 1629180006048 536873182]
   [45520 :node/title "August 17th, 2021" 536873182]
-  [45521 :block/uid "QleUwAlTL" 536873183]
-  [45521 :user/display-name "Erik Newhard" 536873183]
-  [45521 :user/display-page 45522 536873183]
+  [45521 :block/order 4 536873184]
+  [45521 :block/page 412 536873185]
+  [45521 :block/parents 412 536873185]
+  [45521 :block/parents 575 536873185]
+  [45521 :block/parents 11501 536873185]
   [45521
+   :block/string
+   "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FvouuDBjX8Z.gif?alt=media&token=25a6eeaf-fb1d-4f11-90aa-1622f84921f9)"
+   536873184]
+  [45521 :block/uid "VGlZkO_r6" 536873184]
+  [45521 :edit/seen-by 6897 536873187]
+  [45521 :edit/time 1629210562882 536873184]
+  [45521 :edit/user 6897 536873184]
+  [45522 :block/uid "r_bYK8miI" 536873188]
+  [45522 :user/display-name "Erik Newhard" 536873188]
+  [45522 :user/display-page 45523 536873188]
+  [45522
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536873183]
-  [45521 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873183]
-  [45522 :block/uid "exj1_NZHs" 536873183]
-  [45522 :create/time 1629208879088 536873184]
-  [45522 :create/user 45521 536873184]
-  [45522 :edit/time 1629208879088 536873184]
-  [45522 :edit/user 45521 536873184]
-  [45522 :node/title "Erik Newhard" 536873184]]}
+   536873188]
+  [45522 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873188]
+  [45523 :block/uid "fNarTokmD" 536873188]
+  [45523 :create/time 1629212508334 536873189]
+  [45523 :create/user 45522 536873189]
+  [45523 :edit/time 1629212508334 536873189]
+  [45523 :edit/user 45522 536873189]
+  [45523 :node/title "Erik Newhard" 536873189]]}
