@@ -26249,88 +26249,6 @@
         }
       },
       {
-        "edit-time": 1614788745859,
-        "children": [
-          {
-            "edit-time": 1614881185602,
-            "children": [
-              {
-                "string": "{{iframe: https://www.roamtips.com/home/password-protect-roam-blocks}}",
-                "props": {
-                  "iframe": {
-                    "https://www.roamtips.com/home/password-protect-roam-blocks": {
-                      "size": {
-                        "width": 639,
-                        "height": 488
-                      }
-                    }
-                  }
-                },
-                "create-time": 1614881187039,
-                ":block/props": {
-                  ":iframe": {
-                    "https://www.roamtips.com/home/password-protect-roam-blocks": {
-                      ":size": {
-                        ":width": 639,
-                        ":height": 488
-                      }
-                    }
-                  }
-                },
-                ":create/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "uid": "V9qTYm9Dt",
-                "edit-time": 1614881191234,
-                ":edit/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                }
-              }
-            ],
-            "refs": [
-              {
-                "uid": "TF3K-ab5g"
-              }
-            ],
-            "uid": "Q0mjB6NqF",
-            ":block/refs": [
-              {
-                ":block/uid": "TF3K-ab5g"
-              }
-            ],
-            "string": "[How to password protect (encrypt) a block in Roam Research](https://www.roamtips.com/home/password-protect-roam-blocks) by [[Roam Tips and Hacks]]",
-            ":create/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            "create-time": 1614881116896,
-            ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-            },
-            "heading": 3
-          }
-        ],
-        "refs": [
-          {
-            "uid": "cGQjOo9hq"
-          }
-        ],
-        "uid": "QIJLM98tB",
-        ":block/refs": [
-          {
-            ":block/uid": "cGQjOo9hq"
-          }
-        ],
-        "string": "Articles::",
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        "create-time": 1614788743859,
-        ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        "heading": 2
-      },
-      {
         "edit-time": 1614881346836,
         "children": [
           {
@@ -72517,10 +72435,10 @@
     }
   },
   {
-    "create-time": 1629284482471,
+    "create-time": 1629288109509,
     "title": "Erik Newhard",
-    "uid": "I2I0EZsG8",
-    "edit-time": 1629284482471,
+    "uid": "-rf6BSqCR",
+    "edit-time": 1629288109510,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
@@ -72529,10 +72447,10 @@
     }
   },
   {
-    "create-time": 1629284482475,
+    "create-time": 1629288109515,
     "title": "August 18th, 2021",
     "uid": "08-18-2021",
-    "edit-time": 1629284482475,
+    "edit-time": 1629288109515,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },

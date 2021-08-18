@@ -1584,16 +1584,12 @@
   [517 :block/uid "1PWL3-hDT" 536870912]
   [517 :edit/time 1614650481329 536870912]
   [517 :edit/user 3 536870912]
-  [520 :attrs/lookup 520 536870912]
-  [520 :attrs/lookup 3786 536870912]
-  [520 :attrs/lookup 5796 536870912]
-  [520 :attrs/lookup 6986 536870912]
-  [520 :attrs/lookup 6989 536870912]
-  [520 :attrs/lookup 8327 536870912]
-  [520 :attrs/lookup 8336 536870912]
+  [520 :attrs/lookup 520 536873191]
+  [520 :attrs/lookup 3786 536873191]
+  [520 :attrs/lookup 6986 536873191]
+  [520 :attrs/lookup 8336 536873191]
   [520 :block/children 6985 536870912]
   [520 :block/children 6986 536870912]
-  [520 :block/children 6989 536870912]
   [520 :block/children 12887 536870912]
   [520 :block/open true 536870912]
   [520 :block/uid "cHzdtfW_s" 536870912]
@@ -1602,6 +1598,7 @@
   [520 :edit/seen-by 3 536870912]
   [520 :edit/seen-by 53 536870912]
   [520 :edit/seen-by 3422 536870912]
+  [520 :edit/seen-by 6897 536873192]
   [520 :edit/seen-by 9445 536872679]
   [520 :edit/time 1614881045604 536870912]
   [520 :edit/user 53 536870912]
@@ -1612,14 +1609,8 @@
       {:source [:block/uid "aopsozvNu"],
        :value [:block/uid "oEhVJ0Eaw"]}
       {:source [:block/uid "37fhvF1E2"],
-       :value [:block/uid "37fhvF1E2"]}]
-     [{:source [:block/uid "cHzdtfW_s"],
-       :value [:block/uid "cHzdtfW_s"]}
-      {:source [:block/uid "QIJLM98tB"],
-       :value [:block/uid "cGQjOo9hq"]}
-      {:source [:block/uid "Q0mjB6NqF"],
-       :value [:block/uid "Q0mjB6NqF"]}]}
-   536870912]
+       :value [:block/uid "37fhvF1E2"]}]}
+   536873191]
   [520 :node/title "Encrypted Block" 536870912]
   [522 :block/heading 3 536870912]
   [522 :block/open true 536870912]
@@ -14475,12 +14466,13 @@
   [6985 :create/user 3 536870912]
   [6985 :edit/seen-by 53 536870912]
   [6985 :edit/seen-by 3422 536870912]
+  [6985 :edit/seen-by 6897 536873192]
   [6985 :edit/time 1615110854122 536870912]
   [6985 :edit/user 3422 536870912]
   [6986 :block/children 8336 536870912]
   [6986 :block/heading 2 536870912]
   [6986 :block/open true 536870912]
-  [6986 :block/order 3 536870912]
+  [6986 :block/order 2 536873191]
   [6986 :block/page 520 536870912]
   [6986 :block/parents 520 536870912]
   [6986 :block/refs 3786 536870912]
@@ -14497,23 +14489,6 @@
   [6988 :block/uid "WIufEYgMG" 536870912]
   [6988 :edit/time 1614788743300 536870912]
   [6988 :edit/user 3 536870912]
-  [6989 :block/children 8327 536870912]
-  [6989 :block/heading 2 536870912]
-  [6989 :block/open true 536870912]
-  [6989 :block/order 2 536870912]
-  [6989 :block/page 520 536870912]
-  [6989 :block/parents 520 536870912]
-  [6989 :block/refs 5796 536870912]
-  [6989 :block/string "Articles::" 536870912]
-  [6989 :block/uid "QIJLM98tB" 536870912]
-  [6989 :create/time 1614788743859 536870912]
-  [6989 :create/user 3 536870912]
-  [6989 :edit/seen-by 3 536870912]
-  [6989 :edit/seen-by 53 536870912]
-  [6989 :edit/seen-by 3422 536870912]
-  [6989 :edit/seen-by 9445 536872679]
-  [6989 :edit/time 1614788745859 536870912]
-  [6989 :edit/user 3 536870912]
   [6996 :block/string "" 536870912]
   [6996 :block/uid "c6BgxAMZg" 536870912]
   [6996 :edit/time 1614788771932 536870912]
@@ -21264,6 +21239,7 @@
   [8015 :create/time 1614851515829 536870912]
   [8015 :create/user 53 536870912]
   [8015 :edit/seen-by 3422 536870912]
+  [8015 :edit/seen-by 6897 536873192]
   [8015 :edit/time 1615111270765 536870912]
   [8015 :edit/user 3422 536870912]
   [8018 :block/string "" 536870912]
@@ -23075,26 +23051,6 @@
   [8326 :block/uid "vYBmZm0tn" 536870912]
   [8326 :edit/time 1614881080065 536870912]
   [8326 :edit/user 53 536870912]
-  [8327 :block/children 8333 536870912]
-  [8327 :block/heading 3 536870912]
-  [8327 :block/open true 536872677]
-  [8327 :block/order 0 536870912]
-  [8327 :block/page 520 536870912]
-  [8327 :block/parents 520 536870912]
-  [8327 :block/parents 6989 536870912]
-  [8327 :block/refs 8277 536870912]
-  [8327
-   :block/string
-   "[How to password protect (encrypt) a block in Roam Research](https://www.roamtips.com/home/password-protect-roam-blocks) by [[Roam Tips and Hacks]]"
-   536870912]
-  [8327 :block/uid "Q0mjB6NqF" 536870912]
-  [8327 :create/time 1614881116896 536870912]
-  [8327 :create/user 53 536870912]
-  [8327 :edit/seen-by 3 536870912]
-  [8327 :edit/seen-by 3422 536870912]
-  [8327 :edit/seen-by 9445 536872679]
-  [8327 :edit/time 1614881185602 536870912]
-  [8327 :edit/user 53 536870912]
   [8328 :block/string "" 536870912]
   [8328 :block/uid "lNCKeFgZr" 536870912]
   [8328 :edit/time 1614881119821 536870912]
@@ -23103,27 +23059,6 @@
   [8331 :block/uid "taOX9XTe6" 536870912]
   [8331 :edit/time 1614881149705 536870912]
   [8331 :edit/user 53 536870912]
-  [8333 :block/open true 536870912]
-  [8333 :block/order 0 536870912]
-  [8333 :block/page 520 536870912]
-  [8333 :block/parents 520 536870912]
-  [8333 :block/parents 6989 536870912]
-  [8333 :block/parents 8327 536870912]
-  [8333
-   :block/props
-   {:iframe
-    {"https://www.roamtips.com/home/password-protect-roam-blocks"
-     {:size {:width 639, :height 488}}}}
-   536870912]
-  [8333
-   :block/string
-   "{{iframe: https://www.roamtips.com/home/password-protect-roam-blocks}}"
-   536870912]
-  [8333 :block/uid "V9qTYm9Dt" 536870912]
-  [8333 :create/time 1614881187039 536870912]
-  [8333 :create/user 53 536870912]
-  [8333 :edit/time 1614881191234 536870912]
-  [8333 :edit/user 53 536870912]
   [8335 :block/string "::" 536870912]
   [8335 :block/uid "1ZFD_7yfc" 536870912]
   [8335 :edit/time 1614881344959 536870912]
@@ -75361,8 +75296,8 @@
   [45497 :version/id "0.8.8" 536873136]
   [45497
    :version/nonce
-   "uuid8fa2f34e-e477-4c8b-834d-758344487d65"
-   536873190]
+   "uuid17f8c90c-1331-4280-8956-178f05f757f0"
+   536873195]
   [45507 :block/uid "YhCkenNOy" 536873146]
   [45507 :create/time 1629134044968 536873146]
   [45507 :create/user 53 536873146]
@@ -75546,24 +75481,24 @@
   [45521 :edit/seen-by 6897 536873187]
   [45521 :edit/time 1629210562882 536873184]
   [45521 :edit/user 6897 536873184]
-  [45522 :block/uid "ZFaNLHjiY" 536873188]
-  [45522 :user/display-name "Erik Newhard" 536873188]
-  [45522 :user/display-page 45523 536873188]
-  [45522
+  [45525 :block/uid "fVzNnX4xh" 536873193]
+  [45525 :user/display-name "Erik Newhard" 536873193]
+  [45525 :user/display-page 45526 536873193]
+  [45525
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536873188]
-  [45522 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873188]
-  [45523 :block/uid "I2I0EZsG8" 536873188]
-  [45523 :create/time 1629284482471 536873189]
-  [45523 :create/user 45522 536873189]
-  [45523 :edit/time 1629284482471 536873189]
-  [45523 :edit/user 45522 536873189]
-  [45523 :node/title "Erik Newhard" 536873189]
-  [45524 :block/uid "08-18-2021" 536873190]
-  [45524 :create/time 1629284482475 536873190]
-  [45524 :create/user 45522 536873190]
-  [45524 :edit/time 1629284482475 536873190]
-  [45524 :edit/user 45522 536873190]
-  [45524 :log/id 1629284482474 536873190]
-  [45524 :node/title "August 18th, 2021" 536873190]]}
+   536873193]
+  [45525 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873193]
+  [45526 :block/uid "-rf6BSqCR" 536873193]
+  [45526 :create/time 1629288109509 536873194]
+  [45526 :create/user 45525 536873194]
+  [45526 :edit/time 1629288109510 536873194]
+  [45526 :edit/user 45525 536873194]
+  [45526 :node/title "Erik Newhard" 536873194]
+  [45527 :block/uid "08-18-2021" 536873195]
+  [45527 :create/time 1629288109515 536873195]
+  [45527 :create/user 45525 536873195]
+  [45527 :edit/time 1629288109515 536873195]
+  [45527 :edit/user 45525 536873195]
+  [45527 :log/id 1629288109514 536873195]
+  [45527 :node/title "August 18th, 2021" 536873195]]}
