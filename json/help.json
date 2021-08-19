@@ -35278,53 +35278,53 @@
             ":edit/user": {
               ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
             }
+          },
+          {
+            "string": "Besides reasoning and argument, dependency graphs have applications in education, self-directed learning, and general decision-making. Even a very complicated project can be traced backwards to a number of smaller [[task]]s. The user can see the tradeoffs involved in each pathway, map out which route is the fastest, and which path might bring them closer to other interesting goals. As the student marks their progress, they can discover new projects and pathways which make use of the skills they have acquired.",
+            "create-time": 1617137848516,
+            ":block/refs": [
+              {
+                ":block/uid": "ROEXlNl95"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "ROEXlNl95"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "uid": "DceQKa0y8",
+            "edit-time": 1617137848516,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "The problems of prose apply even in the domain of mathematical proofs, see Lamport’s [[How to write a 21st Century Proof]]”",
+            "create-time": 1617137848516,
+            ":block/refs": [
+              {
+                ":block/uid": "0Fy1sEXdL"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "0Fy1sEXdL"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "uid": "RzSftMh4r",
+            "edit-time": 1617137848516,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
           }
         ],
         "uid": "ojb3Hr14N",
-        "edit-time": 1617137848516,
-        ":edit/user": {
-          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-        }
-      },
-      {
-        "string": "Besides reasoning and argument, dependency graphs have applications in education, self-directed learning, and general decision-making. Even a very complicated project can be traced backwards to a number of smaller [[task]]s. The user can see the tradeoffs involved in each pathway, map out which route is the fastest, and which path might bring them closer to other interesting goals. As the student marks their progress, they can discover new projects and pathways which make use of the skills they have acquired.",
-        "create-time": 1617137848516,
-        ":block/refs": [
-          {
-            ":block/uid": "ROEXlNl95"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "ROEXlNl95"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-        },
-        "uid": "DceQKa0y8",
-        "edit-time": 1617137848516,
-        ":edit/user": {
-          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-        }
-      },
-      {
-        "string": "The problems of prose apply even in the domain of mathematical proofs, see Lamport’s [[How to write a 21st Century Proof]]”",
-        "create-time": 1617137848516,
-        ":block/refs": [
-          {
-            ":block/uid": "0Fy1sEXdL"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "0Fy1sEXdL"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-        },
-        "uid": "RzSftMh4r",
         "edit-time": 1617137848516,
         ":edit/user": {
           ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
@@ -72435,10 +72435,10 @@
     }
   },
   {
-    "create-time": 1629374516852,
+    "create-time": 1629378732503,
     "title": "Erik Newhard",
-    "uid": "pjSBp4kkf",
-    "edit-time": 1629374516853,
+    "uid": "fGxVPAv3P",
+    "edit-time": 1629378732503,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
@@ -72447,10 +72447,10 @@
     }
   },
   {
-    "create-time": 1629374516857,
+    "create-time": 1629378732507,
     "title": "August 19th, 2021",
     "uid": "08-19-2021",
-    "edit-time": 1629374516857,
+    "edit-time": 1629378732507,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
