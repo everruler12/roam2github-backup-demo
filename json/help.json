@@ -43364,10 +43364,10 @@
                             "edit-time": 1629134062598,
                             "children": [
                               {
-                                "edit-time": 1629134062598,
+                                "edit-time": 1629416455433,
                                 "children": [
                                   {
-                                    "string": "#Notes Cmd+U opens search bar",
+                                    "string": "#Notes Cmd+U opens search bar ",
                                     "create-time": 1628746871735,
                                     ":block/refs": [
                                       {
@@ -43383,9 +43383,53 @@
                                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                                     },
                                     "uid": "GduwF-90V",
-                                    "edit-time": 1629134062598,
+                                    "edit-time": 1629416465885,
                                     ":edit/user": {
-                                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    }
+                                  },
+                                  {
+                                    "string": "{{[[video-timestamp]]: 00:07:08}}",
+                                    "create-time": 1629416465881,
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    },
+                                    "uid": "gnpkuLRaL",
+                                    "edit-time": 1629416470076,
+                                    ":edit/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    }
+                                  },
+                                  {
+                                    "string": "{{[[video-timestamp]]: 00:07:08}}",
+                                    "create-time": 1629416472061,
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    },
+                                    "uid": "pNpyFfVZq",
+                                    "edit-time": 1629416474665,
+                                    ":edit/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
                                     }
                                   }
                                 ],
@@ -43400,13 +43444,13 @@
                                     ":block/uid": "wOgeziZ8U"
                                   }
                                 ],
-                                "string": "{{[[video-timestamp]]: 00:07:07}}",
+                                "string": "{{[[video-timestamp]]: 00:07:07}} ",
                                 ":create/user": {
                                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                                 },
                                 "create-time": 1628746856850,
                                 ":edit/user": {
-                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
                                 }
                               }
                             ],
@@ -72435,10 +72479,10 @@
     }
   },
   {
-    "create-time": 1629414071857,
+    "create-time": 1629418289104,
     "title": "Erik Newhard",
-    "uid": "1FUArjxUb",
-    "edit-time": 1629414071857,
+    "uid": "6NiXHy1Kk",
+    "edit-time": 1629418289105,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
@@ -72447,10 +72491,10 @@
     }
   },
   {
-    "create-time": 1629414071862,
-    "title": "August 19th, 2021",
-    "uid": "08-19-2021",
-    "edit-time": 1629414071862,
+    "create-time": 1629418289112,
+    "title": "August 20th, 2021",
+    "uid": "08-20-2021",
+    "edit-time": 1629418289112,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
