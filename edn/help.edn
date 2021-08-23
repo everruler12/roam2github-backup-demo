@@ -532,6 +532,7 @@
   [328 :edit/seen-by 3 536870912]
   [328 :edit/seen-by 53 536870912]
   [328 :edit/seen-by 3422 536870912]
+  [328 :edit/seen-by 9445 536873243]
   [328 :edit/time 1614356902401 536870912]
   [328 :edit/user 3 536870912]
   [328
@@ -10969,6 +10970,7 @@
   [6404 :create/user 3 536870912]
   [6404 :edit/seen-by 3 536870912]
   [6404 :edit/seen-by 53 536870912]
+  [6404 :edit/seen-by 9445 536873243]
   [6404 :edit/time 1614781654212 536870912]
   [6404 :edit/user 3 536870912]
   [6406 :block/children 8279 536870912]
@@ -22691,14 +22693,15 @@
   [8274 :block/refs 8277 536870912]
   [8274
    :block/string
-   "[How to build a table in Roam Research](https://www.roamtips.com/home/create-tables-roam-research) - [[Roam Tips and Hacks]]"
-   536870912]
+   "[How to build a table in Roam Research](https://www.roamtips.com/home/create-tables-roam-research) - [[Roam Tips and Hacks]] ((edit table))"
+   536873245]
   [8274 :block/uid "u1drldhl1" 536870912]
   [8274 :create/time 1614880094150 536870912]
   [8274 :create/user 53 536870912]
   [8274 :edit/seen-by 3 536870912]
-  [8274 :edit/time 1614880144489 536870912]
-  [8274 :edit/user 53 536870912]
+  [8274 :edit/seen-by 9445 536873243]
+  [8274 :edit/time 1629703813954 536873245]
+  [8274 :edit/user 9445 536873244]
   [8277 :block/uid "TF3K-ab5g" 536870912]
   [8277 :create/time 1614880130193 536870912]
   [8277 :create/user 53 536870912]
@@ -75305,8 +75308,8 @@
   [45497 :version/id "0.8.8" 536873136]
   [45497
    :version/nonce
-   "uuida98b3a31-06ab-4c0c-a9be-edcdf9d032f3"
-   536873245]
+   "uuid50e4ba71-099f-4e55-815a-341ac47be2b2"
+   536873248]
   [45507 :block/uid "YhCkenNOy" 536873146]
   [45507 :create/time 1629134044968 536873146]
   [45507 :create/user 53 536873146]
@@ -75623,24 +75626,24 @@
   [45533 :create/user 9445 536873239]
   [45533 :edit/time 1629693964001 536873241]
   [45533 :edit/user 9445 536873239]
-  [45534 :block/uid "lTaP4pJRB" 536873243]
-  [45534 :user/display-name "Erik Newhard" 536873243]
-  [45534 :user/display-page 45535 536873243]
+  [45534 :block/uid "ggBMOUy1f" 536873246]
+  [45534 :user/display-name "Erik Newhard" 536873246]
+  [45534 :user/display-page 45535 536873246]
   [45534
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536873243]
-  [45534 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873243]
-  [45535 :block/uid "9ZGZ7wxWy" 536873243]
-  [45535 :create/time 1629702078725 536873244]
-  [45535 :create/user 45534 536873244]
-  [45535 :edit/time 1629702078725 536873244]
-  [45535 :edit/user 45534 536873244]
-  [45535 :node/title "Erik Newhard" 536873244]
-  [45536 :block/uid "08-23-2021" 536873245]
-  [45536 :create/time 1629702078729 536873245]
-  [45536 :create/user 45534 536873245]
-  [45536 :edit/time 1629702078729 536873245]
-  [45536 :edit/user 45534 536873245]
-  [45536 :log/id 1629702078729 536873245]
-  [45536 :node/title "August 23rd, 2021" 536873245]]}
+   536873246]
+  [45534 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873246]
+  [45535 :block/uid "PlQT72c0s" 536873246]
+  [45535 :create/time 1629705702259 536873247]
+  [45535 :create/user 45534 536873247]
+  [45535 :edit/time 1629705702259 536873247]
+  [45535 :edit/user 45534 536873247]
+  [45535 :node/title "Erik Newhard" 536873247]
+  [45536 :block/uid "08-23-2021" 536873248]
+  [45536 :create/time 1629705702264 536873248]
+  [45536 :create/user 45534 536873248]
+  [45536 :edit/time 1629705702264 536873248]
+  [45536 :edit/user 45534 536873248]
+  [45536 :log/id 1629705702263 536873248]
+  [45536 :node/title "August 23rd, 2021" 536873248]]}

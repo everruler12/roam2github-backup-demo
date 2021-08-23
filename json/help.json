@@ -5741,7 +5741,7 @@
         "edit-time": 1614781654212,
         "children": [
           {
-            "edit-time": 1614880144489,
+            "edit-time": 1629703813954,
             "children": [
               {
                 "string": "{{iframe: https://www.roamtips.com/home/create-tables-roam-research}}",
@@ -5787,13 +5787,13 @@
                 ":block/uid": "TF3K-ab5g"
               }
             ],
-            "string": "[How to build a table in Roam Research](https://www.roamtips.com/home/create-tables-roam-research) - [[Roam Tips and Hacks]]",
+            "string": "[How to build a table in Roam Research](https://www.roamtips.com/home/create-tables-roam-research) - [[Roam Tips and Hacks]] ((edit table))",
             ":create/user": {
               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
             },
             "create-time": 1614880094150,
             ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
             }
           }
         ],
@@ -72591,10 +72591,10 @@
     }
   },
   {
-    "create-time": 1629702078725,
+    "create-time": 1629705702259,
     "title": "Erik Newhard",
-    "uid": "9ZGZ7wxWy",
-    "edit-time": 1629702078725,
+    "uid": "PlQT72c0s",
+    "edit-time": 1629705702259,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
@@ -72603,10 +72603,10 @@
     }
   },
   {
-    "create-time": 1629702078729,
+    "create-time": 1629705702264,
     "title": "August 23rd, 2021",
     "uid": "08-23-2021",
-    "edit-time": 1629702078729,
+    "edit-time": 1629705702264,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
