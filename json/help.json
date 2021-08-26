@@ -43318,6 +43318,78 @@
             },
             "children": [
               {
+                "edit-time": 1630000804685,
+                "children": [
+                  {
+                    "edit-time": 1630000813317,
+                    "children": [
+                      {
+                        "string": "Fixed bug for removing window via front-end API",
+                        "create-time": 1630000815592,
+                        "uid": "f0gaf9FNd",
+                        "edit-time": 1630000881096,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Fixed bug for opening mentions in sidebar via front-end API",
+                        "create-time": 1630000846374,
+                        "uid": "dNDffF1s4",
+                        "edit-time": 1630000878151,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "RtfLGrv81"
+                      }
+                    ],
+                    "uid": "frRwhbd4g",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "RtfLGrv81"
+                      }
+                    ],
+                    "string": "[[Developer Notes]] 🧑‍💻 ",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1630000804673,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "08-26-2021"
+                  }
+                ],
+                "uid": "Kbjsq6pDV",
+                ":block/refs": [
+                  {
+                    ":block/uid": "08-26-2021"
+                  }
+                ],
+                "string": "[[August 26th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1630000798826,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
+              },
+              {
                 "edit-time": 1628735516922,
                 "children": [
                   {
@@ -72591,22 +72663,22 @@
     }
   },
   {
-    "create-time": 1629997912782,
-    "title": "Erik Newhard",
-    "uid": "76Bpbp1Dw",
-    "edit-time": 1629997912782,
+    "create-time": 1630000804334,
+    "title": "August 26th, 2021",
+    "uid": "08-26-2021",
+    "edit-time": 1630000804334,
     ":create/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     },
     ":edit/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
     }
   },
   {
-    "create-time": 1629997912787,
-    "title": "August 26th, 2021",
-    "uid": "08-26-2021",
-    "edit-time": 1629997912787,
+    "create-time": 1630000883979,
+    "title": "Erik Newhard",
+    "uid": "KHm77QJGv",
+    "edit-time": 1630000883979,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
