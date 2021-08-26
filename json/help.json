@@ -43321,6 +43321,55 @@
                 "edit-time": 1630000804685,
                 "children": [
                   {
+                    "edit-time": 1630000909272,
+                    "children": [
+                      {
+                        "string": "Fixed bug where when opening references of a block in the sidebar, two instances would show up",
+                        "create-time": 1630000916394,
+                        "uid": "BEQk4oRiw",
+                        "edit-time": 1630001006374,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Fixed issues around Display Name not showing",
+                        "create-time": 1630001019345,
+                        "uid": "ntZdB9OH_",
+                        "edit-time": 1630001040885,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "uid": "6SNTqQ8TR",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]]  🛠",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1630000901447,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  },
+                  {
                     "edit-time": 1630000813317,
                     "children": [
                       {
@@ -43366,7 +43415,8 @@
                     "create-time": 1630000804673,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -72675,10 +72725,10 @@
     }
   },
   {
-    "create-time": 1630000883979,
+    "create-time": 1630004472146,
     "title": "Erik Newhard",
-    "uid": "KHm77QJGv",
-    "edit-time": 1630000883979,
+    "uid": "opyn7HRHd",
+    "edit-time": 1630004472146,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
