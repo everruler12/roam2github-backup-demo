@@ -6970,5 +6970,17 @@
     ":edit/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     }
+  },
+  {
+    "create-time": 1629936693661,
+    "title": "August 26th, 2021",
+    "uid": "08-26-2021",
+    "edit-time": 1629936693661,
+    ":create/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    },
+    ":edit/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    }
   }
 ]
