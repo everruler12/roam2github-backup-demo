@@ -72725,22 +72725,34 @@
     }
   },
   {
-    "create-time": 1630209693456,
-    "title": "Erik Newhard",
-    "uid": "or1XvbxAQ",
-    "edit-time": 1630209693456,
+    "create-time": 1630211810331,
+    "title": "August 28th, 2021",
+    "uid": "08-28-2021",
+    "edit-time": 1630211810331,
     ":create/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     },
     ":edit/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
     }
   },
   {
-    "create-time": 1630209693460,
+    "create-time": 1630213206791,
     "title": "August 29th, 2021",
     "uid": "08-29-2021",
-    "edit-time": 1630209693460,
+    "edit-time": 1630213206792,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1630213273140,
+    "title": "Erik Newhard",
+    "uid": "UFyOA80d5",
+    "edit-time": 1630213273140,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
