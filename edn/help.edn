@@ -70977,6 +70977,7 @@
   [45039 :edit/time 1619764666208 536870912]
   [45039 :edit/user 53 536870912]
   [45039 :entity/attrs #{} 536872323]
+  [45040 :block/children 45546 536873317]
   [45040 :block/uid "s6_qhdpmE" 536870912]
   [45040 :create/time 1619763216098 536870912]
   [45040 :create/user 53 536870912]
@@ -75319,8 +75320,8 @@
   [45497 :version/id "0.8.8" 536873136]
   [45497
    :version/nonce
-   "uuidbd682bed-ad8d-4c65-8ce1-a175f0a7a7e0"
-   536873318]
+   "uuid921681dc-8c6c-48fb-8148-17779d273a7a"
+   536873343]
   [45507 :block/uid "YhCkenNOy" 536873146]
   [45507 :create/time 1629134044968 536873146]
   [45507 :create/user 53 536873146]
@@ -75784,24 +75785,37 @@
   [45544 :edit/user 3422 536873315]
   [45544 :log/id 1630972972141 536873315]
   [45544 :node/title "September 6th, 2021" 536873315]
-  [45545 :block/uid "FaCp7rKEI" 536873316]
-  [45545 :user/display-name "Erik Newhard" 536873316]
-  [45545 :user/display-page 45546 536873316]
-  [45545
+  [45545 :block/uid "09-07-2021" 536873316]
+  [45545 :create/time 1630979030515 536873316]
+  [45545 :create/user 9445 536873316]
+  [45545 :edit/time 1630979030515 536873316]
+  [45545 :edit/user 9445 536873316]
+  [45545 :log/id 1630979030514 536873316]
+  [45545 :node/title "September 7th, 2021" 536873316]
+  [45546 :block/open true 536873317]
+  [45546 :block/order 0 536873317]
+  [45546 :block/page 45040 536873318]
+  [45546 :block/parents 45040 536873318]
+  [45546
+   :block/string
+   "[Save to Roam](https://apps.apple.com/us/app/save-to-roam/id1578763303) -👌Safari Webclipper availble in App Store, created by Artem Tyurin"
+   536873340]
+  [45546 :block/uid "KyDctOZDD" 536873317]
+  [45546 :create/time 1630979463940 536873317]
+  [45546 :create/user 9445 536873317]
+  [45546 :edit/time 1630979656949 536873340]
+  [45546 :edit/user 9445 536873317]
+  [45548 :block/uid "Gk_LB6m0B" 536873342]
+  [45548 :user/display-name "Erik Newhard" 536873342]
+  [45548 :user/display-page 45549 536873342]
+  [45548
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536873316]
-  [45545 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873316]
-  [45546 :block/uid "A0KeOTSeF" 536873316]
-  [45546 :create/time 1630978975498 536873317]
-  [45546 :create/user 45545 536873317]
-  [45546 :edit/time 1630978975498 536873317]
-  [45546 :edit/user 45545 536873317]
-  [45546 :node/title "Erik Newhard" 536873317]
-  [45547 :block/uid "09-07-2021" 536873318]
-  [45547 :create/time 1630978975504 536873318]
-  [45547 :create/user 45545 536873318]
-  [45547 :edit/time 1630978975504 536873318]
-  [45547 :edit/user 45545 536873318]
-  [45547 :log/id 1630978975503 536873318]
-  [45547 :node/title "September 7th, 2021" 536873318]]}
+   536873342]
+  [45548 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873342]
+  [45549 :block/uid "7qs8a3Cu_" 536873342]
+  [45549 :create/time 1630980941785 536873343]
+  [45549 :create/user 45548 536873343]
+  [45549 :edit/time 1630980941785 536873343]
+  [45549 :edit/user 45548 536873343]
+  [45549 :node/title "Erik Newhard" 536873343]]}
