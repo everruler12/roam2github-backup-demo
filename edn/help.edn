@@ -75141,7 +75141,7 @@
   [45497 :version/id "0.8.8" 536873136]
   [45497
    :version/nonce
-   "uuid434ba9d6-3db4-412c-80b4-034ab6b8b9d4"
+   "uuide8985426-617b-420d-9e72-d95e60f109d3"
    536873399]
   [45507 :block/uid "YhCkenNOy" 536873146]
   [45507 :create/time 1629134044968 536873146]
@@ -75798,24 +75798,24 @@
   [45560 :edit/user 6897 536873396]
   [45560 :log/id 1631192820521 536873396]
   [45560 :node/title "September 9th, 2021" 536873396]
-  [45561 :block/uid "-rhbTgrQl" 536873397]
-  [45561 :user/display-name "Erik Newhard" 536873397]
-  [45561 :user/display-page 45562 536873397]
-  [45561
+  [45561 :block/uid "09-10-2021" 536873397]
+  [45561 :create/time 1631282888795 536873397]
+  [45561 :create/user 6897 536873397]
+  [45561 :edit/time 1631282888795 536873397]
+  [45561 :edit/user 6897 536873397]
+  [45561 :log/id 1631282888795 536873397]
+  [45561 :node/title "September 10th, 2021" 536873397]
+  [45562 :block/uid "0XDWdQdcw" 536873398]
+  [45562 :user/display-name "Erik Newhard" 536873398]
+  [45562 :user/display-page 45563 536873398]
+  [45562
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536873397]
-  [45561 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873397]
-  [45562 :block/uid "vortvsvVY" 536873397]
-  [45562 :create/time 1631282485388 536873398]
-  [45562 :create/user 45561 536873398]
-  [45562 :edit/time 1631282485388 536873398]
-  [45562 :edit/user 45561 536873398]
-  [45562 :node/title "Erik Newhard" 536873398]
-  [45563 :block/uid "09-10-2021" 536873399]
-  [45563 :create/time 1631282485392 536873399]
-  [45563 :create/user 45561 536873399]
-  [45563 :edit/time 1631282485392 536873399]
-  [45563 :edit/user 45561 536873399]
-  [45563 :log/id 1631282485391 536873399]
-  [45563 :node/title "September 10th, 2021" 536873399]]}
+   536873398]
+  [45562 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873398]
+  [45563 :block/uid "bp5xWcKqp" 536873398]
+  [45563 :create/time 1631286076645 536873399]
+  [45563 :create/user 45562 536873399]
+  [45563 :edit/time 1631286076645 536873399]
+  [45563 :edit/user 45562 536873399]
+  [45563 :node/title "Erik Newhard" 536873399]]}
