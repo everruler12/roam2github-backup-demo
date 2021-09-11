@@ -72753,10 +72753,22 @@
     }
   },
   {
-    "create-time": 1631314887352,
+    "create-time": 1631319187480,
     "title": "Erik Newhard",
-    "uid": "EE4N4JbIp",
-    "edit-time": 1631314887352,
+    "uid": "yKSSQ4FHh",
+    "edit-time": 1631319187480,
+    ":create/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    },
+    ":edit/user": {
+      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+    }
+  },
+  {
+    "create-time": 1631319187495,
+    "title": "September 11th, 2021",
+    "uid": "09-11-2021",
+    "edit-time": 1631319187495,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
