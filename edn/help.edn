@@ -65269,6 +65269,7 @@
   [44436 :create/time 1617137848516 536870912]
   [44436 :create/user 74 536870912]
   [44436 :edit/seen-by 3 536870912]
+  [44436 :edit/seen-by 53 536873502]
   [44436 :edit/seen-by 3422 536872644]
   [44436 :edit/seen-by 6897 536873343]
   [44436 :edit/time 1617137856173 536870912]
@@ -75142,8 +75143,8 @@
   [45497 :version/id "0.8.8" 536873136]
   [45497
    :version/nonce
-   "uuid3a01a4f0-3d34-4e30-a8b6-cb84e6554c93"
-   536873504]
+   "uuid0d932662-84d2-4d29-8ddb-c7e1df9b83dc"
+   536873505]
   [45507 :block/uid "YhCkenNOy" 536873146]
   [45507 :create/time 1629134044968 536873146]
   [45507 :create/user 53 536873146]
@@ -75825,24 +75826,24 @@
    :window/id
    "eyxGl1TJWCTcRVSJVJDyoLzWVqk2-body-outline-09-13-2021"
    536873484]
-  [45570 :block/uid "D8wdCN2qs" 536873502]
-  [45570 :user/display-name "Erik Newhard" 536873502]
-  [45570 :user/display-page 45571 536873502]
-  [45570
+  [45570 :block/uid "09-14-2021" 536873503]
+  [45570 :create/time 1631603135593 536873503]
+  [45570 :create/user 74 536873503]
+  [45570 :edit/time 1631603135593 536873503]
+  [45570 :edit/user 74 536873503]
+  [45570 :log/id 1631603135592 536873503]
+  [45570 :node/title "September 14th, 2021" 536873503]
+  [45571 :block/uid "Gfx7QkVqL" 536873504]
+  [45571 :user/display-name "Erik Newhard" 536873504]
+  [45571 :user/display-page 45572 536873504]
+  [45571
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536873502]
-  [45570 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873502]
-  [45571 :block/uid "VKxqdeMAt" 536873502]
-  [45571 :create/time 1631602891988 536873503]
-  [45571 :create/user 45570 536873503]
-  [45571 :edit/time 1631602891988 536873503]
-  [45571 :edit/user 45570 536873503]
-  [45571 :node/title "Erik Newhard" 536873503]
-  [45572 :block/uid "09-14-2021" 536873504]
-  [45572 :create/time 1631602891998 536873504]
-  [45572 :create/user 45570 536873504]
-  [45572 :edit/time 1631602891998 536873504]
-  [45572 :edit/user 45570 536873504]
-  [45572 :log/id 1631602891997 536873504]
-  [45572 :node/title "September 14th, 2021" 536873504]]}
+   536873504]
+  [45571 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873504]
+  [45572 :block/uid "vOaBaSaLu" 536873504]
+  [45572 :create/time 1631606483715 536873505]
+  [45572 :create/user 45571 536873505]
+  [45572 :edit/time 1631606483715 536873505]
+  [45572 :edit/user 45571 536873505]
+  [45572 :node/title "Erik Newhard" 536873505]]}
