@@ -40100,7 +40100,7 @@
   [10960 :edit/user 6897 536870912]
   [10961 :block/children 45559 536873348]
   [10961 :block/heading 3 536870912]
-  [10961 :block/open true 536873348]
+  [10961 :block/open false 536873510]
   [10961 :block/order 1 536870912]
   [10961 :block/page 412 536870912]
   [10961 :block/parents 412 536870912]
@@ -46655,8 +46655,9 @@
   [11642 :block/children 12342 536870912]
   [11642 :block/children 12348 536870912]
   [11642 :block/children 12349 536870912]
+  [11642 :block/children 45574 536873513]
   [11642 :block/heading 3 536870912]
-  [11642 :block/open false 536870912]
+  [11642 :block/open true 536873513]
   [11642 :block/order 17 536870912]
   [11642 :block/page 412 536870912]
   [11642 :block/parents 412 536870912]
@@ -51502,14 +51503,14 @@
   [12340 :block/parents 11642 536870912]
   [12340
    :block/string
-   "Each of those pages may contain different data, but all of those pages refer to the same concept... ebooks. Annoying, right?"
-   536870912]
+   "Each of those pages may contain different data, but all of those pages refer to the same concept... ebooks."
+   536873512]
   [12340 :block/uid "HkafK0XX0" 536870912]
   [12340 :create/time 1605645576983 536870912]
   [12340 :create/user 6897 536870912]
   [12340 :edit/seen-by 3 536870912]
-  [12340 :edit/time 1616393902237 536870912]
-  [12340 :edit/user 3 536870912]
+  [12340 :edit/time 1631806884122 536873512]
+  [12340 :edit/user 6897 536873512]
   [12341 :block/open true 536870912]
   [12341 :block/order 2 536870912]
   [12341 :block/page 412 536870912]
@@ -51619,20 +51620,17 @@
   [12347 :edit/time 1616393902237 536870912]
   [12347 :edit/user 3 536870912]
   [12348 :block/open true 536870912]
-  [12348 :block/order 4 536870912]
+  [12348 :block/order 5 536873513]
   [12348 :block/page 412 536870912]
   [12348 :block/parents 412 536870912]
   [12348 :block/parents 575 536870912]
   [12348 :block/parents 11642 536870912]
-  [12348
-   :block/string
-   "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamanAuxilium%2FPmvrZ7mDlH.gif?alt=media&token=0aaad38b-8fff-4013-9677-5c4857fe8e6b)"
-   536870912]
+  [12348 :block/string "" 536873511]
   [12348 :block/uid "UDGUksPVn" 536870912]
   [12348 :create/time 1606579586663 536870912]
   [12348 :create/user 6897 536870912]
-  [12348 :edit/time 1616393902237 536870912]
-  [12348 :edit/user 3 536870912]
+  [12348 :edit/time 1631806878386 536873511]
+  [12348 :edit/user 6897 536873511]
   [12349 :block/open true 536870912]
   [12349 :block/order 0 536870912]
   [12349 :block/page 412 536870912]
@@ -75134,8 +75132,8 @@
   [45497 :version/id "0.8.8" 536873136]
   [45497
    :version/nonce
-   "uuid1d0a744c-2aa1-4f9e-bc1b-d3b32e64150e"
-   536873511]
+   "uuidf8f7d45e-450b-4d4d-8230-5da744ca954d"
+   536873516]
   [45507 :block/uid "YhCkenNOy" 536873146]
   [45507 :create/time 1629134044968 536873146]
   [45507 :create/user 53 536873146]
@@ -75831,17 +75829,29 @@
   [45571 :edit/user 6897 536873504]
   [45571 :log/id 1631797252876 536873504]
   [45571 :node/title "September 16th, 2021" 536873504]
-  [45574 :block/uid "DwUjRoPPI" 536873510]
-  [45574 :user/display-name "Erik Newhard" 536873510]
-  [45574 :user/display-page 45575 536873510]
+  [45574 :block/order 4 536873513]
+  [45574 :block/page 412 536873514]
+  [45574 :block/parents 412 536873514]
+  [45574 :block/parents 575 536873514]
+  [45574 :block/parents 11642 536873514]
   [45574
+   :block/string
+   "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FV4JRLfwMfR.gif?alt=media&token=71d96972-dcdd-497d-89ed-7d6aa09625b1)"
+   536873513]
+  [45574 :block/uid "REuPW7Mt6" 536873513]
+  [45574 :edit/time 1631806915632 536873513]
+  [45574 :edit/user 6897 536873513]
+  [45575 :block/uid "QvW5dt-0V" 536873515]
+  [45575 :user/display-name "Erik Newhard" 536873515]
+  [45575 :user/display-page 45576 536873515]
+  [45575
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536873510]
-  [45574 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873510]
-  [45575 :block/uid "_548Z0Yfd" 536873510]
-  [45575 :create/time 1631804510184 536873511]
-  [45575 :create/user 45574 536873511]
-  [45575 :edit/time 1631804510184 536873511]
-  [45575 :edit/user 45574 536873511]
-  [45575 :node/title "Erik Newhard" 536873511]]}
+   536873515]
+  [45575 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873515]
+  [45576 :block/uid "-MUhtJsnX" 536873515]
+  [45576 :create/time 1631808115740 536873516]
+  [45576 :create/user 45575 536873516]
+  [45576 :edit/time 1631808115740 536873516]
+  [45576 :edit/user 45575 536873516]
+  [45576 :node/title "Erik Newhard" 536873516]]}
