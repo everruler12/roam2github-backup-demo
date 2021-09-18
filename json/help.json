@@ -43256,6 +43256,186 @@
             },
             "children": [
               {
+                "edit-time": 1631955269875,
+                "children": [
+                  {
+                    "edit-time": 1631955505892,
+                    "children": [
+                      {
+                        "edit-time": 1631955441794,
+                        "children": [
+                          {
+                            "string": "white",
+                            "create-time": 1631955313583,
+                            "uid": "yFVz-h6iu",
+                            "edit-time": 1631955313583,
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          },
+                          {
+                            "string": "blue #.bg-blue-500 #.text-white ",
+                            "create-time": 1631955307239,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "d30qby1kL"
+                              },
+                              {
+                                ":block/uid": "qalnwf5Ug"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "d30qby1kL"
+                              },
+                              {
+                                "uid": "qalnwf5Ug"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "uid": "oWJOFygKp",
+                            "edit-time": 1631955377395,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          },
+                          {
+                            "string": "red #.bg-red-500  #.text-white ",
+                            "create-time": 1631955302729,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "9G0TjuxGa"
+                              },
+                              {
+                                ":block/uid": "qalnwf5Ug"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "9G0TjuxGa"
+                              },
+                              {
+                                "uid": "qalnwf5Ug"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "uid": "inARykipE",
+                            "edit-time": 1631955385917,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "inARykipE"
+                          },
+                          {
+                            "uid": "oWJOFygKp"
+                          },
+                          {
+                            "uid": "yFVz-h6iu"
+                          }
+                        ],
+                        "uid": "q_CXURfgB",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "inARykipE"
+                          },
+                          {
+                            ":block/uid": "oWJOFygKp"
+                          },
+                          {
+                            ":block/uid": "yFVz-h6iu"
+                          }
+                        ],
+                        "string": "Styling changes applied to blocks via `#.style-tags-like-this` now propogate to references of those blocks ((inARykipE)), ((yFVz-h6iu)) and ((oWJOFygKp))",
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "create-time": 1631955282962,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      },
+                      {
+                        "string": "Propogates many levels up too -- see ((((q_CXURfgB)))) ",
+                        "create-time": 1631955531031,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "q_CXURfgB"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "q_CXURfgB"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "uid": "2LUfuWG7u",
+                        "edit-time": 1631955591701,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "OxyZMwZ2k"
+                      },
+                      {
+                        "uid": "aD6Ti3Y_u"
+                      }
+                    ],
+                    "uid": "20LzygCs4",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "OxyZMwZ2k"
+                      },
+                      {
+                        ":block/uid": "aD6Ti3Y_u"
+                      }
+                    ],
+                    "string": "[[Customization]] [[Improvements]]",
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "create-time": 1631955458626,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "09-18-2021"
+                  }
+                ],
+                "uid": "NlflV2Cye",
+                ":block/refs": [
+                  {
+                    ":block/uid": "09-18-2021"
+                  }
+                ],
+                "string": "[[September 18th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1631955264866,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
                 "edit-time": 1630000804685,
                 "children": [
                   {
@@ -72783,22 +72963,82 @@
     }
   },
   {
-    "create-time": 1631952097343,
-    "title": "Erik Newhard",
-    "uid": "1rJTaqtv0",
-    "edit-time": 1631952097343,
+    "create-time": 1631955269184,
+    "title": "September 18th, 2021",
+    "uid": "09-18-2021",
+    "edit-time": 1631955269184,
     ":create/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
     },
     ":edit/user": {
-      ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
     }
   },
   {
-    "create-time": 1631952097354,
-    "title": "September 18th, 2021",
-    "uid": "09-18-2021",
-    "edit-time": 1631952097354,
+    "create-time": 1631955322510,
+    "title": ".bg-red-500",
+    "uid": "9G0TjuxGa",
+    "edit-time": 1631955322511,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "create-time": 1631955367369,
+    "title": ".bg-blue-500",
+    "uid": "d30qby1kL",
+    "edit-time": 1631955367370,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "create-time": 1631955377398,
+    "title": ".text-white",
+    "uid": "qalnwf5Ug",
+    "edit-time": 1631955377416,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "create-time": 1631955489898,
+    "title": "Customization",
+    "uid": "OxyZMwZ2k",
+    "edit-time": 1631955489917,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "create-time": 1631955495818,
+    "title": "Improvements",
+    "uid": "aD6Ti3Y_u",
+    "edit-time": 1631955495819,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "create-time": 1631955678313,
+    "title": "Erik Newhard",
+    "uid": "OAVPcC5bQ",
+    "edit-time": 1631955678313,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
