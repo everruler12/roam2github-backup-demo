@@ -75134,8 +75134,8 @@
   [45497 :version/id "0.8.8" 536873136]
   [45497
    :version/nonce
-   "uuid8340ffcd-591d-4baa-83ac-cc391f28e67f"
-   536873658]
+   "uuid6644ba5c-29a9-44ad-bcee-936467f52743"
+   536873659]
   [45507 :block/uid "YhCkenNOy" 536873146]
   [45507 :create/time 1629134044968 536873146]
   [45507 :create/user 53 536873146]
@@ -75905,6 +75905,7 @@
   [45578 :block/uid "inARykipE" 536873524]
   [45578 :create/time 1631955302729 536873524]
   [45578 :create/user 74 536873524]
+  [45578 :edit/seen-by 9445 536873657]
   [45578 :edit/time 1631955385917 536873548]
   [45578 :edit/user 74 536873524]
   [45579 :block/open true 536873526]
@@ -76184,17 +76185,17 @@
   [45604 :create/user 74 536873653]
   [45604 :edit/time 1632299053654 536873653]
   [45604 :edit/user 74 536873653]
-  [45605 :block/uid "PJrUWYcG0" 536873657]
-  [45605 :user/display-name "Erik Newhard" 536873657]
-  [45605 :user/display-page 45606 536873657]
+  [45605 :block/uid "ES0CxtaWj" 536873658]
+  [45605 :user/display-name "Erik Newhard" 536873658]
+  [45605 :user/display-page 45606 536873658]
   [45605
    :user/photo-url
    "https://lh3.googleusercontent.com/a-/AOh14GiPJn3ovPV2ewfBUOVLsZUebHFkRvebL6nbRG2Sfg"
-   536873657]
-  [45605 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873657]
-  [45606 :block/uid "oL2YbEqxb" 536873657]
-  [45606 :create/time 1632308490017 536873658]
-  [45606 :create/user 45605 536873658]
-  [45606 :edit/time 1632308490017 536873658]
-  [45606 :edit/user 45605 536873658]
-  [45606 :node/title "Erik Newhard" 536873658]]}
+   536873658]
+  [45605 :user/uid "PlMA638w7gW6AT6b1H1VNYEIJK43" 536873658]
+  [45606 :block/uid "Q7dMlJC8s" 536873658]
+  [45606 :create/time 1632312105271 536873659]
+  [45606 :create/user 45605 536873659]
+  [45606 :edit/time 1632312105271 536873659]
+  [45606 :edit/user 45605 536873659]
+  [45606 :node/title "Erik Newhard" 536873659]]}
