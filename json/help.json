@@ -43256,6 +43256,186 @@
             },
             "children": [
               {
+                "edit-time": 1632298893298,
+                "children": [
+                  {
+                    "edit-time": 1632298952801,
+                    "children": [
+                      {
+                        "string": "Custom components in [[JSX]] and [[Javascript]]",
+                        "create-time": 1632298915813,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "DmY0KcIr3"
+                          },
+                          {
+                            ":block/uid": "uEDCUU5Ox"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "DmY0KcIr3"
+                          },
+                          {
+                            "uid": "uEDCUU5Ox"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "uid": "mTPQ3daw0",
+                        "edit-time": 1632298968211,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      },
+                      {
+                        "string": "{{[[video]]: https://grain.co/highlight/NkzVPjnoX3P8gavWAVq9g00DiABYGCE1gWZIU63J}}",
+                        "create-time": 1632298909741,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "2h9V-FtAO"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "2h9V-FtAO"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "uid": "kV8kOH3eO",
+                        "edit-time": 1632298912966,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      },
+                      {
+                        "edit-time": 1632299052343,
+                        "children": [
+                          {
+                            "string": "{{[[video]]: https://grain.co/highlight/2xiEAKKj5It1deDSFzbwWMbm3JXLwqt0OdtzmQ53}}",
+                            "create-time": 1632299052336,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "uid": "0PXVlUsgU",
+                            "edit-time": 1632299055234,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          },
+                          {
+                            "string": "",
+                            "create-time": 1632299053654,
+                            "uid": "PWHzm82AB",
+                            "edit-time": 1632299053654,
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        "uid": "nb85Bv1J_",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        "string": "[[Example]]",
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "create-time": 1632299013848,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      },
+                      {
+                        "string": "",
+                        "create-time": 1632298897554,
+                        "uid": "7xpleSfUM",
+                        "edit-time": 1632298897554,
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      },
+                      {
+                        "uid": "OxyZMwZ2k"
+                      },
+                      {
+                        "uid": "6EY-dU_V-"
+                      }
+                    ],
+                    "uid": "xvf2uU6xD",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      },
+                      {
+                        ":block/uid": "OxyZMwZ2k"
+                      },
+                      {
+                        ":block/uid": "6EY-dU_V-"
+                      }
+                    ],
+                    "string": "[[Customization]] #[[End User Programming]] #[[Quality of Life Improvements]]",
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "create-time": 1632298893280,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "09-21-2021"
+                  }
+                ],
+                "uid": "6eVdFBDAC",
+                ":block/refs": [
+                  {
+                    ":block/uid": "09-21-2021"
+                  }
+                ],
+                "string": "[[September 21st, 2021]]",
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1632298887642,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
                 "edit-time": 1631955269875,
                 "children": [
                   {
@@ -73071,10 +73251,46 @@
     }
   },
   {
-    "create-time": 1632297683769,
+    "create-time": 1632298909753,
+    "title": "End User Programming",
+    "uid": "6EY-dU_V-",
+    "edit-time": 1632298909754,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "create-time": 1632298923676,
+    "title": "JSX",
+    "uid": "DmY0KcIr3",
+    "edit-time": 1632298923676,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "create-time": 1632298930657,
+    "title": "Javascript",
+    "uid": "uEDCUU5Ox",
+    "edit-time": 1632298930658,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "create-time": 1632301284680,
     "title": "Erik Newhard",
-    "uid": "6qGFRE6N6",
-    "edit-time": 1632297683769,
+    "uid": "BBfTpHN_N",
+    "edit-time": 1632301284680,
     ":create/user": {
       ":user/uid": "PlMA638w7gW6AT6b1H1VNYEIJK43"
     },
